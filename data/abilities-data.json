@@ -1,0 +1,7720 @@
+{
+    "stench": {
+        "id": 1,
+        "name": "stench",
+        "effect": "Has a 10% chance of making target Pokémon flinch with each hit.",
+        "pokemon_with_ability": [
+            {
+                "name": "gloom",
+                "id": 44
+            },
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
+    },
+    "drizzle": {
+        "id": 2,
+        "name": "drizzle",
+        "effect": "Summons rain that lasts indefinitely upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "politoed",
+                "id": 186
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            },
+            {
+                "name": "kyogre",
+                "id": 382
+            }
+        ]
+    },
+    "speed-boost": {
+        "id": 3,
+        "name": "speed-boost",
+        "effect": "Raises Speed one stage after each turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "torchic",
+                "id": 255
+            },
+            {
+                "name": "combusken",
+                "id": 256
+            },
+            {
+                "name": "ninjask",
+                "id": 291
+            },
+            {
+                "name": "carvanha",
+                "id": 318
+            },
+            {
+                "name": "sharpedo",
+                "id": 319
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            }
+        ]
+    },
+    "battle-armor": {
+        "id": 4,
+        "name": "battle-armor",
+        "effect": "Protects against critical hits.",
+        "pokemon_with_ability": [
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            },
+            {
+                "name": "kabuto",
+                "id": 140
+            },
+            {
+                "name": "kabutops",
+                "id": 141
+            },
+            {
+                "name": "anorith",
+                "id": 347
+            },
+            {
+                "name": "armaldo",
+                "id": 348
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            }
+        ]
+    },
+    "sturdy": {
+        "id": 5,
+        "name": "sturdy",
+        "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "sudowoodo",
+                "id": 185
+            },
+            {
+                "name": "pineco",
+                "id": 204
+            },
+            {
+                "name": "forretress",
+                "id": 205
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "donphan",
+                "id": 232
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "regirock",
+                "id": 377
+            },
+            {
+                "name": "shieldon",
+                "id": 410
+            },
+            {
+                "name": "bastiodon",
+                "id": 411
+            },
+            {
+                "name": "bonsly",
+                "id": 438
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            },
+            {
+                "name": "tirtouga",
+                "id": 564
+            },
+            {
+                "name": "carracosta",
+                "id": 565
+            }
+        ]
+    },
+    "damp": {
+        "id": 6,
+        "name": "damp",
+        "effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "psyduck",
+                "id": 54
+            },
+            {
+                "name": "golduck",
+                "id": 55
+            },
+            {
+                "name": "poliwag",
+                "id": 60
+            },
+            {
+                "name": "poliwhirl",
+                "id": 61
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "horsea",
+                "id": 116
+            },
+            {
+                "name": "seadra",
+                "id": 117
+            },
+            {
+                "name": "politoed",
+                "id": 186
+            },
+            {
+                "name": "wooper",
+                "id": 194
+            },
+            {
+                "name": "quagsire",
+                "id": 195
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "mudkip",
+                "id": 258
+            },
+            {
+                "name": "marshtomp",
+                "id": 259
+            },
+            {
+                "name": "swampert",
+                "id": 260
+            },
+            {
+                "name": "frillish",
+                "id": 592
+            },
+            {
+                "name": "jellicent",
+                "id": 593
+            }
+        ]
+    },
+    "limber": {
+        "id": 7,
+        "name": "limber",
+        "effect": "Prevents paralysis.",
+        "pokemon_with_ability": [
+            {
+                "name": "persian",
+                "id": 53
+            },
+            {
+                "name": "hitmonlee",
+                "id": 106
+            },
+            {
+                "name": "ditto",
+                "id": 132
+            },
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            },
+            {
+                "name": "glameow",
+                "id": 431
+            },
+            {
+                "name": "purrloin",
+                "id": 509
+            },
+            {
+                "name": "liepard",
+                "id": 510
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            }
+        ]
+    },
+    "sand-veil": {
+        "id": 8,
+        "name": "sand-veil",
+        "effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "sandshrew",
+                "id": 27
+            },
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "phanpy",
+                "id": 231
+            },
+            {
+                "name": "donphan",
+                "id": 232
+            },
+            {
+                "name": "larvitar",
+                "id": 246
+            },
+            {
+                "name": "cacnea",
+                "id": 331
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "gible",
+                "id": 443
+            },
+            {
+                "name": "gabite",
+                "id": 444
+            },
+            {
+                "name": "garchomp",
+                "id": 445
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            }
+        ]
+    },
+    "static": {
+        "id": 9,
+        "name": "static",
+        "effect": "Has a 30% chance of paralyzing attacking Pokémon on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "pikachu",
+                "id": 25
+            },
+            {
+                "name": "raichu",
+                "id": 26
+            },
+            {
+                "name": "voltorb",
+                "id": 100
+            },
+            {
+                "name": "electrode",
+                "id": 101
+            },
+            {
+                "name": "electabuzz",
+                "id": 125
+            },
+            {
+                "name": "zapdos",
+                "id": 145
+            },
+            {
+                "name": "pichu",
+                "id": 172
+            },
+            {
+                "name": "mareep",
+                "id": 179
+            },
+            {
+                "name": "flaaffy",
+                "id": 180
+            },
+            {
+                "name": "ampharos",
+                "id": 181
+            },
+            {
+                "name": "elekid",
+                "id": 239
+            },
+            {
+                "name": "electrike",
+                "id": 309
+            },
+            {
+                "name": "manectric",
+                "id": 310
+            },
+            {
+                "name": "emolga",
+                "id": 587
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            }
+        ]
+    },
+    "volt-absorb": {
+        "id": 10,
+        "name": "volt-absorb",
+        "effect": "Absorbs electric moves, healing for 1/4 max HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "jolteon",
+                "id": 135
+            },
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "minun",
+                "id": 312
+            },
+            {
+                "name": "pachirisu",
+                "id": 417
+            },
+            {
+                "name": "thundurus-therian",
+                "id": 10020
+            }
+        ]
+    },
+    "water-absorb": {
+        "id": 11,
+        "name": "water-absorb",
+        "effect": "Absorbs water moves, healing for 1/4 max HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "poliwag",
+                "id": 60
+            },
+            {
+                "name": "poliwhirl",
+                "id": 61
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "vaporeon",
+                "id": 134
+            },
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "politoed",
+                "id": 186
+            },
+            {
+                "name": "wooper",
+                "id": 194
+            },
+            {
+                "name": "quagsire",
+                "id": 195
+            },
+            {
+                "name": "mantine",
+                "id": 226
+            },
+            {
+                "name": "cacnea",
+                "id": 331
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "mantyke",
+                "id": 458
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "maractus",
+                "id": 556
+            },
+            {
+                "name": "frillish",
+                "id": 592
+            },
+            {
+                "name": "jellicent",
+                "id": 593
+            }
+        ]
+    },
+    "oblivious": {
+        "id": 12,
+        "name": "oblivious",
+        "effect": "Prevents infatuation and protects against captivate.",
+        "pokemon_with_ability": [
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "lickitung",
+                "id": 108
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "illumise",
+                "id": 314
+            },
+            {
+                "name": "wailmer",
+                "id": 320
+            },
+            {
+                "name": "wailord",
+                "id": 321
+            },
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "barboach",
+                "id": 339
+            },
+            {
+                "name": "whiscash",
+                "id": 340
+            },
+            {
+                "name": "feebas",
+                "id": 349
+            },
+            {
+                "name": "spheal",
+                "id": 363
+            },
+            {
+                "name": "sealeo",
+                "id": 364
+            },
+            {
+                "name": "walrein",
+                "id": 365
+            },
+            {
+                "name": "lickilicky",
+                "id": 463
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            }
+        ]
+    },
+    "cloud-nine": {
+        "id": 13,
+        "name": "cloud-nine",
+        "effect": "Negates all effects of weather, but does not prevent the weather itself.",
+        "pokemon_with_ability": [
+            {
+                "name": "psyduck",
+                "id": 54
+            },
+            {
+                "name": "golduck",
+                "id": 55
+            },
+            {
+                "name": "lickitung",
+                "id": 108
+            },
+            {
+                "name": "swablu",
+                "id": 333
+            },
+            {
+                "name": "altaria",
+                "id": 334
+            },
+            {
+                "name": "lickilicky",
+                "id": 463
+            }
+        ]
+    },
+    "compound-eyes": {
+        "id": 14,
+        "name": "compound-eyes",
+        "effect": "Increases moves' accuracy to 1.3×.",
+        "pokemon_with_ability": [
+            {
+                "name": "butterfree",
+                "id": 12
+            },
+            {
+                "name": "venonat",
+                "id": 48
+            },
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            },
+            {
+                "name": "nincada",
+                "id": 290
+            },
+            {
+                "name": "joltik",
+                "id": 595
+            },
+            {
+                "name": "galvantula",
+                "id": 596
+            }
+        ]
+    },
+    "insomnia": {
+        "id": 15,
+        "name": "insomnia",
+        "effect": "Prevents sleep.",
+        "pokemon_with_ability": [
+            {
+                "name": "drowzee",
+                "id": 96
+            },
+            {
+                "name": "hypno",
+                "id": 97
+            },
+            {
+                "name": "hoothoot",
+                "id": 163
+            },
+            {
+                "name": "noctowl",
+                "id": 164
+            },
+            {
+                "name": "spinarak",
+                "id": 167
+            },
+            {
+                "name": "ariados",
+                "id": 168
+            },
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "delibird",
+                "id": 225
+            },
+            {
+                "name": "shuppet",
+                "id": 353
+            },
+            {
+                "name": "banette",
+                "id": 354
+            },
+            {
+                "name": "honchkrow",
+                "id": 430
+            }
+        ]
+    },
+    "color-change": {
+        "id": 16,
+        "name": "color-change",
+        "effect": "Changes type to match when hit by a damaging move.",
+        "pokemon_with_ability": [
+            {
+                "name": "kecleon",
+                "id": 352
+            }
+        ]
+    },
+    "immunity": {
+        "id": 17,
+        "name": "immunity",
+        "effect": "Prevents poison.",
+        "pokemon_with_ability": [
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "zangoose",
+                "id": 335
+            }
+        ]
+    },
+    "flash-fire": {
+        "id": 18,
+        "name": "flash-fire",
+        "effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "vulpix",
+                "id": 37
+            },
+            {
+                "name": "ninetales",
+                "id": 38
+            },
+            {
+                "name": "growlithe",
+                "id": 58
+            },
+            {
+                "name": "arcanine",
+                "id": 59
+            },
+            {
+                "name": "ponyta",
+                "id": 77
+            },
+            {
+                "name": "rapidash",
+                "id": 78
+            },
+            {
+                "name": "flareon",
+                "id": 136
+            },
+            {
+                "name": "cyndaquil",
+                "id": 155
+            },
+            {
+                "name": "quilava",
+                "id": 156
+            },
+            {
+                "name": "typhlosion",
+                "id": 157
+            },
+            {
+                "name": "houndour",
+                "id": 228
+            },
+            {
+                "name": "houndoom",
+                "id": 229
+            },
+            {
+                "name": "heatran",
+                "id": 485
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            },
+            {
+                "name": "chandelure",
+                "id": 609
+            },
+            {
+                "name": "heatmor",
+                "id": 631
+            }
+        ]
+    },
+    "shield-dust": {
+        "id": 19,
+        "name": "shield-dust",
+        "effect": "Protects against incoming moves' extra effects.",
+        "pokemon_with_ability": [
+            {
+                "name": "caterpie",
+                "id": 10
+            },
+            {
+                "name": "weedle",
+                "id": 13
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "wurmple",
+                "id": 265
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            }
+        ]
+    },
+    "own-tempo": {
+        "id": 20,
+        "name": "own-tempo",
+        "effect": "Prevents confusion.",
+        "pokemon_with_ability": [
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "lickitung",
+                "id": 108
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "smeargle",
+                "id": 235
+            },
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            },
+            {
+                "name": "spinda",
+                "id": 327
+            },
+            {
+                "name": "glameow",
+                "id": 431
+            },
+            {
+                "name": "purugly",
+                "id": 432
+            },
+            {
+                "name": "lickilicky",
+                "id": 463
+            },
+            {
+                "name": "petilil",
+                "id": 548
+            },
+            {
+                "name": "lilligant",
+                "id": 549
+            }
+        ]
+    },
+    "suction-cups": {
+        "id": 21,
+        "name": "suction-cups",
+        "effect": "Prevents being forced out of battle by other Pokémon's moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "octillery",
+                "id": 224
+            },
+            {
+                "name": "lileep",
+                "id": 345
+            },
+            {
+                "name": "cradily",
+                "id": 346
+            }
+        ]
+    },
+    "intimidate": {
+        "id": 22,
+        "name": "intimidate",
+        "effect": "Lowers opponents' Attack one stage upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "ekans",
+                "id": 23
+            },
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "growlithe",
+                "id": 58
+            },
+            {
+                "name": "arcanine",
+                "id": 59
+            },
+            {
+                "name": "tauros",
+                "id": 128
+            },
+            {
+                "name": "gyarados",
+                "id": 130
+            },
+            {
+                "name": "snubbull",
+                "id": 209
+            },
+            {
+                "name": "granbull",
+                "id": 210
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "stantler",
+                "id": 234
+            },
+            {
+                "name": "hitmontop",
+                "id": 237
+            },
+            {
+                "name": "mightyena",
+                "id": 262
+            },
+            {
+                "name": "masquerain",
+                "id": 284
+            },
+            {
+                "name": "mawile",
+                "id": 303
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            },
+            {
+                "name": "staravia",
+                "id": 397
+            },
+            {
+                "name": "staraptor",
+                "id": 398
+            },
+            {
+                "name": "shinx",
+                "id": 403
+            },
+            {
+                "name": "luxio",
+                "id": 404
+            },
+            {
+                "name": "luxray",
+                "id": 405
+            },
+            {
+                "name": "herdier",
+                "id": 507
+            },
+            {
+                "name": "stoutland",
+                "id": 508
+            },
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            },
+            {
+                "name": "landorus-therian",
+                "id": 10021
+            }
+        ]
+    },
+    "shadow-tag": {
+        "id": 23,
+        "name": "shadow-tag",
+        "effect": "Prevents opponents from fleeing or switching out.",
+        "pokemon_with_ability": [
+            {
+                "name": "wobbuffet",
+                "id": 202
+            },
+            {
+                "name": "wynaut",
+                "id": 360
+            },
+            {
+                "name": "gothita",
+                "id": 574
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            }
+        ]
+    },
+    "rough-skin": {
+        "id": 24,
+        "name": "rough-skin",
+        "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "carvanha",
+                "id": 318
+            },
+            {
+                "name": "sharpedo",
+                "id": 319
+            },
+            {
+                "name": "gible",
+                "id": 443
+            },
+            {
+                "name": "gabite",
+                "id": 444
+            },
+            {
+                "name": "garchomp",
+                "id": 445
+            },
+            {
+                "name": "druddigon",
+                "id": 621
+            }
+        ]
+    },
+    "wonder-guard": {
+        "id": 25,
+        "name": "wonder-guard",
+        "effect": "Protects against damaging moves that are not super effective.",
+        "pokemon_with_ability": [
+            {
+                "name": "shedinja",
+                "id": 292
+            }
+        ]
+    },
+    "levitate": {
+        "id": 26,
+        "name": "levitate",
+        "effect": "Evades ground moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "gastly",
+                "id": 92
+            },
+            {
+                "name": "haunter",
+                "id": 93
+            },
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            },
+            {
+                "name": "misdreavus",
+                "id": 200
+            },
+            {
+                "name": "unown",
+                "id": 201
+            },
+            {
+                "name": "vibrava",
+                "id": 329
+            },
+            {
+                "name": "flygon",
+                "id": 330
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            },
+            {
+                "name": "baltoy",
+                "id": 343
+            },
+            {
+                "name": "claydol",
+                "id": 344
+            },
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "chimecho",
+                "id": 358
+            },
+            {
+                "name": "latias",
+                "id": 380
+            },
+            {
+                "name": "latios",
+                "id": 381
+            },
+            {
+                "name": "mismagius",
+                "id": 429
+            },
+            {
+                "name": "chingling",
+                "id": 433
+            },
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            },
+            {
+                "name": "carnivine",
+                "id": 455
+            },
+            {
+                "name": "rotom",
+                "id": 479
+            },
+            {
+                "name": "rotom-heat",
+                "id": 10008
+            },
+            {
+                "name": "rotom-wash",
+                "id": 10009
+            },
+            {
+                "name": "rotom-frost",
+                "id": 10010
+            },
+            {
+                "name": "rotom-fan",
+                "id": 10011
+            },
+            {
+                "name": "rotom-mow",
+                "id": 10012
+            },
+            {
+                "name": "uxie",
+                "id": 480
+            },
+            {
+                "name": "mesprit",
+                "id": 481
+            },
+            {
+                "name": "azelf",
+                "id": 482
+            },
+            {
+                "name": "giratina-origin",
+                "id": 10007
+            },
+            {
+                "name": "cresselia",
+                "id": 488
+            },
+            {
+                "name": "tynamo",
+                "id": 602
+            },
+            {
+                "name": "eelektrik",
+                "id": 603
+            },
+            {
+                "name": "eelektross",
+                "id": 604
+            },
+            {
+                "name": "cryogonal",
+                "id": 615
+            },
+            {
+                "name": "hydreigon",
+                "id": 635
+            }
+        ]
+    },
+    "effect-spore": {
+        "id": 27,
+        "name": "effect-spore",
+        "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "vileplume",
+                "id": 45
+            },
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            }
+        ]
+    },
+    "synchronize": {
+        "id": 28,
+        "name": "synchronize",
+        "effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
+        "pokemon_with_ability": [
+            {
+                "name": "abra",
+                "id": 63
+            },
+            {
+                "name": "kadabra",
+                "id": 64
+            },
+            {
+                "name": "alakazam",
+                "id": 65
+            },
+            {
+                "name": "mew",
+                "id": 151
+            },
+            {
+                "name": "natu",
+                "id": 177
+            },
+            {
+                "name": "xatu",
+                "id": 178
+            },
+            {
+                "name": "espeon",
+                "id": 196
+            },
+            {
+                "name": "umbreon",
+                "id": 197
+            },
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "gardevoir",
+                "id": 282
+            },
+            {
+                "name": "munna",
+                "id": 517
+            },
+            {
+                "name": "musharna",
+                "id": 518
+            },
+            {
+                "name": "elgyem",
+                "id": 605
+            },
+            {
+                "name": "beheeyem",
+                "id": 606
+            }
+        ]
+    },
+    "clear-body": {
+        "id": 29,
+        "name": "clear-body",
+        "effect": "Prevents stats from being lowered by other Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "beldum",
+                "id": 374
+            },
+            {
+                "name": "metang",
+                "id": 375
+            },
+            {
+                "name": "metagross",
+                "id": 376
+            },
+            {
+                "name": "regirock",
+                "id": 377
+            },
+            {
+                "name": "regice",
+                "id": 378
+            },
+            {
+                "name": "registeel",
+                "id": 379
+            },
+            {
+                "name": "klink",
+                "id": 599
+            },
+            {
+                "name": "klang",
+                "id": 600
+            },
+            {
+                "name": "klinklang",
+                "id": 601
+            }
+        ]
+    },
+    "natural-cure": {
+        "id": 30,
+        "name": "natural-cure",
+        "effect": "Cures any major status ailment upon switching out.",
+        "pokemon_with_ability": [
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "celebi",
+                "id": 251
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "swablu",
+                "id": 333
+            },
+            {
+                "name": "altaria",
+                "id": 334
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            },
+            {
+                "name": "shaymin-land",
+                "id": 492
+            }
+        ]
+    },
+    "lightning-rod": {
+        "id": 31,
+        "name": "lightning-rod",
+        "effect": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "pikachu",
+                "id": 25
+            },
+            {
+                "name": "raichu",
+                "id": 26
+            },
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            },
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "goldeen",
+                "id": 118
+            },
+            {
+                "name": "seaking",
+                "id": 119
+            },
+            {
+                "name": "pichu",
+                "id": 172
+            },
+            {
+                "name": "electrike",
+                "id": 309
+            },
+            {
+                "name": "manectric",
+                "id": 310
+            },
+            {
+                "name": "plusle",
+                "id": 311
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            },
+            {
+                "name": "blitzle",
+                "id": 522
+            },
+            {
+                "name": "zebstrika",
+                "id": 523
+            }
+        ]
+    },
+    "serene-grace": {
+        "id": 32,
+        "name": "serene-grace",
+        "effect": "Doubles the chance of moves' extra effects occurring.",
+        "pokemon_with_ability": [
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "togepi",
+                "id": 175
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "dunsparce",
+                "id": 206
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "jirachi",
+                "id": 385
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            },
+            {
+                "name": "togekiss",
+                "id": 468
+            },
+            {
+                "name": "shaymin-sky",
+                "id": 10006
+            },
+            {
+                "name": "deerling",
+                "id": 585
+            },
+            {
+                "name": "sawsbuck",
+                "id": 586
+            },
+            {
+                "name": "meloetta-aria",
+                "id": 648
+            },
+            {
+                "name": "meloetta-pirouette",
+                "id": 10018
+            }
+        ]
+    },
+    "swift-swim": {
+        "id": 33,
+        "name": "swift-swim",
+        "effect": "Doubles Speed during rain.",
+        "pokemon_with_ability": [
+            {
+                "name": "psyduck",
+                "id": 54
+            },
+            {
+                "name": "golduck",
+                "id": 55
+            },
+            {
+                "name": "poliwag",
+                "id": 60
+            },
+            {
+                "name": "poliwhirl",
+                "id": 61
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "horsea",
+                "id": 116
+            },
+            {
+                "name": "goldeen",
+                "id": 118
+            },
+            {
+                "name": "seaking",
+                "id": 119
+            },
+            {
+                "name": "magikarp",
+                "id": 129
+            },
+            {
+                "name": "omanyte",
+                "id": 138
+            },
+            {
+                "name": "omastar",
+                "id": 139
+            },
+            {
+                "name": "kabuto",
+                "id": 140
+            },
+            {
+                "name": "kabutops",
+                "id": 141
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "mantine",
+                "id": 226
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "surskit",
+                "id": 283
+            },
+            {
+                "name": "anorith",
+                "id": 347
+            },
+            {
+                "name": "armaldo",
+                "id": 348
+            },
+            {
+                "name": "feebas",
+                "id": 349
+            },
+            {
+                "name": "huntail",
+                "id": 367
+            },
+            {
+                "name": "gorebyss",
+                "id": 368
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "luvdisc",
+                "id": 370
+            },
+            {
+                "name": "buizel",
+                "id": 418
+            },
+            {
+                "name": "floatzel",
+                "id": 419
+            },
+            {
+                "name": "finneon",
+                "id": 456
+            },
+            {
+                "name": "lumineon",
+                "id": 457
+            },
+            {
+                "name": "mantyke",
+                "id": 458
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "tirtouga",
+                "id": 564
+            },
+            {
+                "name": "carracosta",
+                "id": 565
+            },
+            {
+                "name": "beartic",
+                "id": 614
+            }
+        ]
+    },
+    "chlorophyll": {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect": "Doubles Speed during strong sunlight.",
+        "pokemon_with_ability": [
+            {
+                "name": "bulbasaur",
+                "id": 1
+            },
+            {
+                "name": "ivysaur",
+                "id": 2
+            },
+            {
+                "name": "venusaur",
+                "id": 3
+            },
+            {
+                "name": "oddish",
+                "id": 43
+            },
+            {
+                "name": "gloom",
+                "id": 44
+            },
+            {
+                "name": "vileplume",
+                "id": 45
+            },
+            {
+                "name": "bellsprout",
+                "id": 69
+            },
+            {
+                "name": "weepinbell",
+                "id": 70
+            },
+            {
+                "name": "victreebel",
+                "id": 71
+            },
+            {
+                "name": "exeggcute",
+                "id": 102
+            },
+            {
+                "name": "exeggutor",
+                "id": 103
+            },
+            {
+                "name": "tangela",
+                "id": 114
+            },
+            {
+                "name": "bellossom",
+                "id": 182
+            },
+            {
+                "name": "hoppip",
+                "id": 187
+            },
+            {
+                "name": "skiploom",
+                "id": 188
+            },
+            {
+                "name": "jumpluff",
+                "id": 189
+            },
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "sunflora",
+                "id": 192
+            },
+            {
+                "name": "seedot",
+                "id": 273
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            },
+            {
+                "name": "shiftry",
+                "id": 275
+            },
+            {
+                "name": "tropius",
+                "id": 357
+            },
+            {
+                "name": "cherubi",
+                "id": 420
+            },
+            {
+                "name": "tangrowth",
+                "id": 465
+            },
+            {
+                "name": "leafeon",
+                "id": 470
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            },
+            {
+                "name": "cottonee",
+                "id": 546
+            },
+            {
+                "name": "whimsicott",
+                "id": 547
+            },
+            {
+                "name": "petilil",
+                "id": 548
+            },
+            {
+                "name": "lilligant",
+                "id": 549
+            },
+            {
+                "name": "maractus",
+                "id": 556
+            },
+            {
+                "name": "deerling",
+                "id": 585
+            },
+            {
+                "name": "sawsbuck",
+                "id": 586
+            }
+        ]
+    },
+    "illuminate": {
+        "id": 35,
+        "name": "illuminate",
+        "effect": "Doubles the wild encounter rate.",
+        "pokemon_with_ability": [
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "volbeat",
+                "id": 313
+            },
+            {
+                "name": "watchog",
+                "id": 505
+            }
+        ]
+    },
+    "trace": {
+        "id": 36,
+        "name": "trace",
+        "effect": "Copies an opponent's ability upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "porygon",
+                "id": 137
+            },
+            {
+                "name": "porygon2",
+                "id": 233
+            },
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "gardevoir",
+                "id": 282
+            }
+        ]
+    },
+    "huge-power": {
+        "id": 37,
+        "name": "huge-power",
+        "effect": "Doubles Attack in battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "marill",
+                "id": 183
+            },
+            {
+                "name": "azumarill",
+                "id": 184
+            },
+            {
+                "name": "azurill",
+                "id": 298
+            }
+        ]
+    },
+    "poison-point": {
+        "id": 38,
+        "name": "poison-point",
+        "effect": "Has a 30% chance of poisoning attacking Pokémon on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "nidoran-f",
+                "id": 29
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
+            },
+            {
+                "name": "nidoran-m",
+                "id": 32
+            },
+            {
+                "name": "nidorino",
+                "id": 33
+            },
+            {
+                "name": "nidoking",
+                "id": 34
+            },
+            {
+                "name": "seadra",
+                "id": 117
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            }
+        ]
+    },
+    "inner-focus": {
+        "id": 39,
+        "name": "inner-focus",
+        "effect": "Prevents flinching.",
+        "pokemon_with_ability": [
+            {
+                "name": "zubat",
+                "id": 41
+            },
+            {
+                "name": "golbat",
+                "id": 42
+            },
+            {
+                "name": "abra",
+                "id": 63
+            },
+            {
+                "name": "kadabra",
+                "id": 64
+            },
+            {
+                "name": "alakazam",
+                "id": 65
+            },
+            {
+                "name": "farfetchd",
+                "id": 83
+            },
+            {
+                "name": "drowzee",
+                "id": 96
+            },
+            {
+                "name": "hypno",
+                "id": 97
+            },
+            {
+                "name": "hitmonchan",
+                "id": 107
+            },
+            {
+                "name": "kangaskhan",
+                "id": 115
+            },
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "crobat",
+                "id": 169
+            },
+            {
+                "name": "umbreon",
+                "id": 197
+            },
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "raikou",
+                "id": 243
+            },
+            {
+                "name": "entei",
+                "id": 244
+            },
+            {
+                "name": "suicune",
+                "id": 245
+            },
+            {
+                "name": "snorunt",
+                "id": 361
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "riolu",
+                "id": 447
+            },
+            {
+                "name": "lucario",
+                "id": 448
+            },
+            {
+                "name": "throh",
+                "id": 538
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            },
+            {
+                "name": "darumaka",
+                "id": 554
+            },
+            {
+                "name": "mienfoo",
+                "id": 619
+            },
+            {
+                "name": "mienshao",
+                "id": 620
+            },
+            {
+                "name": "pawniard",
+                "id": 624
+            },
+            {
+                "name": "bisharp",
+                "id": 625
+            }
+        ]
+    },
+    "magma-armor": {
+        "id": 40,
+        "name": "magma-armor",
+        "effect": "Prevents freezing.",
+        "pokemon_with_ability": [
+            {
+                "name": "slugma",
+                "id": 218
+            },
+            {
+                "name": "magcargo",
+                "id": 219
+            },
+            {
+                "name": "camerupt",
+                "id": 323
+            }
+        ]
+    },
+    "water-veil": {
+        "id": 41,
+        "name": "water-veil",
+        "effect": "Prevents burns.",
+        "pokemon_with_ability": [
+            {
+                "name": "goldeen",
+                "id": 118
+            },
+            {
+                "name": "seaking",
+                "id": 119
+            },
+            {
+                "name": "mantine",
+                "id": 226
+            },
+            {
+                "name": "wailmer",
+                "id": 320
+            },
+            {
+                "name": "wailord",
+                "id": 321
+            },
+            {
+                "name": "huntail",
+                "id": 367
+            },
+            {
+                "name": "buizel",
+                "id": 418
+            },
+            {
+                "name": "floatzel",
+                "id": 419
+            },
+            {
+                "name": "finneon",
+                "id": 456
+            },
+            {
+                "name": "lumineon",
+                "id": 457
+            },
+            {
+                "name": "mantyke",
+                "id": 458
+            }
+        ]
+    },
+    "magnet-pull": {
+        "id": 42,
+        "name": "magnet-pull",
+        "effect": "Prevents steel opponents from fleeing or switching out.",
+        "pokemon_with_ability": [
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            }
+        ]
+    },
+    "soundproof": {
+        "id": 43,
+        "name": "soundproof",
+        "effect": "Protects against sound-based moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "voltorb",
+                "id": 100
+            },
+            {
+                "name": "electrode",
+                "id": 101
+            },
+            {
+                "name": "mr-mime",
+                "id": 122
+            },
+            {
+                "name": "whismur",
+                "id": 293
+            },
+            {
+                "name": "loudred",
+                "id": 294
+            },
+            {
+                "name": "exploud",
+                "id": 295
+            },
+            {
+                "name": "shieldon",
+                "id": 410
+            },
+            {
+                "name": "bastiodon",
+                "id": 411
+            },
+            {
+                "name": "mime-jr",
+                "id": 439
+            },
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "bouffalant",
+                "id": 626
+            }
+        ]
+    },
+    "rain-dish": {
+        "id": 44,
+        "name": "rain-dish",
+        "effect": "Heals for 1/16 max HP after each turn during rain.",
+        "pokemon_with_ability": [
+            {
+                "name": "squirtle",
+                "id": 7
+            },
+            {
+                "name": "wartortle",
+                "id": 8
+            },
+            {
+                "name": "blastoise",
+                "id": 9
+            },
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            },
+            {
+                "name": "surskit",
+                "id": 283
+            }
+        ]
+    },
+    "sand-stream": {
+        "id": 45,
+        "name": "sand-stream",
+        "effect": "Summons a sandstorm that lasts indefinitely upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "tyranitar",
+                "id": 248
+            },
+            {
+                "name": "hippopotas",
+                "id": 449
+            },
+            {
+                "name": "hippowdon",
+                "id": 450
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            }
+        ]
+    },
+    "pressure": {
+        "id": 46,
+        "name": "pressure",
+        "effect": "Increases the PP cost of moves targetting the Pokémon by one.",
+        "pokemon_with_ability": [
+            {
+                "name": "aerodactyl",
+                "id": 142
+            },
+            {
+                "name": "articuno",
+                "id": 144
+            },
+            {
+                "name": "zapdos",
+                "id": 145
+            },
+            {
+                "name": "moltres",
+                "id": 146
+            },
+            {
+                "name": "mewtwo",
+                "id": 150
+            },
+            {
+                "name": "raikou",
+                "id": 243
+            },
+            {
+                "name": "entei",
+                "id": 244
+            },
+            {
+                "name": "suicune",
+                "id": 245
+            },
+            {
+                "name": "lugia",
+                "id": 249
+            },
+            {
+                "name": "ho-oh",
+                "id": 250
+            },
+            {
+                "name": "wailmer",
+                "id": 320
+            },
+            {
+                "name": "wailord",
+                "id": 321
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "absol",
+                "id": 359
+            },
+            {
+                "name": "deoxys-normal",
+                "id": 386
+            },
+            {
+                "name": "deoxys-attack",
+                "id": 10001
+            },
+            {
+                "name": "deoxys-defense",
+                "id": 10002
+            },
+            {
+                "name": "deoxys-speed",
+                "id": 10003
+            },
+            {
+                "name": "vespiquen",
+                "id": 416
+            },
+            {
+                "name": "spiritomb",
+                "id": 442
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            },
+            {
+                "name": "dialga",
+                "id": 483
+            },
+            {
+                "name": "palkia",
+                "id": 484
+            },
+            {
+                "name": "giratina-altered",
+                "id": 487
+            },
+            {
+                "name": "pawniard",
+                "id": 624
+            },
+            {
+                "name": "bisharp",
+                "id": 625
+            },
+            {
+                "name": "kyurem",
+                "id": 646
+            }
+        ]
+    },
+    "thick-fat": {
+        "id": 47,
+        "name": "thick-fat",
+        "effect": "Halves damage from fire and ice moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "seel",
+                "id": 86
+            },
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "marill",
+                "id": 183
+            },
+            {
+                "name": "azumarill",
+                "id": 184
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "miltank",
+                "id": 241
+            },
+            {
+                "name": "makuhita",
+                "id": 296
+            },
+            {
+                "name": "hariyama",
+                "id": 297
+            },
+            {
+                "name": "azurill",
+                "id": 298
+            },
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            },
+            {
+                "name": "spheal",
+                "id": 363
+            },
+            {
+                "name": "sealeo",
+                "id": 364
+            },
+            {
+                "name": "walrein",
+                "id": 365
+            },
+            {
+                "name": "purugly",
+                "id": 432
+            },
+            {
+                "name": "munchlax",
+                "id": 446
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "tepig",
+                "id": 498
+            },
+            {
+                "name": "pignite",
+                "id": 499
+            }
+        ]
+    },
+    "early-bird": {
+        "id": 48,
+        "name": "early-bird",
+        "effect": "Makes sleep pass twice as quickly.",
+        "pokemon_with_ability": [
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "kangaskhan",
+                "id": 115
+            },
+            {
+                "name": "ledyba",
+                "id": 165
+            },
+            {
+                "name": "ledian",
+                "id": 166
+            },
+            {
+                "name": "natu",
+                "id": 177
+            },
+            {
+                "name": "xatu",
+                "id": 178
+            },
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "sunflora",
+                "id": 192
+            },
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "houndour",
+                "id": 228
+            },
+            {
+                "name": "houndoom",
+                "id": 229
+            },
+            {
+                "name": "seedot",
+                "id": 273
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            }
+        ]
+    },
+    "flame-body": {
+        "id": 49,
+        "name": "flame-body",
+        "effect": "Has a 30% chance of burning attacking Pokémon on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "ponyta",
+                "id": 77
+            },
+            {
+                "name": "rapidash",
+                "id": 78
+            },
+            {
+                "name": "magmar",
+                "id": 126
+            },
+            {
+                "name": "moltres",
+                "id": 146
+            },
+            {
+                "name": "slugma",
+                "id": 218
+            },
+            {
+                "name": "magcargo",
+                "id": 219
+            },
+            {
+                "name": "magby",
+                "id": 240
+            },
+            {
+                "name": "magmortar",
+                "id": 467
+            },
+            {
+                "name": "heatran",
+                "id": 485
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            },
+            {
+                "name": "chandelure",
+                "id": 609
+            },
+            {
+                "name": "larvesta",
+                "id": 636
+            },
+            {
+                "name": "volcarona",
+                "id": 637
+            }
+        ]
+    },
+    "run-away": {
+        "id": 50,
+        "name": "run-away",
+        "effect": "Ensures success fleeing from wild battles.",
+        "pokemon_with_ability": [
+            {
+                "name": "caterpie",
+                "id": 10
+            },
+            {
+                "name": "weedle",
+                "id": 13
+            },
+            {
+                "name": "rattata",
+                "id": 19
+            },
+            {
+                "name": "raticate",
+                "id": 20
+            },
+            {
+                "name": "oddish",
+                "id": 43
+            },
+            {
+                "name": "venonat",
+                "id": 48
+            },
+            {
+                "name": "ponyta",
+                "id": 77
+            },
+            {
+                "name": "rapidash",
+                "id": 78
+            },
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "eevee",
+                "id": 133
+            },
+            {
+                "name": "sentret",
+                "id": 161
+            },
+            {
+                "name": "furret",
+                "id": 162
+            },
+            {
+                "name": "aipom",
+                "id": 190
+            },
+            {
+                "name": "dunsparce",
+                "id": 206
+            },
+            {
+                "name": "snubbull",
+                "id": 209
+            },
+            {
+                "name": "poochyena",
+                "id": 261
+            },
+            {
+                "name": "wurmple",
+                "id": 265
+            },
+            {
+                "name": "nincada",
+                "id": 290
+            },
+            {
+                "name": "kricketot",
+                "id": 401
+            },
+            {
+                "name": "pachirisu",
+                "id": 417
+            },
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "patrat",
+                "id": 504
+            },
+            {
+                "name": "lillipup",
+                "id": 506
+            }
+        ]
+    },
+    "keen-eye": {
+        "id": 51,
+        "name": "keen-eye",
+        "effect": "Prevents accuracy from being lowered.",
+        "pokemon_with_ability": [
+            {
+                "name": "pidgey",
+                "id": 16
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17
+            },
+            {
+                "name": "pidgeot",
+                "id": 18
+            },
+            {
+                "name": "spearow",
+                "id": 21
+            },
+            {
+                "name": "fearow",
+                "id": 22
+            },
+            {
+                "name": "farfetchd",
+                "id": 83
+            },
+            {
+                "name": "hitmonchan",
+                "id": 107
+            },
+            {
+                "name": "sentret",
+                "id": 161
+            },
+            {
+                "name": "furret",
+                "id": 162
+            },
+            {
+                "name": "hoothoot",
+                "id": 163
+            },
+            {
+                "name": "noctowl",
+                "id": 164
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            },
+            {
+                "name": "sableye",
+                "id": 302
+            },
+            {
+                "name": "starly",
+                "id": 396
+            },
+            {
+                "name": "glameow",
+                "id": 431
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            },
+            {
+                "name": "patrat",
+                "id": 504
+            },
+            {
+                "name": "watchog",
+                "id": 505
+            },
+            {
+                "name": "ducklett",
+                "id": 580
+            },
+            {
+                "name": "swanna",
+                "id": 581
+            },
+            {
+                "name": "rufflet",
+                "id": 627
+            },
+            {
+                "name": "braviary",
+                "id": 628
+            }
+        ]
+    },
+    "hyper-cutter": {
+        "id": 52,
+        "name": "hyper-cutter",
+        "effect": "Prevents Attack from being lowered by other Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "krabby",
+                "id": 98
+            },
+            {
+                "name": "kingler",
+                "id": 99
+            },
+            {
+                "name": "pinsir",
+                "id": 127
+            },
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "mawile",
+                "id": 303
+            },
+            {
+                "name": "trapinch",
+                "id": 328
+            },
+            {
+                "name": "corphish",
+                "id": 341
+            },
+            {
+                "name": "crawdaunt",
+                "id": 342
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            }
+        ]
+    },
+    "pickup": {
+        "id": 53,
+        "name": "pickup",
+        "effect": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "meowth",
+                "id": 52
+            },
+            {
+                "name": "aipom",
+                "id": 190
+            },
+            {
+                "name": "teddiursa",
+                "id": 216
+            },
+            {
+                "name": "phanpy",
+                "id": 231
+            },
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            },
+            {
+                "name": "pachirisu",
+                "id": 417
+            },
+            {
+                "name": "ambipom",
+                "id": 424
+            },
+            {
+                "name": "munchlax",
+                "id": 446
+            },
+            {
+                "name": "lillipup",
+                "id": 506
+            }
+        ]
+    },
+    "truant": {
+        "id": 54,
+        "name": "truant",
+        "effect": "Skips every second turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "slakoth",
+                "id": 287
+            },
+            {
+                "name": "slaking",
+                "id": 289
+            },
+            {
+                "name": "durant",
+                "id": 632
+            }
+        ]
+    },
+    "hustle": {
+        "id": 55,
+        "name": "hustle",
+        "effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.",
+        "pokemon_with_ability": [
+            {
+                "name": "rattata",
+                "id": 19
+            },
+            {
+                "name": "raticate",
+                "id": 20
+            },
+            {
+                "name": "nidoran-f",
+                "id": 29
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoran-m",
+                "id": 32
+            },
+            {
+                "name": "nidorino",
+                "id": 33
+            },
+            {
+                "name": "togepi",
+                "id": 175
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "remoraid",
+                "id": 223
+            },
+            {
+                "name": "delibird",
+                "id": 225
+            },
+            {
+                "name": "combee",
+                "id": 415
+            },
+            {
+                "name": "togekiss",
+                "id": 468
+            },
+            {
+                "name": "darumaka",
+                "id": 554
+            },
+            {
+                "name": "rufflet",
+                "id": 627
+            },
+            {
+                "name": "durant",
+                "id": 632
+            },
+            {
+                "name": "deino",
+                "id": 633
+            },
+            {
+                "name": "zweilous",
+                "id": 634
+            }
+        ]
+    },
+    "cute-charm": {
+        "id": 56,
+        "name": "cute-charm",
+        "effect": "Has a 30% chance of infatuating attacking Pokémon on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "wigglytuff",
+                "id": 40
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "igglybuff",
+                "id": 174
+            },
+            {
+                "name": "skitty",
+                "id": 300
+            },
+            {
+                "name": "delcatty",
+                "id": 301
+            },
+            {
+                "name": "milotic",
+                "id": 350
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            },
+            {
+                "name": "cinccino",
+                "id": 573
+            }
+        ]
+    },
+    "plus": {
+        "id": 57,
+        "name": "plus",
+        "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
+        "pokemon_with_ability": [
+            {
+                "name": "mareep",
+                "id": 179
+            },
+            {
+                "name": "flaaffy",
+                "id": 180
+            },
+            {
+                "name": "ampharos",
+                "id": 181
+            },
+            {
+                "name": "plusle",
+                "id": 311
+            },
+            {
+                "name": "klink",
+                "id": 599
+            },
+            {
+                "name": "klang",
+                "id": 600
+            },
+            {
+                "name": "klinklang",
+                "id": 601
+            }
+        ]
+    },
+    "minus": {
+        "id": 58,
+        "name": "minus",
+        "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
+        "pokemon_with_ability": [
+            {
+                "name": "electrike",
+                "id": 309
+            },
+            {
+                "name": "manectric",
+                "id": 310
+            },
+            {
+                "name": "minun",
+                "id": 312
+            },
+            {
+                "name": "klink",
+                "id": 599
+            },
+            {
+                "name": "klang",
+                "id": 600
+            },
+            {
+                "name": "klinklang",
+                "id": 601
+            }
+        ]
+    },
+    "forecast": {
+        "id": 59,
+        "name": "forecast",
+        "effect": "Changes castform's type and form to match the weather.",
+        "pokemon_with_ability": [
+            {
+                "name": "castform",
+                "id": 351
+            },
+            {
+                "name": "castform-sunny",
+                "id": 10013
+            },
+            {
+                "name": "castform-rainy",
+                "id": 10014
+            },
+            {
+                "name": "castform-snowy",
+                "id": 10015
+            }
+        ]
+    },
+    "sticky-hold": {
+        "id": 60,
+        "name": "sticky-hold",
+        "effect": "Prevents a held item from being removed by other Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            },
+            {
+                "name": "shellos",
+                "id": 422
+            },
+            {
+                "name": "gastrodon",
+                "id": 423
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "accelgor",
+                "id": 617
+            }
+        ]
+    },
+    "shed-skin": {
+        "id": 61,
+        "name": "shed-skin",
+        "effect": "Has a 33% chance of curing any major status ailment after each turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "metapod",
+                "id": 11
+            },
+            {
+                "name": "kakuna",
+                "id": 14
+            },
+            {
+                "name": "ekans",
+                "id": 23
+            },
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "dratini",
+                "id": 147
+            },
+            {
+                "name": "dragonair",
+                "id": 148
+            },
+            {
+                "name": "pupitar",
+                "id": 247
+            },
+            {
+                "name": "silcoon",
+                "id": 266
+            },
+            {
+                "name": "cascoon",
+                "id": 268
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "kricketot",
+                "id": 401
+            },
+            {
+                "name": "burmy",
+                "id": 412
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            },
+            {
+                "name": "karrablast",
+                "id": 588
+            }
+        ]
+    },
+    "guts": {
+        "id": 62,
+        "name": "guts",
+        "effect": "Increases Attack to 1.5× with a major status ailment.",
+        "pokemon_with_ability": [
+            {
+                "name": "rattata",
+                "id": 19
+            },
+            {
+                "name": "raticate",
+                "id": 20
+            },
+            {
+                "name": "machop",
+                "id": 66
+            },
+            {
+                "name": "machoke",
+                "id": 67
+            },
+            {
+                "name": "machamp",
+                "id": 68
+            },
+            {
+                "name": "flareon",
+                "id": 136
+            },
+            {
+                "name": "heracross",
+                "id": 214
+            },
+            {
+                "name": "ursaring",
+                "id": 217
+            },
+            {
+                "name": "tyrogue",
+                "id": 236
+            },
+            {
+                "name": "larvitar",
+                "id": 246
+            },
+            {
+                "name": "taillow",
+                "id": 276
+            },
+            {
+                "name": "swellow",
+                "id": 277
+            },
+            {
+                "name": "makuhita",
+                "id": 296
+            },
+            {
+                "name": "hariyama",
+                "id": 297
+            },
+            {
+                "name": "shinx",
+                "id": 403
+            },
+            {
+                "name": "luxio",
+                "id": 404
+            },
+            {
+                "name": "luxray",
+                "id": 405
+            },
+            {
+                "name": "timburr",
+                "id": 532
+            },
+            {
+                "name": "gurdurr",
+                "id": 533
+            },
+            {
+                "name": "conkeldurr",
+                "id": 534
+            },
+            {
+                "name": "throh",
+                "id": 538
+            }
+        ]
+    },
+    "marvel-scale": {
+        "id": 63,
+        "name": "marvel-scale",
+        "effect": "Increases Defense to 1.5× with a major status ailment.",
+        "pokemon_with_ability": [
+            {
+                "name": "dratini",
+                "id": 147
+            },
+            {
+                "name": "dragonair",
+                "id": 148
+            },
+            {
+                "name": "milotic",
+                "id": 350
+            }
+        ]
+    },
+    "liquid-ooze": {
+        "id": 64,
+        "name": "liquid-ooze",
+        "effect": "Damages opponents using leeching moves for as much as they would heal.",
+        "pokemon_with_ability": [
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            }
+        ]
+    },
+    "overgrow": {
+        "id": 65,
+        "name": "overgrow",
+        "effect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "pokemon_with_ability": [
+            {
+                "name": "bulbasaur",
+                "id": 1
+            },
+            {
+                "name": "ivysaur",
+                "id": 2
+            },
+            {
+                "name": "venusaur",
+                "id": 3
+            },
+            {
+                "name": "chikorita",
+                "id": 152
+            },
+            {
+                "name": "bayleef",
+                "id": 153
+            },
+            {
+                "name": "meganium",
+                "id": 154
+            },
+            {
+                "name": "treecko",
+                "id": 252
+            },
+            {
+                "name": "grovyle",
+                "id": 253
+            },
+            {
+                "name": "sceptile",
+                "id": 254
+            },
+            {
+                "name": "turtwig",
+                "id": 387
+            },
+            {
+                "name": "grotle",
+                "id": 388
+            },
+            {
+                "name": "torterra",
+                "id": 389
+            },
+            {
+                "name": "snivy",
+                "id": 495
+            },
+            {
+                "name": "servine",
+                "id": 496
+            },
+            {
+                "name": "serperior",
+                "id": 497
+            },
+            {
+                "name": "pansage",
+                "id": 511
+            },
+            {
+                "name": "simisage",
+                "id": 512
+            }
+        ]
+    },
+    "blaze": {
+        "id": 66,
+        "name": "blaze",
+        "effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "pokemon_with_ability": [
+            {
+                "name": "charmander",
+                "id": 4
+            },
+            {
+                "name": "charmeleon",
+                "id": 5
+            },
+            {
+                "name": "charizard",
+                "id": 6
+            },
+            {
+                "name": "cyndaquil",
+                "id": 155
+            },
+            {
+                "name": "quilava",
+                "id": 156
+            },
+            {
+                "name": "typhlosion",
+                "id": 157
+            },
+            {
+                "name": "torchic",
+                "id": 255
+            },
+            {
+                "name": "combusken",
+                "id": 256
+            },
+            {
+                "name": "blaziken",
+                "id": 257
+            },
+            {
+                "name": "chimchar",
+                "id": 390
+            },
+            {
+                "name": "monferno",
+                "id": 391
+            },
+            {
+                "name": "infernape",
+                "id": 392
+            },
+            {
+                "name": "tepig",
+                "id": 498
+            },
+            {
+                "name": "pignite",
+                "id": 499
+            },
+            {
+                "name": "emboar",
+                "id": 500
+            },
+            {
+                "name": "pansear",
+                "id": 513
+            },
+            {
+                "name": "simisear",
+                "id": 514
+            }
+        ]
+    },
+    "torrent": {
+        "id": 67,
+        "name": "torrent",
+        "effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "pokemon_with_ability": [
+            {
+                "name": "squirtle",
+                "id": 7
+            },
+            {
+                "name": "wartortle",
+                "id": 8
+            },
+            {
+                "name": "blastoise",
+                "id": 9
+            },
+            {
+                "name": "totodile",
+                "id": 158
+            },
+            {
+                "name": "croconaw",
+                "id": 159
+            },
+            {
+                "name": "feraligatr",
+                "id": 160
+            },
+            {
+                "name": "mudkip",
+                "id": 258
+            },
+            {
+                "name": "marshtomp",
+                "id": 259
+            },
+            {
+                "name": "swampert",
+                "id": 260
+            },
+            {
+                "name": "piplup",
+                "id": 393
+            },
+            {
+                "name": "prinplup",
+                "id": 394
+            },
+            {
+                "name": "empoleon",
+                "id": 395
+            },
+            {
+                "name": "oshawott",
+                "id": 501
+            },
+            {
+                "name": "dewott",
+                "id": 502
+            },
+            {
+                "name": "samurott",
+                "id": 503
+            },
+            {
+                "name": "panpour",
+                "id": 515
+            },
+            {
+                "name": "simipour",
+                "id": 516
+            }
+        ]
+    },
+    "swarm": {
+        "id": 68,
+        "name": "swarm",
+        "effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "pokemon_with_ability": [
+            {
+                "name": "beedrill",
+                "id": 15
+            },
+            {
+                "name": "scyther",
+                "id": 123
+            },
+            {
+                "name": "ledyba",
+                "id": 165
+            },
+            {
+                "name": "ledian",
+                "id": 166
+            },
+            {
+                "name": "spinarak",
+                "id": 167
+            },
+            {
+                "name": "ariados",
+                "id": 168
+            },
+            {
+                "name": "scizor",
+                "id": 212
+            },
+            {
+                "name": "heracross",
+                "id": 214
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "volbeat",
+                "id": 313
+            },
+            {
+                "name": "kricketune",
+                "id": 402
+            },
+            {
+                "name": "mothim",
+                "id": 414
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            },
+            {
+                "name": "karrablast",
+                "id": 588
+            },
+            {
+                "name": "escavalier",
+                "id": 589
+            },
+            {
+                "name": "joltik",
+                "id": 595
+            },
+            {
+                "name": "galvantula",
+                "id": 596
+            },
+            {
+                "name": "durant",
+                "id": 632
+            },
+            {
+                "name": "larvesta",
+                "id": 636
+            },
+            {
+                "name": "volcarona",
+                "id": 637
+            }
+        ]
+    },
+    "rock-head": {
+        "id": 69,
+        "name": "rock-head",
+        "effect": "Protects against recoil damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            },
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "aerodactyl",
+                "id": 142
+            },
+            {
+                "name": "sudowoodo",
+                "id": 185
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "bagon",
+                "id": 371
+            },
+            {
+                "name": "shelgon",
+                "id": 372
+            },
+            {
+                "name": "bonsly",
+                "id": 438
+            },
+            {
+                "name": "basculin-blue-striped",
+                "id": 10016
+            }
+        ]
+    },
+    "drought": {
+        "id": 70,
+        "name": "drought",
+        "effect": "Summons strong sunlight that lasts indefinitely upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "vulpix",
+                "id": 37
+            },
+            {
+                "name": "ninetales",
+                "id": 38
+            },
+            {
+                "name": "torkoal",
+                "id": 324
+            },
+            {
+                "name": "groudon",
+                "id": 383
+            }
+        ]
+    },
+    "arena-trap": {
+        "id": 71,
+        "name": "arena-trap",
+        "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.",
+        "pokemon_with_ability": [
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "trapinch",
+                "id": 328
+            }
+        ]
+    },
+    "vital-spirit": {
+        "id": 72,
+        "name": "vital-spirit",
+        "effect": "Prevents sleep.",
+        "pokemon_with_ability": [
+            {
+                "name": "mankey",
+                "id": 56
+            },
+            {
+                "name": "primeape",
+                "id": 57
+            },
+            {
+                "name": "electabuzz",
+                "id": 125
+            },
+            {
+                "name": "magmar",
+                "id": 126
+            },
+            {
+                "name": "delibird",
+                "id": 225
+            },
+            {
+                "name": "tyrogue",
+                "id": 236
+            },
+            {
+                "name": "elekid",
+                "id": 239
+            },
+            {
+                "name": "magby",
+                "id": 240
+            },
+            {
+                "name": "vigoroth",
+                "id": 288
+            },
+            {
+                "name": "electivire",
+                "id": 466
+            },
+            {
+                "name": "magmortar",
+                "id": 467
+            },
+            {
+                "name": "lillipup",
+                "id": 506
+            }
+        ]
+    },
+    "white-smoke": {
+        "id": 73,
+        "name": "white-smoke",
+        "effect": "Prevents stats from being lowered by other Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "torkoal",
+                "id": 324
+            },
+            {
+                "name": "heatmor",
+                "id": 631
+            }
+        ]
+    },
+    "pure-power": {
+        "id": 74,
+        "name": "pure-power",
+        "effect": "Doubles Attack in battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "meditite",
+                "id": 307
+            },
+            {
+                "name": "medicham",
+                "id": 308
+            }
+        ]
+    },
+    "shell-armor": {
+        "id": 75,
+        "name": "shell-armor",
+        "effect": "Protects against critical hits.",
+        "pokemon_with_ability": [
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "krabby",
+                "id": 98
+            },
+            {
+                "name": "kingler",
+                "id": 99
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "omanyte",
+                "id": 138
+            },
+            {
+                "name": "omastar",
+                "id": 139
+            },
+            {
+                "name": "torkoal",
+                "id": 324
+            },
+            {
+                "name": "corphish",
+                "id": 341
+            },
+            {
+                "name": "crawdaunt",
+                "id": 342
+            },
+            {
+                "name": "clamperl",
+                "id": 366
+            },
+            {
+                "name": "turtwig",
+                "id": 387
+            },
+            {
+                "name": "grotle",
+                "id": 388
+            },
+            {
+                "name": "torterra",
+                "id": 389
+            },
+            {
+                "name": "oshawott",
+                "id": 501
+            },
+            {
+                "name": "dewott",
+                "id": 502
+            },
+            {
+                "name": "samurott",
+                "id": 503
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            },
+            {
+                "name": "escavalier",
+                "id": 589
+            },
+            {
+                "name": "shelmet",
+                "id": 616
+            }
+        ]
+    },
+    "air-lock": {
+        "id": 76,
+        "name": "air-lock",
+        "effect": "Negates all effects of weather, but does not prevent the weather itself.",
+        "pokemon_with_ability": [
+            {
+                "name": "rayquaza",
+                "id": 384
+            }
+        ]
+    },
+    "tangled-feet": {
+        "id": 77,
+        "name": "tangled-feet",
+        "effect": "Doubles evasion when confused.",
+        "pokemon_with_ability": [
+            {
+                "name": "pidgey",
+                "id": 16
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17
+            },
+            {
+                "name": "pidgeot",
+                "id": 18
+            },
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "spinda",
+                "id": 327
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            }
+        ]
+    },
+    "motor-drive": {
+        "id": 78,
+        "name": "motor-drive",
+        "effect": "Absorbs electric moves, raising Speed one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "electivire",
+                "id": 466
+            },
+            {
+                "name": "blitzle",
+                "id": 522
+            },
+            {
+                "name": "zebstrika",
+                "id": 523
+            },
+            {
+                "name": "emolga",
+                "id": 587
+            }
+        ]
+    },
+    "rivalry": {
+        "id": 79,
+        "name": "rivalry",
+        "effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.",
+        "pokemon_with_ability": [
+            {
+                "name": "nidoran-f",
+                "id": 29
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
+            },
+            {
+                "name": "nidoran-m",
+                "id": 32
+            },
+            {
+                "name": "nidorino",
+                "id": 33
+            },
+            {
+                "name": "nidoking",
+                "id": 34
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "shinx",
+                "id": 403
+            },
+            {
+                "name": "luxio",
+                "id": 404
+            },
+            {
+                "name": "luxray",
+                "id": 405
+            },
+            {
+                "name": "pidove",
+                "id": 519
+            },
+            {
+                "name": "tranquill",
+                "id": 520
+            },
+            {
+                "name": "unfezant",
+                "id": 521
+            },
+            {
+                "name": "axew",
+                "id": 610
+            },
+            {
+                "name": "fraxure",
+                "id": 611
+            },
+            {
+                "name": "haxorus",
+                "id": 612
+            }
+        ]
+    },
+    "steadfast": {
+        "id": 80,
+        "name": "steadfast",
+        "effect": "Raises Speed one stage upon flinching.",
+        "pokemon_with_ability": [
+            {
+                "name": "machop",
+                "id": 66
+            },
+            {
+                "name": "machoke",
+                "id": 67
+            },
+            {
+                "name": "machamp",
+                "id": 68
+            },
+            {
+                "name": "scyther",
+                "id": 123
+            },
+            {
+                "name": "tyrogue",
+                "id": 236
+            },
+            {
+                "name": "hitmontop",
+                "id": 237
+            },
+            {
+                "name": "riolu",
+                "id": 447
+            },
+            {
+                "name": "lucario",
+                "id": 448
+            },
+            {
+                "name": "gallade",
+                "id": 475
+            }
+        ]
+    },
+    "snow-cloak": {
+        "id": 81,
+        "name": "snow-cloak",
+        "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "articuno",
+                "id": 144
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "glaceon",
+                "id": 471
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "froslass",
+                "id": 478
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "cubchoo",
+                "id": 613
+            },
+            {
+                "name": "beartic",
+                "id": 614
+            }
+        ]
+    },
+    "gluttony": {
+        "id": 82,
+        "name": "gluttony",
+        "effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "bellsprout",
+                "id": 69
+            },
+            {
+                "name": "weepinbell",
+                "id": 70
+            },
+            {
+                "name": "victreebel",
+                "id": 71
+            },
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            },
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            },
+            {
+                "name": "munchlax",
+                "id": 446
+            },
+            {
+                "name": "pansage",
+                "id": 511
+            },
+            {
+                "name": "simisage",
+                "id": 512
+            },
+            {
+                "name": "pansear",
+                "id": 513
+            },
+            {
+                "name": "simisear",
+                "id": 514
+            },
+            {
+                "name": "panpour",
+                "id": 515
+            },
+            {
+                "name": "simipour",
+                "id": 516
+            },
+            {
+                "name": "heatmor",
+                "id": 631
+            }
+        ]
+    },
+    "anger-point": {
+        "id": 83,
+        "name": "anger-point",
+        "effect": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
+        "pokemon_with_ability": [
+            {
+                "name": "mankey",
+                "id": 56
+            },
+            {
+                "name": "primeape",
+                "id": 57
+            },
+            {
+                "name": "tauros",
+                "id": 128
+            },
+            {
+                "name": "camerupt",
+                "id": 323
+            },
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            }
+        ]
+    },
+    "unburden": {
+        "id": 84,
+        "name": "unburden",
+        "effect": "Doubles Speed upon using or losing a held item.",
+        "pokemon_with_ability": [
+            {
+                "name": "hitmonlee",
+                "id": 106
+            },
+            {
+                "name": "treecko",
+                "id": 252
+            },
+            {
+                "name": "grovyle",
+                "id": 253
+            },
+            {
+                "name": "sceptile",
+                "id": 254
+            },
+            {
+                "name": "drifloon",
+                "id": 425
+            },
+            {
+                "name": "drifblim",
+                "id": 426
+            },
+            {
+                "name": "purrloin",
+                "id": 509
+            },
+            {
+                "name": "liepard",
+                "id": 510
+            },
+            {
+                "name": "accelgor",
+                "id": 617
+            }
+        ]
+    },
+    "heatproof": {
+        "id": 85,
+        "name": "heatproof",
+        "effect": "Halves damage from fire moves and burns.",
+        "pokemon_with_ability": [
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            }
+        ]
+    },
+    "simple": {
+        "id": 86,
+        "name": "simple",
+        "effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
+        "pokemon_with_ability": [
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "bidoof",
+                "id": 399
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            },
+            {
+                "name": "woobat",
+                "id": 527
+            },
+            {
+                "name": "swoobat",
+                "id": 528
+            }
+        ]
+    },
+    "dry-skin": {
+        "id": 87,
+        "name": "dry-skin",
+        "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            }
+        ]
+    },
+    "download": {
+        "id": 88,
+        "name": "download",
+        "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "porygon",
+                "id": 137
+            },
+            {
+                "name": "porygon2",
+                "id": 233
+            },
+            {
+                "name": "porygon-z",
+                "id": 474
+            },
+            {
+                "name": "genesect",
+                "id": 649
+            }
+        ]
+    },
+    "iron-fist": {
+        "id": 89,
+        "name": "iron-fist",
+        "effect": "Strengthens punch-based moves to 1.2× their power.",
+        "pokemon_with_ability": [
+            {
+                "name": "hitmonchan",
+                "id": 107
+            },
+            {
+                "name": "ledian",
+                "id": 166
+            },
+            {
+                "name": "chimchar",
+                "id": 390
+            },
+            {
+                "name": "monferno",
+                "id": 391
+            },
+            {
+                "name": "infernape",
+                "id": 392
+            },
+            {
+                "name": "timburr",
+                "id": 532
+            },
+            {
+                "name": "gurdurr",
+                "id": 533
+            },
+            {
+                "name": "conkeldurr",
+                "id": 534
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            }
+        ]
+    },
+    "poison-heal": {
+        "id": 90,
+        "name": "poison-heal",
+        "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            }
+        ]
+    },
+    "adaptability": {
+        "id": 91,
+        "name": "adaptability",
+        "effect": "Increases the same-type attack bonus from 1.5× to 2×.",
+        "pokemon_with_ability": [
+            {
+                "name": "eevee",
+                "id": 133
+            },
+            {
+                "name": "corphish",
+                "id": 341
+            },
+            {
+                "name": "crawdaunt",
+                "id": 342
+            },
+            {
+                "name": "feebas",
+                "id": 349
+            },
+            {
+                "name": "porygon-z",
+                "id": 474
+            },
+            {
+                "name": "basculin-red-striped",
+                "id": 550
+            },
+            {
+                "name": "basculin-blue-striped",
+                "id": 10016
+            }
+        ]
+    },
+    "skill-link": {
+        "id": 92,
+        "name": "skill-link",
+        "effect": "Extends two-to-five-hit moves and triple kick to their full length every time.",
+        "pokemon_with_ability": [
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "aipom",
+                "id": 190
+            },
+            {
+                "name": "ambipom",
+                "id": 424
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            },
+            {
+                "name": "cinccino",
+                "id": 573
+            }
+        ]
+    },
+    "hydration": {
+        "id": 93,
+        "name": "hydration",
+        "effect": "Cures any major status ailment after each turn during rain.",
+        "pokemon_with_ability": [
+            {
+                "name": "seel",
+                "id": 86
+            },
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "vaporeon",
+                "id": 134
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "barboach",
+                "id": 339
+            },
+            {
+                "name": "whiscash",
+                "id": 340
+            },
+            {
+                "name": "gorebyss",
+                "id": 368
+            },
+            {
+                "name": "luvdisc",
+                "id": 370
+            },
+            {
+                "name": "phione",
+                "id": 489
+            },
+            {
+                "name": "manaphy",
+                "id": 490
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "ducklett",
+                "id": 580
+            },
+            {
+                "name": "swanna",
+                "id": 581
+            },
+            {
+                "name": "alomomola",
+                "id": 594
+            },
+            {
+                "name": "shelmet",
+                "id": 616
+            },
+            {
+                "name": "accelgor",
+                "id": 617
+            }
+        ]
+    },
+    "solar-power": {
+        "id": 94,
+        "name": "solar-power",
+        "effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.",
+        "pokemon_with_ability": [
+            {
+                "name": "charmander",
+                "id": 4
+            },
+            {
+                "name": "charmeleon",
+                "id": 5
+            },
+            {
+                "name": "charizard",
+                "id": 6
+            },
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "sunflora",
+                "id": 192
+            },
+            {
+                "name": "tropius",
+                "id": 357
+            }
+        ]
+    },
+    "quick-feet": {
+        "id": 95,
+        "name": "quick-feet",
+        "effect": "Increases Speed to 1.5× with a major status ailment.",
+        "pokemon_with_ability": [
+            {
+                "name": "jolteon",
+                "id": 135
+            },
+            {
+                "name": "granbull",
+                "id": 210
+            },
+            {
+                "name": "teddiursa",
+                "id": 216
+            },
+            {
+                "name": "ursaring",
+                "id": 217
+            },
+            {
+                "name": "poochyena",
+                "id": 261
+            },
+            {
+                "name": "mightyena",
+                "id": 262
+            },
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            },
+            {
+                "name": "shroomish",
+                "id": 285
+            }
+        ]
+    },
+    "normalize": {
+        "id": 96,
+        "name": "normalize",
+        "effect": "Makes the Pokémon's moves all act normal-type.",
+        "pokemon_with_ability": [
+            {
+                "name": "skitty",
+                "id": 300
+            },
+            {
+                "name": "delcatty",
+                "id": 301
+            }
+        ]
+    },
+    "sniper": {
+        "id": 97,
+        "name": "sniper",
+        "effect": "Strengthens critical hits to inflict 3× damage rather than 2×.",
+        "pokemon_with_ability": [
+            {
+                "name": "beedrill",
+                "id": 15
+            },
+            {
+                "name": "spearow",
+                "id": 21
+            },
+            {
+                "name": "fearow",
+                "id": 22
+            },
+            {
+                "name": "horsea",
+                "id": 116
+            },
+            {
+                "name": "seadra",
+                "id": 117
+            },
+            {
+                "name": "spinarak",
+                "id": 167
+            },
+            {
+                "name": "ariados",
+                "id": 168
+            },
+            {
+                "name": "remoraid",
+                "id": 223
+            },
+            {
+                "name": "octillery",
+                "id": 224
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            }
+        ]
+    },
+    "magic-guard": {
+        "id": 98,
+        "name": "magic-guard",
+        "effect": "Protects against damage not directly caused by a move.",
+        "pokemon_with_ability": [
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "abra",
+                "id": 63
+            },
+            {
+                "name": "kadabra",
+                "id": 64
+            },
+            {
+                "name": "alakazam",
+                "id": 65
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "sigilyph",
+                "id": 561
+            },
+            {
+                "name": "solosis",
+                "id": 577
+            },
+            {
+                "name": "duosion",
+                "id": 578
+            },
+            {
+                "name": "reuniclus",
+                "id": 579
+            }
+        ]
+    },
+    "no-guard": {
+        "id": 99,
+        "name": "no-guard",
+        "effect": "Ensures all moves used by and against the Pokémon hit.",
+        "pokemon_with_ability": [
+            {
+                "name": "machop",
+                "id": 66
+            },
+            {
+                "name": "machoke",
+                "id": 67
+            },
+            {
+                "name": "machamp",
+                "id": 68
+            },
+            {
+                "name": "karrablast",
+                "id": 588
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            }
+        ]
+    },
+    "stall": {
+        "id": 100,
+        "name": "stall",
+        "effect": "Makes the Pokémon move last within its move's priority bracket.",
+        "pokemon_with_ability": [
+            {
+                "name": "sableye",
+                "id": 302
+            }
+        ]
+    },
+    "technician": {
+        "id": 101,
+        "name": "technician",
+        "effect": "Strengthens moves of 60 base power or less to 1.5× their power.",
+        "pokemon_with_ability": [
+            {
+                "name": "meowth",
+                "id": 52
+            },
+            {
+                "name": "persian",
+                "id": 53
+            },
+            {
+                "name": "mr-mime",
+                "id": 122
+            },
+            {
+                "name": "scyther",
+                "id": 123
+            },
+            {
+                "name": "scizor",
+                "id": 212
+            },
+            {
+                "name": "smeargle",
+                "id": 235
+            },
+            {
+                "name": "hitmontop",
+                "id": 237
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "kricketune",
+                "id": 402
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "ambipom",
+                "id": 424
+            },
+            {
+                "name": "mime-jr",
+                "id": 439
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            },
+            {
+                "name": "cinccino",
+                "id": 573
+            }
+        ]
+    },
+    "leaf-guard": {
+        "id": 102,
+        "name": "leaf-guard",
+        "effect": "Protects against major status ailments during strong sunlight.",
+        "pokemon_with_ability": [
+            {
+                "name": "tangela",
+                "id": 114
+            },
+            {
+                "name": "chikorita",
+                "id": 152
+            },
+            {
+                "name": "bayleef",
+                "id": 153
+            },
+            {
+                "name": "meganium",
+                "id": 154
+            },
+            {
+                "name": "hoppip",
+                "id": 187
+            },
+            {
+                "name": "skiploom",
+                "id": 188
+            },
+            {
+                "name": "jumpluff",
+                "id": 189
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "tangrowth",
+                "id": 465
+            },
+            {
+                "name": "leafeon",
+                "id": 470
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "petilil",
+                "id": 548
+            },
+            {
+                "name": "lilligant",
+                "id": 549
+            }
+        ]
+    },
+    "klutz": {
+        "id": 103,
+        "name": "klutz",
+        "effect": "Prevents the Pokémon from using its held item in battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            },
+            {
+                "name": "woobat",
+                "id": 527
+            },
+            {
+                "name": "swoobat",
+                "id": 528
+            },
+            {
+                "name": "audino",
+                "id": 531
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            }
+        ]
+    },
+    "mold-breaker": {
+        "id": 104,
+        "name": "mold-breaker",
+        "effect": "Bypasses targets' abilities if they could hinder or prevent a move.",
+        "pokemon_with_ability": [
+            {
+                "name": "pinsir",
+                "id": 127
+            },
+            {
+                "name": "cranidos",
+                "id": 408
+            },
+            {
+                "name": "rampardos",
+                "id": 409
+            },
+            {
+                "name": "drilbur",
+                "id": 529
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            },
+            {
+                "name": "throh",
+                "id": 538
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            },
+            {
+                "name": "basculin-red-striped",
+                "id": 550
+            },
+            {
+                "name": "basculin-blue-striped",
+                "id": 10016
+            },
+            {
+                "name": "axew",
+                "id": 610
+            },
+            {
+                "name": "fraxure",
+                "id": 611
+            },
+            {
+                "name": "haxorus",
+                "id": 612
+            },
+            {
+                "name": "druddigon",
+                "id": 621
+            }
+        ]
+    },
+    "super-luck": {
+        "id": 105,
+        "name": "super-luck",
+        "effect": "Raises moves' critical hit rates one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "togepi",
+                "id": 175
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "absol",
+                "id": 359
+            },
+            {
+                "name": "honchkrow",
+                "id": 430
+            },
+            {
+                "name": "togekiss",
+                "id": 468
+            },
+            {
+                "name": "pidove",
+                "id": 519
+            },
+            {
+                "name": "tranquill",
+                "id": 520
+            },
+            {
+                "name": "unfezant",
+                "id": 521
+            }
+        ]
+    },
+    "aftermath": {
+        "id": 106,
+        "name": "aftermath",
+        "effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move.",
+        "pokemon_with_ability": [
+            {
+                "name": "voltorb",
+                "id": 100
+            },
+            {
+                "name": "electrode",
+                "id": 101
+            },
+            {
+                "name": "drifloon",
+                "id": 425
+            },
+            {
+                "name": "drifblim",
+                "id": 426
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
+    },
+    "anticipation": {
+        "id": 107,
+        "name": "anticipation",
+        "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
+        "pokemon_with_ability": [
+            {
+                "name": "eevee",
+                "id": 133
+            },
+            {
+                "name": "barboach",
+                "id": 339
+            },
+            {
+                "name": "whiscash",
+                "id": 340
+            },
+            {
+                "name": "wormadam-plant",
+                "id": 413
+            },
+            {
+                "name": "wormadam-sandy",
+                "id": 10004
+            },
+            {
+                "name": "wormadam-trash",
+                "id": 10005
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            },
+            {
+                "name": "ferrothorn",
+                "id": 598
+            }
+        ]
+    },
+    "forewarn": {
+        "id": 108,
+        "name": "forewarn",
+        "effect": "Reveals the opponents' strongest move upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "drowzee",
+                "id": 96
+            },
+            {
+                "name": "hypno",
+                "id": 97
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "munna",
+                "id": 517
+            },
+            {
+                "name": "musharna",
+                "id": 518
+            }
+        ]
+    },
+    "unaware": {
+        "id": 109,
+        "name": "unaware",
+        "effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation.",
+        "pokemon_with_ability": [
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "wooper",
+                "id": 194
+            },
+            {
+                "name": "quagsire",
+                "id": 195
+            },
+            {
+                "name": "bidoof",
+                "id": 399
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            },
+            {
+                "name": "woobat",
+                "id": 527
+            },
+            {
+                "name": "swoobat",
+                "id": 528
+            }
+        ]
+    },
+    "tinted-lens": {
+        "id": 110,
+        "name": "tinted-lens",
+        "effect": "Doubles damage inflicted with not-very-effective moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "butterfree",
+                "id": 12
+            },
+            {
+                "name": "venonat",
+                "id": 48
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "hoothoot",
+                "id": 163
+            },
+            {
+                "name": "noctowl",
+                "id": 164
+            },
+            {
+                "name": "illumise",
+                "id": 314
+            },
+            {
+                "name": "mothim",
+                "id": 414
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            },
+            {
+                "name": "sigilyph",
+                "id": 561
+            }
+        ]
+    },
+    "filter": {
+        "id": 111,
+        "name": "filter",
+        "effect": "Decreases damage taken from super-effective moves by 1/4.",
+        "pokemon_with_ability": [
+            {
+                "name": "mr-mime",
+                "id": 122
+            },
+            {
+                "name": "mime-jr",
+                "id": 439
+            }
+        ]
+    },
+    "slow-start": {
+        "id": 112,
+        "name": "slow-start",
+        "effect": "Halves Attack and Speed for five turns upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "regigigas",
+                "id": 486
+            }
+        ]
+    },
+    "scrappy": {
+        "id": 113,
+        "name": "scrappy",
+        "effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "kangaskhan",
+                "id": 115
+            },
+            {
+                "name": "miltank",
+                "id": 241
+            },
+            {
+                "name": "taillow",
+                "id": 276
+            },
+            {
+                "name": "swellow",
+                "id": 277
+            },
+            {
+                "name": "loudred",
+                "id": 294
+            },
+            {
+                "name": "exploud",
+                "id": 295
+            },
+            {
+                "name": "herdier",
+                "id": 507
+            },
+            {
+                "name": "stoutland",
+                "id": 508
+            }
+        ]
+    },
+    "storm-drain": {
+        "id": 114,
+        "name": "storm-drain",
+        "effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "lileep",
+                "id": 345
+            },
+            {
+                "name": "cradily",
+                "id": 346
+            },
+            {
+                "name": "shellos",
+                "id": 422
+            },
+            {
+                "name": "gastrodon",
+                "id": 423
+            },
+            {
+                "name": "finneon",
+                "id": 456
+            },
+            {
+                "name": "lumineon",
+                "id": 457
+            },
+            {
+                "name": "maractus",
+                "id": 556
+            }
+        ]
+    },
+    "ice-body": {
+        "id": 115,
+        "name": "ice-body",
+        "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "seel",
+                "id": 86
+            },
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "snorunt",
+                "id": 361
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "spheal",
+                "id": 363
+            },
+            {
+                "name": "sealeo",
+                "id": 364
+            },
+            {
+                "name": "walrein",
+                "id": 365
+            },
+            {
+                "name": "regice",
+                "id": 378
+            },
+            {
+                "name": "glaceon",
+                "id": 471
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            }
+        ]
+    },
+    "solid-rock": {
+        "id": 116,
+        "name": "solid-rock",
+        "effect": "Decreases damage taken from super-effective moves by 1/4.",
+        "pokemon_with_ability": [
+            {
+                "name": "camerupt",
+                "id": 323
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            },
+            {
+                "name": "tirtouga",
+                "id": 564
+            },
+            {
+                "name": "carracosta",
+                "id": 565
+            }
+        ]
+    },
+    "snow-warning": {
+        "id": 117,
+        "name": "snow-warning",
+        "effect": "Summons hail that lasts indefinitely upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            }
+        ]
+    },
+    "honey-gather": {
+        "id": 118,
+        "name": "honey-gather",
+        "effect": "The Pokémon may pick up honey after battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "teddiursa",
+                "id": 216
+            },
+            {
+                "name": "combee",
+                "id": 415
+            }
+        ]
+    },
+    "frisk": {
+        "id": 119,
+        "name": "frisk",
+        "effect": "Reveals an opponent's held item upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "wigglytuff",
+                "id": 40
+            },
+            {
+                "name": "sentret",
+                "id": 161
+            },
+            {
+                "name": "furret",
+                "id": 162
+            },
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "stantler",
+                "id": 234
+            },
+            {
+                "name": "shuppet",
+                "id": 353
+            },
+            {
+                "name": "banette",
+                "id": 354
+            },
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            },
+            {
+                "name": "gothita",
+                "id": 574
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            }
+        ]
+    },
+    "reckless": {
+        "id": 120,
+        "name": "reckless",
+        "effect": "Strengthens recoil moves to 1.2× their power.",
+        "pokemon_with_ability": [
+            {
+                "name": "hitmonlee",
+                "id": 106
+            },
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "starly",
+                "id": 396
+            },
+            {
+                "name": "staravia",
+                "id": 397
+            },
+            {
+                "name": "staraptor",
+                "id": 398
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            },
+            {
+                "name": "emboar",
+                "id": 500
+            },
+            {
+                "name": "basculin-red-striped",
+                "id": 550
+            },
+            {
+                "name": "mienfoo",
+                "id": 619
+            },
+            {
+                "name": "mienshao",
+                "id": 620
+            },
+            {
+                "name": "bouffalant",
+                "id": 626
+            }
+        ]
+    },
+    "multitype": {
+        "id": 121,
+        "name": "multitype",
+        "effect": "Changes arceus's type and form to match its held Plate.",
+        "pokemon_with_ability": [
+            {
+                "name": "arceus",
+                "id": 493
+            }
+        ]
+    },
+    "flower-gift": {
+        "id": 122,
+        "name": "flower-gift",
+        "effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.",
+        "pokemon_with_ability": [
+            {
+                "name": "cherrim",
+                "id": 421
+            }
+        ]
+    },
+    "bad-dreams": {
+        "id": 123,
+        "name": "bad-dreams",
+        "effect": "Damages sleeping opponents for 1/8 their max HP after each turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "darkrai",
+                "id": 491
+            }
+        ]
+    },
+    "pickpocket": {
+        "id": 124,
+        "name": "pickpocket",
+        "effect": "Steals attacking Pokémon's held items on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "seedot",
+                "id": 273
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            },
+            {
+                "name": "shiftry",
+                "id": 275
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            }
+        ]
+    },
+    "sheer-force": {
+        "id": 125,
+        "name": "sheer-force",
+        "effect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+        "pokemon_with_ability": [
+            {
+                "name": "nidoqueen",
+                "id": 31
+            },
+            {
+                "name": "nidoking",
+                "id": 34
+            },
+            {
+                "name": "krabby",
+                "id": 98
+            },
+            {
+                "name": "kingler",
+                "id": 99
+            },
+            {
+                "name": "tauros",
+                "id": 128
+            },
+            {
+                "name": "totodile",
+                "id": 158
+            },
+            {
+                "name": "croconaw",
+                "id": 159
+            },
+            {
+                "name": "feraligatr",
+                "id": 160
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "makuhita",
+                "id": 296
+            },
+            {
+                "name": "hariyama",
+                "id": 297
+            },
+            {
+                "name": "mawile",
+                "id": 303
+            },
+            {
+                "name": "trapinch",
+                "id": 328
+            },
+            {
+                "name": "bagon",
+                "id": 371
+            },
+            {
+                "name": "cranidos",
+                "id": 408
+            },
+            {
+                "name": "rampardos",
+                "id": 409
+            },
+            {
+                "name": "timburr",
+                "id": 532
+            },
+            {
+                "name": "gurdurr",
+                "id": 533
+            },
+            {
+                "name": "conkeldurr",
+                "id": 534
+            },
+            {
+                "name": "darmanitan-standard",
+                "id": 555
+            },
+            {
+                "name": "darmanitan-zen",
+                "id": 10017
+            },
+            {
+                "name": "druddigon",
+                "id": 621
+            },
+            {
+                "name": "rufflet",
+                "id": 627
+            },
+            {
+                "name": "braviary",
+                "id": 628
+            },
+            {
+                "name": "landorus-incarnate",
+                "id": 645
+            }
+        ]
+    },
+    "contrary": {
+        "id": 126,
+        "name": "contrary",
+        "effect": "Inverts stat changes.",
+        "pokemon_with_ability": [
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "spinda",
+                "id": 327
+            },
+            {
+                "name": "snivy",
+                "id": 495
+            },
+            {
+                "name": "servine",
+                "id": 496
+            },
+            {
+                "name": "serperior",
+                "id": 497
+            }
+        ]
+    },
+    "unnerve": {
+        "id": 127,
+        "name": "unnerve",
+        "effect": "Prevents opposing Pokémon from eating held Berries.",
+        "pokemon_with_ability": [
+            {
+                "name": "ekans",
+                "id": 23
+            },
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "meowth",
+                "id": 52
+            },
+            {
+                "name": "persian",
+                "id": 53
+            },
+            {
+                "name": "aerodactyl",
+                "id": 142
+            },
+            {
+                "name": "mewtwo",
+                "id": 150
+            },
+            {
+                "name": "ursaring",
+                "id": 217
+            },
+            {
+                "name": "houndour",
+                "id": 228
+            },
+            {
+                "name": "houndoom",
+                "id": 229
+            },
+            {
+                "name": "tyranitar",
+                "id": 248
+            },
+            {
+                "name": "masquerain",
+                "id": 284
+            },
+            {
+                "name": "vespiquen",
+                "id": 416
+            },
+            {
+                "name": "joltik",
+                "id": 595
+            },
+            {
+                "name": "galvantula",
+                "id": 596
+            },
+            {
+                "name": "axew",
+                "id": 610
+            },
+            {
+                "name": "fraxure",
+                "id": 611
+            },
+            {
+                "name": "haxorus",
+                "id": 612
+            }
+        ]
+    },
+    "defiant": {
+        "id": 128,
+        "name": "defiant",
+        "effect": "Raises Attack two stages upon having any stat lowered.",
+        "pokemon_with_ability": [
+            {
+                "name": "mankey",
+                "id": 56
+            },
+            {
+                "name": "primeape",
+                "id": 57
+            },
+            {
+                "name": "farfetchd",
+                "id": 83
+            },
+            {
+                "name": "purugly",
+                "id": 432
+            },
+            {
+                "name": "pawniard",
+                "id": 624
+            },
+            {
+                "name": "bisharp",
+                "id": 625
+            },
+            {
+                "name": "braviary",
+                "id": 628
+            },
+            {
+                "name": "tornadus-incarnate",
+                "id": 641
+            },
+            {
+                "name": "thundurus-incarnate",
+                "id": 642
+            }
+        ]
+    },
+    "defeatist": {
+        "id": 129,
+        "name": "defeatist",
+        "effect": "Halves Attack and Special Attack at 50% max HP or less.",
+        "pokemon_with_ability": [
+            {
+                "name": "archen",
+                "id": 566
+            },
+            {
+                "name": "archeops",
+                "id": 567
+            }
+        ]
+    },
+    "cursed-body": {
+        "id": 130,
+        "name": "cursed-body",
+        "effect": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "gengar",
+                "id": 94
+            },
+            {
+                "name": "shuppet",
+                "id": 353
+            },
+            {
+                "name": "banette",
+                "id": 354
+            },
+            {
+                "name": "froslass",
+                "id": 478
+            },
+            {
+                "name": "frillish",
+                "id": 592
+            },
+            {
+                "name": "jellicent",
+                "id": 593
+            }
+        ]
+    },
+    "healer": {
+        "id": 131,
+        "name": "healer",
+        "effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "bellossom",
+                "id": 182
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "audino",
+                "id": 531
+            },
+            {
+                "name": "alomomola",
+                "id": 594
+            }
+        ]
+    },
+    "friend-guard": {
+        "id": 132,
+        "name": "friend-guard",
+        "effect": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+        "pokemon_with_ability": [
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "igglybuff",
+                "id": 174
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            }
+        ]
+    },
+    "weak-armor": {
+        "id": 133,
+        "name": "weak-armor",
+        "effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+        "pokemon_with_ability": [
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "omanyte",
+                "id": 138
+            },
+            {
+                "name": "omastar",
+                "id": 139
+            },
+            {
+                "name": "kabuto",
+                "id": 140
+            },
+            {
+                "name": "kabutops",
+                "id": 141
+            },
+            {
+                "name": "slugma",
+                "id": 218
+            },
+            {
+                "name": "magcargo",
+                "id": 219
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            },
+            {
+                "name": "vullaby",
+                "id": 629
+            },
+            {
+                "name": "mandibuzz",
+                "id": 630
+            }
+        ]
+    },
+    "heavy-metal": {
+        "id": 134,
+        "name": "heavy-metal",
+        "effect": "Doubles the Pokémon's weight.",
+        "pokemon_with_ability": [
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            }
+        ]
+    },
+    "light-metal": {
+        "id": 135,
+        "name": "light-metal",
+        "effect": "Halves the Pokémon's weight.",
+        "pokemon_with_ability": [
+            {
+                "name": "scizor",
+                "id": 212
+            },
+            {
+                "name": "beldum",
+                "id": 374
+            },
+            {
+                "name": "metang",
+                "id": 375
+            },
+            {
+                "name": "metagross",
+                "id": 376
+            },
+            {
+                "name": "registeel",
+                "id": 379
+            }
+        ]
+    },
+    "multiscale": {
+        "id": 136,
+        "name": "multiscale",
+        "effect": "Halves damage taken from full HP.",
+        "pokemon_with_ability": [
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "lugia",
+                "id": 249
+            }
+        ]
+    },
+    "toxic-boost": {
+        "id": 137,
+        "name": "toxic-boost",
+        "effect": "Increases Attack to 1.5× when poisoned.",
+        "pokemon_with_ability": [
+            {
+                "name": "zangoose",
+                "id": 335
+            }
+        ]
+    },
+    "flare-boost": {
+        "id": 138,
+        "name": "flare-boost",
+        "effect": "Increases Special Attack to 1.5× when burned.",
+        "pokemon_with_ability": [
+            {
+                "name": "drifloon",
+                "id": 425
+            },
+            {
+                "name": "drifblim",
+                "id": 426
+            }
+        ]
+    },
+    "harvest": {
+        "id": 139,
+        "name": "harvest",
+        "effect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
+        "pokemon_with_ability": [
+            {
+                "name": "exeggcute",
+                "id": 102
+            },
+            {
+                "name": "exeggutor",
+                "id": 103
+            },
+            {
+                "name": "tropius",
+                "id": 357
+            }
+        ]
+    },
+    "telepathy": {
+        "id": 140,
+        "name": "telepathy",
+        "effect": "Protects against friendly Pokémon's damaging moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "wobbuffet",
+                "id": 202
+            },
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "gardevoir",
+                "id": 282
+            },
+            {
+                "name": "meditite",
+                "id": 307
+            },
+            {
+                "name": "medicham",
+                "id": 308
+            },
+            {
+                "name": "wynaut",
+                "id": 360
+            },
+            {
+                "name": "dialga",
+                "id": 483
+            },
+            {
+                "name": "palkia",
+                "id": 484
+            },
+            {
+                "name": "giratina-altered",
+                "id": 487
+            },
+            {
+                "name": "munna",
+                "id": 517
+            },
+            {
+                "name": "musharna",
+                "id": 518
+            },
+            {
+                "name": "elgyem",
+                "id": 605
+            },
+            {
+                "name": "beheeyem",
+                "id": 606
+            }
+        ]
+    },
+    "moody": {
+        "id": 141,
+        "name": "moody",
+        "effect": "Raises a random stat two stages and lowers another one stage after each turn.",
+        "pokemon_with_ability": [
+            {
+                "name": "remoraid",
+                "id": 223
+            },
+            {
+                "name": "octillery",
+                "id": 224
+            },
+            {
+                "name": "smeargle",
+                "id": 235
+            },
+            {
+                "name": "snorunt",
+                "id": 361
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "bidoof",
+                "id": 399
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            }
+        ]
+    },
+    "overcoat": {
+        "id": 142,
+        "name": "overcoat",
+        "effect": "Protects against damage from weather.",
+        "pokemon_with_ability": [
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "pineco",
+                "id": 204
+            },
+            {
+                "name": "forretress",
+                "id": 205
+            },
+            {
+                "name": "shelgon",
+                "id": 372
+            },
+            {
+                "name": "burmy",
+                "id": 412
+            },
+            {
+                "name": "wormadam-plant",
+                "id": 413
+            },
+            {
+                "name": "wormadam-sandy",
+                "id": 10004
+            },
+            {
+                "name": "wormadam-trash",
+                "id": 10005
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            },
+            {
+                "name": "solosis",
+                "id": 577
+            },
+            {
+                "name": "duosion",
+                "id": 578
+            },
+            {
+                "name": "reuniclus",
+                "id": 579
+            },
+            {
+                "name": "escavalier",
+                "id": 589
+            },
+            {
+                "name": "shelmet",
+                "id": 616
+            },
+            {
+                "name": "vullaby",
+                "id": 629
+            },
+            {
+                "name": "mandibuzz",
+                "id": 630
+            }
+        ]
+    },
+    "poison-touch": {
+        "id": 143,
+        "name": "poison-touch",
+        "effect": "Has a 30% chance of poisoning target Pokémon upon contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            }
+        ]
+    },
+    "regenerator": {
+        "id": 144,
+        "name": "regenerator",
+        "effect": "Heals for 1/3 max HP upon switching out.",
+        "pokemon_with_ability": [
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "tangela",
+                "id": 114
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "ho-oh",
+                "id": 250
+            },
+            {
+                "name": "tangrowth",
+                "id": 465
+            },
+            {
+                "name": "audino",
+                "id": 531
+            },
+            {
+                "name": "solosis",
+                "id": 577
+            },
+            {
+                "name": "duosion",
+                "id": 578
+            },
+            {
+                "name": "reuniclus",
+                "id": 579
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            },
+            {
+                "name": "alomomola",
+                "id": 594
+            },
+            {
+                "name": "mienfoo",
+                "id": 619
+            },
+            {
+                "name": "mienshao",
+                "id": 620
+            },
+            {
+                "name": "tornadus-therian",
+                "id": 10019
+            }
+        ]
+    },
+    "big-pecks": {
+        "id": 145,
+        "name": "big-pecks",
+        "effect": "Protects against Defense drops.",
+        "pokemon_with_ability": [
+            {
+                "name": "pidgey",
+                "id": 16
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17
+            },
+            {
+                "name": "pidgeot",
+                "id": 18
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            },
+            {
+                "name": "pidove",
+                "id": 519
+            },
+            {
+                "name": "tranquill",
+                "id": 520
+            },
+            {
+                "name": "unfezant",
+                "id": 521
+            },
+            {
+                "name": "ducklett",
+                "id": 580
+            },
+            {
+                "name": "swanna",
+                "id": 581
+            },
+            {
+                "name": "vullaby",
+                "id": 629
+            },
+            {
+                "name": "mandibuzz",
+                "id": 630
+            }
+        ]
+    },
+    "sand-rush": {
+        "id": 146,
+        "name": "sand-rush",
+        "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "sandshrew",
+                "id": 27
+            },
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "herdier",
+                "id": 507
+            },
+            {
+                "name": "stoutland",
+                "id": 508
+            },
+            {
+                "name": "drilbur",
+                "id": 529
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            }
+        ]
+    },
+    "wonder-skin": {
+        "id": 147,
+        "name": "wonder-skin",
+        "effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
+        "pokemon_with_ability": [
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "skitty",
+                "id": 300
+            },
+            {
+                "name": "delcatty",
+                "id": 301
+            },
+            {
+                "name": "sigilyph",
+                "id": 561
+            }
+        ]
+    },
+    "analytic": {
+        "id": 148,
+        "name": "analytic",
+        "effect": "Strengthens moves to 1.3× their power when moving last.",
+        "pokemon_with_ability": [
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "porygon",
+                "id": 137
+            },
+            {
+                "name": "porygon2",
+                "id": 233
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "porygon-z",
+                "id": 474
+            },
+            {
+                "name": "patrat",
+                "id": 504
+            },
+            {
+                "name": "watchog",
+                "id": 505
+            },
+            {
+                "name": "elgyem",
+                "id": 605
+            },
+            {
+                "name": "beheeyem",
+                "id": 606
+            }
+        ]
+    },
+    "illusion": {
+        "id": 149,
+        "name": "illusion",
+        "effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
+        "pokemon_with_ability": [
+            {
+                "name": "zorua",
+                "id": 570
+            },
+            {
+                "name": "zoroark",
+                "id": 571
+            }
+        ]
+    },
+    "imposter": {
+        "id": 150,
+        "name": "imposter",
+        "effect": "Transforms upon entering battle.",
+        "pokemon_with_ability": [
+            {
+                "name": "ditto",
+                "id": 132
+            }
+        ]
+    },
+    "infiltrator": {
+        "id": 151,
+        "name": "infiltrator",
+        "effect": "Bypasses light screen, reflect, and safeguard.",
+        "pokemon_with_ability": [
+            {
+                "name": "zubat",
+                "id": 41
+            },
+            {
+                "name": "golbat",
+                "id": 42
+            },
+            {
+                "name": "crobat",
+                "id": 169
+            },
+            {
+                "name": "hoppip",
+                "id": 187
+            },
+            {
+                "name": "skiploom",
+                "id": 188
+            },
+            {
+                "name": "jumpluff",
+                "id": 189
+            },
+            {
+                "name": "ninjask",
+                "id": 291
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "spiritomb",
+                "id": 442
+            },
+            {
+                "name": "cottonee",
+                "id": 546
+            },
+            {
+                "name": "whimsicott",
+                "id": 547
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            },
+            {
+                "name": "chandelure",
+                "id": 609
+            }
+        ]
+    },
+    "mummy": {
+        "id": 152,
+        "name": "mummy",
+        "effect": "Changes attacking Pokémon's abilities to Mummy on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "yamask",
+                "id": 562
+            },
+            {
+                "name": "cofagrigus",
+                "id": 563
+            }
+        ]
+    },
+    "moxie": {
+        "id": 153,
+        "name": "moxie",
+        "effect": "Raises Attack one stage upon KOing a Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "pinsir",
+                "id": 127
+            },
+            {
+                "name": "gyarados",
+                "id": 130
+            },
+            {
+                "name": "heracross",
+                "id": 214
+            },
+            {
+                "name": "mightyena",
+                "id": 262
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            },
+            {
+                "name": "honchkrow",
+                "id": 430
+            },
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            }
+        ]
+    },
+    "justified": {
+        "id": 154,
+        "name": "justified",
+        "effect": "Raises Attack one stage upon taking damage from a dark move.",
+        "pokemon_with_ability": [
+            {
+                "name": "growlithe",
+                "id": 58
+            },
+            {
+                "name": "arcanine",
+                "id": 59
+            },
+            {
+                "name": "absol",
+                "id": 359
+            },
+            {
+                "name": "lucario",
+                "id": 448
+            },
+            {
+                "name": "gallade",
+                "id": 475
+            },
+            {
+                "name": "cobalion",
+                "id": 638
+            },
+            {
+                "name": "terrakion",
+                "id": 639
+            },
+            {
+                "name": "virizion",
+                "id": 640
+            },
+            {
+                "name": "keldeo-ordinary",
+                "id": 647
+            },
+            {
+                "name": "keldeo-resolute",
+                "id": 10024
+            }
+        ]
+    },
+    "rattled": {
+        "id": 155,
+        "name": "rattled",
+        "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
+        "pokemon_with_ability": [
+            {
+                "name": "magikarp",
+                "id": 129
+            },
+            {
+                "name": "ledyba",
+                "id": 165
+            },
+            {
+                "name": "sudowoodo",
+                "id": 185
+            },
+            {
+                "name": "dunsparce",
+                "id": 206
+            },
+            {
+                "name": "snubbull",
+                "id": 209
+            },
+            {
+                "name": "granbull",
+                "id": 210
+            },
+            {
+                "name": "poochyena",
+                "id": 261
+            },
+            {
+                "name": "whismur",
+                "id": 293
+            },
+            {
+                "name": "clamperl",
+                "id": 366
+            },
+            {
+                "name": "bonsly",
+                "id": 438
+            },
+            {
+                "name": "cubchoo",
+                "id": 613
+            }
+        ]
+    },
+    "magic-bounce": {
+        "id": 156,
+        "name": "magic-bounce",
+        "effect": "Reflects most non-damaging moves back at their user.",
+        "pokemon_with_ability": [
+            {
+                "name": "natu",
+                "id": 177
+            },
+            {
+                "name": "xatu",
+                "id": 178
+            },
+            {
+                "name": "espeon",
+                "id": 196
+            }
+        ]
+    },
+    "sap-sipper": {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect": "Absorbs grass moves, raising Attack one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "marill",
+                "id": 183
+            },
+            {
+                "name": "azumarill",
+                "id": 184
+            },
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "stantler",
+                "id": 234
+            },
+            {
+                "name": "miltank",
+                "id": 241
+            },
+            {
+                "name": "azurill",
+                "id": 298
+            },
+            {
+                "name": "blitzle",
+                "id": 522
+            },
+            {
+                "name": "zebstrika",
+                "id": 523
+            },
+            {
+                "name": "deerling",
+                "id": 585
+            },
+            {
+                "name": "sawsbuck",
+                "id": 586
+            },
+            {
+                "name": "bouffalant",
+                "id": 626
+            }
+        ]
+    },
+    "prankster": {
+        "id": 158,
+        "name": "prankster",
+        "effect": "Raises non-damaging moves' priority by one stage.",
+        "pokemon_with_ability": [
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "sableye",
+                "id": 302
+            },
+            {
+                "name": "volbeat",
+                "id": 313
+            },
+            {
+                "name": "illumise",
+                "id": 314
+            },
+            {
+                "name": "riolu",
+                "id": 447
+            },
+            {
+                "name": "purrloin",
+                "id": 509
+            },
+            {
+                "name": "liepard",
+                "id": 510
+            },
+            {
+                "name": "cottonee",
+                "id": 546
+            },
+            {
+                "name": "whimsicott",
+                "id": 547
+            },
+            {
+                "name": "tornadus-incarnate",
+                "id": 641
+            },
+            {
+                "name": "thundurus-incarnate",
+                "id": 642
+            }
+        ]
+    },
+    "sand-force": {
+        "id": 159,
+        "name": "sand-force",
+        "effect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.",
+        "pokemon_with_ability": [
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "shellos",
+                "id": 422
+            },
+            {
+                "name": "gastrodon",
+                "id": 423
+            },
+            {
+                "name": "hippopotas",
+                "id": 449
+            },
+            {
+                "name": "hippowdon",
+                "id": 450
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            },
+            {
+                "name": "drilbur",
+                "id": 529
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            },
+            {
+                "name": "landorus-incarnate",
+                "id": 645
+            }
+        ]
+    },
+    "iron-barbs": {
+        "id": 160,
+        "name": "iron-barbs",
+        "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+        "pokemon_with_ability": [
+            {
+                "name": "ferroseed",
+                "id": 597
+            },
+            {
+                "name": "ferrothorn",
+                "id": 598
+            }
+        ]
+    },
+    "zen-mode": {
+        "id": 161,
+        "name": "zen-mode",
+        "effect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.",
+        "pokemon_with_ability": [
+            {
+                "name": "darmanitan-standard",
+                "id": 555
+            },
+            {
+                "name": "darmanitan-zen",
+                "id": 10017
+            }
+        ]
+    },
+    "victory-star": {
+        "id": 162,
+        "name": "victory-star",
+        "effect": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
+        "pokemon_with_ability": [
+            {
+                "name": "victini",
+                "id": 494
+            }
+        ]
+    },
+    "turboblaze": {
+        "id": 163,
+        "name": "turboblaze",
+        "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "reshiram",
+                "id": 643
+            },
+            {
+                "name": "kyurem-white",
+                "id": 10023
+            }
+        ]
+    },
+    "teravolt": {
+        "id": 164,
+        "name": "teravolt",
+        "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
+        "pokemon_with_ability": [
+            {
+                "name": "zekrom",
+                "id": 644
+            },
+            {
+                "name": "kyurem-black",
+                "id": 10022
+            }
+        ]
+    },
+    "protean": {
+        "id": 168,
+        "name": "protean",
+        "effect": "Changes the bearer's type to match each move it uses.",
+        "pokemon_with_ability": [
+            {
+                "name": "kecleon",
+                "id": 352
+            }
+        ]
+    },
+    "competitive": {
+        "id": 172,
+        "name": "competitive",
+        "effect": "Raises Special Attack by two stages upon having any stat lowered.",
+        "pokemon_with_ability": [
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "wigglytuff",
+                "id": 40
+            },
+            {
+                "name": "igglybuff",
+                "id": 174
+            },
+            {
+                "name": "milotic",
+                "id": 350
+            },
+            {
+                "name": "piplup",
+                "id": 393
+            },
+            {
+                "name": "prinplup",
+                "id": 394
+            },
+            {
+                "name": "empoleon",
+                "id": 395
+            },
+            {
+                "name": "gothita",
+                "id": 574
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            }
+        ]
+    },
+    "wind-rider": {
+        "id": 274,
+        "name": "wind-rider",
+        "effect": null,
+        "pokemon_with_ability": [
+            {
+                "name": "shiftry",
+                "id": 275
+            }
+        ]
+    },
+    "sharpness": {
+        "id": 292,
+        "name": "sharpness",
+        "effect": null,
+        "pokemon_with_ability": [
+            {
+                "name": "gallade",
+                "id": 475
+            }
+        ]
+    },
+    "reactive-gas": {
+        "id": 256,
+        "name": "reactive-gas",
+        "effect": null,
+        "pokemon_with_ability": [
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            }
+        ]
+    },
+    "snow-plow": {
+        "id": 202,
+        "name": "snow-plow",
+        "effect": "During Hail, this Pokémon has double Speed.",
+        "pokemon_with_ability": [
+            {
+                "name": "cubchoo",
+                "id": 613
+            },
+            {
+                "name": "beartic",
+                "id": 614
+            }
+        ]
+    }
+}

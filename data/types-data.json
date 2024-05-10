@@ -1,0 +1,6264 @@
+{
+    "grass": {
+        "pokemon": [
+            {
+                "name": "bulbasaur",
+                "id": 1
+            },
+            {
+                "name": "ivysaur",
+                "id": 2
+            },
+            {
+                "name": "venusaur",
+                "id": 3
+            },
+            {
+                "name": "oddish",
+                "id": 43
+            },
+            {
+                "name": "gloom",
+                "id": 44
+            },
+            {
+                "name": "vileplume",
+                "id": 45
+            },
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "bellsprout",
+                "id": 69
+            },
+            {
+                "name": "weepinbell",
+                "id": 70
+            },
+            {
+                "name": "victreebel",
+                "id": 71
+            },
+            {
+                "name": "exeggcute",
+                "id": 102
+            },
+            {
+                "name": "exeggutor",
+                "id": 103
+            },
+            {
+                "name": "tangela",
+                "id": 114
+            },
+            {
+                "name": "chikorita",
+                "id": 152
+            },
+            {
+                "name": "bayleef",
+                "id": 153
+            },
+            {
+                "name": "meganium",
+                "id": 154
+            },
+            {
+                "name": "bellossom",
+                "id": 182
+            },
+            {
+                "name": "hoppip",
+                "id": 187
+            },
+            {
+                "name": "skiploom",
+                "id": 188
+            },
+            {
+                "name": "jumpluff",
+                "id": 189
+            },
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "sunflora",
+                "id": 192
+            },
+            {
+                "name": "celebi",
+                "id": 251
+            },
+            {
+                "name": "treecko",
+                "id": 252
+            },
+            {
+                "name": "grovyle",
+                "id": 253
+            },
+            {
+                "name": "sceptile",
+                "id": 254
+            },
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "seedot",
+                "id": 273
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            },
+            {
+                "name": "shiftry",
+                "id": 275
+            },
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "cacnea",
+                "id": 331
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "lileep",
+                "id": 345
+            },
+            {
+                "name": "cradily",
+                "id": 346
+            },
+            {
+                "name": "tropius",
+                "id": 357
+            },
+            {
+                "name": "turtwig",
+                "id": 387
+            },
+            {
+                "name": "grotle",
+                "id": 388
+            },
+            {
+                "name": "torterra",
+                "id": 389
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "wormadam-plant",
+                "id": 413
+            },
+            {
+                "name": "cherubi",
+                "id": 420
+            },
+            {
+                "name": "cherrim",
+                "id": 421
+            },
+            {
+                "name": "carnivine",
+                "id": 455
+            },
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "tangrowth",
+                "id": 465
+            },
+            {
+                "name": "leafeon",
+                "id": 470
+            },
+            {
+                "name": "rotom-mow",
+                "id": 10012
+            },
+            {
+                "name": "shaymin-land",
+                "id": 492
+            },
+            {
+                "name": "shaymin-sky",
+                "id": 10006
+            },
+            {
+                "name": "snivy",
+                "id": 495
+            },
+            {
+                "name": "servine",
+                "id": 496
+            },
+            {
+                "name": "serperior",
+                "id": 497
+            },
+            {
+                "name": "pansage",
+                "id": 511
+            },
+            {
+                "name": "simisage",
+                "id": 512
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            },
+            {
+                "name": "cottonee",
+                "id": 546
+            },
+            {
+                "name": "whimsicott",
+                "id": 547
+            },
+            {
+                "name": "petilil",
+                "id": 548
+            },
+            {
+                "name": "lilligant",
+                "id": 549
+            },
+            {
+                "name": "maractus",
+                "id": 556
+            },
+            {
+                "name": "deerling",
+                "id": 585
+            },
+            {
+                "name": "sawsbuck",
+                "id": 586
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            },
+            {
+                "name": "ferroseed",
+                "id": 597
+            },
+            {
+                "name": "ferrothorn",
+                "id": 598
+            },
+            {
+                "name": "virizion",
+                "id": 640
+            }
+        ],
+        "moves": [
+            {
+                "name": "vine-whip",
+                "id": 22
+            },
+            {
+                "name": "absorb",
+                "id": 71
+            },
+            {
+                "name": "mega-drain",
+                "id": 72
+            },
+            {
+                "name": "leech-seed",
+                "id": 73
+            },
+            {
+                "name": "razor-leaf",
+                "id": 75
+            },
+            {
+                "name": "solar-beam",
+                "id": 76
+            },
+            {
+                "name": "stun-spore",
+                "id": 78
+            },
+            {
+                "name": "sleep-powder",
+                "id": 79
+            },
+            {
+                "name": "petal-dance",
+                "id": 80
+            },
+            {
+                "name": "spore",
+                "id": 147
+            },
+            {
+                "name": "cotton-spore",
+                "id": 178
+            },
+            {
+                "name": "giga-drain",
+                "id": 202
+            },
+            {
+                "name": "synthesis",
+                "id": 235
+            },
+            {
+                "name": "ingrain",
+                "id": 275
+            },
+            {
+                "name": "needle-arm",
+                "id": 302
+            },
+            {
+                "name": "aromatherapy",
+                "id": 312
+            },
+            {
+                "name": "grass-whistle",
+                "id": 320
+            },
+            {
+                "name": "bullet-seed",
+                "id": 331
+            },
+            {
+                "name": "frenzy-plant",
+                "id": 338
+            },
+            {
+                "name": "magical-leaf",
+                "id": 345
+            },
+            {
+                "name": "leaf-blade",
+                "id": 348
+            },
+            {
+                "name": "worry-seed",
+                "id": 388
+            },
+            {
+                "name": "seed-bomb",
+                "id": 402
+            },
+            {
+                "name": "energy-ball",
+                "id": 412
+            },
+            {
+                "name": "leaf-storm",
+                "id": 437
+            },
+            {
+                "name": "power-whip",
+                "id": 438
+            },
+            {
+                "name": "grass-knot",
+                "id": 447
+            },
+            {
+                "name": "wood-hammer",
+                "id": 452
+            },
+            {
+                "name": "seed-flare",
+                "id": 465
+            },
+            {
+                "name": "grass-pledge",
+                "id": 520
+            },
+            {
+                "name": "horn-leech",
+                "id": 532
+            },
+            {
+                "name": "leaf-tornado",
+                "id": 536
+            },
+            {
+                "name": "cotton-guard",
+                "id": 538
+            }
+        ]
+    },
+    "poison": {
+        "pokemon": [
+            {
+                "name": "bulbasaur",
+                "id": 1
+            },
+            {
+                "name": "ivysaur",
+                "id": 2
+            },
+            {
+                "name": "venusaur",
+                "id": 3
+            },
+            {
+                "name": "weedle",
+                "id": 13
+            },
+            {
+                "name": "kakuna",
+                "id": 14
+            },
+            {
+                "name": "beedrill",
+                "id": 15
+            },
+            {
+                "name": "ekans",
+                "id": 23
+            },
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "nidoran-f",
+                "id": 29
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
+            },
+            {
+                "name": "nidoran-m",
+                "id": 32
+            },
+            {
+                "name": "nidorino",
+                "id": 33
+            },
+            {
+                "name": "nidoking",
+                "id": 34
+            },
+            {
+                "name": "zubat",
+                "id": 41
+            },
+            {
+                "name": "golbat",
+                "id": 42
+            },
+            {
+                "name": "oddish",
+                "id": 43
+            },
+            {
+                "name": "gloom",
+                "id": 44
+            },
+            {
+                "name": "vileplume",
+                "id": 45
+            },
+            {
+                "name": "venonat",
+                "id": 48
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "bellsprout",
+                "id": 69
+            },
+            {
+                "name": "weepinbell",
+                "id": 70
+            },
+            {
+                "name": "victreebel",
+                "id": 71
+            },
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "gastly",
+                "id": 92
+            },
+            {
+                "name": "haunter",
+                "id": 93
+            },
+            {
+                "name": "gengar",
+                "id": 94
+            },
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            },
+            {
+                "name": "spinarak",
+                "id": 167
+            },
+            {
+                "name": "ariados",
+                "id": 168
+            },
+            {
+                "name": "crobat",
+                "id": 169
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            }
+        ],
+        "moves": [
+            {
+                "name": "poison-sting",
+                "id": 40
+            },
+            {
+                "name": "acid",
+                "id": 51
+            },
+            {
+                "name": "poison-powder",
+                "id": 77
+            },
+            {
+                "name": "toxic",
+                "id": 92
+            },
+            {
+                "name": "smog",
+                "id": 123
+            },
+            {
+                "name": "sludge",
+                "id": 124
+            },
+            {
+                "name": "poison-gas",
+                "id": 139
+            },
+            {
+                "name": "acid-armor",
+                "id": 151
+            },
+            {
+                "name": "sludge-bomb",
+                "id": 188
+            },
+            {
+                "name": "poison-fang",
+                "id": 305
+            },
+            {
+                "name": "poison-tail",
+                "id": 342
+            },
+            {
+                "name": "gastro-acid",
+                "id": 380
+            },
+            {
+                "name": "toxic-spikes",
+                "id": 390
+            },
+            {
+                "name": "poison-jab",
+                "id": 398
+            },
+            {
+                "name": "cross-poison",
+                "id": 440
+            },
+            {
+                "name": "gunk-shot",
+                "id": 441
+            },
+            {
+                "name": "venoshock",
+                "id": 474
+            },
+            {
+                "name": "sludge-wave",
+                "id": 482
+            },
+            {
+                "name": "coil",
+                "id": 489
+            },
+            {
+                "name": "acid-spray",
+                "id": 491
+            },
+            {
+                "name": "clear-smog",
+                "id": 499
+            }
+        ]
+    },
+    "fire": {
+        "pokemon": [
+            {
+                "name": "charmander",
+                "id": 4
+            },
+            {
+                "name": "charmeleon",
+                "id": 5
+            },
+            {
+                "name": "charizard",
+                "id": 6
+            },
+            {
+                "name": "vulpix",
+                "id": 37
+            },
+            {
+                "name": "ninetales",
+                "id": 38
+            },
+            {
+                "name": "growlithe",
+                "id": 58
+            },
+            {
+                "name": "arcanine",
+                "id": 59
+            },
+            {
+                "name": "ponyta",
+                "id": 77
+            },
+            {
+                "name": "rapidash",
+                "id": 78
+            },
+            {
+                "name": "magmar",
+                "id": 126
+            },
+            {
+                "name": "flareon",
+                "id": 136
+            },
+            {
+                "name": "moltres",
+                "id": 146
+            },
+            {
+                "name": "cyndaquil",
+                "id": 155
+            },
+            {
+                "name": "quilava",
+                "id": 156
+            },
+            {
+                "name": "typhlosion",
+                "id": 157
+            },
+            {
+                "name": "slugma",
+                "id": 218
+            },
+            {
+                "name": "magcargo",
+                "id": 219
+            },
+            {
+                "name": "houndour",
+                "id": 228
+            },
+            {
+                "name": "houndoom",
+                "id": 229
+            },
+            {
+                "name": "magby",
+                "id": 240
+            },
+            {
+                "name": "entei",
+                "id": 244
+            },
+            {
+                "name": "ho-oh",
+                "id": 250
+            },
+            {
+                "name": "torchic",
+                "id": 255
+            },
+            {
+                "name": "combusken",
+                "id": 256
+            },
+            {
+                "name": "blaziken",
+                "id": 257
+            },
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "camerupt",
+                "id": 323
+            },
+            {
+                "name": "torkoal",
+                "id": 324
+            },
+            {
+                "name": "castform-sunny",
+                "id": 10013
+            },
+            {
+                "name": "chimchar",
+                "id": 390
+            },
+            {
+                "name": "monferno",
+                "id": 391
+            },
+            {
+                "name": "infernape",
+                "id": 392
+            },
+            {
+                "name": "magmortar",
+                "id": 467
+            },
+            {
+                "name": "rotom-heat",
+                "id": 10008
+            },
+            {
+                "name": "heatran",
+                "id": 485
+            },
+            {
+                "name": "victini",
+                "id": 494
+            },
+            {
+                "name": "tepig",
+                "id": 498
+            },
+            {
+                "name": "pignite",
+                "id": 499
+            },
+            {
+                "name": "emboar",
+                "id": 500
+            },
+            {
+                "name": "pansear",
+                "id": 513
+            },
+            {
+                "name": "simisear",
+                "id": 514
+            },
+            {
+                "name": "darumaka",
+                "id": 554
+            },
+            {
+                "name": "darmanitan-standard",
+                "id": 555
+            },
+            {
+                "name": "darmanitan-zen",
+                "id": 10017
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            },
+            {
+                "name": "chandelure",
+                "id": 609
+            },
+            {
+                "name": "heatmor",
+                "id": 631
+            },
+            {
+                "name": "larvesta",
+                "id": 636
+            },
+            {
+                "name": "volcarona",
+                "id": 637
+            },
+            {
+                "name": "reshiram",
+                "id": 643
+            }
+        ],
+        "moves": [
+            {
+                "name": "fire-punch",
+                "id": 7
+            },
+            {
+                "name": "ember",
+                "id": 52
+            },
+            {
+                "name": "flamethrower",
+                "id": 53
+            },
+            {
+                "name": "fire-spin",
+                "id": 83
+            },
+            {
+                "name": "fire-blast",
+                "id": 126
+            },
+            {
+                "name": "flame-wheel",
+                "id": 172
+            },
+            {
+                "name": "sacred-fire",
+                "id": 221
+            },
+            {
+                "name": "sunny-day",
+                "id": 241
+            },
+            {
+                "name": "heat-wave",
+                "id": 257
+            },
+            {
+                "name": "will-o-wisp",
+                "id": 261
+            },
+            {
+                "name": "eruption",
+                "id": 284
+            },
+            {
+                "name": "blaze-kick",
+                "id": 299
+            },
+            {
+                "name": "blast-burn",
+                "id": 307
+            },
+            {
+                "name": "overheat",
+                "id": 315
+            },
+            {
+                "name": "flare-blitz",
+                "id": 394
+            },
+            {
+                "name": "fire-fang",
+                "id": 424
+            },
+            {
+                "name": "lava-plume",
+                "id": 436
+            },
+            {
+                "name": "magma-storm",
+                "id": 463
+            },
+            {
+                "name": "flame-burst",
+                "id": 481
+            },
+            {
+                "name": "flame-charge",
+                "id": 488
+            },
+            {
+                "name": "incinerate",
+                "id": 510
+            },
+            {
+                "name": "inferno",
+                "id": 517
+            },
+            {
+                "name": "fire-pledge",
+                "id": 519
+            },
+            {
+                "name": "heat-crash",
+                "id": 535
+            },
+            {
+                "name": "searing-shot",
+                "id": 545
+            },
+            {
+                "name": "blue-flare",
+                "id": 551
+            },
+            {
+                "name": "fiery-dance",
+                "id": 552
+            },
+            {
+                "name": "v-create",
+                "id": 557
+            },
+            {
+                "name": "fusion-flare",
+                "id": 558
+            }
+        ]
+    },
+    "flying": {
+        "pokemon": [
+            {
+                "name": "charizard",
+                "id": 6
+            },
+            {
+                "name": "butterfree",
+                "id": 12
+            },
+            {
+                "name": "pidgey",
+                "id": 16
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17
+            },
+            {
+                "name": "pidgeot",
+                "id": 18
+            },
+            {
+                "name": "spearow",
+                "id": 21
+            },
+            {
+                "name": "fearow",
+                "id": 22
+            },
+            {
+                "name": "zubat",
+                "id": 41
+            },
+            {
+                "name": "golbat",
+                "id": 42
+            },
+            {
+                "name": "farfetchd",
+                "id": 83
+            },
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "scyther",
+                "id": 123
+            },
+            {
+                "name": "gyarados",
+                "id": 130
+            },
+            {
+                "name": "aerodactyl",
+                "id": 142
+            },
+            {
+                "name": "articuno",
+                "id": 144
+            },
+            {
+                "name": "zapdos",
+                "id": 145
+            },
+            {
+                "name": "moltres",
+                "id": 146
+            },
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "hoothoot",
+                "id": 163
+            },
+            {
+                "name": "noctowl",
+                "id": 164
+            },
+            {
+                "name": "ledyba",
+                "id": 165
+            },
+            {
+                "name": "ledian",
+                "id": 166
+            },
+            {
+                "name": "crobat",
+                "id": 169
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "natu",
+                "id": 177
+            },
+            {
+                "name": "xatu",
+                "id": 178
+            },
+            {
+                "name": "hoppip",
+                "id": 187
+            },
+            {
+                "name": "skiploom",
+                "id": 188
+            },
+            {
+                "name": "jumpluff",
+                "id": 189
+            },
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "delibird",
+                "id": 225
+            },
+            {
+                "name": "mantine",
+                "id": 226
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "lugia",
+                "id": 249
+            },
+            {
+                "name": "ho-oh",
+                "id": 250
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "taillow",
+                "id": 276
+            },
+            {
+                "name": "swellow",
+                "id": 277
+            },
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            },
+            {
+                "name": "masquerain",
+                "id": 284
+            },
+            {
+                "name": "ninjask",
+                "id": 291
+            },
+            {
+                "name": "swablu",
+                "id": 333
+            },
+            {
+                "name": "altaria",
+                "id": 334
+            },
+            {
+                "name": "tropius",
+                "id": 357
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            },
+            {
+                "name": "rayquaza",
+                "id": 384
+            },
+            {
+                "name": "starly",
+                "id": 396
+            },
+            {
+                "name": "staravia",
+                "id": 397
+            },
+            {
+                "name": "staraptor",
+                "id": 398
+            },
+            {
+                "name": "mothim",
+                "id": 414
+            },
+            {
+                "name": "combee",
+                "id": 415
+            },
+            {
+                "name": "vespiquen",
+                "id": 416
+            },
+            {
+                "name": "drifloon",
+                "id": 425
+            },
+            {
+                "name": "drifblim",
+                "id": 426
+            },
+            {
+                "name": "honchkrow",
+                "id": 430
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            },
+            {
+                "name": "mantyke",
+                "id": 458
+            },
+            {
+                "name": "togekiss",
+                "id": 468
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            },
+            {
+                "name": "rotom-fan",
+                "id": 10011
+            },
+            {
+                "name": "shaymin-sky",
+                "id": 10006
+            },
+            {
+                "name": "pidove",
+                "id": 519
+            },
+            {
+                "name": "tranquill",
+                "id": 520
+            },
+            {
+                "name": "unfezant",
+                "id": 521
+            },
+            {
+                "name": "woobat",
+                "id": 527
+            },
+            {
+                "name": "swoobat",
+                "id": 528
+            },
+            {
+                "name": "sigilyph",
+                "id": 561
+            },
+            {
+                "name": "archen",
+                "id": 566
+            },
+            {
+                "name": "archeops",
+                "id": 567
+            },
+            {
+                "name": "ducklett",
+                "id": 580
+            },
+            {
+                "name": "swanna",
+                "id": 581
+            },
+            {
+                "name": "emolga",
+                "id": 587
+            },
+            {
+                "name": "rufflet",
+                "id": 627
+            },
+            {
+                "name": "braviary",
+                "id": 628
+            },
+            {
+                "name": "vullaby",
+                "id": 629
+            },
+            {
+                "name": "mandibuzz",
+                "id": 630
+            },
+            {
+                "name": "tornadus-incarnate",
+                "id": 641
+            },
+            {
+                "name": "tornadus-therian",
+                "id": 10019
+            },
+            {
+                "name": "thundurus-incarnate",
+                "id": 642
+            },
+            {
+                "name": "thundurus-therian",
+                "id": 10020
+            },
+            {
+                "name": "landorus-incarnate",
+                "id": 645
+            },
+            {
+                "name": "landorus-therian",
+                "id": 10021
+            }
+        ],
+        "moves": [
+            {
+                "name": "gust",
+                "id": 16
+            },
+            {
+                "name": "wing-attack",
+                "id": 17
+            },
+            {
+                "name": "fly",
+                "id": 19
+            },
+            {
+                "name": "peck",
+                "id": 64
+            },
+            {
+                "name": "drill-peck",
+                "id": 65
+            },
+            {
+                "name": "mirror-move",
+                "id": 119
+            },
+            {
+                "name": "sky-attack",
+                "id": 143
+            },
+            {
+                "name": "aeroblast",
+                "id": 177
+            },
+            {
+                "name": "feather-dance",
+                "id": 297
+            },
+            {
+                "name": "air-cutter",
+                "id": 314
+            },
+            {
+                "name": "aerial-ace",
+                "id": 332
+            },
+            {
+                "name": "bounce",
+                "id": 340
+            },
+            {
+                "name": "roost",
+                "id": 355
+            },
+            {
+                "name": "pluck",
+                "id": 365
+            },
+            {
+                "name": "tailwind",
+                "id": 366
+            },
+            {
+                "name": "air-slash",
+                "id": 403
+            },
+            {
+                "name": "brave-bird",
+                "id": 413
+            },
+            {
+                "name": "defog",
+                "id": 432
+            },
+            {
+                "name": "chatter",
+                "id": 448
+            },
+            {
+                "name": "sky-drop",
+                "id": 507
+            },
+            {
+                "name": "acrobatics",
+                "id": 512
+            },
+            {
+                "name": "hurricane",
+                "id": 542
+            }
+        ]
+    },
+    "water": {
+        "pokemon": [
+            {
+                "name": "squirtle",
+                "id": 7
+            },
+            {
+                "name": "wartortle",
+                "id": 8
+            },
+            {
+                "name": "blastoise",
+                "id": 9
+            },
+            {
+                "name": "psyduck",
+                "id": 54
+            },
+            {
+                "name": "golduck",
+                "id": 55
+            },
+            {
+                "name": "poliwag",
+                "id": 60
+            },
+            {
+                "name": "poliwhirl",
+                "id": 61
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "seel",
+                "id": 86
+            },
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "krabby",
+                "id": 98
+            },
+            {
+                "name": "kingler",
+                "id": 99
+            },
+            {
+                "name": "horsea",
+                "id": 116
+            },
+            {
+                "name": "seadra",
+                "id": 117
+            },
+            {
+                "name": "goldeen",
+                "id": 118
+            },
+            {
+                "name": "seaking",
+                "id": 119
+            },
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "magikarp",
+                "id": 129
+            },
+            {
+                "name": "gyarados",
+                "id": 130
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "vaporeon",
+                "id": 134
+            },
+            {
+                "name": "omanyte",
+                "id": 138
+            },
+            {
+                "name": "omastar",
+                "id": 139
+            },
+            {
+                "name": "kabuto",
+                "id": 140
+            },
+            {
+                "name": "kabutops",
+                "id": 141
+            },
+            {
+                "name": "totodile",
+                "id": 158
+            },
+            {
+                "name": "croconaw",
+                "id": 159
+            },
+            {
+                "name": "feraligatr",
+                "id": 160
+            },
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "marill",
+                "id": 183
+            },
+            {
+                "name": "azumarill",
+                "id": 184
+            },
+            {
+                "name": "politoed",
+                "id": 186
+            },
+            {
+                "name": "wooper",
+                "id": 194
+            },
+            {
+                "name": "quagsire",
+                "id": 195
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "remoraid",
+                "id": 223
+            },
+            {
+                "name": "octillery",
+                "id": 224
+            },
+            {
+                "name": "mantine",
+                "id": 226
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "suicune",
+                "id": 245
+            },
+            {
+                "name": "mudkip",
+                "id": 258
+            },
+            {
+                "name": "marshtomp",
+                "id": 259
+            },
+            {
+                "name": "swampert",
+                "id": 260
+            },
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            },
+            {
+                "name": "surskit",
+                "id": 283
+            },
+            {
+                "name": "carvanha",
+                "id": 318
+            },
+            {
+                "name": "sharpedo",
+                "id": 319
+            },
+            {
+                "name": "wailmer",
+                "id": 320
+            },
+            {
+                "name": "wailord",
+                "id": 321
+            },
+            {
+                "name": "barboach",
+                "id": 339
+            },
+            {
+                "name": "whiscash",
+                "id": 340
+            },
+            {
+                "name": "corphish",
+                "id": 341
+            },
+            {
+                "name": "crawdaunt",
+                "id": 342
+            },
+            {
+                "name": "feebas",
+                "id": 349
+            },
+            {
+                "name": "milotic",
+                "id": 350
+            },
+            {
+                "name": "castform-rainy",
+                "id": 10014
+            },
+            {
+                "name": "spheal",
+                "id": 363
+            },
+            {
+                "name": "sealeo",
+                "id": 364
+            },
+            {
+                "name": "walrein",
+                "id": 365
+            },
+            {
+                "name": "clamperl",
+                "id": 366
+            },
+            {
+                "name": "huntail",
+                "id": 367
+            },
+            {
+                "name": "gorebyss",
+                "id": 368
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "luvdisc",
+                "id": 370
+            },
+            {
+                "name": "kyogre",
+                "id": 382
+            },
+            {
+                "name": "piplup",
+                "id": 393
+            },
+            {
+                "name": "prinplup",
+                "id": 394
+            },
+            {
+                "name": "empoleon",
+                "id": 395
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            },
+            {
+                "name": "buizel",
+                "id": 418
+            },
+            {
+                "name": "floatzel",
+                "id": 419
+            },
+            {
+                "name": "shellos",
+                "id": 422
+            },
+            {
+                "name": "gastrodon",
+                "id": 423
+            },
+            {
+                "name": "finneon",
+                "id": 456
+            },
+            {
+                "name": "lumineon",
+                "id": 457
+            },
+            {
+                "name": "mantyke",
+                "id": 458
+            },
+            {
+                "name": "rotom-wash",
+                "id": 10009
+            },
+            {
+                "name": "palkia",
+                "id": 484
+            },
+            {
+                "name": "phione",
+                "id": 489
+            },
+            {
+                "name": "manaphy",
+                "id": 490
+            },
+            {
+                "name": "oshawott",
+                "id": 501
+            },
+            {
+                "name": "dewott",
+                "id": 502
+            },
+            {
+                "name": "samurott",
+                "id": 503
+            },
+            {
+                "name": "panpour",
+                "id": 515
+            },
+            {
+                "name": "simipour",
+                "id": 516
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "basculin-red-striped",
+                "id": 550
+            },
+            {
+                "name": "basculin-blue-striped",
+                "id": 10016
+            },
+            {
+                "name": "tirtouga",
+                "id": 564
+            },
+            {
+                "name": "carracosta",
+                "id": 565
+            },
+            {
+                "name": "ducklett",
+                "id": 580
+            },
+            {
+                "name": "swanna",
+                "id": 581
+            },
+            {
+                "name": "frillish",
+                "id": 592
+            },
+            {
+                "name": "jellicent",
+                "id": 593
+            },
+            {
+                "name": "alomomola",
+                "id": 594
+            },
+            {
+                "name": "keldeo-ordinary",
+                "id": 647
+            },
+            {
+                "name": "keldeo-resolute",
+                "id": 10024
+            }
+        ],
+        "moves": [
+            {
+                "name": "water-gun",
+                "id": 55
+            },
+            {
+                "name": "hydro-pump",
+                "id": 56
+            },
+            {
+                "name": "surf",
+                "id": 57
+            },
+            {
+                "name": "bubble-beam",
+                "id": 61
+            },
+            {
+                "name": "withdraw",
+                "id": 110
+            },
+            {
+                "name": "waterfall",
+                "id": 127
+            },
+            {
+                "name": "clamp",
+                "id": 128
+            },
+            {
+                "name": "bubble",
+                "id": 145
+            },
+            {
+                "name": "crabhammer",
+                "id": 152
+            },
+            {
+                "name": "octazooka",
+                "id": 190
+            },
+            {
+                "name": "rain-dance",
+                "id": 240
+            },
+            {
+                "name": "whirlpool",
+                "id": 250
+            },
+            {
+                "name": "dive",
+                "id": 291
+            },
+            {
+                "name": "hydro-cannon",
+                "id": 308
+            },
+            {
+                "name": "water-spout",
+                "id": 323
+            },
+            {
+                "name": "muddy-water",
+                "id": 330
+            },
+            {
+                "name": "water-sport",
+                "id": 346
+            },
+            {
+                "name": "water-pulse",
+                "id": 352
+            },
+            {
+                "name": "brine",
+                "id": 362
+            },
+            {
+                "name": "aqua-ring",
+                "id": 392
+            },
+            {
+                "name": "aqua-tail",
+                "id": 401
+            },
+            {
+                "name": "aqua-jet",
+                "id": 453
+            },
+            {
+                "name": "soak",
+                "id": 487
+            },
+            {
+                "name": "scald",
+                "id": 503
+            },
+            {
+                "name": "water-pledge",
+                "id": 518
+            },
+            {
+                "name": "razor-shell",
+                "id": 534
+            }
+        ]
+    },
+    "bug": {
+        "pokemon": [
+            {
+                "name": "caterpie",
+                "id": 10
+            },
+            {
+                "name": "metapod",
+                "id": 11
+            },
+            {
+                "name": "butterfree",
+                "id": 12
+            },
+            {
+                "name": "weedle",
+                "id": 13
+            },
+            {
+                "name": "kakuna",
+                "id": 14
+            },
+            {
+                "name": "beedrill",
+                "id": 15
+            },
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "venonat",
+                "id": 48
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "scyther",
+                "id": 123
+            },
+            {
+                "name": "pinsir",
+                "id": 127
+            },
+            {
+                "name": "ledyba",
+                "id": 165
+            },
+            {
+                "name": "ledian",
+                "id": 166
+            },
+            {
+                "name": "spinarak",
+                "id": 167
+            },
+            {
+                "name": "ariados",
+                "id": 168
+            },
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "pineco",
+                "id": 204
+            },
+            {
+                "name": "forretress",
+                "id": 205
+            },
+            {
+                "name": "scizor",
+                "id": 212
+            },
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "heracross",
+                "id": 214
+            },
+            {
+                "name": "wurmple",
+                "id": 265
+            },
+            {
+                "name": "silcoon",
+                "id": 266
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "cascoon",
+                "id": 268
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            },
+            {
+                "name": "surskit",
+                "id": 283
+            },
+            {
+                "name": "masquerain",
+                "id": 284
+            },
+            {
+                "name": "nincada",
+                "id": 290
+            },
+            {
+                "name": "ninjask",
+                "id": 291
+            },
+            {
+                "name": "shedinja",
+                "id": 292
+            },
+            {
+                "name": "volbeat",
+                "id": 313
+            },
+            {
+                "name": "illumise",
+                "id": 314
+            },
+            {
+                "name": "anorith",
+                "id": 347
+            },
+            {
+                "name": "armaldo",
+                "id": 348
+            },
+            {
+                "name": "kricketot",
+                "id": 401
+            },
+            {
+                "name": "kricketune",
+                "id": 402
+            },
+            {
+                "name": "burmy",
+                "id": 412
+            },
+            {
+                "name": "wormadam-plant",
+                "id": 413
+            },
+            {
+                "name": "wormadam-sandy",
+                "id": 10004
+            },
+            {
+                "name": "wormadam-trash",
+                "id": 10005
+            },
+            {
+                "name": "mothim",
+                "id": 414
+            },
+            {
+                "name": "combee",
+                "id": 415
+            },
+            {
+                "name": "vespiquen",
+                "id": 416
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            },
+            {
+                "name": "karrablast",
+                "id": 588
+            },
+            {
+                "name": "escavalier",
+                "id": 589
+            },
+            {
+                "name": "joltik",
+                "id": 595
+            },
+            {
+                "name": "galvantula",
+                "id": 596
+            },
+            {
+                "name": "shelmet",
+                "id": 616
+            },
+            {
+                "name": "accelgor",
+                "id": 617
+            },
+            {
+                "name": "durant",
+                "id": 632
+            },
+            {
+                "name": "larvesta",
+                "id": 636
+            },
+            {
+                "name": "volcarona",
+                "id": 637
+            },
+            {
+                "name": "genesect",
+                "id": 649
+            }
+        ],
+        "moves": [
+            {
+                "name": "twineedle",
+                "id": 41
+            },
+            {
+                "name": "pin-missile",
+                "id": 42
+            },
+            {
+                "name": "string-shot",
+                "id": 81
+            },
+            {
+                "name": "leech-life",
+                "id": 141
+            },
+            {
+                "name": "spider-web",
+                "id": 169
+            },
+            {
+                "name": "fury-cutter",
+                "id": 210
+            },
+            {
+                "name": "megahorn",
+                "id": 224
+            },
+            {
+                "name": "tail-glow",
+                "id": 294
+            },
+            {
+                "name": "silver-wind",
+                "id": 318
+            },
+            {
+                "name": "signal-beam",
+                "id": 324
+            },
+            {
+                "name": "u-turn",
+                "id": 369
+            },
+            {
+                "name": "x-scissor",
+                "id": 404
+            },
+            {
+                "name": "bug-buzz",
+                "id": 405
+            },
+            {
+                "name": "bug-bite",
+                "id": 450
+            },
+            {
+                "name": "attack-order",
+                "id": 454
+            },
+            {
+                "name": "defend-order",
+                "id": 455
+            },
+            {
+                "name": "heal-order",
+                "id": 456
+            },
+            {
+                "name": "rage-powder",
+                "id": 476
+            },
+            {
+                "name": "quiver-dance",
+                "id": 483
+            },
+            {
+                "name": "struggle-bug",
+                "id": 522
+            },
+            {
+                "name": "steamroller",
+                "id": 537
+            }
+        ]
+    },
+    "normal": {
+        "pokemon": [
+            {
+                "name": "pidgey",
+                "id": 16
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17
+            },
+            {
+                "name": "pidgeot",
+                "id": 18
+            },
+            {
+                "name": "rattata",
+                "id": 19
+            },
+            {
+                "name": "raticate",
+                "id": 20
+            },
+            {
+                "name": "spearow",
+                "id": 21
+            },
+            {
+                "name": "fearow",
+                "id": 22
+            },
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "wigglytuff",
+                "id": 40
+            },
+            {
+                "name": "meowth",
+                "id": 52
+            },
+            {
+                "name": "persian",
+                "id": 53
+            },
+            {
+                "name": "farfetchd",
+                "id": 83
+            },
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "lickitung",
+                "id": 108
+            },
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "kangaskhan",
+                "id": 115
+            },
+            {
+                "name": "tauros",
+                "id": 128
+            },
+            {
+                "name": "ditto",
+                "id": 132
+            },
+            {
+                "name": "eevee",
+                "id": 133
+            },
+            {
+                "name": "porygon",
+                "id": 137
+            },
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "sentret",
+                "id": 161
+            },
+            {
+                "name": "furret",
+                "id": 162
+            },
+            {
+                "name": "hoothoot",
+                "id": 163
+            },
+            {
+                "name": "noctowl",
+                "id": 164
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "igglybuff",
+                "id": 174
+            },
+            {
+                "name": "togepi",
+                "id": 175
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "aipom",
+                "id": 190
+            },
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "dunsparce",
+                "id": 206
+            },
+            {
+                "name": "snubbull",
+                "id": 209
+            },
+            {
+                "name": "granbull",
+                "id": 210
+            },
+            {
+                "name": "teddiursa",
+                "id": 216
+            },
+            {
+                "name": "ursaring",
+                "id": 217
+            },
+            {
+                "name": "porygon2",
+                "id": 233
+            },
+            {
+                "name": "stantler",
+                "id": 234
+            },
+            {
+                "name": "smeargle",
+                "id": 235
+            },
+            {
+                "name": "miltank",
+                "id": 241
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            },
+            {
+                "name": "taillow",
+                "id": 276
+            },
+            {
+                "name": "swellow",
+                "id": 277
+            },
+            {
+                "name": "slakoth",
+                "id": 287
+            },
+            {
+                "name": "vigoroth",
+                "id": 288
+            },
+            {
+                "name": "slaking",
+                "id": 289
+            },
+            {
+                "name": "whismur",
+                "id": 293
+            },
+            {
+                "name": "loudred",
+                "id": 294
+            },
+            {
+                "name": "exploud",
+                "id": 295
+            },
+            {
+                "name": "azurill",
+                "id": 298
+            },
+            {
+                "name": "skitty",
+                "id": 300
+            },
+            {
+                "name": "delcatty",
+                "id": 301
+            },
+            {
+                "name": "spinda",
+                "id": 327
+            },
+            {
+                "name": "swablu",
+                "id": 333
+            },
+            {
+                "name": "zangoose",
+                "id": 335
+            },
+            {
+                "name": "castform",
+                "id": 351
+            },
+            {
+                "name": "kecleon",
+                "id": 352
+            },
+            {
+                "name": "starly",
+                "id": 396
+            },
+            {
+                "name": "staravia",
+                "id": 397
+            },
+            {
+                "name": "staraptor",
+                "id": 398
+            },
+            {
+                "name": "bidoof",
+                "id": 399
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            },
+            {
+                "name": "ambipom",
+                "id": 424
+            },
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            },
+            {
+                "name": "glameow",
+                "id": 431
+            },
+            {
+                "name": "purugly",
+                "id": 432
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            },
+            {
+                "name": "munchlax",
+                "id": 446
+            },
+            {
+                "name": "lickilicky",
+                "id": 463
+            },
+            {
+                "name": "togekiss",
+                "id": 468
+            },
+            {
+                "name": "porygon-z",
+                "id": 474
+            },
+            {
+                "name": "regigigas",
+                "id": 486
+            },
+            {
+                "name": "arceus",
+                "id": 493
+            },
+            {
+                "name": "patrat",
+                "id": 504
+            },
+            {
+                "name": "watchog",
+                "id": 505
+            },
+            {
+                "name": "lillipup",
+                "id": 506
+            },
+            {
+                "name": "herdier",
+                "id": 507
+            },
+            {
+                "name": "stoutland",
+                "id": 508
+            },
+            {
+                "name": "pidove",
+                "id": 519
+            },
+            {
+                "name": "tranquill",
+                "id": 520
+            },
+            {
+                "name": "unfezant",
+                "id": 521
+            },
+            {
+                "name": "audino",
+                "id": 531
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            },
+            {
+                "name": "cinccino",
+                "id": 573
+            },
+            {
+                "name": "deerling",
+                "id": 585
+            },
+            {
+                "name": "sawsbuck",
+                "id": 586
+            },
+            {
+                "name": "bouffalant",
+                "id": 626
+            },
+            {
+                "name": "rufflet",
+                "id": 627
+            },
+            {
+                "name": "braviary",
+                "id": 628
+            },
+            {
+                "name": "meloetta-aria",
+                "id": 648
+            },
+            {
+                "name": "meloetta-pirouette",
+                "id": 10018
+            }
+        ],
+        "moves": [
+            {
+                "name": "pound",
+                "id": 1
+            },
+            {
+                "name": "double-slap",
+                "id": 3
+            },
+            {
+                "name": "comet-punch",
+                "id": 4
+            },
+            {
+                "name": "mega-punch",
+                "id": 5
+            },
+            {
+                "name": "pay-day",
+                "id": 6
+            },
+            {
+                "name": "scratch",
+                "id": 10
+            },
+            {
+                "name": "vice-grip",
+                "id": 11
+            },
+            {
+                "name": "guillotine",
+                "id": 12
+            },
+            {
+                "name": "razor-wind",
+                "id": 13
+            },
+            {
+                "name": "swords-dance",
+                "id": 14
+            },
+            {
+                "name": "cut",
+                "id": 15
+            },
+            {
+                "name": "whirlwind",
+                "id": 18
+            },
+            {
+                "name": "bind",
+                "id": 20
+            },
+            {
+                "name": "slam",
+                "id": 21
+            },
+            {
+                "name": "stomp",
+                "id": 23
+            },
+            {
+                "name": "mega-kick",
+                "id": 25
+            },
+            {
+                "name": "headbutt",
+                "id": 29
+            },
+            {
+                "name": "horn-attack",
+                "id": 30
+            },
+            {
+                "name": "fury-attack",
+                "id": 31
+            },
+            {
+                "name": "horn-drill",
+                "id": 32
+            },
+            {
+                "name": "tackle",
+                "id": 33
+            },
+            {
+                "name": "body-slam",
+                "id": 34
+            },
+            {
+                "name": "wrap",
+                "id": 35
+            },
+            {
+                "name": "take-down",
+                "id": 36
+            },
+            {
+                "name": "thrash",
+                "id": 37
+            },
+            {
+                "name": "double-edge",
+                "id": 38
+            },
+            {
+                "name": "tail-whip",
+                "id": 39
+            },
+            {
+                "name": "leer",
+                "id": 43
+            },
+            {
+                "name": "growl",
+                "id": 45
+            },
+            {
+                "name": "roar",
+                "id": 46
+            },
+            {
+                "name": "sing",
+                "id": 47
+            },
+            {
+                "name": "supersonic",
+                "id": 48
+            },
+            {
+                "name": "sonic-boom",
+                "id": 49
+            },
+            {
+                "name": "disable",
+                "id": 50
+            },
+            {
+                "name": "hyper-beam",
+                "id": 63
+            },
+            {
+                "name": "strength",
+                "id": 70
+            },
+            {
+                "name": "growth",
+                "id": 74
+            },
+            {
+                "name": "quick-attack",
+                "id": 98
+            },
+            {
+                "name": "rage",
+                "id": 99
+            },
+            {
+                "name": "mimic",
+                "id": 102
+            },
+            {
+                "name": "screech",
+                "id": 103
+            },
+            {
+                "name": "double-team",
+                "id": 104
+            },
+            {
+                "name": "recover",
+                "id": 105
+            },
+            {
+                "name": "harden",
+                "id": 106
+            },
+            {
+                "name": "minimize",
+                "id": 107
+            },
+            {
+                "name": "smokescreen",
+                "id": 108
+            },
+            {
+                "name": "defense-curl",
+                "id": 111
+            },
+            {
+                "name": "focus-energy",
+                "id": 116
+            },
+            {
+                "name": "bide",
+                "id": 117
+            },
+            {
+                "name": "metronome",
+                "id": 118
+            },
+            {
+                "name": "self-destruct",
+                "id": 120
+            },
+            {
+                "name": "egg-bomb",
+                "id": 121
+            },
+            {
+                "name": "swift",
+                "id": 129
+            },
+            {
+                "name": "skull-bash",
+                "id": 130
+            },
+            {
+                "name": "spike-cannon",
+                "id": 131
+            },
+            {
+                "name": "constrict",
+                "id": 132
+            },
+            {
+                "name": "soft-boiled",
+                "id": 135
+            },
+            {
+                "name": "glare",
+                "id": 137
+            },
+            {
+                "name": "barrage",
+                "id": 140
+            },
+            {
+                "name": "lovely-kiss",
+                "id": 142
+            },
+            {
+                "name": "transform",
+                "id": 144
+            },
+            {
+                "name": "dizzy-punch",
+                "id": 146
+            },
+            {
+                "name": "flash",
+                "id": 148
+            },
+            {
+                "name": "splash",
+                "id": 150
+            },
+            {
+                "name": "explosion",
+                "id": 153
+            },
+            {
+                "name": "fury-swipes",
+                "id": 154
+            },
+            {
+                "name": "hyper-fang",
+                "id": 158
+            },
+            {
+                "name": "sharpen",
+                "id": 159
+            },
+            {
+                "name": "conversion",
+                "id": 160
+            },
+            {
+                "name": "tri-attack",
+                "id": 161
+            },
+            {
+                "name": "super-fang",
+                "id": 162
+            },
+            {
+                "name": "slash",
+                "id": 163
+            },
+            {
+                "name": "substitute",
+                "id": 164
+            },
+            {
+                "name": "struggle",
+                "id": 165
+            },
+            {
+                "name": "sketch",
+                "id": 166
+            },
+            {
+                "name": "mind-reader",
+                "id": 170
+            },
+            {
+                "name": "snore",
+                "id": 173
+            },
+            {
+                "name": "flail",
+                "id": 175
+            },
+            {
+                "name": "conversion-2",
+                "id": 176
+            },
+            {
+                "name": "protect",
+                "id": 182
+            },
+            {
+                "name": "scary-face",
+                "id": 184
+            },
+            {
+                "name": "belly-drum",
+                "id": 187
+            },
+            {
+                "name": "foresight",
+                "id": 193
+            },
+            {
+                "name": "perish-song",
+                "id": 195
+            },
+            {
+                "name": "lock-on",
+                "id": 199
+            },
+            {
+                "name": "endure",
+                "id": 203
+            },
+            {
+                "name": "false-swipe",
+                "id": 206
+            },
+            {
+                "name": "swagger",
+                "id": 207
+            },
+            {
+                "name": "milk-drink",
+                "id": 208
+            },
+            {
+                "name": "mean-look",
+                "id": 212
+            },
+            {
+                "name": "attract",
+                "id": 213
+            },
+            {
+                "name": "sleep-talk",
+                "id": 214
+            },
+            {
+                "name": "heal-bell",
+                "id": 215
+            },
+            {
+                "name": "return",
+                "id": 216
+            },
+            {
+                "name": "present",
+                "id": 217
+            },
+            {
+                "name": "frustration",
+                "id": 218
+            },
+            {
+                "name": "safeguard",
+                "id": 219
+            },
+            {
+                "name": "pain-split",
+                "id": 220
+            },
+            {
+                "name": "baton-pass",
+                "id": 226
+            },
+            {
+                "name": "encore",
+                "id": 227
+            },
+            {
+                "name": "rapid-spin",
+                "id": 229
+            },
+            {
+                "name": "sweet-scent",
+                "id": 230
+            },
+            {
+                "name": "morning-sun",
+                "id": 234
+            },
+            {
+                "name": "hidden-power",
+                "id": 237
+            },
+            {
+                "name": "psych-up",
+                "id": 244
+            },
+            {
+                "name": "extreme-speed",
+                "id": 245
+            },
+            {
+                "name": "fake-out",
+                "id": 252
+            },
+            {
+                "name": "uproar",
+                "id": 253
+            },
+            {
+                "name": "stockpile",
+                "id": 254
+            },
+            {
+                "name": "spit-up",
+                "id": 255
+            },
+            {
+                "name": "swallow",
+                "id": 256
+            },
+            {
+                "name": "facade",
+                "id": 263
+            },
+            {
+                "name": "smelling-salts",
+                "id": 265
+            },
+            {
+                "name": "follow-me",
+                "id": 266
+            },
+            {
+                "name": "nature-power",
+                "id": 267
+            },
+            {
+                "name": "helping-hand",
+                "id": 270
+            },
+            {
+                "name": "wish",
+                "id": 273
+            },
+            {
+                "name": "assist",
+                "id": 274
+            },
+            {
+                "name": "recycle",
+                "id": 278
+            },
+            {
+                "name": "yawn",
+                "id": 281
+            },
+            {
+                "name": "endeavor",
+                "id": 283
+            },
+            {
+                "name": "refresh",
+                "id": 287
+            },
+            {
+                "name": "secret-power",
+                "id": 290
+            },
+            {
+                "name": "camouflage",
+                "id": 293
+            },
+            {
+                "name": "teeter-dance",
+                "id": 298
+            },
+            {
+                "name": "slack-off",
+                "id": 303
+            },
+            {
+                "name": "hyper-voice",
+                "id": 304
+            },
+            {
+                "name": "crush-claw",
+                "id": 306
+            },
+            {
+                "name": "weather-ball",
+                "id": 311
+            },
+            {
+                "name": "odor-sleuth",
+                "id": 316
+            },
+            {
+                "name": "tickle",
+                "id": 321
+            },
+            {
+                "name": "block",
+                "id": 335
+            },
+            {
+                "name": "howl",
+                "id": 336
+            },
+            {
+                "name": "covet",
+                "id": 343
+            },
+            {
+                "name": "natural-gift",
+                "id": 363
+            },
+            {
+                "name": "feint",
+                "id": 364
+            },
+            {
+                "name": "acupressure",
+                "id": 367
+            },
+            {
+                "name": "trump-card",
+                "id": 376
+            },
+            {
+                "name": "wring-out",
+                "id": 378
+            },
+            {
+                "name": "lucky-chant",
+                "id": 381
+            },
+            {
+                "name": "me-first",
+                "id": 382
+            },
+            {
+                "name": "copycat",
+                "id": 383
+            },
+            {
+                "name": "last-resort",
+                "id": 387
+            },
+            {
+                "name": "giga-impact",
+                "id": 416
+            },
+            {
+                "name": "rock-climb",
+                "id": 431
+            },
+            {
+                "name": "captivate",
+                "id": 445
+            },
+            {
+                "name": "judgment",
+                "id": 449
+            },
+            {
+                "name": "double-hit",
+                "id": 458
+            },
+            {
+                "name": "crush-grip",
+                "id": 462
+            },
+            {
+                "name": "simple-beam",
+                "id": 493
+            },
+            {
+                "name": "entrainment",
+                "id": 494
+            },
+            {
+                "name": "after-you",
+                "id": 495
+            },
+            {
+                "name": "round",
+                "id": 496
+            },
+            {
+                "name": "echoed-voice",
+                "id": 497
+            },
+            {
+                "name": "chip-away",
+                "id": 498
+            },
+            {
+                "name": "shell-smash",
+                "id": 504
+            },
+            {
+                "name": "reflect-type",
+                "id": 513
+            },
+            {
+                "name": "retaliate",
+                "id": 514
+            },
+            {
+                "name": "bestow",
+                "id": 516
+            },
+            {
+                "name": "work-up",
+                "id": 526
+            },
+            {
+                "name": "tail-slap",
+                "id": 541
+            },
+            {
+                "name": "head-charge",
+                "id": 543
+            },
+            {
+                "name": "techno-blast",
+                "id": 546
+            },
+            {
+                "name": "relic-song",
+                "id": 547
+            }
+        ]
+    },
+    "electric": {
+        "pokemon": [
+            {
+                "name": "pikachu",
+                "id": 25
+            },
+            {
+                "name": "raichu",
+                "id": 26
+            },
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "voltorb",
+                "id": 100
+            },
+            {
+                "name": "electrode",
+                "id": 101
+            },
+            {
+                "name": "electabuzz",
+                "id": 125
+            },
+            {
+                "name": "jolteon",
+                "id": 135
+            },
+            {
+                "name": "zapdos",
+                "id": 145
+            },
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "pichu",
+                "id": 172
+            },
+            {
+                "name": "mareep",
+                "id": 179
+            },
+            {
+                "name": "flaaffy",
+                "id": 180
+            },
+            {
+                "name": "ampharos",
+                "id": 181
+            },
+            {
+                "name": "elekid",
+                "id": 239
+            },
+            {
+                "name": "raikou",
+                "id": 243
+            },
+            {
+                "name": "electrike",
+                "id": 309
+            },
+            {
+                "name": "manectric",
+                "id": 310
+            },
+            {
+                "name": "plusle",
+                "id": 311
+            },
+            {
+                "name": "minun",
+                "id": 312
+            },
+            {
+                "name": "shinx",
+                "id": 403
+            },
+            {
+                "name": "luxio",
+                "id": 404
+            },
+            {
+                "name": "luxray",
+                "id": 405
+            },
+            {
+                "name": "pachirisu",
+                "id": 417
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "electivire",
+                "id": 466
+            },
+            {
+                "name": "rotom",
+                "id": 479
+            },
+            {
+                "name": "rotom-heat",
+                "id": 10008
+            },
+            {
+                "name": "rotom-wash",
+                "id": 10009
+            },
+            {
+                "name": "rotom-frost",
+                "id": 10010
+            },
+            {
+                "name": "rotom-fan",
+                "id": 10011
+            },
+            {
+                "name": "rotom-mow",
+                "id": 10012
+            },
+            {
+                "name": "blitzle",
+                "id": 522
+            },
+            {
+                "name": "zebstrika",
+                "id": 523
+            },
+            {
+                "name": "emolga",
+                "id": 587
+            },
+            {
+                "name": "joltik",
+                "id": 595
+            },
+            {
+                "name": "galvantula",
+                "id": 596
+            },
+            {
+                "name": "tynamo",
+                "id": 602
+            },
+            {
+                "name": "eelektrik",
+                "id": 603
+            },
+            {
+                "name": "eelektross",
+                "id": 604
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            },
+            {
+                "name": "thundurus-incarnate",
+                "id": 642
+            },
+            {
+                "name": "thundurus-therian",
+                "id": 10020
+            },
+            {
+                "name": "zekrom",
+                "id": 644
+            }
+        ],
+        "moves": [
+            {
+                "name": "thunder-punch",
+                "id": 9
+            },
+            {
+                "name": "thunder-shock",
+                "id": 84
+            },
+            {
+                "name": "thunderbolt",
+                "id": 85
+            },
+            {
+                "name": "thunder-wave",
+                "id": 86
+            },
+            {
+                "name": "thunder",
+                "id": 87
+            },
+            {
+                "name": "zap-cannon",
+                "id": 192
+            },
+            {
+                "name": "spark",
+                "id": 209
+            },
+            {
+                "name": "charge",
+                "id": 268
+            },
+            {
+                "name": "volt-tackle",
+                "id": 344
+            },
+            {
+                "name": "shock-wave",
+                "id": 351
+            },
+            {
+                "name": "magnet-rise",
+                "id": 393
+            },
+            {
+                "name": "thunder-fang",
+                "id": 422
+            },
+            {
+                "name": "discharge",
+                "id": 435
+            },
+            {
+                "name": "charge-beam",
+                "id": 451
+            },
+            {
+                "name": "electro-ball",
+                "id": 486
+            },
+            {
+                "name": "volt-switch",
+                "id": 521
+            },
+            {
+                "name": "electroweb",
+                "id": 527
+            },
+            {
+                "name": "wild-charge",
+                "id": 528
+            },
+            {
+                "name": "bolt-strike",
+                "id": 550
+            },
+            {
+                "name": "fusion-bolt",
+                "id": 559
+            }
+        ]
+    },
+    "ground": {
+        "pokemon": [
+            {
+                "name": "sandshrew",
+                "id": 27
+            },
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
+            },
+            {
+                "name": "nidoking",
+                "id": 34
+            },
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            },
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "wooper",
+                "id": 194
+            },
+            {
+                "name": "quagsire",
+                "id": 195
+            },
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "phanpy",
+                "id": 231
+            },
+            {
+                "name": "donphan",
+                "id": 232
+            },
+            {
+                "name": "larvitar",
+                "id": 246
+            },
+            {
+                "name": "pupitar",
+                "id": 247
+            },
+            {
+                "name": "marshtomp",
+                "id": 259
+            },
+            {
+                "name": "swampert",
+                "id": 260
+            },
+            {
+                "name": "nincada",
+                "id": 290
+            },
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "camerupt",
+                "id": 323
+            },
+            {
+                "name": "trapinch",
+                "id": 328
+            },
+            {
+                "name": "vibrava",
+                "id": 329
+            },
+            {
+                "name": "flygon",
+                "id": 330
+            },
+            {
+                "name": "barboach",
+                "id": 339
+            },
+            {
+                "name": "whiscash",
+                "id": 340
+            },
+            {
+                "name": "baltoy",
+                "id": 343
+            },
+            {
+                "name": "claydol",
+                "id": 344
+            },
+            {
+                "name": "groudon",
+                "id": 383
+            },
+            {
+                "name": "torterra",
+                "id": 389
+            },
+            {
+                "name": "wormadam-sandy",
+                "id": 10004
+            },
+            {
+                "name": "gastrodon",
+                "id": 423
+            },
+            {
+                "name": "gible",
+                "id": 443
+            },
+            {
+                "name": "gabite",
+                "id": 444
+            },
+            {
+                "name": "garchomp",
+                "id": 445
+            },
+            {
+                "name": "hippopotas",
+                "id": 449
+            },
+            {
+                "name": "hippowdon",
+                "id": 450
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "drilbur",
+                "id": 529
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            },
+            {
+                "name": "landorus-incarnate",
+                "id": 645
+            },
+            {
+                "name": "landorus-therian",
+                "id": 10021
+            }
+        ],
+        "moves": [
+            {
+                "name": "sand-attack",
+                "id": 28
+            },
+            {
+                "name": "earthquake",
+                "id": 89
+            },
+            {
+                "name": "fissure",
+                "id": 90
+            },
+            {
+                "name": "dig",
+                "id": 91
+            },
+            {
+                "name": "bone-club",
+                "id": 125
+            },
+            {
+                "name": "bonemerang",
+                "id": 155
+            },
+            {
+                "name": "mud-slap",
+                "id": 189
+            },
+            {
+                "name": "spikes",
+                "id": 191
+            },
+            {
+                "name": "bone-rush",
+                "id": 198
+            },
+            {
+                "name": "magnitude",
+                "id": 222
+            },
+            {
+                "name": "mud-sport",
+                "id": 300
+            },
+            {
+                "name": "sand-tomb",
+                "id": 328
+            },
+            {
+                "name": "mud-shot",
+                "id": 341
+            },
+            {
+                "name": "earth-power",
+                "id": 414
+            },
+            {
+                "name": "mud-bomb",
+                "id": 426
+            },
+            {
+                "name": "bulldoze",
+                "id": 523
+            },
+            {
+                "name": "drill-run",
+                "id": 529
+            }
+        ]
+    },
+    "fighting": {
+        "pokemon": [
+            {
+                "name": "mankey",
+                "id": 56
+            },
+            {
+                "name": "primeape",
+                "id": 57
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "machop",
+                "id": 66
+            },
+            {
+                "name": "machoke",
+                "id": 67
+            },
+            {
+                "name": "machamp",
+                "id": 68
+            },
+            {
+                "name": "hitmonlee",
+                "id": 106
+            },
+            {
+                "name": "hitmonchan",
+                "id": 107
+            },
+            {
+                "name": "heracross",
+                "id": 214
+            },
+            {
+                "name": "tyrogue",
+                "id": 236
+            },
+            {
+                "name": "hitmontop",
+                "id": 237
+            },
+            {
+                "name": "combusken",
+                "id": 256
+            },
+            {
+                "name": "blaziken",
+                "id": 257
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "makuhita",
+                "id": 296
+            },
+            {
+                "name": "hariyama",
+                "id": 297
+            },
+            {
+                "name": "meditite",
+                "id": 307
+            },
+            {
+                "name": "medicham",
+                "id": 308
+            },
+            {
+                "name": "monferno",
+                "id": 391
+            },
+            {
+                "name": "infernape",
+                "id": 392
+            },
+            {
+                "name": "riolu",
+                "id": 447
+            },
+            {
+                "name": "lucario",
+                "id": 448
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            },
+            {
+                "name": "gallade",
+                "id": 475
+            },
+            {
+                "name": "pignite",
+                "id": 499
+            },
+            {
+                "name": "emboar",
+                "id": 500
+            },
+            {
+                "name": "timburr",
+                "id": 532
+            },
+            {
+                "name": "gurdurr",
+                "id": 533
+            },
+            {
+                "name": "conkeldurr",
+                "id": 534
+            },
+            {
+                "name": "throh",
+                "id": 538
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            },
+            {
+                "name": "mienfoo",
+                "id": 619
+            },
+            {
+                "name": "mienshao",
+                "id": 620
+            },
+            {
+                "name": "cobalion",
+                "id": 638
+            },
+            {
+                "name": "terrakion",
+                "id": 639
+            },
+            {
+                "name": "virizion",
+                "id": 640
+            },
+            {
+                "name": "keldeo-ordinary",
+                "id": 647
+            },
+            {
+                "name": "keldeo-resolute",
+                "id": 10024
+            },
+            {
+                "name": "meloetta-pirouette",
+                "id": 10018
+            }
+        ],
+        "moves": [
+            {
+                "name": "karate-chop",
+                "id": 2
+            },
+            {
+                "name": "double-kick",
+                "id": 24
+            },
+            {
+                "name": "jump-kick",
+                "id": 26
+            },
+            {
+                "name": "rolling-kick",
+                "id": 27
+            },
+            {
+                "name": "submission",
+                "id": 66
+            },
+            {
+                "name": "low-kick",
+                "id": 67
+            },
+            {
+                "name": "counter",
+                "id": 68
+            },
+            {
+                "name": "seismic-toss",
+                "id": 69
+            },
+            {
+                "name": "high-jump-kick",
+                "id": 136
+            },
+            {
+                "name": "triple-kick",
+                "id": 167
+            },
+            {
+                "name": "reversal",
+                "id": 179
+            },
+            {
+                "name": "mach-punch",
+                "id": 183
+            },
+            {
+                "name": "detect",
+                "id": 197
+            },
+            {
+                "name": "dynamic-punch",
+                "id": 223
+            },
+            {
+                "name": "vital-throw",
+                "id": 233
+            },
+            {
+                "name": "cross-chop",
+                "id": 238
+            },
+            {
+                "name": "rock-smash",
+                "id": 249
+            },
+            {
+                "name": "focus-punch",
+                "id": 264
+            },
+            {
+                "name": "superpower",
+                "id": 276
+            },
+            {
+                "name": "revenge",
+                "id": 279
+            },
+            {
+                "name": "brick-break",
+                "id": 280
+            },
+            {
+                "name": "arm-thrust",
+                "id": 292
+            },
+            {
+                "name": "sky-uppercut",
+                "id": 327
+            },
+            {
+                "name": "bulk-up",
+                "id": 339
+            },
+            {
+                "name": "wake-up-slap",
+                "id": 358
+            },
+            {
+                "name": "hammer-arm",
+                "id": 359
+            },
+            {
+                "name": "close-combat",
+                "id": 370
+            },
+            {
+                "name": "force-palm",
+                "id": 395
+            },
+            {
+                "name": "aura-sphere",
+                "id": 396
+            },
+            {
+                "name": "drain-punch",
+                "id": 409
+            },
+            {
+                "name": "vacuum-wave",
+                "id": 410
+            },
+            {
+                "name": "focus-blast",
+                "id": 411
+            },
+            {
+                "name": "storm-throw",
+                "id": 480
+            },
+            {
+                "name": "low-sweep",
+                "id": 490
+            },
+            {
+                "name": "quick-guard",
+                "id": 501
+            },
+            {
+                "name": "circle-throw",
+                "id": 509
+            },
+            {
+                "name": "final-gambit",
+                "id": 515
+            },
+            {
+                "name": "sacred-sword",
+                "id": 533
+            },
+            {
+                "name": "secret-sword",
+                "id": 548
+            }
+        ]
+    },
+    "psychic": {
+        "pokemon": [
+            {
+                "name": "abra",
+                "id": 63
+            },
+            {
+                "name": "kadabra",
+                "id": 64
+            },
+            {
+                "name": "alakazam",
+                "id": 65
+            },
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "drowzee",
+                "id": 96
+            },
+            {
+                "name": "hypno",
+                "id": 97
+            },
+            {
+                "name": "exeggcute",
+                "id": 102
+            },
+            {
+                "name": "exeggutor",
+                "id": 103
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "mr-mime",
+                "id": 122
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "mewtwo",
+                "id": 150
+            },
+            {
+                "name": "mew",
+                "id": 151
+            },
+            {
+                "name": "natu",
+                "id": 177
+            },
+            {
+                "name": "xatu",
+                "id": 178
+            },
+            {
+                "name": "espeon",
+                "id": 196
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "unown",
+                "id": 201
+            },
+            {
+                "name": "wobbuffet",
+                "id": 202
+            },
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "lugia",
+                "id": 249
+            },
+            {
+                "name": "celebi",
+                "id": 251
+            },
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "gardevoir",
+                "id": 282
+            },
+            {
+                "name": "meditite",
+                "id": 307
+            },
+            {
+                "name": "medicham",
+                "id": 308
+            },
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            },
+            {
+                "name": "baltoy",
+                "id": 343
+            },
+            {
+                "name": "claydol",
+                "id": 344
+            },
+            {
+                "name": "chimecho",
+                "id": 358
+            },
+            {
+                "name": "wynaut",
+                "id": 360
+            },
+            {
+                "name": "beldum",
+                "id": 374
+            },
+            {
+                "name": "metang",
+                "id": 375
+            },
+            {
+                "name": "metagross",
+                "id": 376
+            },
+            {
+                "name": "latias",
+                "id": 380
+            },
+            {
+                "name": "latios",
+                "id": 381
+            },
+            {
+                "name": "jirachi",
+                "id": 385
+            },
+            {
+                "name": "deoxys-normal",
+                "id": 386
+            },
+            {
+                "name": "deoxys-attack",
+                "id": 10001
+            },
+            {
+                "name": "deoxys-defense",
+                "id": 10002
+            },
+            {
+                "name": "deoxys-speed",
+                "id": 10003
+            },
+            {
+                "name": "chingling",
+                "id": 433
+            },
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            },
+            {
+                "name": "mime-jr",
+                "id": 439
+            },
+            {
+                "name": "gallade",
+                "id": 475
+            },
+            {
+                "name": "uxie",
+                "id": 480
+            },
+            {
+                "name": "mesprit",
+                "id": 481
+            },
+            {
+                "name": "azelf",
+                "id": 482
+            },
+            {
+                "name": "cresselia",
+                "id": 488
+            },
+            {
+                "name": "victini",
+                "id": 494
+            },
+            {
+                "name": "munna",
+                "id": 517
+            },
+            {
+                "name": "musharna",
+                "id": 518
+            },
+            {
+                "name": "woobat",
+                "id": 527
+            },
+            {
+                "name": "swoobat",
+                "id": 528
+            },
+            {
+                "name": "darmanitan-zen",
+                "id": 10017
+            },
+            {
+                "name": "sigilyph",
+                "id": 561
+            },
+            {
+                "name": "gothita",
+                "id": 574
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            },
+            {
+                "name": "solosis",
+                "id": 577
+            },
+            {
+                "name": "duosion",
+                "id": 578
+            },
+            {
+                "name": "reuniclus",
+                "id": 579
+            },
+            {
+                "name": "elgyem",
+                "id": 605
+            },
+            {
+                "name": "beheeyem",
+                "id": 606
+            },
+            {
+                "name": "meloetta-aria",
+                "id": 648
+            }
+        ],
+        "moves": [
+            {
+                "name": "psybeam",
+                "id": 60
+            },
+            {
+                "name": "confusion",
+                "id": 93
+            },
+            {
+                "name": "psychic",
+                "id": 94
+            },
+            {
+                "name": "hypnosis",
+                "id": 95
+            },
+            {
+                "name": "meditate",
+                "id": 96
+            },
+            {
+                "name": "agility",
+                "id": 97
+            },
+            {
+                "name": "teleport",
+                "id": 100
+            },
+            {
+                "name": "barrier",
+                "id": 112
+            },
+            {
+                "name": "light-screen",
+                "id": 113
+            },
+            {
+                "name": "reflect",
+                "id": 115
+            },
+            {
+                "name": "amnesia",
+                "id": 133
+            },
+            {
+                "name": "kinesis",
+                "id": 134
+            },
+            {
+                "name": "dream-eater",
+                "id": 138
+            },
+            {
+                "name": "psywave",
+                "id": 149
+            },
+            {
+                "name": "rest",
+                "id": 156
+            },
+            {
+                "name": "mirror-coat",
+                "id": 243
+            },
+            {
+                "name": "future-sight",
+                "id": 248
+            },
+            {
+                "name": "trick",
+                "id": 271
+            },
+            {
+                "name": "role-play",
+                "id": 272
+            },
+            {
+                "name": "magic-coat",
+                "id": 277
+            },
+            {
+                "name": "skill-swap",
+                "id": 285
+            },
+            {
+                "name": "imprison",
+                "id": 286
+            },
+            {
+                "name": "luster-purge",
+                "id": 295
+            },
+            {
+                "name": "mist-ball",
+                "id": 296
+            },
+            {
+                "name": "cosmic-power",
+                "id": 322
+            },
+            {
+                "name": "extrasensory",
+                "id": 326
+            },
+            {
+                "name": "calm-mind",
+                "id": 347
+            },
+            {
+                "name": "psycho-boost",
+                "id": 354
+            },
+            {
+                "name": "gravity",
+                "id": 356
+            },
+            {
+                "name": "miracle-eye",
+                "id": 357
+            },
+            {
+                "name": "healing-wish",
+                "id": 361
+            },
+            {
+                "name": "psycho-shift",
+                "id": 375
+            },
+            {
+                "name": "heal-block",
+                "id": 377
+            },
+            {
+                "name": "power-trick",
+                "id": 379
+            },
+            {
+                "name": "power-swap",
+                "id": 384
+            },
+            {
+                "name": "guard-swap",
+                "id": 385
+            },
+            {
+                "name": "heart-swap",
+                "id": 391
+            },
+            {
+                "name": "psycho-cut",
+                "id": 427
+            },
+            {
+                "name": "zen-headbutt",
+                "id": 428
+            },
+            {
+                "name": "trick-room",
+                "id": 433
+            },
+            {
+                "name": "lunar-dance",
+                "id": 461
+            },
+            {
+                "name": "guard-split",
+                "id": 470
+            },
+            {
+                "name": "power-split",
+                "id": 471
+            },
+            {
+                "name": "wonder-room",
+                "id": 472
+            },
+            {
+                "name": "psyshock",
+                "id": 473
+            },
+            {
+                "name": "telekinesis",
+                "id": 477
+            },
+            {
+                "name": "magic-room",
+                "id": 478
+            },
+            {
+                "name": "synchronoise",
+                "id": 485
+            },
+            {
+                "name": "stored-power",
+                "id": 500
+            },
+            {
+                "name": "ally-switch",
+                "id": 502
+            },
+            {
+                "name": "heal-pulse",
+                "id": 505
+            },
+            {
+                "name": "heart-stamp",
+                "id": 531
+            },
+            {
+                "name": "psystrike",
+                "id": 540
+            }
+        ]
+    },
+    "rock": {
+        "pokemon": [
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "omanyte",
+                "id": 138
+            },
+            {
+                "name": "omastar",
+                "id": 139
+            },
+            {
+                "name": "kabuto",
+                "id": 140
+            },
+            {
+                "name": "kabutops",
+                "id": 141
+            },
+            {
+                "name": "aerodactyl",
+                "id": 142
+            },
+            {
+                "name": "sudowoodo",
+                "id": 185
+            },
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "magcargo",
+                "id": 219
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "larvitar",
+                "id": 246
+            },
+            {
+                "name": "pupitar",
+                "id": 247
+            },
+            {
+                "name": "tyranitar",
+                "id": 248
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            },
+            {
+                "name": "lileep",
+                "id": 345
+            },
+            {
+                "name": "cradily",
+                "id": 346
+            },
+            {
+                "name": "anorith",
+                "id": 347
+            },
+            {
+                "name": "armaldo",
+                "id": 348
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "regirock",
+                "id": 377
+            },
+            {
+                "name": "cranidos",
+                "id": 408
+            },
+            {
+                "name": "rampardos",
+                "id": 409
+            },
+            {
+                "name": "shieldon",
+                "id": 410
+            },
+            {
+                "name": "bastiodon",
+                "id": 411
+            },
+            {
+                "name": "bonsly",
+                "id": 438
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            },
+            {
+                "name": "tirtouga",
+                "id": 564
+            },
+            {
+                "name": "carracosta",
+                "id": 565
+            },
+            {
+                "name": "archen",
+                "id": 566
+            },
+            {
+                "name": "archeops",
+                "id": 567
+            },
+            {
+                "name": "terrakion",
+                "id": 639
+            }
+        ],
+        "moves": [
+            {
+                "name": "rock-throw",
+                "id": 88
+            },
+            {
+                "name": "rock-slide",
+                "id": 157
+            },
+            {
+                "name": "sandstorm",
+                "id": 201
+            },
+            {
+                "name": "rollout",
+                "id": 205
+            },
+            {
+                "name": "ancient-power",
+                "id": 246
+            },
+            {
+                "name": "rock-tomb",
+                "id": 317
+            },
+            {
+                "name": "rock-blast",
+                "id": 350
+            },
+            {
+                "name": "rock-polish",
+                "id": 397
+            },
+            {
+                "name": "power-gem",
+                "id": 408
+            },
+            {
+                "name": "rock-wrecker",
+                "id": 439
+            },
+            {
+                "name": "stone-edge",
+                "id": 444
+            },
+            {
+                "name": "stealth-rock",
+                "id": 446
+            },
+            {
+                "name": "head-smash",
+                "id": 457
+            },
+            {
+                "name": "wide-guard",
+                "id": 469
+            },
+            {
+                "name": "smack-down",
+                "id": 479
+            }
+        ]
+    },
+    "steel": {
+        "pokemon": [
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "forretress",
+                "id": 205
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "scizor",
+                "id": 212
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "mawile",
+                "id": 303
+            },
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "beldum",
+                "id": 374
+            },
+            {
+                "name": "metang",
+                "id": 375
+            },
+            {
+                "name": "metagross",
+                "id": 376
+            },
+            {
+                "name": "registeel",
+                "id": 379
+            },
+            {
+                "name": "jirachi",
+                "id": 385
+            },
+            {
+                "name": "empoleon",
+                "id": 395
+            },
+            {
+                "name": "shieldon",
+                "id": 410
+            },
+            {
+                "name": "bastiodon",
+                "id": 411
+            },
+            {
+                "name": "wormadam-trash",
+                "id": 10005
+            },
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            },
+            {
+                "name": "lucario",
+                "id": 448
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "dialga",
+                "id": 483
+            },
+            {
+                "name": "heatran",
+                "id": 485
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            },
+            {
+                "name": "escavalier",
+                "id": 589
+            },
+            {
+                "name": "ferroseed",
+                "id": 597
+            },
+            {
+                "name": "ferrothorn",
+                "id": 598
+            },
+            {
+                "name": "klink",
+                "id": 599
+            },
+            {
+                "name": "klang",
+                "id": 600
+            },
+            {
+                "name": "klinklang",
+                "id": 601
+            },
+            {
+                "name": "pawniard",
+                "id": 624
+            },
+            {
+                "name": "bisharp",
+                "id": 625
+            },
+            {
+                "name": "durant",
+                "id": 632
+            },
+            {
+                "name": "cobalion",
+                "id": 638
+            },
+            {
+                "name": "genesect",
+                "id": 649
+            }
+        ],
+        "moves": [
+            {
+                "name": "steel-wing",
+                "id": 211
+            },
+            {
+                "name": "iron-tail",
+                "id": 231
+            },
+            {
+                "name": "metal-claw",
+                "id": 232
+            },
+            {
+                "name": "meteor-mash",
+                "id": 309
+            },
+            {
+                "name": "metal-sound",
+                "id": 319
+            },
+            {
+                "name": "iron-defense",
+                "id": 334
+            },
+            {
+                "name": "doom-desire",
+                "id": 353
+            },
+            {
+                "name": "gyro-ball",
+                "id": 360
+            },
+            {
+                "name": "metal-burst",
+                "id": 368
+            },
+            {
+                "name": "bullet-punch",
+                "id": 418
+            },
+            {
+                "name": "mirror-shot",
+                "id": 429
+            },
+            {
+                "name": "flash-cannon",
+                "id": 430
+            },
+            {
+                "name": "iron-head",
+                "id": 442
+            },
+            {
+                "name": "magnet-bomb",
+                "id": 443
+            },
+            {
+                "name": "autotomize",
+                "id": 475
+            },
+            {
+                "name": "heavy-slam",
+                "id": 484
+            },
+            {
+                "name": "shift-gear",
+                "id": 508
+            },
+            {
+                "name": "gear-grind",
+                "id": 544
+            }
+        ]
+    },
+    "ice": {
+        "pokemon": [
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "articuno",
+                "id": 144
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "delibird",
+                "id": 225
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "castform-snowy",
+                "id": 10015
+            },
+            {
+                "name": "snorunt",
+                "id": 361
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "spheal",
+                "id": 363
+            },
+            {
+                "name": "sealeo",
+                "id": 364
+            },
+            {
+                "name": "walrein",
+                "id": 365
+            },
+            {
+                "name": "regice",
+                "id": 378
+            },
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            },
+            {
+                "name": "glaceon",
+                "id": 471
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "froslass",
+                "id": 478
+            },
+            {
+                "name": "rotom-frost",
+                "id": 10010
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            },
+            {
+                "name": "cubchoo",
+                "id": 613
+            },
+            {
+                "name": "beartic",
+                "id": 614
+            },
+            {
+                "name": "cryogonal",
+                "id": 615
+            },
+            {
+                "name": "kyurem",
+                "id": 646
+            },
+            {
+                "name": "kyurem-black",
+                "id": 10022
+            },
+            {
+                "name": "kyurem-white",
+                "id": 10023
+            }
+        ],
+        "moves": [
+            {
+                "name": "ice-punch",
+                "id": 8
+            },
+            {
+                "name": "mist",
+                "id": 54
+            },
+            {
+                "name": "ice-beam",
+                "id": 58
+            },
+            {
+                "name": "blizzard",
+                "id": 59
+            },
+            {
+                "name": "aurora-beam",
+                "id": 62
+            },
+            {
+                "name": "haze",
+                "id": 114
+            },
+            {
+                "name": "powder-snow",
+                "id": 181
+            },
+            {
+                "name": "icy-wind",
+                "id": 196
+            },
+            {
+                "name": "hail",
+                "id": 258
+            },
+            {
+                "name": "ice-ball",
+                "id": 301
+            },
+            {
+                "name": "sheer-cold",
+                "id": 329
+            },
+            {
+                "name": "icicle-spear",
+                "id": 333
+            },
+            {
+                "name": "avalanche",
+                "id": 419
+            },
+            {
+                "name": "ice-shard",
+                "id": 420
+            },
+            {
+                "name": "ice-fang",
+                "id": 423
+            },
+            {
+                "name": "frost-breath",
+                "id": 524
+            },
+            {
+                "name": "glaciate",
+                "id": 549
+            },
+            {
+                "name": "freeze-shock",
+                "id": 553
+            },
+            {
+                "name": "ice-burn",
+                "id": 554
+            },
+            {
+                "name": "icicle-crash",
+                "id": 556
+            }
+        ]
+    },
+    "ghost": {
+        "pokemon": [
+            {
+                "name": "gastly",
+                "id": 92
+            },
+            {
+                "name": "haunter",
+                "id": 93
+            },
+            {
+                "name": "gengar",
+                "id": 94
+            },
+            {
+                "name": "misdreavus",
+                "id": 200
+            },
+            {
+                "name": "shedinja",
+                "id": 292
+            },
+            {
+                "name": "sableye",
+                "id": 302
+            },
+            {
+                "name": "shuppet",
+                "id": 353
+            },
+            {
+                "name": "banette",
+                "id": 354
+            },
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "drifloon",
+                "id": 425
+            },
+            {
+                "name": "drifblim",
+                "id": 426
+            },
+            {
+                "name": "mismagius",
+                "id": 429
+            },
+            {
+                "name": "spiritomb",
+                "id": 442
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            },
+            {
+                "name": "froslass",
+                "id": 478
+            },
+            {
+                "name": "rotom",
+                "id": 479
+            },
+            {
+                "name": "giratina-altered",
+                "id": 487
+            },
+            {
+                "name": "giratina-origin",
+                "id": 10007
+            },
+            {
+                "name": "yamask",
+                "id": 562
+            },
+            {
+                "name": "cofagrigus",
+                "id": 563
+            },
+            {
+                "name": "frillish",
+                "id": 592
+            },
+            {
+                "name": "jellicent",
+                "id": 593
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            },
+            {
+                "name": "chandelure",
+                "id": 609
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            }
+        ],
+        "moves": [
+            {
+                "name": "night-shade",
+                "id": 101
+            },
+            {
+                "name": "confuse-ray",
+                "id": 109
+            },
+            {
+                "name": "lick",
+                "id": 122
+            },
+            {
+                "name": "nightmare",
+                "id": 171
+            },
+            {
+                "name": "curse",
+                "id": 174
+            },
+            {
+                "name": "spite",
+                "id": 180
+            },
+            {
+                "name": "destiny-bond",
+                "id": 194
+            },
+            {
+                "name": "shadow-ball",
+                "id": 247
+            },
+            {
+                "name": "grudge",
+                "id": 288
+            },
+            {
+                "name": "astonish",
+                "id": 310
+            },
+            {
+                "name": "shadow-punch",
+                "id": 325
+            },
+            {
+                "name": "shadow-claw",
+                "id": 421
+            },
+            {
+                "name": "shadow-sneak",
+                "id": 425
+            },
+            {
+                "name": "ominous-wind",
+                "id": 466
+            },
+            {
+                "name": "shadow-force",
+                "id": 467
+            },
+            {
+                "name": "hex",
+                "id": 506
+            }
+        ]
+    },
+    "dragon": {
+        "pokemon": [
+            {
+                "name": "dratini",
+                "id": 147
+            },
+            {
+                "name": "dragonair",
+                "id": 148
+            },
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "vibrava",
+                "id": 329
+            },
+            {
+                "name": "flygon",
+                "id": 330
+            },
+            {
+                "name": "altaria",
+                "id": 334
+            },
+            {
+                "name": "bagon",
+                "id": 371
+            },
+            {
+                "name": "shelgon",
+                "id": 372
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            },
+            {
+                "name": "latias",
+                "id": 380
+            },
+            {
+                "name": "latios",
+                "id": 381
+            },
+            {
+                "name": "rayquaza",
+                "id": 384
+            },
+            {
+                "name": "gible",
+                "id": 443
+            },
+            {
+                "name": "gabite",
+                "id": 444
+            },
+            {
+                "name": "garchomp",
+                "id": 445
+            },
+            {
+                "name": "dialga",
+                "id": 483
+            },
+            {
+                "name": "palkia",
+                "id": 484
+            },
+            {
+                "name": "giratina-altered",
+                "id": 487
+            },
+            {
+                "name": "giratina-origin",
+                "id": 10007
+            },
+            {
+                "name": "axew",
+                "id": 610
+            },
+            {
+                "name": "fraxure",
+                "id": 611
+            },
+            {
+                "name": "haxorus",
+                "id": 612
+            },
+            {
+                "name": "druddigon",
+                "id": 621
+            },
+            {
+                "name": "deino",
+                "id": 633
+            },
+            {
+                "name": "zweilous",
+                "id": 634
+            },
+            {
+                "name": "hydreigon",
+                "id": 635
+            },
+            {
+                "name": "reshiram",
+                "id": 643
+            },
+            {
+                "name": "zekrom",
+                "id": 644
+            },
+            {
+                "name": "kyurem",
+                "id": 646
+            },
+            {
+                "name": "kyurem-black",
+                "id": 10022
+            },
+            {
+                "name": "kyurem-white",
+                "id": 10023
+            }
+        ],
+        "moves": [
+            {
+                "name": "dragon-rage",
+                "id": 82
+            },
+            {
+                "name": "outrage",
+                "id": 200
+            },
+            {
+                "name": "dragon-breath",
+                "id": 225
+            },
+            {
+                "name": "twister",
+                "id": 239
+            },
+            {
+                "name": "dragon-claw",
+                "id": 337
+            },
+            {
+                "name": "dragon-dance",
+                "id": 349
+            },
+            {
+                "name": "dragon-pulse",
+                "id": 406
+            },
+            {
+                "name": "dragon-rush",
+                "id": 407
+            },
+            {
+                "name": "draco-meteor",
+                "id": 434
+            },
+            {
+                "name": "roar-of-time",
+                "id": 459
+            },
+            {
+                "name": "spacial-rend",
+                "id": 460
+            },
+            {
+                "name": "dragon-tail",
+                "id": 525
+            },
+            {
+                "name": "dual-chop",
+                "id": 530
+            }
+        ]
+    },
+    "dark": {
+        "pokemon": [
+            {
+                "name": "umbreon",
+                "id": 197
+            },
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "houndour",
+                "id": 228
+            },
+            {
+                "name": "houndoom",
+                "id": 229
+            },
+            {
+                "name": "tyranitar",
+                "id": 248
+            },
+            {
+                "name": "poochyena",
+                "id": 261
+            },
+            {
+                "name": "mightyena",
+                "id": 262
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            },
+            {
+                "name": "shiftry",
+                "id": 275
+            },
+            {
+                "name": "sableye",
+                "id": 302
+            },
+            {
+                "name": "carvanha",
+                "id": 318
+            },
+            {
+                "name": "sharpedo",
+                "id": 319
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "crawdaunt",
+                "id": 342
+            },
+            {
+                "name": "absol",
+                "id": 359
+            },
+            {
+                "name": "honchkrow",
+                "id": 430
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "spiritomb",
+                "id": 442
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            },
+            {
+                "name": "darkrai",
+                "id": 491
+            },
+            {
+                "name": "purrloin",
+                "id": 509
+            },
+            {
+                "name": "liepard",
+                "id": 510
+            },
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            },
+            {
+                "name": "zorua",
+                "id": 570
+            },
+            {
+                "name": "zoroark",
+                "id": 571
+            },
+            {
+                "name": "pawniard",
+                "id": 624
+            },
+            {
+                "name": "bisharp",
+                "id": 625
+            },
+            {
+                "name": "vullaby",
+                "id": 629
+            },
+            {
+                "name": "mandibuzz",
+                "id": 630
+            },
+            {
+                "name": "deino",
+                "id": 633
+            },
+            {
+                "name": "zweilous",
+                "id": 634
+            },
+            {
+                "name": "hydreigon",
+                "id": 635
+            }
+        ],
+        "moves": [
+            {
+                "name": "bite",
+                "id": 44
+            },
+            {
+                "name": "thief",
+                "id": 168
+            },
+            {
+                "name": "feint-attack",
+                "id": 185
+            },
+            {
+                "name": "pursuit",
+                "id": 228
+            },
+            {
+                "name": "crunch",
+                "id": 242
+            },
+            {
+                "name": "beat-up",
+                "id": 251
+            },
+            {
+                "name": "torment",
+                "id": 259
+            },
+            {
+                "name": "flatter",
+                "id": 260
+            },
+            {
+                "name": "memento",
+                "id": 262
+            },
+            {
+                "name": "taunt",
+                "id": 269
+            },
+            {
+                "name": "knock-off",
+                "id": 282
+            },
+            {
+                "name": "snatch",
+                "id": 289
+            },
+            {
+                "name": "fake-tears",
+                "id": 313
+            },
+            {
+                "name": "payback",
+                "id": 371
+            },
+            {
+                "name": "assurance",
+                "id": 372
+            },
+            {
+                "name": "embargo",
+                "id": 373
+            },
+            {
+                "name": "fling",
+                "id": 374
+            },
+            {
+                "name": "punishment",
+                "id": 386
+            },
+            {
+                "name": "sucker-punch",
+                "id": 389
+            },
+            {
+                "name": "dark-pulse",
+                "id": 399
+            },
+            {
+                "name": "night-slash",
+                "id": 400
+            },
+            {
+                "name": "switcheroo",
+                "id": 415
+            },
+            {
+                "name": "nasty-plot",
+                "id": 417
+            },
+            {
+                "name": "dark-void",
+                "id": 464
+            },
+            {
+                "name": "hone-claws",
+                "id": 468
+            },
+            {
+                "name": "foul-play",
+                "id": 492
+            },
+            {
+                "name": "quash",
+                "id": 511
+            },
+            {
+                "name": "night-daze",
+                "id": 539
+            },
+            {
+                "name": "snarl",
+                "id": 555
+            }
+        ]
+    }
+}
