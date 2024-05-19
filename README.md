@@ -21,6 +21,9 @@ It is very important that data in this project be as accurate as possible. If yo
 - `obtainable-data.json`: This file contains lists of the obtainable and unobtainable Pokemon.
 - `gender-rates.json`: This file contains a list of the gender rates.
 - `natures-data.json`: This file contains data on the natures.
+- `location-rarities.json`: This file contains location data sorted by rarity.
+- `location-regions.json`: This file contains location data sorted by region.
+- `location-types.json`: This file contains location data sorted by encounter type.
 - `sprites\`: Folder intended for storing sprites in the project if they are needed.
 
 **Note:** Files marked with **bold** are still a work in progress and their data may not be accurate.
