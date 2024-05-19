@@ -19,6 +19,7 @@ It is very important that data in this project be as accurate as possible. If yo
 - `pvp-data.json`: This file contains the PVP tiers and the Pokemon in them.
 - `types-data.json`: This file contains the Types and the Pokemon that have those Types.
 - `obtainable-data.json`: This file contains lists of the obtainable and unobtainable Pokemon.
+- `gender-rates.json`: This file contains a list of the gender rates.
 - `sprites\`: Folder intended for storing sprites in the project if they are needed.
 
 **Note:** Files marked with **bold** are still a work in progress and their data may not be accurate.
