@@ -1,0 +1,627 @@
+{
+    "hardy": {
+        "id": 1,
+        "name": "hardy",
+        "increased_stat": null,
+        "decreased_stat": null,
+        "likes_flavor": null,
+        "hates_flavor": null,
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 61,
+                "high_hp_preference": 61
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 7,
+                "high_hp_preference": 7
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 32,
+                "high_hp_preference": 32
+            }
+        ]
+    },
+    "bold": {
+        "id": 2,
+        "name": "bold",
+        "increased_stat": "defense",
+        "decreased_stat": "attack",
+        "likes_flavor": "sour",
+        "hates_flavor": "spicy",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 32,
+                "high_hp_preference": 30
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 58,
+                "high_hp_preference": 20
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 10,
+                "high_hp_preference": 50
+            }
+        ]
+    },
+    "modest": {
+        "id": 3,
+        "name": "modest",
+        "increased_stat": "special-attack",
+        "decreased_stat": "attack",
+        "likes_flavor": "dry",
+        "hates_flavor": "spicy",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 34,
+                "high_hp_preference": 35
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 60,
+                "high_hp_preference": 45
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 6,
+                "high_hp_preference": 20
+            }
+        ]
+    },
+    "calm": {
+        "id": 4,
+        "name": "calm",
+        "increased_stat": "special-defense",
+        "decreased_stat": "attack",
+        "likes_flavor": "bitter",
+        "hates_flavor": "spicy",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 25,
+                "high_hp_preference": 40
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 62,
+                "high_hp_preference": 50
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 13,
+                "high_hp_preference": 10
+            }
+        ]
+    },
+    "timid": {
+        "id": 5,
+        "name": "timid",
+        "increased_stat": "speed",
+        "decreased_stat": "attack",
+        "likes_flavor": "sweet",
+        "hates_flavor": "spicy",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 30,
+                "high_hp_preference": 62
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 20,
+                "high_hp_preference": 10
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 50,
+                "high_hp_preference": 28
+            }
+        ]
+    },
+    "lonely": {
+        "id": 6,
+        "name": "lonely",
+        "increased_stat": "attack",
+        "decreased_stat": "defense",
+        "likes_flavor": "spicy",
+        "hates_flavor": "sour",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 84,
+                "high_hp_preference": 20
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 8,
+                "high_hp_preference": 25
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 8,
+                "high_hp_preference": 55
+            }
+        ]
+    },
+    "docile": {
+        "id": 7,
+        "name": "docile",
+        "increased_stat": null,
+        "decreased_stat": null,
+        "likes_flavor": null,
+        "hates_flavor": null,
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 56,
+                "high_hp_preference": 56
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            }
+        ]
+    },
+    "mild": {
+        "id": 8,
+        "name": "mild",
+        "increased_stat": "special-attack",
+        "decreased_stat": "defense",
+        "likes_flavor": "dry",
+        "hates_flavor": "sour",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 34,
+                "high_hp_preference": 44
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 6,
+                "high_hp_preference": 50
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 60,
+                "high_hp_preference": 6
+            }
+        ]
+    },
+    "gentle": {
+        "id": 9,
+        "name": "gentle",
+        "increased_stat": "special-defense",
+        "decreased_stat": "defense",
+        "likes_flavor": "bitter",
+        "hates_flavor": "sour",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 90,
+                "high_hp_preference": 18
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 5,
+                "high_hp_preference": 70
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 5,
+                "high_hp_preference": 12
+            }
+        ]
+    },
+    "hasty": {
+        "id": 10,
+        "name": "hasty",
+        "increased_stat": "speed",
+        "decreased_stat": "defense",
+        "likes_flavor": "sweet",
+        "hates_flavor": "sour",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 88,
+                "high_hp_preference": 58
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 6,
+                "high_hp_preference": 37
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 6,
+                "high_hp_preference": 5
+            }
+        ]
+    },
+    "adamant": {
+        "id": 11,
+        "name": "adamant",
+        "increased_stat": "attack",
+        "decreased_stat": "special-attack",
+        "likes_flavor": "spicy",
+        "hates_flavor": "dry",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 70,
+                "high_hp_preference": 38
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 15,
+                "high_hp_preference": 31
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 15,
+                "high_hp_preference": 31
+            }
+        ]
+    },
+    "impish": {
+        "id": 12,
+        "name": "impish",
+        "increased_stat": "defense",
+        "decreased_stat": "special-attack",
+        "likes_flavor": "sour",
+        "hates_flavor": "dry",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 28,
+                "high_hp_preference": 69
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 55,
+                "high_hp_preference": 6
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 17,
+                "high_hp_preference": 25
+            }
+        ]
+    },
+    "bashful": {
+        "id": 13,
+        "name": "bashful",
+        "increased_stat": null,
+        "decreased_stat": null,
+        "likes_flavor": null,
+        "hates_flavor": null,
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 30,
+                "high_hp_preference": 30
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 58,
+                "high_hp_preference": 58
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 12,
+                "high_hp_preference": 12
+            }
+        ]
+    },
+    "careful": {
+        "id": 14,
+        "name": "careful",
+        "increased_stat": "special-defense",
+        "decreased_stat": "special-attack",
+        "likes_flavor": "bitter",
+        "hates_flavor": "dry",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 42,
+                "high_hp_preference": 42
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 5,
+                "high_hp_preference": 50
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 53,
+                "high_hp_preference": 8
+            }
+        ]
+    },
+    "rash": {
+        "id": 15,
+        "name": "rash",
+        "increased_stat": "special-attack",
+        "decreased_stat": "special-defense",
+        "likes_flavor": "dry",
+        "hates_flavor": "bitter",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 27,
+                "high_hp_preference": 30
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 6,
+                "high_hp_preference": 13
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 67,
+                "high_hp_preference": 57
+            }
+        ]
+    },
+    "jolly": {
+        "id": 16,
+        "name": "jolly",
+        "increased_stat": "speed",
+        "decreased_stat": "special-attack",
+        "likes_flavor": "sweet",
+        "hates_flavor": "dry",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 35,
+                "high_hp_preference": 35
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 60,
+                "high_hp_preference": 5
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 5,
+                "high_hp_preference": 60
+            }
+        ]
+    },
+    "naughty": {
+        "id": 17,
+        "name": "naughty",
+        "increased_stat": "attack",
+        "decreased_stat": "special-defense",
+        "likes_flavor": "spicy",
+        "hates_flavor": "bitter",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 70,
+                "high_hp_preference": 20
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 22,
+                "high_hp_preference": 70
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 8,
+                "high_hp_preference": 10
+            }
+        ]
+    },
+    "lax": {
+        "id": 18,
+        "name": "lax",
+        "increased_stat": "defense",
+        "decreased_stat": "special-defense",
+        "likes_flavor": "sour",
+        "hates_flavor": "bitter",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 29,
+                "high_hp_preference": 35
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 6,
+                "high_hp_preference": 10
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 65,
+                "high_hp_preference": 55
+            }
+        ]
+    },
+    "quirky": {
+        "id": 19,
+        "name": "quirky",
+        "increased_stat": null,
+        "decreased_stat": null,
+        "likes_flavor": null,
+        "hates_flavor": null,
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 56,
+                "high_hp_preference": 56
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            }
+        ]
+    },
+    "naive": {
+        "id": 20,
+        "name": "naive",
+        "increased_stat": "speed",
+        "decreased_stat": "special-defense",
+        "likes_flavor": "sweet",
+        "hates_flavor": "bitter",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 56,
+                "high_hp_preference": 56
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            }
+        ]
+    },
+    "brave": {
+        "id": 21,
+        "name": "brave",
+        "increased_stat": "attack",
+        "decreased_stat": "speed",
+        "likes_flavor": "spicy",
+        "hates_flavor": "sweet",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 32,
+                "high_hp_preference": 70
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 60,
+                "high_hp_preference": 15
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 8,
+                "high_hp_preference": 15
+            }
+        ]
+    },
+    "relaxed": {
+        "id": 22,
+        "name": "relaxed",
+        "increased_stat": "defense",
+        "decreased_stat": "speed",
+        "likes_flavor": "sour",
+        "hates_flavor": "sweet",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 75,
+                "high_hp_preference": 25
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 15,
+                "high_hp_preference": 15
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 10,
+                "high_hp_preference": 60
+            }
+        ]
+    },
+    "quiet": {
+        "id": 23,
+        "name": "quiet",
+        "increased_stat": "special-attack",
+        "decreased_stat": "speed",
+        "likes_flavor": "dry",
+        "hates_flavor": "sweet",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 56,
+                "high_hp_preference": 56
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 22,
+                "high_hp_preference": 22
+            }
+        ]
+    },
+    "sassy": {
+        "id": 24,
+        "name": "sassy",
+        "increased_stat": "special-defense",
+        "decreased_stat": "speed",
+        "likes_flavor": "bitter",
+        "hates_flavor": "sweet",
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 22,
+                "high_hp_preference": 88
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 20,
+                "high_hp_preference": 6
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 58,
+                "high_hp_preference": 6
+            }
+        ]
+    },
+    "serious": {
+        "id": 25,
+        "name": "serious",
+        "increased_stat": null,
+        "decreased_stat": null,
+        "likes_flavor": null,
+        "hates_flavor": null,
+        "move_battle_style_preferences": [
+            {
+                "move_battle_style": "attack",
+                "low_hp_preference": 29,
+                "high_hp_preference": 34
+            },
+            {
+                "move_battle_style": "defense",
+                "low_hp_preference": 11,
+                "high_hp_preference": 11
+            },
+            {
+                "move_battle_style": "support",
+                "low_hp_preference": 60,
+                "high_hp_preference": 55
+            }
+        ]
+    }
+}
