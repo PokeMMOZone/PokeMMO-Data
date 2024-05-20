@@ -875,12 +875,6 @@
             }
         ]
     },
-    "3": {
-        "name": "37.5% Female, 62.5% Male",
-        "female_percentage": 37.5,
-        "male_percentage": 62.5,
-        "pokemon_list": []
-    },
     "4": {
         "name": "50% Female, 50% Male",
         "female_percentage": 50,
@@ -2556,12 +2550,6 @@
             }
         ]
     },
-    "5": {
-        "name": "62.5% Female, 37.5% Male",
-        "female_percentage": 62.5,
-        "male_percentage": 37.5,
-        "pokemon_list": []
-    },
     "6": {
         "name": "75% Female, 25% Male",
         "female_percentage": 75,
@@ -2656,12 +2644,6 @@
                 "id": 576
             }
         ]
-    },
-    "7": {
-        "name": "87.5% Female, 12.5% Male",
-        "female_percentage": 87.5,
-        "male_percentage": 12.5,
-        "pokemon_list": []
     },
     "8": {
         "name": "100% Female, 0% Male",
