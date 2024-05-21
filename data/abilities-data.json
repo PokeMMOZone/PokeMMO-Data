@@ -509,10 +509,6 @@
                 "id": 125
             },
             {
-                "name": "zapdos",
-                "id": 145
-            },
-            {
                 "name": "pichu",
                 "id": 172
             },
@@ -2865,10 +2861,6 @@
                 "id": 126
             },
             {
-                "name": "moltres",
-                "id": 146
-            },
-            {
                 "name": "slugma",
                 "id": 218
             },
@@ -4524,10 +4516,6 @@
         "name": "snow-cloak",
         "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage.",
         "pokemon_with_ability": [
-            {
-                "name": "articuno",
-                "id": 144
-            },
             {
                 "name": "swinub",
                 "id": 220
