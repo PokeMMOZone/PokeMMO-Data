@@ -75,7 +75,17 @@
         "id": 9017,
         "name": "Potion",
         "effect": "A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\njust 20 points.",
-        "sprite": 9017
+        "sprite": 9017,
+        "pokemon_with_item": [
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            }
+        ]
     },
     "antidote": {
         "id": 9018,
@@ -129,7 +139,17 @@
         "id": 9026,
         "name": "Super Potion",
         "effect": "A spray-type medicine for wounds.\nIt restores the HP of one Pokémon by\n50 points.",
-        "sprite": 9026
+        "sprite": 9026,
+        "pokemon_with_item": [
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            }
+        ]
     },
     "full-heal": {
         "id": 9027,
@@ -171,7 +191,13 @@
         "id": 9033,
         "name": "Moomoo Milk",
         "effect": "Milk with a very high nutrition\ncontent.\nIt restores the HP of one Pokémon by\n100 points.",
-        "sprite": 9033
+        "sprite": 9033,
+        "pokemon_with_item": [
+            {
+                "name": "miltank",
+                "id": 241
+            }
+        ]
     },
     "energypowder": {
         "id": 9034,
@@ -183,7 +209,25 @@
         "id": 9035,
         "name": "Energy Root",
         "effect": "A very bitter root.\nIt restores the HP of one Pokémon by\n200 points.",
-        "sprite": 9035
+        "sprite": 9035,
+        "pokemon_with_item": [
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "drilbur",
+                "id": 529
+            },
+            {
+                "name": "excadrill",
+                "id": 530
+            }
+        ]
     },
     "heal-powder": {
         "id": 9036,
@@ -261,13 +305,25 @@
         "id": 9043,
         "name": "Berry Juice",
         "effect": "A 100% pure juice made of Berries.\nIt restores the HP of one Pokémon by\njust 20 points.",
-        "sprite": 9043
+        "sprite": 9043,
+        "pokemon_with_item": [
+            {
+                "name": "shuckle",
+                "id": 213
+            }
+        ]
     },
     "sacred-ash": {
         "id": 9044,
         "name": "Sacred Ash",
         "effect": "It revives all fainted Pokémon.\nIn doing so, it also fully restores\ntheir HP.",
-        "sprite": 9044
+        "sprite": 9044,
+        "pokemon_with_item": [
+            {
+                "name": "ho-oh",
+                "id": 250
+            }
+        ]
     },
     "shoal-salt": {
         "id": 9070,
@@ -285,25 +341,61 @@
         "id": 9072,
         "name": "Red Shard",
         "effect": "A small red shard.\nIt appears to be from some sort of\nimplement made long ago.",
-        "sprite": 9072
+        "sprite": 9072,
+        "pokemon_with_item": [
+            {
+                "name": "corsola",
+                "id": 222
+            }
+        ]
     },
     "blue-shard": {
         "id": 9073,
         "name": "Blue Shard",
         "effect": "A small blue shard.\nIt appears to be from some sort of\nimplement made long ago.",
-        "sprite": 9073
+        "sprite": 9073,
+        "pokemon_with_item": [
+            {
+                "name": "clamperl",
+                "id": 366
+            },
+            {
+                "name": "huntail",
+                "id": 367
+            },
+            {
+                "name": "gorebyss",
+                "id": 368
+            }
+        ]
     },
     "yellow-shard": {
         "id": 9074,
         "name": "Yellow Shard",
         "effect": "A small yellow shard.\nIt appears to be from some sort of\nimplement made long ago.",
-        "sprite": 9074
+        "sprite": 9074,
+        "pokemon_with_item": [
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            }
+        ]
     },
     "green-shard": {
         "id": 9075,
         "name": "Green Shard",
         "effect": "A small green shard.\nIt appears to be from some sort of\nimplement made long ago.",
-        "sprite": 9075
+        "sprite": 9075,
+        "pokemon_with_item": [
+            {
+                "name": "relicanth",
+                "id": 369
+            }
+        ]
     },
     "hp-up": {
         "id": 9045,
@@ -441,13 +533,45 @@
         "id": 9080,
         "name": "Sun Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as red as the sun.",
-        "sprite": 9080
+        "sprite": 9080,
+        "pokemon_with_item": [
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            }
+        ]
     },
     "moon-stone": {
         "id": 9081,
         "name": "Moon Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as black as the night sky.",
-        "sprite": 9081
+        "sprite": 9081,
+        "pokemon_with_item": [
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            }
+        ]
     },
     "fire-stone": {
         "id": 9082,
@@ -477,49 +601,189 @@
         "id": 9086,
         "name": "TinyMushroom",
         "effect": "A small and rare mushroom.\nIt is quite popular among certain\nmaniacal fan segments.",
-        "sprite": 9086
+        "sprite": 9086,
+        "pokemon_with_item": [
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            }
+        ]
     },
     "big-mushroom": {
         "id": 9087,
         "name": "Big Mushroom",
         "effect": "A large and rare mushroom.\nIt is very popular among certain\nmaniacal fan segments.",
-        "sprite": 9087
+        "sprite": 9087,
+        "pokemon_with_item": [
+            {
+                "name": "paras",
+                "id": 46
+            },
+            {
+                "name": "parasect",
+                "id": 47
+            },
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            }
+        ]
     },
     "pearl": {
         "id": 9088,
         "name": "Pearl",
         "effect": "A somewhat-small pearl that sparkles\nin a pretty silver color.\nIt can be sold cheaply to shops.",
-        "sprite": 9088
+        "sprite": 9088,
+        "pokemon_with_item": [
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "clamperl",
+                "id": 366
+            }
+        ]
     },
     "big-pearl": {
         "id": 9089,
         "name": "Big Pearl",
         "effect": "A quite-large pearl that sparkles in\na\npretty silver color. It can be sold\nat\na high price to shops.",
-        "sprite": 9089
+        "sprite": 9089,
+        "pokemon_with_item": [
+            {
+                "name": "shellder",
+                "id": 90
+            },
+            {
+                "name": "cloyster",
+                "id": 91
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            }
+        ]
     },
     "stardust": {
         "id": 9090,
         "name": "Stardust",
         "effect": "Lovely, red-colored sand with a\nloose,\nsilky feel. It can be sold at a high\nprice to shops.",
-        "sprite": 9090
+        "sprite": 9090,
+        "pokemon_with_item": [
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            }
+        ]
     },
     "star-piece": {
         "id": 9091,
         "name": "Star Piece",
         "effect": "A shard of a pretty gem that sparkles\nin a red color. It can be sold at a\nhigh price to shops.",
-        "sprite": 9091
+        "sprite": 9091,
+        "pokemon_with_item": [
+            {
+                "name": "staryu",
+                "id": 120
+            },
+            {
+                "name": "starmie",
+                "id": 121
+            },
+            {
+                "name": "jirachi",
+                "id": 385
+            },
+            {
+                "name": "meloetta",
+                "id": 648
+            },
+            {
+                "name": "meloetta",
+                "id": 667
+            }
+        ]
     },
     "nugget": {
         "id": 9092,
         "name": "Nugget",
         "effect": "A nugget of pure gold that gives off\na\nlustrous gleam. It can be sold at a\nhigh price to shops.",
-        "sprite": 9092
+        "sprite": 9092,
+        "pokemon_with_item": [
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
     },
     "heart-scale": {
         "id": 9093,
         "name": "Heart Scale",
         "effect": "A pretty, heart-shaped scale that is\nextremely rare. It glows faintly in\nthe\ncolors of the rainbow.",
-        "sprite": 9093
+        "sprite": 9093,
+        "pokemon_with_item": [
+            {
+                "name": "luvdisc",
+                "id": 370
+            }
+        ]
     },
     "orange-mail": {
         "id": 121,
@@ -597,31 +861,229 @@
         "id": 9149,
         "name": "Cheri Berry",
         "effect": "It may be used or held by a Pokémon\nto\nrecover from paralysis.",
-        "sprite": 9149
+        "sprite": 9149,
+        "pokemon_with_item": [
+            {
+                "name": "glameow",
+                "id": 431
+            },
+            {
+                "name": "purugly",
+                "id": 432
+            },
+            {
+                "name": "blitzle",
+                "id": 522
+            },
+            {
+                "name": "zebstrika",
+                "id": 523
+            },
+            {
+                "name": "emolga",
+                "id": 587
+            }
+        ]
     },
     "chesto-berry": {
         "id": 9150,
         "name": "Chesto Berry",
         "effect": "It may be used or held by a Pokémon\nto\nrecover from sleep.",
-        "sprite": 9150
+        "sprite": 9150,
+        "pokemon_with_item": [
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "whismur",
+                "id": 293
+            },
+            {
+                "name": "loudred",
+                "id": 294
+            },
+            {
+                "name": "exploud",
+                "id": 295
+            },
+            {
+                "name": "spinda",
+                "id": 327
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            },
+            {
+                "name": "cinccino",
+                "id": 573
+            }
+        ]
     },
     "pecha-berry": {
         "id": 9151,
         "name": "Pecha Berry",
         "effect": "It may be used or held by a Pokémon\nto\nrecover from poison.",
-        "sprite": 9151
+        "sprite": 9151,
+        "pokemon_with_item": [
+            {
+                "name": "poochyena",
+                "id": 261
+            },
+            {
+                "name": "mightyena",
+                "id": 262
+            },
+            {
+                "name": "wurmple",
+                "id": 265
+            },
+            {
+                "name": "skitty",
+                "id": 300
+            },
+            {
+                "name": "delcatty",
+                "id": 301
+            },
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            },
+            {
+                "name": "stunky",
+                "id": 434
+            },
+            {
+                "name": "skuntank",
+                "id": 435
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            }
+        ]
     },
     "rawst-berry": {
         "id": 9152,
         "name": "Rawst Berry",
         "effect": "It may be used or held by a Pokémon\nto\nrecover from a burn.",
-        "sprite": 9152
+        "sprite": 9152,
+        "pokemon_with_item": [
+            {
+                "name": "vulpix",
+                "id": 37
+            },
+            {
+                "name": "ninetales",
+                "id": 38
+            },
+            {
+                "name": "growlithe",
+                "id": 58
+            },
+            {
+                "name": "arcanine",
+                "id": 59
+            },
+            {
+                "name": "magmar",
+                "id": 126
+            },
+            {
+                "name": "magby",
+                "id": 240
+            },
+            {
+                "name": "numel",
+                "id": 322
+            },
+            {
+                "name": "camerupt",
+                "id": 323
+            },
+            {
+                "name": "magmortar",
+                "id": 467
+            },
+            {
+                "name": "darumaka",
+                "id": 554
+            },
+            {
+                "name": "darmanitan",
+                "id": 555
+            }
+        ]
     },
     "aspear-berry": {
         "id": 9153,
         "name": "Aspear Berry",
         "effect": "It may be used or held by a Pokémon\nto\ndefrost it.",
-        "sprite": 9153
+        "sprite": 9153,
+        "pokemon_with_item": [
+            {
+                "name": "seel",
+                "id": 86
+            },
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "jynx",
+                "id": 124
+            },
+            {
+                "name": "swinub",
+                "id": 220
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "smoochum",
+                "id": 238
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "cubchoo",
+                "id": 613
+            },
+            {
+                "name": "beartic",
+                "id": 614
+            }
+        ]
     },
     "leppa-berry": {
         "id": 9154,
@@ -633,13 +1095,161 @@
         "id": 9155,
         "name": "Oran Berry",
         "effect": "It may be used or held by a Pokémon\nto\nheal the user by just 10 HP.",
-        "sprite": 9155
+        "sprite": 9155,
+        "pokemon_with_item": [
+            {
+                "name": "raticate",
+                "id": 20
+            },
+            {
+                "name": "pikachu",
+                "id": 25
+            },
+            {
+                "name": "raichu",
+                "id": 26
+            },
+            {
+                "name": "jigglypuff",
+                "id": 39
+            },
+            {
+                "name": "sentret",
+                "id": 161
+            },
+            {
+                "name": "furret",
+                "id": 162
+            },
+            {
+                "name": "pichu",
+                "id": 172
+            },
+            {
+                "name": "igglybuff",
+                "id": 174
+            },
+            {
+                "name": "shuckle",
+                "id": 213
+            },
+            {
+                "name": "teddiursa",
+                "id": 216
+            },
+            {
+                "name": "ursaring",
+                "id": 217
+            },
+            {
+                "name": "zigzagoon",
+                "id": 263
+            },
+            {
+                "name": "linoone",
+                "id": 264
+            },
+            {
+                "name": "gulpin",
+                "id": 316
+            },
+            {
+                "name": "swalot",
+                "id": 317
+            },
+            {
+                "name": "bibarel",
+                "id": 400
+            },
+            {
+                "name": "pansage",
+                "id": 511
+            },
+            {
+                "name": "simisage",
+                "id": 512
+            },
+            {
+                "name": "pansear",
+                "id": 513
+            },
+            {
+                "name": "simisear",
+                "id": 514
+            },
+            {
+                "name": "panpour",
+                "id": 515
+            },
+            {
+                "name": "simipour",
+                "id": 516
+            },
+            {
+                "name": "audino",
+                "id": 531
+            }
+        ]
     },
     "persim-berry": {
         "id": 9156,
         "name": "Persim Berry",
         "effect": "It may be used or held by a Pokémon\nto\nrecover from confusion.",
-        "sprite": 9156
+        "sprite": 9156,
+        "pokemon_with_item": [
+            {
+                "name": "girafarig",
+                "id": 203
+            },
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "tympole",
+                "id": 535
+            },
+            {
+                "name": "palpitoad",
+                "id": 536
+            },
+            {
+                "name": "seismitoad",
+                "id": 537
+            },
+            {
+                "name": "gothita",
+                "id": 574
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            },
+            {
+                "name": "solosis",
+                "id": 577
+            },
+            {
+                "name": "duosion",
+                "id": 578
+            },
+            {
+                "name": "reuniclus",
+                "id": 579
+            }
+        ]
     },
     "lum-berry": {
         "id": 9157,
@@ -855,7 +1465,21 @@
         "id": 9213,
         "name": "BrightPowder",
         "effect": "An item to be held by a Pokémon.\nIt casts a tricky glare that lowers\nthe opponent's accuracy.",
-        "sprite": 9213
+        "sprite": 9213,
+        "pokemon_with_item": [
+            {
+                "name": "wurmple",
+                "id": 265
+            },
+            {
+                "name": "volbeat",
+                "id": 313
+            },
+            {
+                "name": "illumise",
+                "id": 314
+            }
+        ]
     },
     "white-herb": {
         "id": 9214,
@@ -879,19 +1503,85 @@
         "id": 9217,
         "name": "Quick Claw",
         "effect": "An item to be held by a Pokémon.\nA light, sharp claw that lets the\nbearer move first occasionally.",
-        "sprite": 9217
+        "sprite": 9217,
+        "pokemon_with_item": [
+            {
+                "name": "sandshrew",
+                "id": 27
+            },
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "meowth",
+                "id": 52
+            },
+            {
+                "name": "persian",
+                "id": 53
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "zangoose",
+                "id": 335
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            }
+        ]
     },
     "soothe-bell": {
         "id": 9218,
         "name": "Soothe Bell",
         "effect": "An item to be held by a Pokémon. It\nis\na bell with a comforting chime that\ncalms the holder and makes it\nfriendly.",
-        "sprite": 9218
+        "sprite": 9218,
+        "pokemon_with_item": [
+            {
+                "name": "chimecho",
+                "id": 358
+            },
+            {
+                "name": "chingling",
+                "id": 433
+            }
+        ]
     },
     "mental-herb": {
         "id": 9219,
         "name": "Mental Herb",
         "effect": "An item to be held by a Pokémon. It\nsnaps the holder out of infatuation.\nIt can be used only once.",
-        "sprite": 9219
+        "sprite": 9219,
+        "pokemon_with_item": [
+            {
+                "name": "lotad",
+                "id": 270
+            },
+            {
+                "name": "lombre",
+                "id": 271
+            },
+            {
+                "name": "ludicolo",
+                "id": 272
+            },
+            {
+                "name": "sewaddle",
+                "id": 540
+            },
+            {
+                "name": "swadloon",
+                "id": 541
+            },
+            {
+                "name": "leavanny",
+                "id": 542
+            }
+        ]
     },
     "choice-band": {
         "id": 9220,
@@ -903,25 +1593,113 @@
         "id": 9221,
         "name": "King's Rock",
         "effect": "An item to be held by a Pokémon.\nIt may cause the foe to flinch when\nthe holder inflicts damage.",
-        "sprite": 9221
+        "sprite": 9221,
+        "pokemon_with_item": [
+            {
+                "name": "poliwhirl",
+                "id": 61
+            },
+            {
+                "name": "poliwrath",
+                "id": 62
+            },
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "politoed",
+                "id": 186
+            },
+            {
+                "name": "slowking",
+                "id": 199
+            },
+            {
+                "name": "hariyama",
+                "id": 297
+            }
+        ]
     },
     "silverpowder": {
         "id": 9222,
         "name": "SilverPowder",
         "effect": "An item to be held by a Pokémon.\nIt is a shiny, silver powder that ups\nthe power of Bug-type moves.",
-        "sprite": 9222
+        "sprite": 9222,
+        "pokemon_with_item": [
+            {
+                "name": "butterfree",
+                "id": 12
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            },
+            {
+                "name": "masquerain",
+                "id": 284
+            },
+            {
+                "name": "wormadam",
+                "id": 413
+            },
+            {
+                "name": "mothim",
+                "id": 414
+            },
+            {
+                "name": "volcarona",
+                "id": 637
+            },
+            {
+                "name": "wormadam",
+                "id": 653
+            },
+            {
+                "name": "wormadam",
+                "id": 654
+            }
+        ]
     },
     "amulet-coin": {
         "id": 9223,
         "name": "Amulet Coin",
         "effect": "An item to be held by a Pokémon.\nIt doubles a battle's prize money if\nthe holding Pokémon joins in.",
-        "sprite": 9223
+        "sprite": 9223,
+        "pokemon_with_item": [
+            {
+                "name": "meowth",
+                "id": 52
+            }
+        ]
     },
     "cleanse-tag": {
         "id": 9224,
         "name": "Cleanse Tag",
         "effect": "An item to be held by a Pokémon.\nIt helps keep wild Pokémon away if\nthe\nholder is the first one in the party.",
-        "sprite": 9224
+        "sprite": 9224,
+        "pokemon_with_item": [
+            {
+                "name": "chimecho",
+                "id": 358
+            },
+            {
+                "name": "chingling",
+                "id": 433
+            }
+        ]
     },
     "soul-dew": {
         "id": 9225,
@@ -933,37 +1711,145 @@
         "id": 9226,
         "name": "DeepSeaTooth",
         "effect": "An item to be held by CLAMPERL.\nA fang that gleams a sharp silver, it\nraises the Sp. Atk stat.",
-        "sprite": 9226
+        "sprite": 9226,
+        "pokemon_with_item": [
+            {
+                "name": "carvanha",
+                "id": 318
+            },
+            {
+                "name": "sharpedo",
+                "id": 319
+            },
+            {
+                "name": "huntail",
+                "id": 367
+            },
+            {
+                "name": "basculin",
+                "id": 550
+            }
+        ]
     },
     "deepseascale": {
         "id": 9227,
         "name": "DeepSeaScale",
         "effect": "An item to be held by CLAMPERL.\nA scale that shines a faint pink, it\nraises the Sp. Def stat.",
-        "sprite": 9227
+        "sprite": 9227,
+        "pokemon_with_item": [
+            {
+                "name": "chinchou",
+                "id": 170
+            },
+            {
+                "name": "lanturn",
+                "id": 171
+            },
+            {
+                "name": "gorebyss",
+                "id": 368
+            },
+            {
+                "name": "relicanth",
+                "id": 369
+            },
+            {
+                "name": "basculin",
+                "id": 665
+            }
+        ]
     },
     "smoke-ball": {
         "id": 9228,
         "name": "Smoke Ball",
         "effect": "An item to be held by a Pokémon.\nIt enables the holder to flee from\nany\nwild Pokémon without fail.",
-        "sprite": 9228
+        "sprite": 9228,
+        "pokemon_with_item": [
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            },
+            {
+                "name": "spiritomb",
+                "id": 442
+            }
+        ]
     },
     "everstone": {
         "id": 9229,
         "name": "Everstone",
         "effect": "An item to be held by a Pokémon.\nThe Pokémon holding this peculiar\nstone\nis prevented from evolving.",
-        "sprite": 9229
+        "sprite": 9229,
+        "pokemon_with_item": [
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            }
+        ]
     },
     "focus-band": {
         "id": 9230,
         "name": "Focus Band",
         "effect": "An item to be held by a Pokémon.\nThe holder may endure a potential KO\nattack, leaving it with just 1 HP.",
-        "sprite": 9230
+        "sprite": 9230,
+        "pokemon_with_item": [
+            {
+                "name": "machop",
+                "id": 66
+            },
+            {
+                "name": "machoke",
+                "id": 67
+            },
+            {
+                "name": "machamp",
+                "id": 68
+            }
+        ]
     },
     "lucky-egg": {
         "id": 9231,
         "name": "Lucky Egg",
         "effect": "An item to be held by a Pokémon.\nIt is an egg filled with happiness\nthat\nearns extra Exp. Points in battle.",
-        "sprite": 9231
+        "sprite": 9231,
+        "pokemon_with_item": [
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            }
+        ]
     },
     "scope-lens": {
         "id": 9232,
@@ -975,121 +1861,649 @@
         "id": 9233,
         "name": "Metal Coat",
         "effect": "An item to be held by a Pokémon.\nIt is a special metallic film that\nups\nthe power of Steel-type moves.",
-        "sprite": 9233
+        "sprite": 9233,
+        "pokemon_with_item": [
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            },
+            {
+                "name": "beldum",
+                "id": 374
+            },
+            {
+                "name": "metang",
+                "id": 375
+            },
+            {
+                "name": "metagross",
+                "id": 376
+            },
+            {
+                "name": "bronzor",
+                "id": 436
+            },
+            {
+                "name": "bronzong",
+                "id": 437
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            }
+        ]
     },
     "leftovers": {
         "id": 9234,
         "name": "Leftovers",
         "effect": "An item to be held by a Pokémon.\nThe holder's HP is gradually restored\nduring battle.",
-        "sprite": 9234
+        "sprite": 9234,
+        "pokemon_with_item": [
+            {
+                "name": "snorlax",
+                "id": 143
+            },
+            {
+                "name": "munchlax",
+                "id": 446
+            }
+        ]
     },
     "dragon-scale": {
         "id": 9235,
         "name": "Dragon Scale",
         "effect": "A thick and tough scale.\nDragon-type Pokémon may be holding\nthis item when caught.",
-        "sprite": 9235
+        "sprite": 9235,
+        "pokemon_with_item": [
+            {
+                "name": "horsea",
+                "id": 116
+            },
+            {
+                "name": "seadra",
+                "id": 117
+            },
+            {
+                "name": "dratini",
+                "id": 147
+            },
+            {
+                "name": "dragonair",
+                "id": 148
+            },
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "kingdra",
+                "id": 230
+            },
+            {
+                "name": "bagon",
+                "id": 371
+            },
+            {
+                "name": "shelgon",
+                "id": 372
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            }
+        ]
     },
     "light-ball": {
         "id": 9236,
         "name": "Light Ball",
         "effect": "An item to be held by PIKACHU.\nIt is a puzzling orb that raises\nthe Attack and Sp. Atk stat.",
-        "sprite": 9236
+        "sprite": 9236,
+        "pokemon_with_item": [
+            {
+                "name": "pikachu",
+                "id": 25
+            }
+        ]
     },
     "soft-sand": {
         "id": 9237,
         "name": "Soft Sand",
         "effect": "An item to be held by a Pokémon.\nIt is a loose, silky sand that boosts\nthe power of Ground-type moves.",
-        "sprite": 9237
+        "sprite": 9237,
+        "pokemon_with_item": [
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "diglett",
+                "id": 50
+            },
+            {
+                "name": "dugtrio",
+                "id": 51
+            },
+            {
+                "name": "nincada",
+                "id": 290
+            },
+            {
+                "name": "trapinch",
+                "id": 328
+            },
+            {
+                "name": "stunfisk",
+                "id": 618
+            }
+        ]
     },
     "hard-stone": {
         "id": 9238,
         "name": "Hard Stone",
         "effect": "An item to be held by a Pokémon.\nIt is an unbreakable stone that ups\nthe power of Rock-type moves.",
-        "sprite": 9238
+        "sprite": 9238,
+        "pokemon_with_item": [
+            {
+                "name": "geodude",
+                "id": 74
+            },
+            {
+                "name": "graveler",
+                "id": 75
+            },
+            {
+                "name": "golem",
+                "id": 76
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "corsola",
+                "id": 222
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "aron",
+                "id": 304
+            },
+            {
+                "name": "lairon",
+                "id": 305
+            },
+            {
+                "name": "aggron",
+                "id": 306
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "roggenrola",
+                "id": 524
+            },
+            {
+                "name": "boldore",
+                "id": 525
+            },
+            {
+                "name": "gigalith",
+                "id": 526
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            }
+        ]
     },
     "miracle-seed": {
         "id": 9239,
         "name": "Miracle Seed",
         "effect": "An item to be held by a Pokémon.\nIt is a seed imbued with life that\nups\nthe power of Grass-type moves.",
-        "sprite": 9239
+        "sprite": 9239,
+        "pokemon_with_item": [
+            {
+                "name": "cherubi",
+                "id": 420
+            },
+            {
+                "name": "cherrim",
+                "id": 421
+            },
+            {
+                "name": "maractus",
+                "id": 556
+            }
+        ]
     },
     "blackglasses": {
         "id": 9240,
         "name": "BlackGlasses",
         "effect": "An item to be held by a Pokémon.\nIt is a shady-looking pair of glasses\nthat boosts Dark-type moves.",
-        "sprite": 9240
+        "sprite": 9240,
+        "pokemon_with_item": [
+            {
+                "name": "sandile",
+                "id": 551
+            },
+            {
+                "name": "krokorok",
+                "id": 552
+            },
+            {
+                "name": "krookodile",
+                "id": 553
+            }
+        ]
     },
     "black-belt": {
         "id": 9241,
         "name": "Black Belt",
         "effect": "An item to be held by a Pokémon.\nIt is a belt that boosts determinatio\nn\nand Fighting-type moves.",
-        "sprite": 9241
+        "sprite": 9241,
+        "pokemon_with_item": [
+            {
+                "name": "makuhita",
+                "id": 296
+            },
+            {
+                "name": "throh",
+                "id": 538
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            }
+        ]
     },
     "magnet": {
         "id": 9242,
         "name": "Magnet",
         "effect": "An item to be held by a Pokémon.\nIt is a powerful magnet that boosts\nthe power of Electric-type moves.",
-        "sprite": 9242
+        "sprite": 9242,
+        "pokemon_with_item": [
+            {
+                "name": "magnemite",
+                "id": 81
+            },
+            {
+                "name": "magneton",
+                "id": 82
+            },
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "magnezone",
+                "id": 462
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            }
+        ]
     },
     "mystic-water": {
         "id": 9243,
         "name": "Mystic Water",
         "effect": "An item to be held by a Pokémon.\nIt is a teardrop-shaped gem that ups\nthe power of Water-type moves.",
-        "sprite": 9243
+        "sprite": 9243,
+        "pokemon_with_item": [
+            {
+                "name": "goldeen",
+                "id": 118
+            },
+            {
+                "name": "seaking",
+                "id": 119
+            },
+            {
+                "name": "lapras",
+                "id": 131
+            },
+            {
+                "name": "castform",
+                "id": 351
+            },
+            {
+                "name": "castform",
+                "id": 662
+            },
+            {
+                "name": "castform",
+                "id": 663
+            },
+            {
+                "name": "castform",
+                "id": 664
+            }
+        ]
     },
     "sharp-beak": {
         "id": 9244,
         "name": "Sharp Beak",
         "effect": "An item to be held by a Pokémon.\nIt is a long, sharp beak that boosts\nthe power of Flying-type moves.",
-        "sprite": 9244
+        "sprite": 9244,
+        "pokemon_with_item": [
+            {
+                "name": "spearow",
+                "id": 21
+            },
+            {
+                "name": "fearow",
+                "id": 22
+            },
+            {
+                "name": "doduo",
+                "id": 84
+            },
+            {
+                "name": "dodrio",
+                "id": 85
+            },
+            {
+                "name": "skarmory",
+                "id": 227
+            }
+        ]
     },
     "poison-barb": {
         "id": 9245,
         "name": "Poison Barb",
         "effect": "An item to be held by a Pokémon.\nIt is a small, poisonous barb that\nups\nthe power of Poison-type moves.",
-        "sprite": 9245
+        "sprite": 9245,
+        "pokemon_with_item": [
+            {
+                "name": "beedrill",
+                "id": 15
+            },
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "tentacool",
+                "id": 72
+            },
+            {
+                "name": "tentacruel",
+                "id": 73
+            },
+            {
+                "name": "qwilfish",
+                "id": 211
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "cacnea",
+                "id": 331
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "vespiquen",
+                "id": 416
+            },
+            {
+                "name": "skorupi",
+                "id": 451
+            },
+            {
+                "name": "drapion",
+                "id": 452
+            },
+            {
+                "name": "venipede",
+                "id": 543
+            },
+            {
+                "name": "whirlipede",
+                "id": 544
+            },
+            {
+                "name": "scolipede",
+                "id": 545
+            }
+        ]
     },
     "nevermeltice": {
         "id": 9246,
         "name": "NeverMeltIce",
         "effect": "An item to be held by a Pokémon.\nIt is a piece of ice that repels heat\nand boosts Ice-type moves.",
-        "sprite": 9246
+        "sprite": 9246,
+        "pokemon_with_item": [
+            {
+                "name": "dewgong",
+                "id": 87
+            },
+            {
+                "name": "piloswine",
+                "id": 221
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "mamoswine",
+                "id": 473
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            },
+            {
+                "name": "cryogonal",
+                "id": 615
+            }
+        ]
     },
     "spell-tag": {
         "id": 9247,
         "name": "Spell Tag",
         "effect": "An item to be held by a Pokémon.\nIt is a sinister, eerie tag that\nboosts\nthe power of Ghost-type moves.",
-        "sprite": 9247
+        "sprite": 9247,
+        "pokemon_with_item": [
+            {
+                "name": "haunter",
+                "id": 93
+            },
+            {
+                "name": "gengar",
+                "id": 94
+            },
+            {
+                "name": "misdreavus",
+                "id": 200
+            },
+            {
+                "name": "shuppet",
+                "id": 353
+            },
+            {
+                "name": "banette",
+                "id": 354
+            },
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "mismagius",
+                "id": 429
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            },
+            {
+                "name": "yamask",
+                "id": 562
+            },
+            {
+                "name": "cofagrigus",
+                "id": 563
+            }
+        ]
     },
     "twistedspoon": {
         "id": 9248,
         "name": "TwistedSpoon",
         "effect": "An item to be held by a Pokémon. It\nis\na spoon imbued with telekinetic power\nthat boosts Psychic-type moves.",
-        "sprite": 9248
+        "sprite": 9248,
+        "pokemon_with_item": [
+            {
+                "name": "abra",
+                "id": 63
+            },
+            {
+                "name": "kadabra",
+                "id": 64
+            },
+            {
+                "name": "alakazam",
+                "id": 65
+            }
+        ]
     },
     "charcoal": {
         "id": 9249,
         "name": "Charcoal",
         "effect": "An item to be held by a Pokémon.\nIt is a combustible fuel that boosts\nthe power of Fire-type moves.",
-        "sprite": 9249
+        "sprite": 9249,
+        "pokemon_with_item": [
+            {
+                "name": "vulpix",
+                "id": 37
+            },
+            {
+                "name": "ninetales",
+                "id": 38
+            },
+            {
+                "name": "torkoal",
+                "id": 324
+            }
+        ]
     },
     "dragon-fang": {
         "id": 9250,
         "name": "Dragon Fang",
         "effect": "An item to be held by a Pokémon.\nIt is a hard and sharp fang that ups\nthe power of Dragon-type moves.",
-        "sprite": 9250
+        "sprite": 9250,
+        "pokemon_with_item": [
+            {
+                "name": "dragonair",
+                "id": 148
+            },
+            {
+                "name": "dragonite",
+                "id": 149
+            },
+            {
+                "name": "bagon",
+                "id": 371
+            },
+            {
+                "name": "shelgon",
+                "id": 372
+            },
+            {
+                "name": "salamence",
+                "id": 373
+            },
+            {
+                "name": "druddigon",
+                "id": 621
+            }
+        ]
     },
     "silk-scarf": {
         "id": 9251,
         "name": "Silk Scarf",
         "effect": "An item to be held by a Pokémon.\nIt is a sumptuous scarf that boosts\nthe power of Normal-type moves.",
-        "sprite": 9251
+        "sprite": 9251,
+        "pokemon_with_item": [
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
     },
     "up-grade": {
         "id": 9252,
         "name": "Up-Grade",
         "effect": "A transparent device filled with all\nsorts of data.\nIt was produced by Silph Co.",
-        "sprite": 9252
+        "sprite": 9252,
+        "pokemon_with_item": [
+            {
+                "name": "porygon2",
+                "id": 233
+            }
+        ]
     },
     "shell-bell": {
         "id": 9253,
@@ -1113,25 +2527,53 @@
         "id": 9256,
         "name": "Lucky Punch",
         "effect": "An item to be held by CHANSEY. It is\na\npair of gloves that boosts CHANSEY's\ncritical-hit ratio.",
-        "sprite": 9256
+        "sprite": 9256,
+        "pokemon_with_item": [
+            {
+                "name": "chansey",
+                "id": 113
+            }
+        ]
     },
     "metal-powder": {
         "id": 9257,
         "name": "Metal Powder",
         "effect": "An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat.",
-        "sprite": 9257
+        "sprite": 9257,
+        "pokemon_with_item": [
+            {
+                "name": "ditto",
+                "id": 132
+            }
+        ]
     },
     "thick-club": {
         "id": 9258,
         "name": "Thick Club",
         "effect": "An item to be held by CUBONE or\nMAROWAK. It is a hard bone of some\nsort that boosts the Attack stat.",
-        "sprite": 9258
+        "sprite": 9258,
+        "pokemon_with_item": [
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            }
+        ]
     },
     "stick": {
         "id": 9259,
         "name": "Stick",
         "effect": "An item to be held by FARFETCH'D. It\nis\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.",
-        "sprite": 9259
+        "sprite": 9259,
+        "pokemon_with_item": [
+            {
+                "name": "farfetchd",
+                "id": 83
+            }
+        ]
     },
     "red-scarf": {
         "id": 9260,
@@ -2445,7 +3887,13 @@
         "id": 7193,
         "name": "Lucky Egg (Small)",
         "effect": "An item which increases the amount of\nEXP gained for a short period of\ntime.\n\n1.50x EXP gain.\nStacks with other bonuses.\nConsumed upon use.\nEffects last 30 minutes.",
-        "sprite": 1193
+        "sprite": 1193,
+        "pokemon_with_item": [
+            {
+                "name": "pelipper",
+                "id": 279
+            }
+        ]
     },
     "battle-box-expansion-drive": {
         "id": 7194,
@@ -2487,103 +3935,309 @@
         "id": 9184,
         "name": "Occa Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Fire-type attack.",
-        "sprite": 9184
+        "sprite": 9184,
+        "pokemon_with_item": [
+            {
+                "name": "mawile",
+                "id": 303
+            },
+            {
+                "name": "pansage",
+                "id": 511
+            },
+            {
+                "name": "simisage",
+                "id": 512
+            }
+        ]
     },
     "passho-berry": {
         "id": 9185,
         "name": "Passho Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Water-type attack.",
-        "sprite": 9185
+        "sprite": 9185,
+        "pokemon_with_item": [
+            {
+                "name": "phanpy",
+                "id": 231
+            },
+            {
+                "name": "donphan",
+                "id": 232
+            },
+            {
+                "name": "pansear",
+                "id": 513
+            },
+            {
+                "name": "simisear",
+                "id": 514
+            }
+        ]
     },
     "wacan-berry": {
         "id": 9186,
         "name": "Wacan Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Electric-type attack.",
-        "sprite": 9186
+        "sprite": 9186,
+        "pokemon_with_item": [
+            {
+                "name": "buizel",
+                "id": 418
+            },
+            {
+                "name": "floatzel",
+                "id": 419
+            }
+        ]
     },
     "rindo-berry": {
         "id": 9187,
         "name": "Rindo Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Grass-type attack.",
-        "sprite": 9187
+        "sprite": 9187,
+        "pokemon_with_item": [
+            {
+                "name": "finneon",
+                "id": 456
+            },
+            {
+                "name": "lumineon",
+                "id": 457
+            },
+            {
+                "name": "panpour",
+                "id": 515
+            },
+            {
+                "name": "simipour",
+                "id": 516
+            }
+        ]
     },
     "yache-berry": {
         "id": 9188,
         "name": "Yache Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Ice-type attack.",
-        "sprite": 9188
+        "sprite": 9188,
+        "pokemon_with_item": [
+            {
+                "name": "starly",
+                "id": 396
+            },
+            {
+                "name": "staravia",
+                "id": 397
+            },
+            {
+                "name": "staraptor",
+                "id": 398
+            }
+        ]
     },
     "chople-berry": {
         "id": 9189,
         "name": "Chople Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Fighting-type attack.",
-        "sprite": 9189
+        "sprite": 9189,
+        "pokemon_with_item": [
+            {
+                "name": "buneary",
+                "id": 427
+            },
+            {
+                "name": "lopunny",
+                "id": 428
+            }
+        ]
     },
     "kebia-berry": {
         "id": 9190,
         "name": "Kebia Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Poison-type attack.",
-        "sprite": 9190
+        "sprite": 9190,
+        "pokemon_with_item": [
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            }
+        ]
     },
     "shuca-berry": {
         "id": 9191,
         "name": "Shuca Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Ground-type attack.",
-        "sprite": 9191
+        "sprite": 9191,
+        "pokemon_with_item": [
+            {
+                "name": "ponyta",
+                "id": 77
+            },
+            {
+                "name": "rapidash",
+                "id": 78
+            }
+        ]
     },
     "coba-berry": {
         "id": 9192,
         "name": "Coba Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Flying-type attack.",
-        "sprite": 9192
+        "sprite": 9192,
+        "pokemon_with_item": [
+            {
+                "name": "sunkern",
+                "id": 191
+            },
+            {
+                "name": "sunflora",
+                "id": 192
+            }
+        ]
     },
     "payapa-berry": {
         "id": 9193,
         "name": "Payapa Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Psychic-type attack.",
-        "sprite": 9193
+        "sprite": 9193,
+        "pokemon_with_item": [
+            {
+                "name": "mankey",
+                "id": 56
+            },
+            {
+                "name": "primeape",
+                "id": 57
+            }
+        ]
     },
     "tanga-berry": {
         "id": 9194,
         "name": "Tanga Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Bug-type attack.",
-        "sprite": 9194
+        "sprite": 9194,
+        "pokemon_with_item": [
+            {
+                "name": "spoink",
+                "id": 325
+            },
+            {
+                "name": "grumpig",
+                "id": 326
+            }
+        ]
     },
     "charti-berry": {
         "id": 9195,
         "name": "Charti Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Rock-type attack.",
-        "sprite": 9195
+        "sprite": 9195,
+        "pokemon_with_item": [
+            {
+                "name": "taillow",
+                "id": 276
+            },
+            {
+                "name": "swellow",
+                "id": 277
+            }
+        ]
     },
     "kasib-berry": {
         "id": 9196,
         "name": "Kasib Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Ghost-type attack.",
-        "sprite": 9196
+        "sprite": 9196,
+        "pokemon_with_item": [
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            }
+        ]
     },
     "haban-berry": {
         "id": 9197,
         "name": "Haban Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Dragon-type attack.",
-        "sprite": 9197
+        "sprite": 9197,
+        "pokemon_with_item": [
+            {
+                "name": "gible",
+                "id": 443
+            },
+            {
+                "name": "gabite",
+                "id": 444
+            },
+            {
+                "name": "garchomp",
+                "id": 445
+            }
+        ]
     },
     "colbur-berry": {
         "id": 9198,
         "name": "Colbur Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Dark-type attack.",
-        "sprite": 9198
+        "sprite": 9198,
+        "pokemon_with_item": [
+            {
+                "name": "chimecho",
+                "id": 358
+            },
+            {
+                "name": "chingling",
+                "id": 433
+            }
+        ]
     },
     "babiri-berry": {
         "id": 9199,
         "name": "Babiri Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nsupereffective Steel-type attack.",
-        "sprite": 9199
+        "sprite": 9199,
+        "pokemon_with_item": [
+            {
+                "name": "snorunt",
+                "id": 361
+            },
+            {
+                "name": "glalie",
+                "id": 362
+            },
+            {
+                "name": "froslass",
+                "id": 478
+            }
+        ]
     },
     "chilan-berry": {
         "id": 9200,
         "name": "Chilan Berry",
         "effect": "If held by a Pokémon, it weakens a\nfoe's\nNormal-type attack.",
-        "sprite": 9200
+        "sprite": 9200,
+        "pokemon_with_item": [
+            {
+                "name": "rattata",
+                "id": 19
+            },
+            {
+                "name": "raticate",
+                "id": 20
+            }
+        ]
     },
     "micle-berry": {
         "id": 9209,
@@ -8793,7 +10447,17 @@
         "id": 9094,
         "name": "Honey",
         "effect": "A sweet honey with a lush aroma that\nattracts wild Pokémon when it is used\nin grass, caves, or on special trees.",
-        "sprite": 9094
+        "sprite": 9094,
+        "pokemon_with_item": [
+            {
+                "name": "surskit",
+                "id": 283
+            },
+            {
+                "name": "combee",
+                "id": 415
+            }
+        ]
     },
     "growth-mulch": {
         "id": 9095,
@@ -8823,31 +10487,121 @@
         "id": 9106,
         "name": "Rare Bone",
         "effect": "A bone that is extremely valuable for\nPokémon archaeology. It can be sold\nfor a high price to shops.",
-        "sprite": 9106
+        "sprite": 9106,
+        "pokemon_with_item": [
+            {
+                "name": "cubone",
+                "id": 104
+            },
+            {
+                "name": "marowak",
+                "id": 105
+            },
+            {
+                "name": "dwebble",
+                "id": 557
+            },
+            {
+                "name": "crustle",
+                "id": 558
+            }
+        ]
     },
     "shiny-stone": {
         "id": 9107,
         "name": "Shiny Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt shines with a dazzling light.",
-        "sprite": 9107
+        "sprite": 9107,
+        "pokemon_with_item": [
+            {
+                "name": "togepi",
+                "id": 175
+            },
+            {
+                "name": "togetic",
+                "id": 176
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "budew",
+                "id": 406
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "minccino",
+                "id": 572
+            }
+        ]
     },
     "dusk-stone": {
         "id": 9108,
         "name": "Dusk Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as dark as dark can be.",
-        "sprite": 9108
+        "sprite": 9108,
+        "pokemon_with_item": [
+            {
+                "name": "murkrow",
+                "id": 198
+            },
+            {
+                "name": "misdreavus",
+                "id": 200
+            },
+            {
+                "name": "litwick",
+                "id": 607
+            },
+            {
+                "name": "lampent",
+                "id": 608
+            }
+        ]
     },
     "dawn-stone": {
         "id": 9109,
         "name": "Dawn Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt sparkles like eyes.",
-        "sprite": 9109
+        "sprite": 9109,
+        "pokemon_with_item": [
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "snorunt",
+                "id": 361
+            }
+        ]
     },
     "oval-stone": {
         "id": 9110,
         "name": "Oval Stone",
         "effect": "A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is shaped like an egg.",
-        "sprite": 9110
+        "sprite": 9110,
+        "pokemon_with_item": [
+            {
+                "name": "chansey",
+                "id": 113
+            },
+            {
+                "name": "blissey",
+                "id": 242
+            },
+            {
+                "name": "happiny",
+                "id": 440
+            }
+        ]
     },
     "odd-keystone": {
         "id": 9111,
@@ -8985,7 +10739,21 @@
         "id": 9265,
         "name": "Wide Lens",
         "effect": "An item to be held by a Pokémon.\nIt is a magnifying lens that slightly\nboosts the accuracy of moves.",
-        "sprite": 9265
+        "sprite": 9265,
+        "pokemon_with_item": [
+            {
+                "name": "yanma",
+                "id": 193
+            },
+            {
+                "name": "sableye",
+                "id": 302
+            },
+            {
+                "name": "yanmega",
+                "id": 469
+            }
+        ]
     },
     "muscle-band": {
         "id": 9266,
@@ -9003,43 +10771,109 @@
         "id": 9268,
         "name": "Expert Belt",
         "effect": "An item to be held by a Pokémon. It\nis\na well-worn belt that slightly boosts\nthe power of supereffective moves.",
-        "sprite": 9268
+        "sprite": 9268,
+        "pokemon_with_item": [
+            {
+                "name": "throh",
+                "id": 538
+            },
+            {
+                "name": "sawk",
+                "id": 539
+            }
+        ]
     },
     "light-clay": {
         "id": 9269,
         "name": "Light Clay",
         "effect": "A Pokémon held item that extends the\nduration of barrier moves like Light\nScreen and Reflect used by the\nholder.",
-        "sprite": 9269
+        "sprite": 9269,
+        "pokemon_with_item": [
+            {
+                "name": "baltoy",
+                "id": 343
+            },
+            {
+                "name": "claydol",
+                "id": 344
+            },
+            {
+                "name": "golett",
+                "id": 622
+            },
+            {
+                "name": "golurk",
+                "id": 623
+            }
+        ]
     },
     "life-orb": {
         "id": 9270,
         "name": "Life Orb",
         "effect": "An item to be held by a Pokémon.\nIt boosts the power of moves, but at\nthe cost of some HP on each hit.",
-        "sprite": 9270
+        "sprite": 9270,
+        "pokemon_with_item": [
+            {
+                "name": "absol",
+                "id": 359
+            }
+        ]
     },
     "power-herb": {
         "id": 9271,
         "name": "Power Herb",
         "effect": "A single-use item to be held by a\nPokémon. It allows the immediate use\nof\na move that charges on the first\nturn.",
-        "sprite": 9271
+        "sprite": 9271,
+        "pokemon_with_item": [
+            {
+                "name": "seedot",
+                "id": 273
+            },
+            {
+                "name": "nuzleaf",
+                "id": 274
+            },
+            {
+                "name": "shiftry",
+                "id": 275
+            }
+        ]
     },
     "toxic-orb": {
         "id": 9272,
         "name": "Toxic Orb",
         "effect": "An item to be held by a Pokémon.\nIt is a bizarre orb that badly\npoisons\nthe holder in battle.",
-        "sprite": 9272
+        "sprite": 9272,
+        "pokemon_with_item": [
+            {
+                "name": "muk",
+                "id": 89
+            }
+        ]
     },
     "flame-orb": {
         "id": 9273,
         "name": "Flame Orb",
         "effect": "An item to be held by a Pokémon.\nIt is a bizarre orb that inflicts a\nburn on the holder in battle.",
-        "sprite": 9273
+        "sprite": 9273,
+        "pokemon_with_item": [
+            {
+                "name": "heatmor",
+                "id": 631
+            }
+        ]
     },
     "quick-powder": {
         "id": 9274,
         "name": "Quick Powder",
         "effect": "An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Speed stat.",
-        "sprite": 9274
+        "sprite": 9274,
+        "pokemon_with_item": [
+            {
+                "name": "ditto",
+                "id": 132
+            }
+        ]
     },
     "focus-sash": {
         "id": 9275,
@@ -9057,61 +10891,229 @@
         "id": 9277,
         "name": "Metronome",
         "effect": "A Pokémon held item that boosts a\nmove\nused consecutively. Its effect is\nreset if another move is used.",
-        "sprite": 9277
+        "sprite": 9277,
+        "pokemon_with_item": [
+            {
+                "name": "kricketot",
+                "id": 401
+            },
+            {
+                "name": "kricketune",
+                "id": 402
+            },
+            {
+                "name": "chatot",
+                "id": 441
+            }
+        ]
     },
     "iron-ball": {
         "id": 9278,
         "name": "Iron Ball",
         "effect": "A Pokémon held item that cuts Speed.\nIt makes Flying-type and levitating\nholders susceptible to Ground moves.",
-        "sprite": 9278
+        "sprite": 9278,
+        "pokemon_with_item": [
+            {
+                "name": "mawile",
+                "id": 303
+            }
+        ]
     },
     "lagging-tail": {
         "id": 9279,
         "name": "Lagging Tail",
         "effect": "An item to be held by a Pokémon.\nIt is tremendously heavy and makes\nthe holder move slower than usual.",
-        "sprite": 9279
+        "sprite": 9279,
+        "pokemon_with_item": [
+            {
+                "name": "slowpoke",
+                "id": 79
+            },
+            {
+                "name": "slowbro",
+                "id": 80
+            },
+            {
+                "name": "onix",
+                "id": 95
+            },
+            {
+                "name": "lickitung",
+                "id": 108
+            },
+            {
+                "name": "steelix",
+                "id": 208
+            },
+            {
+                "name": "lickilicky",
+                "id": 463
+            }
+        ]
     },
     "destiny-knot": {
         "id": 9280,
         "name": "Destiny Knot",
         "effect": "A long, thin, bright red string to\nbe held by a Pokémon. If the holder\nbecomes infatuated, the foe does too.",
-        "sprite": 9280
+        "sprite": 9280,
+        "pokemon_with_item": [
+            {
+                "name": "ralts",
+                "id": 280
+            },
+            {
+                "name": "kirlia",
+                "id": 281
+            },
+            {
+                "name": "gardevoir",
+                "id": 282
+            },
+            {
+                "name": "gallade",
+                "id": 475
+            }
+        ]
     },
     "black-sludge": {
         "id": 9281,
         "name": "Black Sludge",
         "effect": "A held item that gradually restores\nthe HP of Poison-type Pokémon.\nIt inflicts damage on all other\ntypes.",
-        "sprite": 9281
+        "sprite": 9281,
+        "pokemon_with_item": [
+            {
+                "name": "grimer",
+                "id": 88
+            },
+            {
+                "name": "muk",
+                "id": 89
+            },
+            {
+                "name": "croagunk",
+                "id": 453
+            },
+            {
+                "name": "toxicroak",
+                "id": 454
+            },
+            {
+                "name": "trubbish",
+                "id": 568
+            },
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
     },
     "icy-rock": {
         "id": 9282,
         "name": "Icy Rock",
         "effect": "A Pokémon held item that extends the\nduration of the move Hail used by the\nholder.",
-        "sprite": 9282
+        "sprite": 9282,
+        "pokemon_with_item": [
+            {
+                "name": "snover",
+                "id": 459
+            },
+            {
+                "name": "abomasnow",
+                "id": 460
+            },
+            {
+                "name": "vanillite",
+                "id": 582
+            },
+            {
+                "name": "vanillish",
+                "id": 583
+            },
+            {
+                "name": "vanilluxe",
+                "id": 584
+            }
+        ]
     },
     "smooth-rock": {
         "id": 9283,
         "name": "Smooth Rock",
         "effect": "A Pokémon held item that extends the\nduration of the move Sandstorm used\nby the holder.",
-        "sprite": 9283
+        "sprite": 9283,
+        "pokemon_with_item": [
+            {
+                "name": "larvitar",
+                "id": 246
+            },
+            {
+                "name": "pupitar",
+                "id": 247
+            },
+            {
+                "name": "tyranitar",
+                "id": 248
+            },
+            {
+                "name": "hippopotas",
+                "id": 449
+            },
+            {
+                "name": "hippowdon",
+                "id": 450
+            }
+        ]
     },
     "heat-rock": {
         "id": 9284,
         "name": "Heat Rock",
         "effect": "A Pokémon held item that extends the\nduration of the move Sunny Day used\nby the holder.",
-        "sprite": 9284
+        "sprite": 9284,
+        "pokemon_with_item": [
+            {
+                "name": "torkoal",
+                "id": 324
+            }
+        ]
     },
     "damp-rock": {
         "id": 9285,
         "name": "Damp Rock",
         "effect": "A Pokémon held item that extends the\nduration of the move Rain Dance used\nby the holder.",
-        "sprite": 9285
+        "sprite": 9285,
+        "pokemon_with_item": [
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            }
+        ]
     },
     "grip-claw": {
         "id": 9286,
         "name": "Grip Claw",
         "effect": "A Pokémon held item that extends the\nduration of multiturn attacks like\nBind and Wrap.",
-        "sprite": 9286
+        "sprite": 9286,
+        "pokemon_with_item": [
+            {
+                "name": "sandshrew",
+                "id": 27
+            },
+            {
+                "name": "sandslash",
+                "id": 28
+            },
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            }
+        ]
     },
     "choice-scarf": {
         "id": 9287,
@@ -9123,7 +11125,25 @@
         "id": 9288,
         "name": "Sticky Barb",
         "effect": "A held item that damages the holder\non\nevery turn. It may latch on to foes\nthat touch the holder.",
-        "sprite": 9288
+        "sprite": 9288,
+        "pokemon_with_item": [
+            {
+                "name": "cacnea",
+                "id": 331
+            },
+            {
+                "name": "cacturne",
+                "id": 332
+            },
+            {
+                "name": "ferroseed",
+                "id": 597
+            },
+            {
+                "name": "ferrothorn",
+                "id": 598
+            }
+        ]
     },
     "power-bracer": {
         "id": 9289,
@@ -9165,13 +11185,65 @@
         "id": 9295,
         "name": "Shed Shell",
         "effect": "A tough, discarded carapace to be\nheld\nby a Pokémon. It enables the holder\nto\nswitch with a waiting Pokémon in\nbattle.",
-        "sprite": 9295
+        "sprite": 9295,
+        "pokemon_with_item": [
+            {
+                "name": "arbok",
+                "id": 24
+            },
+            {
+                "name": "venomoth",
+                "id": 49
+            },
+            {
+                "name": "beautifly",
+                "id": 267
+            },
+            {
+                "name": "dustox",
+                "id": 269
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "scraggy",
+                "id": 559
+            },
+            {
+                "name": "scrafty",
+                "id": 560
+            }
+        ]
     },
     "big-root": {
         "id": 9296,
         "name": "Big Root",
         "effect": "A Pokémon held item that boosts the\npower of HP-stealing moves to let the\nholder recover more HP.",
-        "sprite": 9296
+        "sprite": 9296,
+        "pokemon_with_item": [
+            {
+                "name": "bellsprout",
+                "id": 69
+            },
+            {
+                "name": "weepinbell",
+                "id": 70
+            },
+            {
+                "name": "victreebel",
+                "id": 71
+            },
+            {
+                "name": "lileep",
+                "id": 345
+            },
+            {
+                "name": "cradily",
+                "id": 346
+            }
+        ]
     },
     "choice-specs": {
         "id": 9297,
@@ -9321,43 +11393,133 @@
         "id": 9321,
         "name": "Protector",
         "effect": "A protective item of some sort.\nIt is extremely stiff and heavy.\nIt is loved by a certain Pokémon.",
-        "sprite": 9321
+        "sprite": 9321,
+        "pokemon_with_item": [
+            {
+                "name": "rhyhorn",
+                "id": 111
+            },
+            {
+                "name": "rhydon",
+                "id": 112
+            },
+            {
+                "name": "rhyperior",
+                "id": 464
+            }
+        ]
     },
     "electirizer": {
         "id": 9322,
         "name": "Electirizer",
         "effect": "A box packed with a tremendous\namount of electric energy.\nIt is loved by a certain Pokémon.",
-        "sprite": 9322
+        "sprite": 9322,
+        "pokemon_with_item": [
+            {
+                "name": "electabuzz",
+                "id": 125
+            },
+            {
+                "name": "elekid",
+                "id": 239
+            },
+            {
+                "name": "electivire",
+                "id": 466
+            }
+        ]
     },
     "magmarizer": {
         "id": 9323,
         "name": "Magmarizer",
         "effect": "A box packed with a tremendous\namount of magma energy.\nIt is loved by a certain Pokémon.",
-        "sprite": 9323
+        "sprite": 9323,
+        "pokemon_with_item": [
+            {
+                "name": "magmar",
+                "id": 126
+            },
+            {
+                "name": "magby",
+                "id": 240
+            },
+            {
+                "name": "magmortar",
+                "id": 467
+            }
+        ]
     },
     "dubious-disc": {
         "id": 9324,
         "name": "Dubious Disc",
         "effect": "A transparent device overflowing with\ndubious data.\nIts producer is unknown.",
-        "sprite": 9324
+        "sprite": 9324,
+        "pokemon_with_item": [
+            {
+                "name": "porygon-z",
+                "id": 474
+            }
+        ]
     },
     "reaper-cloth": {
         "id": 9325,
         "name": "Reaper Cloth",
         "effect": "A cloth imbued with horrifyingly\nstrong\nspiritual energy.\nIt is loved by a certain Pokémon.",
-        "sprite": 9325
+        "sprite": 9325,
+        "pokemon_with_item": [
+            {
+                "name": "duskull",
+                "id": 355
+            },
+            {
+                "name": "dusclops",
+                "id": 356
+            },
+            {
+                "name": "dusknoir",
+                "id": 477
+            }
+        ]
     },
     "razor-claw": {
         "id": 9326,
         "name": "Razor Claw",
         "effect": "An item to be held by a Pokémon.\nIt is a sharply hooked claw that ups\nthe holder's critical-hit ratio.",
-        "sprite": 9326
+        "sprite": 9326,
+        "pokemon_with_item": [
+            {
+                "name": "sneasel",
+                "id": 215
+            },
+            {
+                "name": "zangoose",
+                "id": 335
+            },
+            {
+                "name": "weavile",
+                "id": 461
+            }
+        ]
     },
     "razor-fang": {
         "id": 9327,
         "name": "Razor Fang",
         "effect": "An item to be held by a Pokémon.\nIt may cause the foe to flinch when\nthe holder inflicts damage.",
-        "sprite": 9327
+        "sprite": 9327,
+        "pokemon_with_item": [
+            {
+                "name": "gligar",
+                "id": 207
+            },
+            {
+                "name": "seviper",
+                "id": 336
+            },
+            {
+                "name": "gliscor",
+                "id": 472
+            }
+        ]
     },
     "tm---hone-claws": {
         "id": 6328,
@@ -10251,7 +12413,25 @@
         "id": 6539,
         "name": "Float Stone",
         "effect": "A very light stone. It reduces the\nweight of a Pokémon when held.",
-        "sprite": 5539
+        "sprite": 5539,
+        "pokemon_with_item": [
+            {
+                "name": "nosepass",
+                "id": 299
+            },
+            {
+                "name": "probopass",
+                "id": 476
+            },
+            {
+                "name": "gothorita",
+                "id": 575
+            },
+            {
+                "name": "gothitelle",
+                "id": 576
+            }
+        ]
     },
     "rocky-helmet": {
         "id": 6540,
@@ -10263,7 +12443,13 @@
         "id": 6541,
         "name": "Air Balloon",
         "effect": "When held by a Pokémon, the Pokémon\nwill float into the air. When the\nholder\nis attacked, this item will burst.",
-        "sprite": 5541
+        "sprite": 5541,
+        "pokemon_with_item": [
+            {
+                "name": "drifblim",
+                "id": 426
+            }
+        ]
     },
     "red-card": {
         "id": 6542,
@@ -10287,13 +12473,65 @@
         "id": 6545,
         "name": "Absorb Bulb",
         "effect": "A consumable bulb. If the holder is\nhit\nby a Water-type move, its Sp. Atk\nwill rise.",
-        "sprite": 5545
+        "sprite": 5545,
+        "pokemon_with_item": [
+            {
+                "name": "oddish",
+                "id": 43
+            },
+            {
+                "name": "gloom",
+                "id": 44
+            },
+            {
+                "name": "vileplume",
+                "id": 45
+            },
+            {
+                "name": "bellossom",
+                "id": 182
+            },
+            {
+                "name": "roselia",
+                "id": 315
+            },
+            {
+                "name": "roserade",
+                "id": 407
+            },
+            {
+                "name": "cottonee",
+                "id": 546
+            },
+            {
+                "name": "whimsicott",
+                "id": 547
+            },
+            {
+                "name": "petilil",
+                "id": 548
+            },
+            {
+                "name": "lilligant",
+                "id": 549
+            }
+        ]
     },
     "cell-battery": {
         "id": 6546,
         "name": "Cell Battery",
         "effect": "A consumable battery. If the\nholder is hit by an Electric-type\nmove, its Attack will rise.",
-        "sprite": 5546
+        "sprite": 5546,
+        "pokemon_with_item": [
+            {
+                "name": "plusle",
+                "id": 311
+            },
+            {
+                "name": "minun",
+                "id": 312
+            }
+        ]
     },
     "eject-button": {
         "id": 6547,
@@ -10443,7 +12681,17 @@
         "id": 6571,
         "name": "Pretty Wing",
         "effect": "Though this feather is beautiful,\nit's\njust a regular feather and has no\neffect on Pokémon.",
-        "sprite": 5571
+        "sprite": 5571,
+        "pokemon_with_item": [
+            {
+                "name": "wingull",
+                "id": 278
+            },
+            {
+                "name": "pelipper",
+                "id": 279
+            }
+        ]
     },
     "cover-fossil": {
         "id": 6572,
@@ -10497,13 +12745,37 @@
         "id": 6580,
         "name": "BalmMushroom",
         "effect": "A rare mushroom which gives off a\nnice\nfragrance.\nA maniac will buy it for a high\nprice.",
-        "sprite": 5580
+        "sprite": 5580,
+        "pokemon_with_item": [
+            {
+                "name": "shroomish",
+                "id": 285
+            },
+            {
+                "name": "breloom",
+                "id": 286
+            },
+            {
+                "name": "foongus",
+                "id": 590
+            },
+            {
+                "name": "amoonguss",
+                "id": 591
+            }
+        ]
     },
     "big-nugget": {
         "id": 6581,
         "name": "Big Nugget",
         "effect": "A big nugget of pure gold that gives\noff\na lustrous gleam.\nA maniac will buy it for a high\nprice.",
-        "sprite": 5581
+        "sprite": 5581,
+        "pokemon_with_item": [
+            {
+                "name": "garbodor",
+                "id": 569
+            }
+        ]
     },
     "pearl-string": {
         "id": 6582,
@@ -10515,7 +12787,29 @@
         "id": 6583,
         "name": "Comet Shard",
         "effect": "A shard which fell to the ground when\na comet approached.\nA maniac will buy it for a high\nprice.",
-        "sprite": 5583
+        "sprite": 5583,
+        "pokemon_with_item": [
+            {
+                "name": "clefairy",
+                "id": 35
+            },
+            {
+                "name": "clefable",
+                "id": 36
+            },
+            {
+                "name": "cleffa",
+                "id": 173
+            },
+            {
+                "name": "lunatone",
+                "id": 337
+            },
+            {
+                "name": "solrock",
+                "id": 338
+            }
+        ]
     },
     "relic-copper": {
         "id": 5584,
