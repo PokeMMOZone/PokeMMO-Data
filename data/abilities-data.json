@@ -3,6 +3,38 @@
         "id": 1,
         "name": "stench",
         "effect": "Has a 10% chance of making target Pokémon flinch with each hit.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あくしゅう"
+            },
+            "ko": {
+                "name": "악취"
+            },
+            "zh-Hant": {
+                "name": "惡臭"
+            },
+            "fr": {
+                "name": "Puanteur"
+            },
+            "de": {
+                "name": "Duftnote"
+            },
+            "es": {
+                "name": "Hedor"
+            },
+            "it": {
+                "name": "Tanfo"
+            },
+            "en": {
+                "name": "Stench"
+            },
+            "ja": {
+                "name": "あくしゅう"
+            },
+            "zh-Hans": {
+                "name": "恶臭"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "gloom",
@@ -46,6 +78,38 @@
         "id": 2,
         "name": "drizzle",
         "effect": "Summons rain that lasts indefinitely upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あめふらし"
+            },
+            "ko": {
+                "name": "잔비"
+            },
+            "zh-Hant": {
+                "name": "降雨"
+            },
+            "fr": {
+                "name": "Crachin"
+            },
+            "de": {
+                "name": "Niesel"
+            },
+            "es": {
+                "name": "Llovizna"
+            },
+            "it": {
+                "name": "Piovischio"
+            },
+            "en": {
+                "name": "Drizzle"
+            },
+            "ja": {
+                "name": "あめふらし"
+            },
+            "zh-Hans": {
+                "name": "降雨"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "politoed",
@@ -65,6 +129,38 @@
         "id": 3,
         "name": "speed-boost",
         "effect": "Raises Speed one stage after each turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かそく"
+            },
+            "ko": {
+                "name": "가속"
+            },
+            "zh-Hant": {
+                "name": "加速"
+            },
+            "fr": {
+                "name": "Turbo"
+            },
+            "de": {
+                "name": "Temposchub"
+            },
+            "es": {
+                "name": "Impulso"
+            },
+            "it": {
+                "name": "Acceleratore"
+            },
+            "en": {
+                "name": "Speed Boost"
+            },
+            "ja": {
+                "name": "かそく"
+            },
+            "zh-Hans": {
+                "name": "加速"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "yanma",
@@ -112,6 +208,38 @@
         "id": 4,
         "name": "battle-armor",
         "effect": "Protects against critical hits.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "カブトアーマー"
+            },
+            "ko": {
+                "name": "전투무장"
+            },
+            "zh-Hant": {
+                "name": "戰鬥盔甲"
+            },
+            "fr": {
+                "name": "Armurbaston"
+            },
+            "de": {
+                "name": "Kampfpanzer"
+            },
+            "es": {
+                "name": "Armadura Batalla"
+            },
+            "it": {
+                "name": "Lottascudo"
+            },
+            "en": {
+                "name": "Battle Armor"
+            },
+            "ja": {
+                "name": "カブトアーマー"
+            },
+            "zh-Hans": {
+                "name": "战斗盔甲"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "cubone",
@@ -151,6 +279,38 @@
         "id": 5,
         "name": "sturdy",
         "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "がんじょう"
+            },
+            "ko": {
+                "name": "옹골참"
+            },
+            "zh-Hant": {
+                "name": "結實"
+            },
+            "fr": {
+                "name": "Fermeté"
+            },
+            "de": {
+                "name": "Robustheit"
+            },
+            "es": {
+                "name": "Robustez"
+            },
+            "it": {
+                "name": "Vigore"
+            },
+            "en": {
+                "name": "Sturdy"
+            },
+            "ja": {
+                "name": "がんじょう"
+            },
+            "zh-Hans": {
+                "name": "结实"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "geodude",
@@ -286,6 +446,38 @@
         "id": 6,
         "name": "damp",
         "effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しめりけ"
+            },
+            "ko": {
+                "name": "습기"
+            },
+            "zh-Hant": {
+                "name": "濕氣"
+            },
+            "fr": {
+                "name": "Moiteur"
+            },
+            "de": {
+                "name": "Feuchtigkeit"
+            },
+            "es": {
+                "name": "Humedad"
+            },
+            "it": {
+                "name": "Umidità"
+            },
+            "en": {
+                "name": "Damp"
+            },
+            "ja": {
+                "name": "しめりけ"
+            },
+            "zh-Hans": {
+                "name": "湿气"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "paras",
@@ -365,6 +557,38 @@
         "id": 7,
         "name": "limber",
         "effect": "Prevents paralysis.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "じゅうなん"
+            },
+            "ko": {
+                "name": "유연"
+            },
+            "zh-Hant": {
+                "name": "柔軟"
+            },
+            "fr": {
+                "name": "Échauffement"
+            },
+            "de": {
+                "name": "Flexibilität"
+            },
+            "es": {
+                "name": "Flexibilidad"
+            },
+            "it": {
+                "name": "Scioltezza"
+            },
+            "en": {
+                "name": "Limber"
+            },
+            "ja": {
+                "name": "じゅうなん"
+            },
+            "zh-Hans": {
+                "name": "柔软"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "persian",
@@ -408,6 +632,38 @@
         "id": 8,
         "name": "sand-veil",
         "effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すながくれ"
+            },
+            "ko": {
+                "name": "모래숨기"
+            },
+            "zh-Hant": {
+                "name": "沙隱"
+            },
+            "fr": {
+                "name": "Voile Sable"
+            },
+            "de": {
+                "name": "Sandschleier"
+            },
+            "es": {
+                "name": "Velo Arena"
+            },
+            "it": {
+                "name": "Sabbiavelo"
+            },
+            "en": {
+                "name": "Sand Veil"
+            },
+            "ja": {
+                "name": "すながくれ"
+            },
+            "zh-Hans": {
+                "name": "沙隐"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "sandshrew",
@@ -487,6 +743,38 @@
         "id": 9,
         "name": "static",
         "effect": "Has a 30% chance of paralyzing attacking Pokémon on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "せいでんき"
+            },
+            "ko": {
+                "name": "정전기"
+            },
+            "zh-Hant": {
+                "name": "靜電"
+            },
+            "fr": {
+                "name": "Statik"
+            },
+            "de": {
+                "name": "Statik"
+            },
+            "es": {
+                "name": "Elec. Estática"
+            },
+            "it": {
+                "name": "Statico"
+            },
+            "en": {
+                "name": "Static"
+            },
+            "ja": {
+                "name": "せいでんき"
+            },
+            "zh-Hans": {
+                "name": "静电"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pikachu",
@@ -550,6 +838,38 @@
         "id": 10,
         "name": "volt-absorb",
         "effect": "Absorbs electric moves, healing for 1/4 max HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ちくでん"
+            },
+            "ko": {
+                "name": "축전"
+            },
+            "zh-Hant": {
+                "name": "蓄電"
+            },
+            "fr": {
+                "name": "Absorbe-Volt"
+            },
+            "de": {
+                "name": "Voltabsorber"
+            },
+            "es": {
+                "name": "Absorbe Elec"
+            },
+            "it": {
+                "name": "Assorbivolt"
+            },
+            "en": {
+                "name": "Volt Absorb"
+            },
+            "ja": {
+                "name": "ちくでん"
+            },
+            "zh-Hans": {
+                "name": "蓄电"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "jolteon",
@@ -581,6 +901,38 @@
         "id": 11,
         "name": "water-absorb",
         "effect": "Absorbs water moves, healing for 1/4 max HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ちょすい"
+            },
+            "ko": {
+                "name": "저수"
+            },
+            "zh-Hant": {
+                "name": "儲水"
+            },
+            "fr": {
+                "name": "Absorbe-Eau"
+            },
+            "de": {
+                "name": "H2O-Absorber"
+            },
+            "es": {
+                "name": "Absorbe Agua"
+            },
+            "it": {
+                "name": "Assorbacqua"
+            },
+            "en": {
+                "name": "Water Absorb"
+            },
+            "ja": {
+                "name": "ちょすい"
+            },
+            "zh-Hans": {
+                "name": "储水"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "poliwag",
@@ -668,6 +1020,38 @@
         "id": 12,
         "name": "oblivious",
         "effect": "Prevents infatuation and protects against captivate.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "どんかん"
+            },
+            "ko": {
+                "name": "둔감"
+            },
+            "zh-Hant": {
+                "name": "遲鈍"
+            },
+            "fr": {
+                "name": "Benêt"
+            },
+            "de": {
+                "name": "Dösigkeit"
+            },
+            "es": {
+                "name": "Despiste"
+            },
+            "it": {
+                "name": "Indifferenza"
+            },
+            "en": {
+                "name": "Oblivious"
+            },
+            "ja": {
+                "name": "どんかん"
+            },
+            "zh-Hans": {
+                "name": "迟钝"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "slowpoke",
@@ -755,6 +1139,38 @@
         "id": 13,
         "name": "cloud-nine",
         "effect": "Negates all effects of weather, but does not prevent the weather itself.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ノーてんき"
+            },
+            "ko": {
+                "name": "날씨부정"
+            },
+            "zh-Hant": {
+                "name": "無關天氣"
+            },
+            "fr": {
+                "name": "Ciel Gris"
+            },
+            "de": {
+                "name": "Wolke Sieben"
+            },
+            "es": {
+                "name": "Aclimatación"
+            },
+            "it": {
+                "name": "Antimeteo"
+            },
+            "en": {
+                "name": "Cloud Nine"
+            },
+            "ja": {
+                "name": "ノーてんき"
+            },
+            "zh-Hans": {
+                "name": "无关天气"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "psyduck",
@@ -786,6 +1202,38 @@
         "id": 14,
         "name": "compound-eyes",
         "effect": "Increases moves' accuracy to 1.3×.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふくがん"
+            },
+            "ko": {
+                "name": "복안"
+            },
+            "zh-Hant": {
+                "name": "複眼"
+            },
+            "fr": {
+                "name": "Œil Composé"
+            },
+            "de": {
+                "name": "Facettenauge"
+            },
+            "es": {
+                "name": "Ojo Compuesto"
+            },
+            "it": {
+                "name": "Insettocchi"
+            },
+            "en": {
+                "name": "Compound Eyes"
+            },
+            "ja": {
+                "name": "ふくがん"
+            },
+            "zh-Hans": {
+                "name": "复眼"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "butterfree",
@@ -821,6 +1269,38 @@
         "id": 15,
         "name": "insomnia",
         "effect": "Prevents sleep.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふみん"
+            },
+            "ko": {
+                "name": "불면"
+            },
+            "zh-Hant": {
+                "name": "不眠"
+            },
+            "fr": {
+                "name": "Insomnia"
+            },
+            "de": {
+                "name": "Insomnia"
+            },
+            "es": {
+                "name": "Insomnio"
+            },
+            "it": {
+                "name": "Insonnia"
+            },
+            "en": {
+                "name": "Insomnia"
+            },
+            "ja": {
+                "name": "ふみん"
+            },
+            "zh-Hans": {
+                "name": "不眠"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "drowzee",
@@ -872,6 +1352,38 @@
         "id": 16,
         "name": "color-change",
         "effect": "Changes type to match when hit by a damaging move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "へんしょく"
+            },
+            "ko": {
+                "name": "변색"
+            },
+            "zh-Hant": {
+                "name": "變色"
+            },
+            "fr": {
+                "name": "Homochromie"
+            },
+            "de": {
+                "name": "Farbwechsel"
+            },
+            "es": {
+                "name": "Cambio Color"
+            },
+            "it": {
+                "name": "Cambiacolore"
+            },
+            "en": {
+                "name": "Color Change"
+            },
+            "ja": {
+                "name": "へんしょく"
+            },
+            "zh-Hans": {
+                "name": "变色"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "kecleon",
@@ -883,6 +1395,38 @@
         "id": 17,
         "name": "immunity",
         "effect": "Prevents poison.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "めんえき"
+            },
+            "ko": {
+                "name": "면역"
+            },
+            "zh-Hant": {
+                "name": "免疫"
+            },
+            "fr": {
+                "name": "Vaccin"
+            },
+            "de": {
+                "name": "Immunität"
+            },
+            "es": {
+                "name": "Inmunidad"
+            },
+            "it": {
+                "name": "Immunità"
+            },
+            "en": {
+                "name": "Immunity"
+            },
+            "ja": {
+                "name": "めんえき"
+            },
+            "zh-Hans": {
+                "name": "免疫"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "snorlax",
@@ -902,6 +1446,38 @@
         "id": 18,
         "name": "flash-fire",
         "effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "もらいび"
+            },
+            "ko": {
+                "name": "타오르는불꽃"
+            },
+            "zh-Hant": {
+                "name": "引火"
+            },
+            "fr": {
+                "name": "Torche"
+            },
+            "de": {
+                "name": "Feuerfänger"
+            },
+            "es": {
+                "name": "Absorbe Fuego"
+            },
+            "it": {
+                "name": "Fuocardore"
+            },
+            "en": {
+                "name": "Flash Fire"
+            },
+            "ja": {
+                "name": "もらいび"
+            },
+            "zh-Hans": {
+                "name": "引火"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "vulpix",
@@ -977,6 +1553,38 @@
         "id": 19,
         "name": "shield-dust",
         "effect": "Protects against incoming moves' extra effects.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "りんぷん"
+            },
+            "ko": {
+                "name": "인분"
+            },
+            "zh-Hant": {
+                "name": "鱗粉"
+            },
+            "fr": {
+                "name": "Écran Poudre"
+            },
+            "de": {
+                "name": "Puderabwehr"
+            },
+            "es": {
+                "name": "Polvo Escudo"
+            },
+            "it": {
+                "name": "Polvoscudo"
+            },
+            "en": {
+                "name": "Shield Dust"
+            },
+            "ja": {
+                "name": "りんぷん"
+            },
+            "zh-Hans": {
+                "name": "鳞粉"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "caterpie",
@@ -1004,6 +1612,38 @@
         "id": 20,
         "name": "own-tempo",
         "effect": "Prevents confusion.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マイペース"
+            },
+            "ko": {
+                "name": "마이페이스"
+            },
+            "zh-Hant": {
+                "name": "我行我素"
+            },
+            "fr": {
+                "name": "Tempo Perso"
+            },
+            "de": {
+                "name": "Tempomacher"
+            },
+            "es": {
+                "name": "Ritmo Propio"
+            },
+            "it": {
+                "name": "Mente Locale"
+            },
+            "en": {
+                "name": "Own Tempo"
+            },
+            "ja": {
+                "name": "マイペース"
+            },
+            "zh-Hans": {
+                "name": "我行我素"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "slowpoke",
@@ -1079,6 +1719,38 @@
         "id": 21,
         "name": "suction-cups",
         "effect": "Prevents being forced out of battle by other Pokémon's moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きゅうばん"
+            },
+            "ko": {
+                "name": "흡반"
+            },
+            "zh-Hant": {
+                "name": "吸盤"
+            },
+            "fr": {
+                "name": "Ventouse"
+            },
+            "de": {
+                "name": "Saugnapf"
+            },
+            "es": {
+                "name": "Ventosas"
+            },
+            "it": {
+                "name": "Ventose"
+            },
+            "en": {
+                "name": "Suction Cups"
+            },
+            "ja": {
+                "name": "きゅうばん"
+            },
+            "zh-Hans": {
+                "name": "吸盘"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "octillery",
@@ -1098,6 +1770,38 @@
         "id": 22,
         "name": "intimidate",
         "effect": "Lowers opponents' Attack one stage upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いかく"
+            },
+            "ko": {
+                "name": "위협"
+            },
+            "zh-Hant": {
+                "name": "威嚇"
+            },
+            "fr": {
+                "name": "Intimidation"
+            },
+            "de": {
+                "name": "Bedroher"
+            },
+            "es": {
+                "name": "Intimidación"
+            },
+            "it": {
+                "name": "Prepotenza"
+            },
+            "en": {
+                "name": "Intimidate"
+            },
+            "ja": {
+                "name": "いかく"
+            },
+            "zh-Hans": {
+                "name": "威吓"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "ekans",
@@ -1217,6 +1921,38 @@
         "id": 23,
         "name": "shadow-tag",
         "effect": "Prevents opponents from fleeing or switching out.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かげふみ"
+            },
+            "ko": {
+                "name": "그림자밟기"
+            },
+            "zh-Hant": {
+                "name": "踩影"
+            },
+            "fr": {
+                "name": "Marque Ombre"
+            },
+            "de": {
+                "name": "Wegsperre"
+            },
+            "es": {
+                "name": "Sombra Trampa"
+            },
+            "it": {
+                "name": "Pedinombra"
+            },
+            "en": {
+                "name": "Shadow Tag"
+            },
+            "ja": {
+                "name": "かげふみ"
+            },
+            "zh-Hans": {
+                "name": "踩影"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "wobbuffet",
@@ -1244,6 +1980,38 @@
         "id": 24,
         "name": "rough-skin",
         "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "さめはだ"
+            },
+            "ko": {
+                "name": "까칠한피부"
+            },
+            "zh-Hant": {
+                "name": "粗糙皮膚"
+            },
+            "fr": {
+                "name": "Peau Dure"
+            },
+            "de": {
+                "name": "Rauhaut"
+            },
+            "es": {
+                "name": "Piel Tosca"
+            },
+            "it": {
+                "name": "Cartavetro"
+            },
+            "en": {
+                "name": "Rough Skin"
+            },
+            "ja": {
+                "name": "さめはだ"
+            },
+            "zh-Hans": {
+                "name": "粗糙皮肤"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "carvanha",
@@ -1275,6 +2043,38 @@
         "id": 25,
         "name": "wonder-guard",
         "effect": "Protects against damaging moves that are not super effective.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふしぎなまもり"
+            },
+            "ko": {
+                "name": "불가사의부적"
+            },
+            "zh-Hant": {
+                "name": "神奇守護"
+            },
+            "fr": {
+                "name": "Garde Mystik"
+            },
+            "de": {
+                "name": "Wunderwache"
+            },
+            "es": {
+                "name": "Superguarda"
+            },
+            "it": {
+                "name": "Magidifesa"
+            },
+            "en": {
+                "name": "Wonder Guard"
+            },
+            "ja": {
+                "name": "ふしぎなまもり"
+            },
+            "zh-Hans": {
+                "name": "神奇守护"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shedinja",
@@ -1286,6 +2086,38 @@
         "id": 26,
         "name": "levitate",
         "effect": "Evades ground moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふゆう"
+            },
+            "ko": {
+                "name": "부유"
+            },
+            "zh-Hant": {
+                "name": "飄浮"
+            },
+            "fr": {
+                "name": "Lévitation"
+            },
+            "de": {
+                "name": "Schwebe"
+            },
+            "es": {
+                "name": "Levitación"
+            },
+            "it": {
+                "name": "Levitazione"
+            },
+            "en": {
+                "name": "Levitate"
+            },
+            "ja": {
+                "name": "ふゆう"
+            },
+            "zh-Hans": {
+                "name": "飘浮"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "gastly",
@@ -1441,6 +2273,38 @@
         "id": 27,
         "name": "effect-spore",
         "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ほうし"
+            },
+            "ko": {
+                "name": "포자"
+            },
+            "zh-Hant": {
+                "name": "孢子"
+            },
+            "fr": {
+                "name": "Pose Spore"
+            },
+            "de": {
+                "name": "Sporenwirt"
+            },
+            "es": {
+                "name": "Efecto Espora"
+            },
+            "it": {
+                "name": "Spargispora"
+            },
+            "en": {
+                "name": "Effect Spore"
+            },
+            "ja": {
+                "name": "ほうし"
+            },
+            "zh-Hans": {
+                "name": "孢子"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "vileplume",
@@ -1476,6 +2340,38 @@
         "id": 28,
         "name": "synchronize",
         "effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "シンクロ"
+            },
+            "ko": {
+                "name": "싱크로"
+            },
+            "zh-Hant": {
+                "name": "同步"
+            },
+            "fr": {
+                "name": "Synchro"
+            },
+            "de": {
+                "name": "Synchro"
+            },
+            "es": {
+                "name": "Sincronía"
+            },
+            "it": {
+                "name": "Sincronismo"
+            },
+            "en": {
+                "name": "Synchronize"
+            },
+            "ja": {
+                "name": "シンクロ"
+            },
+            "zh-Hans": {
+                "name": "同步"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "abra",
@@ -1543,6 +2439,38 @@
         "id": 29,
         "name": "clear-body",
         "effect": "Prevents stats from being lowered by other Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "クリアボディ"
+            },
+            "ko": {
+                "name": "클리어바디"
+            },
+            "zh-Hant": {
+                "name": "恆淨之軀"
+            },
+            "fr": {
+                "name": "Corps Sain"
+            },
+            "de": {
+                "name": "Neutraltorso"
+            },
+            "es": {
+                "name": "Cuerpo Puro"
+            },
+            "it": {
+                "name": "Corpochiaro"
+            },
+            "en": {
+                "name": "Clear Body"
+            },
+            "ja": {
+                "name": "クリアボディ"
+            },
+            "zh-Hans": {
+                "name": "恒净之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "tentacool",
@@ -1594,6 +2522,38 @@
         "id": 30,
         "name": "natural-cure",
         "effect": "Cures any major status ailment upon switching out.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しぜんかいふく"
+            },
+            "ko": {
+                "name": "자연회복"
+            },
+            "zh-Hant": {
+                "name": "自然回復"
+            },
+            "fr": {
+                "name": "Médic Nature"
+            },
+            "de": {
+                "name": "Innere Kraft"
+            },
+            "es": {
+                "name": "Cura Natural"
+            },
+            "it": {
+                "name": "Alternacura"
+            },
+            "en": {
+                "name": "Natural Cure"
+            },
+            "ja": {
+                "name": "しぜんかいふく"
+            },
+            "zh-Hans": {
+                "name": "自然回复"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "chansey",
@@ -1653,6 +2613,38 @@
         "id": 31,
         "name": "lightning-rod",
         "effect": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひらいしん"
+            },
+            "ko": {
+                "name": "피뢰침"
+            },
+            "zh-Hant": {
+                "name": "避雷針"
+            },
+            "fr": {
+                "name": "Paratonnerre"
+            },
+            "de": {
+                "name": "Blitzfänger"
+            },
+            "es": {
+                "name": "Pararrayos"
+            },
+            "it": {
+                "name": "Parafulmine"
+            },
+            "en": {
+                "name": "Lightning Rod"
+            },
+            "ja": {
+                "name": "ひらいしん"
+            },
+            "zh-Hans": {
+                "name": "避雷针"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pikachu",
@@ -1720,6 +2712,38 @@
         "id": 32,
         "name": "serene-grace",
         "effect": "Doubles the chance of moves' extra effects occurring.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てんのめぐみ"
+            },
+            "ko": {
+                "name": "하늘의은총"
+            },
+            "zh-Hant": {
+                "name": "天恩"
+            },
+            "fr": {
+                "name": "Sérénité"
+            },
+            "de": {
+                "name": "Edelmut"
+            },
+            "es": {
+                "name": "Dicha"
+            },
+            "it": {
+                "name": "Leggiadro"
+            },
+            "en": {
+                "name": "Serene Grace"
+            },
+            "ja": {
+                "name": "てんのめぐみ"
+            },
+            "zh-Hans": {
+                "name": "天恩"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "chansey",
@@ -1779,6 +2803,38 @@
         "id": 33,
         "name": "swift-swim",
         "effect": "Doubles Speed during rain.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すいすい"
+            },
+            "ko": {
+                "name": "쓱쓱"
+            },
+            "zh-Hant": {
+                "name": "悠游自如"
+            },
+            "fr": {
+                "name": "Glissade"
+            },
+            "de": {
+                "name": "Wassertempo"
+            },
+            "es": {
+                "name": "Nado Rápido"
+            },
+            "it": {
+                "name": "Nuotovelox"
+            },
+            "en": {
+                "name": "Swift Swim"
+            },
+            "ja": {
+                "name": "すいすい"
+            },
+            "zh-Hans": {
+                "name": "悠游自如"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "psyduck",
@@ -1938,6 +2994,38 @@
         "id": 34,
         "name": "chlorophyll",
         "effect": "Doubles Speed during strong sunlight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ようりょくそ"
+            },
+            "ko": {
+                "name": "엽록소"
+            },
+            "zh-Hant": {
+                "name": "葉綠素"
+            },
+            "fr": {
+                "name": "Chlorophylle"
+            },
+            "de": {
+                "name": "Chlorophyll"
+            },
+            "es": {
+                "name": "Clorofila"
+            },
+            "it": {
+                "name": "Clorofilla"
+            },
+            "en": {
+                "name": "Chlorophyll"
+            },
+            "ja": {
+                "name": "ようりょくそ"
+            },
+            "zh-Hans": {
+                "name": "叶绿素"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "bulbasaur",
@@ -2085,6 +3173,38 @@
         "id": 35,
         "name": "illuminate",
         "effect": "Doubles the wild encounter rate.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はっこう"
+            },
+            "ko": {
+                "name": "발광"
+            },
+            "zh-Hant": {
+                "name": "發光"
+            },
+            "fr": {
+                "name": "Lumiattirance"
+            },
+            "de": {
+                "name": "Erleuchtung"
+            },
+            "es": {
+                "name": "Iluminación"
+            },
+            "it": {
+                "name": "Risplendi"
+            },
+            "en": {
+                "name": "Illuminate"
+            },
+            "ja": {
+                "name": "はっこう"
+            },
+            "zh-Hans": {
+                "name": "发光"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "staryu",
@@ -2116,6 +3236,38 @@
         "id": 36,
         "name": "trace",
         "effect": "Copies an opponent's ability upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "トレース"
+            },
+            "ko": {
+                "name": "트레이스"
+            },
+            "zh-Hant": {
+                "name": "複製"
+            },
+            "fr": {
+                "name": "Calque"
+            },
+            "de": {
+                "name": "Erfassen"
+            },
+            "es": {
+                "name": "Rastro"
+            },
+            "it": {
+                "name": "Traccia"
+            },
+            "en": {
+                "name": "Trace"
+            },
+            "ja": {
+                "name": "トレース"
+            },
+            "zh-Hans": {
+                "name": "复制"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "porygon",
@@ -2143,6 +3295,38 @@
         "id": 37,
         "name": "huge-power",
         "effect": "Doubles Attack in battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ちからもち"
+            },
+            "ko": {
+                "name": "천하장사"
+            },
+            "zh-Hant": {
+                "name": "大力士"
+            },
+            "fr": {
+                "name": "Coloforce"
+            },
+            "de": {
+                "name": "Kraftkoloss"
+            },
+            "es": {
+                "name": "Potencia"
+            },
+            "it": {
+                "name": "Macroforza"
+            },
+            "en": {
+                "name": "Huge Power"
+            },
+            "ja": {
+                "name": "ちからもち"
+            },
+            "zh-Hans": {
+                "name": "大力士"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "marill",
@@ -2162,6 +3346,38 @@
         "id": 38,
         "name": "poison-point",
         "effect": "Has a 30% chance of poisoning attacking Pokémon on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "どくのトゲ"
+            },
+            "ko": {
+                "name": "독가시"
+            },
+            "zh-Hant": {
+                "name": "毒刺"
+            },
+            "fr": {
+                "name": "Point Poison"
+            },
+            "de": {
+                "name": "Giftdorn"
+            },
+            "es": {
+                "name": "Punto Tóxico"
+            },
+            "it": {
+                "name": "Velenopunto"
+            },
+            "en": {
+                "name": "Poison Point"
+            },
+            "ja": {
+                "name": "どくのトゲ"
+            },
+            "zh-Hans": {
+                "name": "毒刺"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "nidoran-f",
@@ -2225,6 +3441,38 @@
         "id": 39,
         "name": "inner-focus",
         "effect": "Prevents flinching.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "せいしんりょく"
+            },
+            "ko": {
+                "name": "정신력"
+            },
+            "zh-Hant": {
+                "name": "精神力"
+            },
+            "fr": {
+                "name": "Attention"
+            },
+            "de": {
+                "name": "Konzentrator"
+            },
+            "es": {
+                "name": "Foco Interno"
+            },
+            "it": {
+                "name": "Forza Interiore"
+            },
+            "en": {
+                "name": "Inner Focus"
+            },
+            "ja": {
+                "name": "せいしんりょく"
+            },
+            "zh-Hans": {
+                "name": "精神力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "zubat",
@@ -2348,6 +3596,38 @@
         "id": 40,
         "name": "magma-armor",
         "effect": "Prevents freezing.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マグマのよろい"
+            },
+            "ko": {
+                "name": "마그마의무장"
+            },
+            "zh-Hant": {
+                "name": "熔岩鎧甲"
+            },
+            "fr": {
+                "name": "Armumagma"
+            },
+            "de": {
+                "name": "Magmapanzer"
+            },
+            "es": {
+                "name": "Escudo Magma"
+            },
+            "it": {
+                "name": "Magmascudo"
+            },
+            "en": {
+                "name": "Magma Armor"
+            },
+            "ja": {
+                "name": "マグマのよろい"
+            },
+            "zh-Hans": {
+                "name": "熔岩铠甲"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "slugma",
@@ -2367,6 +3647,38 @@
         "id": 41,
         "name": "water-veil",
         "effect": "Prevents burns.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "みずのベール"
+            },
+            "ko": {
+                "name": "수의베일"
+            },
+            "zh-Hant": {
+                "name": "水幕"
+            },
+            "fr": {
+                "name": "Ignifu-Voile"
+            },
+            "de": {
+                "name": "Aquahülle"
+            },
+            "es": {
+                "name": "Velo Agua"
+            },
+            "it": {
+                "name": "Idrovelo"
+            },
+            "en": {
+                "name": "Water Veil"
+            },
+            "ja": {
+                "name": "みずのベール"
+            },
+            "zh-Hans": {
+                "name": "水幕"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "goldeen",
@@ -2418,6 +3730,38 @@
         "id": 42,
         "name": "magnet-pull",
         "effect": "Prevents steel opponents from fleeing or switching out.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "じりょく"
+            },
+            "ko": {
+                "name": "자력"
+            },
+            "zh-Hant": {
+                "name": "磁力"
+            },
+            "fr": {
+                "name": "Magnépiège"
+            },
+            "de": {
+                "name": "Magnetfalle"
+            },
+            "es": {
+                "name": "Imán"
+            },
+            "it": {
+                "name": "Magnetismo"
+            },
+            "en": {
+                "name": "Magnet Pull"
+            },
+            "ja": {
+                "name": "じりょく"
+            },
+            "zh-Hans": {
+                "name": "磁力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "magnemite",
@@ -2445,6 +3789,38 @@
         "id": 43,
         "name": "soundproof",
         "effect": "Protects against sound-based moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ぼうおん"
+            },
+            "ko": {
+                "name": "방음"
+            },
+            "zh-Hant": {
+                "name": "隔音"
+            },
+            "fr": {
+                "name": "Anti-Bruit"
+            },
+            "de": {
+                "name": "Lärmschutz"
+            },
+            "es": {
+                "name": "Insonorizar"
+            },
+            "it": {
+                "name": "Antisuono"
+            },
+            "en": {
+                "name": "Soundproof"
+            },
+            "ja": {
+                "name": "ぼうおん"
+            },
+            "zh-Hans": {
+                "name": "隔音"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "voltorb",
@@ -2500,6 +3876,38 @@
         "id": 44,
         "name": "rain-dish",
         "effect": "Heals for 1/16 max HP after each turn during rain.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あめうけざら"
+            },
+            "ko": {
+                "name": "젖은접시"
+            },
+            "zh-Hant": {
+                "name": "雨盤"
+            },
+            "fr": {
+                "name": "Cuvette"
+            },
+            "de": {
+                "name": "Regengenuss"
+            },
+            "es": {
+                "name": "Cura Lluvia"
+            },
+            "it": {
+                "name": "Copripioggia"
+            },
+            "en": {
+                "name": "Rain Dish"
+            },
+            "ja": {
+                "name": "あめうけざら"
+            },
+            "zh-Hans": {
+                "name": "雨盘"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "squirtle",
@@ -2551,6 +3959,38 @@
         "id": 45,
         "name": "sand-stream",
         "effect": "Summons a sandstorm that lasts indefinitely upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すなおこし"
+            },
+            "ko": {
+                "name": "모래날림"
+            },
+            "zh-Hant": {
+                "name": "揚沙"
+            },
+            "fr": {
+                "name": "Sable Volant"
+            },
+            "de": {
+                "name": "Sandsturm"
+            },
+            "es": {
+                "name": "Chorro Arena"
+            },
+            "it": {
+                "name": "Sabbiafiume"
+            },
+            "en": {
+                "name": "Sand Stream"
+            },
+            "ja": {
+                "name": "すなおこし"
+            },
+            "zh-Hans": {
+                "name": "扬沙"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "tyranitar",
@@ -2574,6 +4014,38 @@
         "id": 46,
         "name": "pressure",
         "effect": "Increases the PP cost of moves targetting the Pokémon by one.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "プレッシャー"
+            },
+            "ko": {
+                "name": "프레셔"
+            },
+            "zh-Hant": {
+                "name": "壓迫感"
+            },
+            "fr": {
+                "name": "Pression"
+            },
+            "de": {
+                "name": "Erzwinger"
+            },
+            "es": {
+                "name": "Presión"
+            },
+            "it": {
+                "name": "Pressione"
+            },
+            "en": {
+                "name": "Pressure"
+            },
+            "ja": {
+                "name": "プレッシャー"
+            },
+            "zh-Hans": {
+                "name": "压迫感"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "aerodactyl",
@@ -2693,6 +4165,38 @@
         "id": 47,
         "name": "thick-fat",
         "effect": "Halves damage from fire and ice moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あついしぼう"
+            },
+            "ko": {
+                "name": "두꺼운지방"
+            },
+            "zh-Hant": {
+                "name": "厚脂肪"
+            },
+            "fr": {
+                "name": "Isograisse"
+            },
+            "de": {
+                "name": "Speckschicht"
+            },
+            "es": {
+                "name": "Sebo"
+            },
+            "it": {
+                "name": "Grassospesso"
+            },
+            "en": {
+                "name": "Thick Fat"
+            },
+            "ja": {
+                "name": "あついしぼう"
+            },
+            "zh-Hans": {
+                "name": "厚脂肪"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "seel",
@@ -2784,6 +4288,38 @@
         "id": 48,
         "name": "early-bird",
         "effect": "Makes sleep pass twice as quickly.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はやおき"
+            },
+            "ko": {
+                "name": "일찍기상"
+            },
+            "zh-Hant": {
+                "name": "早起"
+            },
+            "fr": {
+                "name": "Matinal"
+            },
+            "de": {
+                "name": "Frühwecker"
+            },
+            "es": {
+                "name": "Madrugar"
+            },
+            "it": {
+                "name": "Sveglialampo"
+            },
+            "en": {
+                "name": "Early Bird"
+            },
+            "ja": {
+                "name": "はやおき"
+            },
+            "zh-Hans": {
+                "name": "早起"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "doduo",
@@ -2847,6 +4383,38 @@
         "id": 49,
         "name": "flame-body",
         "effect": "Has a 30% chance of burning attacking Pokémon on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ほのおのからだ"
+            },
+            "ko": {
+                "name": "불꽃몸"
+            },
+            "zh-Hant": {
+                "name": "火焰之軀"
+            },
+            "fr": {
+                "name": "Corps Ardent"
+            },
+            "de": {
+                "name": "Flammkörper"
+            },
+            "es": {
+                "name": "Cuerpo Llama"
+            },
+            "it": {
+                "name": "Corpodifuoco"
+            },
+            "en": {
+                "name": "Flame Body"
+            },
+            "ja": {
+                "name": "ほのおのからだ"
+            },
+            "zh-Hans": {
+                "name": "火焰之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "ponyta",
@@ -2906,6 +4474,38 @@
         "id": 50,
         "name": "run-away",
         "effect": "Ensures success fleeing from wild battles.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "にげあし"
+            },
+            "ko": {
+                "name": "도주"
+            },
+            "zh-Hant": {
+                "name": "逃跑"
+            },
+            "fr": {
+                "name": "Fuite"
+            },
+            "de": {
+                "name": "Angsthase"
+            },
+            "es": {
+                "name": "Fuga"
+            },
+            "it": {
+                "name": "Fugafacile"
+            },
+            "en": {
+                "name": "Run Away"
+            },
+            "ja": {
+                "name": "にげあし"
+            },
+            "zh-Hans": {
+                "name": "逃跑"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "caterpie",
@@ -3009,6 +4609,38 @@
         "id": 51,
         "name": "keen-eye",
         "effect": "Prevents accuracy from being lowered.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "するどいめ"
+            },
+            "ko": {
+                "name": "날카로운눈"
+            },
+            "zh-Hant": {
+                "name": "銳利目光"
+            },
+            "fr": {
+                "name": "Regard Vif"
+            },
+            "de": {
+                "name": "Adlerauge"
+            },
+            "es": {
+                "name": "Vista Lince"
+            },
+            "it": {
+                "name": "Sguardofermo"
+            },
+            "en": {
+                "name": "Keen Eye"
+            },
+            "ja": {
+                "name": "するどいめ"
+            },
+            "zh-Hans": {
+                "name": "锐利目光"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pidgey",
@@ -3132,6 +4764,38 @@
         "id": 52,
         "name": "hyper-cutter",
         "effect": "Prevents Attack from being lowered by other Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かいりきバサミ"
+            },
+            "ko": {
+                "name": "괴력집게"
+            },
+            "zh-Hant": {
+                "name": "怪力鉗"
+            },
+            "fr": {
+                "name": "Hyper Cutter"
+            },
+            "de": {
+                "name": "Scherenmacht"
+            },
+            "es": {
+                "name": "Corte Fuerte"
+            },
+            "it": {
+                "name": "Ipertaglio"
+            },
+            "en": {
+                "name": "Hyper Cutter"
+            },
+            "ja": {
+                "name": "かいりきバサミ"
+            },
+            "zh-Hans": {
+                "name": "怪力钳"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "krabby",
@@ -3175,6 +4839,38 @@
         "id": 53,
         "name": "pickup",
         "effect": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ものひろい"
+            },
+            "ko": {
+                "name": "픽업"
+            },
+            "zh-Hant": {
+                "name": "撿拾"
+            },
+            "fr": {
+                "name": "Ramassage"
+            },
+            "de": {
+                "name": "Mitnahme"
+            },
+            "es": {
+                "name": "Recogida"
+            },
+            "it": {
+                "name": "Raccolta"
+            },
+            "en": {
+                "name": "Pickup"
+            },
+            "ja": {
+                "name": "ものひろい"
+            },
+            "zh-Hans": {
+                "name": "捡拾"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "meowth",
@@ -3222,6 +4918,38 @@
         "id": 54,
         "name": "truant",
         "effect": "Skips every second turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "なまけ"
+            },
+            "ko": {
+                "name": "게으름"
+            },
+            "zh-Hant": {
+                "name": "懶惰"
+            },
+            "fr": {
+                "name": "Absentéisme"
+            },
+            "de": {
+                "name": "Schnarchnase"
+            },
+            "es": {
+                "name": "Ausente"
+            },
+            "it": {
+                "name": "Pigrone"
+            },
+            "en": {
+                "name": "Truant"
+            },
+            "ja": {
+                "name": "なまけ"
+            },
+            "zh-Hans": {
+                "name": "懒惰"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "slakoth",
@@ -3241,6 +4969,38 @@
         "id": 55,
         "name": "hustle",
         "effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はりきり"
+            },
+            "ko": {
+                "name": "의욕"
+            },
+            "zh-Hant": {
+                "name": "活力"
+            },
+            "fr": {
+                "name": "Agitation"
+            },
+            "de": {
+                "name": "Übereifer"
+            },
+            "es": {
+                "name": "Entusiasmo"
+            },
+            "it": {
+                "name": "Tuttafretta"
+            },
+            "en": {
+                "name": "Hustle"
+            },
+            "ja": {
+                "name": "はりきり"
+            },
+            "zh-Hans": {
+                "name": "活力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "rattata",
@@ -3320,6 +5080,38 @@
         "id": 56,
         "name": "cute-charm",
         "effect": "Has a 30% chance of infatuating attacking Pokémon on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "メロメロボディ"
+            },
+            "ko": {
+                "name": "헤롱헤롱바디"
+            },
+            "zh-Hant": {
+                "name": "迷人之軀"
+            },
+            "fr": {
+                "name": "Joli Sourire"
+            },
+            "de": {
+                "name": "Charmebolzen"
+            },
+            "es": {
+                "name": "Gran Encanto"
+            },
+            "it": {
+                "name": "Incantevole"
+            },
+            "en": {
+                "name": "Cute Charm"
+            },
+            "ja": {
+                "name": "メロメロボディ"
+            },
+            "zh-Hans": {
+                "name": "迷人之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "clefairy",
@@ -3375,6 +5167,38 @@
         "id": 57,
         "name": "plus",
         "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "プラス"
+            },
+            "ko": {
+                "name": "플러스"
+            },
+            "zh-Hant": {
+                "name": "正電"
+            },
+            "fr": {
+                "name": "Plus"
+            },
+            "de": {
+                "name": "Plus"
+            },
+            "es": {
+                "name": "Más"
+            },
+            "it": {
+                "name": "Più"
+            },
+            "en": {
+                "name": "Plus"
+            },
+            "ja": {
+                "name": "プラス"
+            },
+            "zh-Hans": {
+                "name": "正电"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "mareep",
@@ -3410,6 +5234,38 @@
         "id": 58,
         "name": "minus",
         "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マイナス"
+            },
+            "ko": {
+                "name": "마이너스"
+            },
+            "zh-Hant": {
+                "name": "負電"
+            },
+            "fr": {
+                "name": "Moins"
+            },
+            "de": {
+                "name": "Minus"
+            },
+            "es": {
+                "name": "Menos"
+            },
+            "it": {
+                "name": "Meno"
+            },
+            "en": {
+                "name": "Minus"
+            },
+            "ja": {
+                "name": "マイナス"
+            },
+            "zh-Hans": {
+                "name": "负电"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "electrike",
@@ -3441,6 +5297,38 @@
         "id": 59,
         "name": "forecast",
         "effect": "Changes castform's type and form to match the weather.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てんきや"
+            },
+            "ko": {
+                "name": "기분파"
+            },
+            "zh-Hant": {
+                "name": "陰晴不定"
+            },
+            "fr": {
+                "name": "Météo"
+            },
+            "de": {
+                "name": "Prognose"
+            },
+            "es": {
+                "name": "Predicción"
+            },
+            "it": {
+                "name": "Previsioni"
+            },
+            "en": {
+                "name": "Forecast"
+            },
+            "ja": {
+                "name": "てんきや"
+            },
+            "zh-Hans": {
+                "name": "阴晴不定"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "castform",
@@ -3464,6 +5352,38 @@
         "id": 60,
         "name": "sticky-hold",
         "effect": "Prevents a held item from being removed by other Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ねんちゃく"
+            },
+            "ko": {
+                "name": "점착"
+            },
+            "zh-Hant": {
+                "name": "黏著"
+            },
+            "fr": {
+                "name": "Glu"
+            },
+            "de": {
+                "name": "Klebekörper"
+            },
+            "es": {
+                "name": "Viscosidad"
+            },
+            "it": {
+                "name": "Antifurto"
+            },
+            "en": {
+                "name": "Sticky Hold"
+            },
+            "ja": {
+                "name": "ねんちゃく"
+            },
+            "zh-Hans": {
+                "name": "黏着"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "grimer",
@@ -3503,6 +5423,38 @@
         "id": 61,
         "name": "shed-skin",
         "effect": "Has a 33% chance of curing any major status ailment after each turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "だっぴ"
+            },
+            "ko": {
+                "name": "탈피"
+            },
+            "zh-Hant": {
+                "name": "蛻皮"
+            },
+            "fr": {
+                "name": "Mue"
+            },
+            "de": {
+                "name": "Expidermis"
+            },
+            "es": {
+                "name": "Mudar"
+            },
+            "it": {
+                "name": "Muta"
+            },
+            "en": {
+                "name": "Shed Skin"
+            },
+            "ja": {
+                "name": "だっぴ"
+            },
+            "zh-Hans": {
+                "name": "蜕皮"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "metapod",
@@ -3570,6 +5522,38 @@
         "id": 62,
         "name": "guts",
         "effect": "Increases Attack to 1.5× with a major status ailment.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "こんじょう"
+            },
+            "ko": {
+                "name": "근성"
+            },
+            "zh-Hant": {
+                "name": "毅力"
+            },
+            "fr": {
+                "name": "Cran"
+            },
+            "de": {
+                "name": "Adrenalin"
+            },
+            "es": {
+                "name": "Agallas"
+            },
+            "it": {
+                "name": "Dentistretti"
+            },
+            "en": {
+                "name": "Guts"
+            },
+            "ja": {
+                "name": "こんじょう"
+            },
+            "zh-Hans": {
+                "name": "毅力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "rattata",
@@ -3661,6 +5645,38 @@
         "id": 63,
         "name": "marvel-scale",
         "effect": "Increases Defense to 1.5× with a major status ailment.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふしぎなうろこ"
+            },
+            "ko": {
+                "name": "이상한비늘"
+            },
+            "zh-Hant": {
+                "name": "神奇鱗片"
+            },
+            "fr": {
+                "name": "Écaille Spéciale"
+            },
+            "de": {
+                "name": "Notschutz"
+            },
+            "es": {
+                "name": "Escama Especial"
+            },
+            "it": {
+                "name": "Pelledura"
+            },
+            "en": {
+                "name": "Marvel Scale"
+            },
+            "ja": {
+                "name": "ふしぎなうろこ"
+            },
+            "zh-Hans": {
+                "name": "神奇鳞片"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "dratini",
@@ -3680,6 +5696,38 @@
         "id": 64,
         "name": "liquid-ooze",
         "effect": "Damages opponents using leeching moves for as much as they would heal.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ヘドロえき"
+            },
+            "ko": {
+                "name": "해감액"
+            },
+            "zh-Hant": {
+                "name": "污泥漿"
+            },
+            "fr": {
+                "name": "Suintement"
+            },
+            "de": {
+                "name": "Kloakensoße"
+            },
+            "es": {
+                "name": "Lodo Líquido"
+            },
+            "it": {
+                "name": "Melma"
+            },
+            "en": {
+                "name": "Liquid Ooze"
+            },
+            "ja": {
+                "name": "ヘドロえき"
+            },
+            "zh-Hans": {
+                "name": "污泥浆"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "tentacool",
@@ -3703,6 +5751,38 @@
         "id": 65,
         "name": "overgrow",
         "effect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しんりょく"
+            },
+            "ko": {
+                "name": "심록"
+            },
+            "zh-Hant": {
+                "name": "茂盛"
+            },
+            "fr": {
+                "name": "Engrais"
+            },
+            "de": {
+                "name": "Notdünger"
+            },
+            "es": {
+                "name": "Espesura"
+            },
+            "it": {
+                "name": "Erbaiuto"
+            },
+            "en": {
+                "name": "Overgrow"
+            },
+            "ja": {
+                "name": "しんりょく"
+            },
+            "zh-Hans": {
+                "name": "茂盛"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "bulbasaur",
@@ -3778,6 +5858,38 @@
         "id": 66,
         "name": "blaze",
         "effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "もうか"
+            },
+            "ko": {
+                "name": "맹화"
+            },
+            "zh-Hant": {
+                "name": "猛火"
+            },
+            "fr": {
+                "name": "Brasier"
+            },
+            "de": {
+                "name": "Großbrand"
+            },
+            "es": {
+                "name": "Mar Llamas"
+            },
+            "it": {
+                "name": "Aiutofuoco"
+            },
+            "en": {
+                "name": "Blaze"
+            },
+            "ja": {
+                "name": "もうか"
+            },
+            "zh-Hans": {
+                "name": "猛火"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "charmander",
@@ -3853,6 +5965,38 @@
         "id": 67,
         "name": "torrent",
         "effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "げきりゅう"
+            },
+            "ko": {
+                "name": "급류"
+            },
+            "zh-Hant": {
+                "name": "激流"
+            },
+            "fr": {
+                "name": "Torrent"
+            },
+            "de": {
+                "name": "Sturzbach"
+            },
+            "es": {
+                "name": "Torrente"
+            },
+            "it": {
+                "name": "Acquaiuto"
+            },
+            "en": {
+                "name": "Torrent"
+            },
+            "ja": {
+                "name": "げきりゅう"
+            },
+            "zh-Hans": {
+                "name": "激流"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "squirtle",
@@ -3928,6 +6072,38 @@
         "id": 68,
         "name": "swarm",
         "effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "むしのしらせ"
+            },
+            "ko": {
+                "name": "벌레의알림"
+            },
+            "zh-Hant": {
+                "name": "蟲之預感"
+            },
+            "fr": {
+                "name": "Essaim"
+            },
+            "de": {
+                "name": "Hexaplaga"
+            },
+            "es": {
+                "name": "Enjambre"
+            },
+            "it": {
+                "name": "Aiutinsetto"
+            },
+            "en": {
+                "name": "Swarm"
+            },
+            "ja": {
+                "name": "むしのしらせ"
+            },
+            "zh-Hans": {
+                "name": "虫之预感"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "beedrill",
@@ -4031,6 +6207,38 @@
         "id": 69,
         "name": "rock-head",
         "effect": "Protects against recoil damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いしあたま"
+            },
+            "ko": {
+                "name": "돌머리"
+            },
+            "zh-Hant": {
+                "name": "堅硬腦袋"
+            },
+            "fr": {
+                "name": "Tête de Roc"
+            },
+            "de": {
+                "name": "Steinhaupt"
+            },
+            "es": {
+                "name": "Cabeza Roca"
+            },
+            "it": {
+                "name": "Testadura"
+            },
+            "en": {
+                "name": "Rock Head"
+            },
+            "ja": {
+                "name": "いしあたま"
+            },
+            "zh-Hans": {
+                "name": "坚硬脑袋"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "geodude",
@@ -4114,6 +6322,38 @@
         "id": 70,
         "name": "drought",
         "effect": "Summons strong sunlight that lasts indefinitely upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひでり"
+            },
+            "ko": {
+                "name": "가뭄"
+            },
+            "zh-Hant": {
+                "name": "日照"
+            },
+            "fr": {
+                "name": "Sécheresse"
+            },
+            "de": {
+                "name": "Dürre"
+            },
+            "es": {
+                "name": "Sequía"
+            },
+            "it": {
+                "name": "Siccità"
+            },
+            "en": {
+                "name": "Drought"
+            },
+            "ja": {
+                "name": "ひでり"
+            },
+            "zh-Hans": {
+                "name": "日照"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "vulpix",
@@ -4137,6 +6377,38 @@
         "id": 71,
         "name": "arena-trap",
         "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ありじごく"
+            },
+            "ko": {
+                "name": "개미지옥"
+            },
+            "zh-Hant": {
+                "name": "沙穴"
+            },
+            "fr": {
+                "name": "Piège Sable"
+            },
+            "de": {
+                "name": "Ausweglos"
+            },
+            "es": {
+                "name": "Trampa Arena"
+            },
+            "it": {
+                "name": "Trappoarena"
+            },
+            "en": {
+                "name": "Arena Trap"
+            },
+            "ja": {
+                "name": "ありじごく"
+            },
+            "zh-Hans": {
+                "name": "沙穴"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "diglett",
@@ -4156,6 +6428,38 @@
         "id": 72,
         "name": "vital-spirit",
         "effect": "Prevents sleep.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "やるき"
+            },
+            "ko": {
+                "name": "의기양양"
+            },
+            "zh-Hant": {
+                "name": "幹勁"
+            },
+            "fr": {
+                "name": "Esprit Vital"
+            },
+            "de": {
+                "name": "Munterkeit"
+            },
+            "es": {
+                "name": "Espíritu Vital"
+            },
+            "it": {
+                "name": "Spiritovivo"
+            },
+            "en": {
+                "name": "Vital Spirit"
+            },
+            "ja": {
+                "name": "やるき"
+            },
+            "zh-Hans": {
+                "name": "干劲"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "mankey",
@@ -4211,6 +6515,38 @@
         "id": 73,
         "name": "white-smoke",
         "effect": "Prevents stats from being lowered by other Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しろいけむり"
+            },
+            "ko": {
+                "name": "하얀연기"
+            },
+            "zh-Hant": {
+                "name": "白色煙霧"
+            },
+            "fr": {
+                "name": "Écran Fumée"
+            },
+            "de": {
+                "name": "Pulverrauch"
+            },
+            "es": {
+                "name": "Humo Blanco"
+            },
+            "it": {
+                "name": "Fumochiaro"
+            },
+            "en": {
+                "name": "White Smoke"
+            },
+            "ja": {
+                "name": "しろいけむり"
+            },
+            "zh-Hans": {
+                "name": "白色烟雾"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "torkoal",
@@ -4226,6 +6562,38 @@
         "id": 74,
         "name": "pure-power",
         "effect": "Doubles Attack in battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ヨガパワー"
+            },
+            "ko": {
+                "name": "순수한힘"
+            },
+            "zh-Hant": {
+                "name": "瑜伽之力"
+            },
+            "fr": {
+                "name": "Force Pure"
+            },
+            "de": {
+                "name": "Mentalkraft"
+            },
+            "es": {
+                "name": "Energía Pura"
+            },
+            "it": {
+                "name": "Forzapura"
+            },
+            "en": {
+                "name": "Pure Power"
+            },
+            "ja": {
+                "name": "ヨガパワー"
+            },
+            "zh-Hans": {
+                "name": "瑜伽之力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "meditite",
@@ -4241,6 +6609,38 @@
         "id": 75,
         "name": "shell-armor",
         "effect": "Protects against critical hits.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "シェルアーマー"
+            },
+            "ko": {
+                "name": "조가비갑옷"
+            },
+            "zh-Hant": {
+                "name": "硬殼盔甲"
+            },
+            "fr": {
+                "name": "Coque Armure"
+            },
+            "de": {
+                "name": "Panzerhaut"
+            },
+            "es": {
+                "name": "Caparazón"
+            },
+            "it": {
+                "name": "Guscioscudo"
+            },
+            "en": {
+                "name": "Shell Armor"
+            },
+            "ja": {
+                "name": "シェルアーマー"
+            },
+            "zh-Hans": {
+                "name": "硬壳盔甲"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shellder",
@@ -4332,6 +6732,38 @@
         "id": 76,
         "name": "air-lock",
         "effect": "Negates all effects of weather, but does not prevent the weather itself.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "エアロック"
+            },
+            "ko": {
+                "name": "에어록"
+            },
+            "zh-Hant": {
+                "name": "氣閘"
+            },
+            "fr": {
+                "name": "Air Lock"
+            },
+            "de": {
+                "name": "Klimaschutz"
+            },
+            "es": {
+                "name": "Bucle Aire"
+            },
+            "it": {
+                "name": "Riparo"
+            },
+            "en": {
+                "name": "Air Lock"
+            },
+            "ja": {
+                "name": "エアロック"
+            },
+            "zh-Hans": {
+                "name": "气闸"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "rayquaza",
@@ -4343,6 +6775,38 @@
         "id": 77,
         "name": "tangled-feet",
         "effect": "Doubles evasion when confused.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ちどりあし"
+            },
+            "ko": {
+                "name": "갈지자걸음"
+            },
+            "zh-Hant": {
+                "name": "蹣跚"
+            },
+            "fr": {
+                "name": "Pieds Confus"
+            },
+            "de": {
+                "name": "Fußangel"
+            },
+            "es": {
+                "name": "Tumbos"
+            },
+            "it": {
+                "name": "Intricopiedi"
+            },
+            "en": {
+                "name": "Tangled Feet"
+            },
+            "ja": {
+                "name": "ちどりあし"
+            },
+            "zh-Hans": {
+                "name": "蹒跚"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pidgey",
@@ -4378,6 +6842,38 @@
         "id": 78,
         "name": "motor-drive",
         "effect": "Absorbs electric moves, raising Speed one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "でんきエンジン"
+            },
+            "ko": {
+                "name": "전기엔진"
+            },
+            "zh-Hant": {
+                "name": "電氣引擎"
+            },
+            "fr": {
+                "name": "Motorisé"
+            },
+            "de": {
+                "name": "Starthilfe"
+            },
+            "es": {
+                "name": "Electromotor"
+            },
+            "it": {
+                "name": "Elettrorapid"
+            },
+            "en": {
+                "name": "Motor Drive"
+            },
+            "ja": {
+                "name": "でんきエンジン"
+            },
+            "zh-Hans": {
+                "name": "电气引擎"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "electivire",
@@ -4401,6 +6897,38 @@
         "id": 79,
         "name": "rivalry",
         "effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "とうそうしん"
+            },
+            "ko": {
+                "name": "투쟁심"
+            },
+            "zh-Hant": {
+                "name": "鬥爭心"
+            },
+            "fr": {
+                "name": "Rivalité"
+            },
+            "de": {
+                "name": "Rivalität"
+            },
+            "es": {
+                "name": "Rivalidad"
+            },
+            "it": {
+                "name": "Antagonismo"
+            },
+            "en": {
+                "name": "Rivalry"
+            },
+            "ja": {
+                "name": "とうそうしん"
+            },
+            "zh-Hans": {
+                "name": "斗争心"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "nidoran-f",
@@ -4472,6 +7000,38 @@
         "id": 80,
         "name": "steadfast",
         "effect": "Raises Speed one stage upon flinching.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふくつのこころ"
+            },
+            "ko": {
+                "name": "불굴의마음"
+            },
+            "zh-Hant": {
+                "name": "不屈之心"
+            },
+            "fr": {
+                "name": "Impassible"
+            },
+            "de": {
+                "name": "Felsenfest"
+            },
+            "es": {
+                "name": "Impasible"
+            },
+            "it": {
+                "name": "Cuordeciso"
+            },
+            "en": {
+                "name": "Steadfast"
+            },
+            "ja": {
+                "name": "ふくつのこころ"
+            },
+            "zh-Hans": {
+                "name": "不屈之心"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "machop",
@@ -4515,6 +7075,38 @@
         "id": 81,
         "name": "snow-cloak",
         "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゆきがくれ"
+            },
+            "ko": {
+                "name": "눈숨기"
+            },
+            "zh-Hant": {
+                "name": "雪隱"
+            },
+            "fr": {
+                "name": "Rideau Neige"
+            },
+            "de": {
+                "name": "Schneemantel"
+            },
+            "es": {
+                "name": "Manto Níveo"
+            },
+            "it": {
+                "name": "Mantelneve"
+            },
+            "en": {
+                "name": "Snow Cloak"
+            },
+            "ja": {
+                "name": "ゆきがくれ"
+            },
+            "zh-Hans": {
+                "name": "雪隐"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "swinub",
@@ -4558,6 +7150,38 @@
         "id": 82,
         "name": "gluttony",
         "effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "くいしんぼう"
+            },
+            "ko": {
+                "name": "먹보"
+            },
+            "zh-Hant": {
+                "name": "貪吃鬼"
+            },
+            "fr": {
+                "name": "Gloutonnerie"
+            },
+            "de": {
+                "name": "Völlerei"
+            },
+            "es": {
+                "name": "Gula"
+            },
+            "it": {
+                "name": "Voracità"
+            },
+            "en": {
+                "name": "Gluttony"
+            },
+            "ja": {
+                "name": "くいしんぼう"
+            },
+            "zh-Hans": {
+                "name": "贪吃鬼"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "bellsprout",
@@ -4641,6 +7265,38 @@
         "id": 83,
         "name": "anger-point",
         "effect": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いかりのつぼ"
+            },
+            "ko": {
+                "name": "분노의경혈"
+            },
+            "zh-Hant": {
+                "name": "憤怒穴位"
+            },
+            "fr": {
+                "name": "Colérique"
+            },
+            "de": {
+                "name": "Kurzschluss"
+            },
+            "es": {
+                "name": "Irascible"
+            },
+            "it": {
+                "name": "Grancollera"
+            },
+            "en": {
+                "name": "Anger Point"
+            },
+            "ja": {
+                "name": "いかりのつぼ"
+            },
+            "zh-Hans": {
+                "name": "愤怒穴位"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "mankey",
@@ -4676,6 +7332,38 @@
         "id": 84,
         "name": "unburden",
         "effect": "Doubles Speed upon using or losing a held item.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かるわざ"
+            },
+            "ko": {
+                "name": "곡예"
+            },
+            "zh-Hant": {
+                "name": "輕裝"
+            },
+            "fr": {
+                "name": "Délestage"
+            },
+            "de": {
+                "name": "Entlastung"
+            },
+            "es": {
+                "name": "Liviano"
+            },
+            "it": {
+                "name": "Agiltecnica"
+            },
+            "en": {
+                "name": "Unburden"
+            },
+            "ja": {
+                "name": "かるわざ"
+            },
+            "zh-Hans": {
+                "name": "轻装"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "hitmonlee",
@@ -4719,6 +7407,38 @@
         "id": 85,
         "name": "heatproof",
         "effect": "Halves damage from fire moves and burns.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "たいねつ"
+            },
+            "ko": {
+                "name": "내열"
+            },
+            "zh-Hant": {
+                "name": "耐熱"
+            },
+            "fr": {
+                "name": "Ignifugé"
+            },
+            "de": {
+                "name": "Hitzeschutz"
+            },
+            "es": {
+                "name": "Ignífugo"
+            },
+            "it": {
+                "name": "Antifuoco"
+            },
+            "en": {
+                "name": "Heatproof"
+            },
+            "ja": {
+                "name": "たいねつ"
+            },
+            "zh-Hans": {
+                "name": "耐热"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "bronzor",
@@ -4734,6 +7454,38 @@
         "id": 86,
         "name": "simple",
         "effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "たんじゅん"
+            },
+            "ko": {
+                "name": "단순"
+            },
+            "zh-Hant": {
+                "name": "單純"
+            },
+            "fr": {
+                "name": "Simple"
+            },
+            "de": {
+                "name": "Wankelmut"
+            },
+            "es": {
+                "name": "Simple"
+            },
+            "it": {
+                "name": "Disinvoltura"
+            },
+            "en": {
+                "name": "Simple"
+            },
+            "ja": {
+                "name": "たんじゅん"
+            },
+            "zh-Hans": {
+                "name": "单纯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "numel",
@@ -4761,6 +7513,38 @@
         "id": 87,
         "name": "dry-skin",
         "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かんそうはだ"
+            },
+            "ko": {
+                "name": "건조피부"
+            },
+            "zh-Hant": {
+                "name": "乾燥皮膚"
+            },
+            "fr": {
+                "name": "Peau Sèche"
+            },
+            "de": {
+                "name": "Trockenheit"
+            },
+            "es": {
+                "name": "Piel Seca"
+            },
+            "it": {
+                "name": "Pellearsa"
+            },
+            "en": {
+                "name": "Dry Skin"
+            },
+            "ja": {
+                "name": "かんそうはだ"
+            },
+            "zh-Hans": {
+                "name": "干燥皮肤"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "paras",
@@ -4788,6 +7572,38 @@
         "id": 88,
         "name": "download",
         "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ダウンロード"
+            },
+            "ko": {
+                "name": "다운로드"
+            },
+            "zh-Hant": {
+                "name": "下載"
+            },
+            "fr": {
+                "name": "Télécharge"
+            },
+            "de": {
+                "name": "Download"
+            },
+            "es": {
+                "name": "Descarga"
+            },
+            "it": {
+                "name": "Download"
+            },
+            "en": {
+                "name": "Download"
+            },
+            "ja": {
+                "name": "ダウンロード"
+            },
+            "zh-Hans": {
+                "name": "下载"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "porygon",
@@ -4811,6 +7627,38 @@
         "id": 89,
         "name": "iron-fist",
         "effect": "Strengthens punch-based moves to 1.2× their power.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てつのこぶし"
+            },
+            "ko": {
+                "name": "철주먹"
+            },
+            "zh-Hant": {
+                "name": "鐵拳"
+            },
+            "fr": {
+                "name": "Poing de Fer"
+            },
+            "de": {
+                "name": "Eisenfaust"
+            },
+            "es": {
+                "name": "Puño Férreo"
+            },
+            "it": {
+                "name": "Ferropugno"
+            },
+            "en": {
+                "name": "Iron Fist"
+            },
+            "ja": {
+                "name": "てつのこぶし"
+            },
+            "zh-Hans": {
+                "name": "铁拳"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "hitmonchan",
@@ -4858,6 +7706,38 @@
         "id": 90,
         "name": "poison-heal",
         "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ポイズンヒール"
+            },
+            "ko": {
+                "name": "포이즌힐"
+            },
+            "zh-Hant": {
+                "name": "毒療"
+            },
+            "fr": {
+                "name": "Soin Poison"
+            },
+            "de": {
+                "name": "Aufheber"
+            },
+            "es": {
+                "name": "Antídoto"
+            },
+            "it": {
+                "name": "Velencura"
+            },
+            "en": {
+                "name": "Poison Heal"
+            },
+            "ja": {
+                "name": "ポイズンヒール"
+            },
+            "zh-Hans": {
+                "name": "毒疗"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shroomish",
@@ -4877,6 +7757,38 @@
         "id": 91,
         "name": "adaptability",
         "effect": "Increases the same-type attack bonus from 1.5× to 2×.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てきおうりょく"
+            },
+            "ko": {
+                "name": "적응력"
+            },
+            "zh-Hant": {
+                "name": "適應力"
+            },
+            "fr": {
+                "name": "Adaptabilité"
+            },
+            "de": {
+                "name": "Anpassung"
+            },
+            "es": {
+                "name": "Adaptable"
+            },
+            "it": {
+                "name": "Adattabilità"
+            },
+            "en": {
+                "name": "Adaptability"
+            },
+            "ja": {
+                "name": "てきおうりょく"
+            },
+            "zh-Hans": {
+                "name": "适应力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "eevee",
@@ -4912,6 +7824,38 @@
         "id": 92,
         "name": "skill-link",
         "effect": "Extends two-to-five-hit moves and triple kick to their full length every time.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "スキルリンク"
+            },
+            "ko": {
+                "name": "스킬링크"
+            },
+            "zh-Hant": {
+                "name": "連續攻擊"
+            },
+            "fr": {
+                "name": "Multi-Coups"
+            },
+            "de": {
+                "name": "Wertelink"
+            },
+            "es": {
+                "name": "Encadenado"
+            },
+            "it": {
+                "name": "Abillegame"
+            },
+            "en": {
+                "name": "Skill Link"
+            },
+            "ja": {
+                "name": "スキルリンク"
+            },
+            "zh-Hans": {
+                "name": "连续攻击"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shellder",
@@ -4943,6 +7887,38 @@
         "id": 93,
         "name": "hydration",
         "effect": "Cures any major status ailment after each turn during rain.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "うるおいボディ"
+            },
+            "ko": {
+                "name": "촉촉바디"
+            },
+            "zh-Hant": {
+                "name": "濕潤之軀"
+            },
+            "fr": {
+                "name": "Hydratation"
+            },
+            "de": {
+                "name": "Hydration"
+            },
+            "es": {
+                "name": "Hidratación"
+            },
+            "it": {
+                "name": "Idratazione"
+            },
+            "en": {
+                "name": "Hydration"
+            },
+            "ja": {
+                "name": "うるおいボディ"
+            },
+            "zh-Hans": {
+                "name": "湿润之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "seel",
@@ -5026,6 +8002,38 @@
         "id": 94,
         "name": "solar-power",
         "effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "サンパワー"
+            },
+            "ko": {
+                "name": "선파워"
+            },
+            "zh-Hant": {
+                "name": "太陽之力"
+            },
+            "fr": {
+                "name": "Force Soleil"
+            },
+            "de": {
+                "name": "Solarkraft"
+            },
+            "es": {
+                "name": "Poder Solar"
+            },
+            "it": {
+                "name": "Solarpotere"
+            },
+            "en": {
+                "name": "Solar Power"
+            },
+            "ja": {
+                "name": "サンパワー"
+            },
+            "zh-Hans": {
+                "name": "太阳之力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "charmander",
@@ -5057,6 +8065,38 @@
         "id": 95,
         "name": "quick-feet",
         "effect": "Increases Speed to 1.5× with a major status ailment.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はやあし"
+            },
+            "ko": {
+                "name": "속보"
+            },
+            "zh-Hant": {
+                "name": "飛毛腿"
+            },
+            "fr": {
+                "name": "Pied Véloce"
+            },
+            "de": {
+                "name": "Rasanz"
+            },
+            "es": {
+                "name": "Pies Rápidos"
+            },
+            "it": {
+                "name": "Piedisvelti"
+            },
+            "en": {
+                "name": "Quick Feet"
+            },
+            "ja": {
+                "name": "はやあし"
+            },
+            "zh-Hans": {
+                "name": "飞毛腿"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "jolteon",
@@ -5100,6 +8140,38 @@
         "id": 96,
         "name": "normalize",
         "effect": "Makes the Pokémon's moves all act normal-type.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ノーマルスキン"
+            },
+            "ko": {
+                "name": "노말스킨"
+            },
+            "zh-Hant": {
+                "name": "一般皮膚"
+            },
+            "fr": {
+                "name": "Normalise"
+            },
+            "de": {
+                "name": "Regulierung"
+            },
+            "es": {
+                "name": "Normalidad"
+            },
+            "it": {
+                "name": "Normalità"
+            },
+            "en": {
+                "name": "Normalize"
+            },
+            "ja": {
+                "name": "ノーマルスキン"
+            },
+            "zh-Hans": {
+                "name": "一般皮肤"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "skitty",
@@ -5115,6 +8187,38 @@
         "id": 97,
         "name": "sniper",
         "effect": "Strengthens critical hits to inflict 3× damage rather than 2×.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "スナイパー"
+            },
+            "ko": {
+                "name": "스나이퍼"
+            },
+            "zh-Hant": {
+                "name": "狙擊手"
+            },
+            "fr": {
+                "name": "Sniper"
+            },
+            "de": {
+                "name": "Superschütze"
+            },
+            "es": {
+                "name": "Francotirador"
+            },
+            "it": {
+                "name": "Cecchino"
+            },
+            "en": {
+                "name": "Sniper"
+            },
+            "ja": {
+                "name": "スナイパー"
+            },
+            "zh-Hans": {
+                "name": "狙击手"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "beedrill",
@@ -5170,6 +8274,38 @@
         "id": 98,
         "name": "magic-guard",
         "effect": "Protects against damage not directly caused by a move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マジックガード"
+            },
+            "ko": {
+                "name": "매직가드"
+            },
+            "zh-Hant": {
+                "name": "魔法防守"
+            },
+            "fr": {
+                "name": "Garde Magik"
+            },
+            "de": {
+                "name": "Magieschild"
+            },
+            "es": {
+                "name": "Muro Mágico"
+            },
+            "it": {
+                "name": "Magicscudo"
+            },
+            "en": {
+                "name": "Magic Guard"
+            },
+            "ja": {
+                "name": "マジックガード"
+            },
+            "zh-Hans": {
+                "name": "魔法防守"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "clefairy",
@@ -5217,6 +8353,38 @@
         "id": 99,
         "name": "no-guard",
         "effect": "Ensures all moves used by and against the Pokémon hit.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ノーガード"
+            },
+            "ko": {
+                "name": "노가드"
+            },
+            "zh-Hant": {
+                "name": "無防守"
+            },
+            "fr": {
+                "name": "Annule Garde"
+            },
+            "de": {
+                "name": "Schildlos"
+            },
+            "es": {
+                "name": "Indefenso"
+            },
+            "it": {
+                "name": "Nullodifesa"
+            },
+            "en": {
+                "name": "No Guard"
+            },
+            "ja": {
+                "name": "ノーガード"
+            },
+            "zh-Hans": {
+                "name": "无防守"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "machop",
@@ -5248,6 +8416,38 @@
         "id": 100,
         "name": "stall",
         "effect": "Makes the Pokémon move last within its move's priority bracket.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あとだし"
+            },
+            "ko": {
+                "name": "시간벌기"
+            },
+            "zh-Hant": {
+                "name": "慢出"
+            },
+            "fr": {
+                "name": "Frein"
+            },
+            "de": {
+                "name": "Zeitspiel"
+            },
+            "es": {
+                "name": "Rezagado"
+            },
+            "it": {
+                "name": "Rallentatore"
+            },
+            "en": {
+                "name": "Stall"
+            },
+            "ja": {
+                "name": "あとだし"
+            },
+            "zh-Hans": {
+                "name": "慢出"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "sableye",
@@ -5259,6 +8459,38 @@
         "id": 101,
         "name": "technician",
         "effect": "Strengthens moves of 60 base power or less to 1.5× their power.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "テクニシャン"
+            },
+            "ko": {
+                "name": "테크니션"
+            },
+            "zh-Hant": {
+                "name": "技術高手"
+            },
+            "fr": {
+                "name": "Technicien"
+            },
+            "de": {
+                "name": "Techniker"
+            },
+            "es": {
+                "name": "Experto"
+            },
+            "it": {
+                "name": "Tecnico"
+            },
+            "en": {
+                "name": "Technician"
+            },
+            "ja": {
+                "name": "テクニシャン"
+            },
+            "zh-Hans": {
+                "name": "技术高手"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "meowth",
@@ -5322,6 +8554,38 @@
         "id": 102,
         "name": "leaf-guard",
         "effect": "Protects against major status ailments during strong sunlight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "リーフガード"
+            },
+            "ko": {
+                "name": "리프가드"
+            },
+            "zh-Hant": {
+                "name": "葉子防守"
+            },
+            "fr": {
+                "name": "Feuille Garde"
+            },
+            "de": {
+                "name": "Floraschild"
+            },
+            "es": {
+                "name": "Defensa Hoja"
+            },
+            "it": {
+                "name": "Fogliamanto"
+            },
+            "en": {
+                "name": "Leaf Guard"
+            },
+            "ja": {
+                "name": "リーフガード"
+            },
+            "zh-Hans": {
+                "name": "叶子防守"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "tangela",
@@ -5385,6 +8649,38 @@
         "id": 103,
         "name": "klutz",
         "effect": "Prevents the Pokémon from using its held item in battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ぶきよう"
+            },
+            "ko": {
+                "name": "서투름"
+            },
+            "zh-Hant": {
+                "name": "笨拙"
+            },
+            "fr": {
+                "name": "Maladresse"
+            },
+            "de": {
+                "name": "Tollpatsch"
+            },
+            "es": {
+                "name": "Zoquete"
+            },
+            "it": {
+                "name": "Impaccio"
+            },
+            "en": {
+                "name": "Klutz"
+            },
+            "ja": {
+                "name": "ぶきよう"
+            },
+            "zh-Hans": {
+                "name": "笨拙"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "buneary",
@@ -5420,6 +8716,38 @@
         "id": 104,
         "name": "mold-breaker",
         "effect": "Bypasses targets' abilities if they could hinder or prevent a move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かたやぶり"
+            },
+            "ko": {
+                "name": "틀깨기"
+            },
+            "zh-Hant": {
+                "name": "破格"
+            },
+            "fr": {
+                "name": "Brise Moule"
+            },
+            "de": {
+                "name": "Überbrückung"
+            },
+            "es": {
+                "name": "Rompemoldes"
+            },
+            "it": {
+                "name": "Rompiforma"
+            },
+            "en": {
+                "name": "Mold Breaker"
+            },
+            "ja": {
+                "name": "かたやぶり"
+            },
+            "zh-Hans": {
+                "name": "破格"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pinsir",
@@ -5479,6 +8807,38 @@
         "id": 105,
         "name": "super-luck",
         "effect": "Raises moves' critical hit rates one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きょううん"
+            },
+            "ko": {
+                "name": "대운"
+            },
+            "zh-Hant": {
+                "name": "超幸運"
+            },
+            "fr": {
+                "name": "Chanceux"
+            },
+            "de": {
+                "name": "Glückspilz"
+            },
+            "es": {
+                "name": "Afortunado"
+            },
+            "it": {
+                "name": "Supersorte"
+            },
+            "en": {
+                "name": "Super Luck"
+            },
+            "ja": {
+                "name": "きょううん"
+            },
+            "zh-Hans": {
+                "name": "超幸运"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "togepi",
@@ -5522,6 +8882,38 @@
         "id": 106,
         "name": "aftermath",
         "effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゆうばく"
+            },
+            "ko": {
+                "name": "유폭"
+            },
+            "zh-Hant": {
+                "name": "引爆"
+            },
+            "fr": {
+                "name": "Boom Final"
+            },
+            "de": {
+                "name": "Finalschlag"
+            },
+            "es": {
+                "name": "Detonación"
+            },
+            "it": {
+                "name": "Scoppio"
+            },
+            "en": {
+                "name": "Aftermath"
+            },
+            "ja": {
+                "name": "ゆうばく"
+            },
+            "zh-Hans": {
+                "name": "引爆"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "voltorb",
@@ -5561,6 +8953,38 @@
         "id": 107,
         "name": "anticipation",
         "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きけんよち"
+            },
+            "ko": {
+                "name": "위험예지"
+            },
+            "zh-Hant": {
+                "name": "危險預知"
+            },
+            "fr": {
+                "name": "Anticipation"
+            },
+            "de": {
+                "name": "Vorahnung"
+            },
+            "es": {
+                "name": "Anticipación"
+            },
+            "it": {
+                "name": "Presagio"
+            },
+            "en": {
+                "name": "Anticipation"
+            },
+            "ja": {
+                "name": "きけんよち"
+            },
+            "zh-Hans": {
+                "name": "危险预知"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "eevee",
@@ -5604,6 +9028,38 @@
         "id": 108,
         "name": "forewarn",
         "effect": "Reveals the opponents' strongest move upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "よちむ"
+            },
+            "ko": {
+                "name": "예지몽"
+            },
+            "zh-Hant": {
+                "name": "預知夢"
+            },
+            "fr": {
+                "name": "Prédiction"
+            },
+            "de": {
+                "name": "Vorwarnung"
+            },
+            "es": {
+                "name": "Alerta"
+            },
+            "it": {
+                "name": "Premonizione"
+            },
+            "en": {
+                "name": "Forewarn"
+            },
+            "ja": {
+                "name": "よちむ"
+            },
+            "zh-Hans": {
+                "name": "预知梦"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "drowzee",
@@ -5635,6 +9091,38 @@
         "id": 109,
         "name": "unaware",
         "effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てんねん"
+            },
+            "ko": {
+                "name": "천진"
+            },
+            "zh-Hant": {
+                "name": "純樸"
+            },
+            "fr": {
+                "name": "Inconscient"
+            },
+            "de": {
+                "name": "Unkenntnis"
+            },
+            "es": {
+                "name": "Ignorante"
+            },
+            "it": {
+                "name": "Imprudenza"
+            },
+            "en": {
+                "name": "Unaware"
+            },
+            "ja": {
+                "name": "てんねん"
+            },
+            "zh-Hans": {
+                "name": "纯朴"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "clefable",
@@ -5670,6 +9158,38 @@
         "id": 110,
         "name": "tinted-lens",
         "effect": "Doubles damage inflicted with not-very-effective moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いろめがね"
+            },
+            "ko": {
+                "name": "색안경"
+            },
+            "zh-Hant": {
+                "name": "有色眼鏡"
+            },
+            "fr": {
+                "name": "Lentiteintée"
+            },
+            "de": {
+                "name": "Aufwertung"
+            },
+            "es": {
+                "name": "Cromolente"
+            },
+            "it": {
+                "name": "Lentifumé"
+            },
+            "en": {
+                "name": "Tinted Lens"
+            },
+            "ja": {
+                "name": "いろめがね"
+            },
+            "zh-Hans": {
+                "name": "有色眼镜"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "butterfree",
@@ -5713,6 +9233,38 @@
         "id": 111,
         "name": "filter",
         "effect": "Decreases damage taken from super-effective moves by 1/4.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "フィルター"
+            },
+            "ko": {
+                "name": "필터"
+            },
+            "zh-Hant": {
+                "name": "過濾"
+            },
+            "fr": {
+                "name": "Filtre"
+            },
+            "de": {
+                "name": "Filter"
+            },
+            "es": {
+                "name": "Filtro"
+            },
+            "it": {
+                "name": "Filtro"
+            },
+            "en": {
+                "name": "Filter"
+            },
+            "ja": {
+                "name": "フィルター"
+            },
+            "zh-Hans": {
+                "name": "过滤"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "mr-mime",
@@ -5728,6 +9280,38 @@
         "id": 112,
         "name": "slow-start",
         "effect": "Halves Attack and Speed for five turns upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "スロースタート"
+            },
+            "ko": {
+                "name": "슬로스타트"
+            },
+            "zh-Hant": {
+                "name": "慢啟動"
+            },
+            "fr": {
+                "name": "Début Calme"
+            },
+            "de": {
+                "name": "Saumselig"
+            },
+            "es": {
+                "name": "Inicio Lento"
+            },
+            "it": {
+                "name": "Lentoinizio"
+            },
+            "en": {
+                "name": "Slow Start"
+            },
+            "ja": {
+                "name": "スロースタート"
+            },
+            "zh-Hans": {
+                "name": "慢启动"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "regigigas",
@@ -5739,6 +9323,38 @@
         "id": 113,
         "name": "scrappy",
         "effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きもったま"
+            },
+            "ko": {
+                "name": "배짱"
+            },
+            "zh-Hant": {
+                "name": "膽量"
+            },
+            "fr": {
+                "name": "Querelleur"
+            },
+            "de": {
+                "name": "Rauflust"
+            },
+            "es": {
+                "name": "Intrépido"
+            },
+            "it": {
+                "name": "Nervisaldi"
+            },
+            "en": {
+                "name": "Scrappy"
+            },
+            "ja": {
+                "name": "きもったま"
+            },
+            "zh-Hans": {
+                "name": "胆量"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "kangaskhan",
@@ -5778,6 +9394,38 @@
         "id": 114,
         "name": "storm-drain",
         "effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "よびみず"
+            },
+            "ko": {
+                "name": "마중물"
+            },
+            "zh-Hant": {
+                "name": "引水"
+            },
+            "fr": {
+                "name": "Lavabo"
+            },
+            "de": {
+                "name": "Sturmsog"
+            },
+            "es": {
+                "name": "Colector"
+            },
+            "it": {
+                "name": "Acquascolo"
+            },
+            "en": {
+                "name": "Storm Drain"
+            },
+            "ja": {
+                "name": "よびみず"
+            },
+            "zh-Hans": {
+                "name": "引水"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "lileep",
@@ -5813,6 +9461,38 @@
         "id": 115,
         "name": "ice-body",
         "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "アイスボディ"
+            },
+            "ko": {
+                "name": "아이스바디"
+            },
+            "zh-Hant": {
+                "name": "冰凍之軀"
+            },
+            "fr": {
+                "name": "Corps Gel"
+            },
+            "de": {
+                "name": "Eishaut"
+            },
+            "es": {
+                "name": "Gélido"
+            },
+            "it": {
+                "name": "Corpogelo"
+            },
+            "en": {
+                "name": "Ice Body"
+            },
+            "ja": {
+                "name": "アイスボディ"
+            },
+            "zh-Hans": {
+                "name": "冰冻之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "seel",
@@ -5868,6 +9548,38 @@
         "id": 116,
         "name": "solid-rock",
         "effect": "Decreases damage taken from super-effective moves by 1/4.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ハードロック"
+            },
+            "ko": {
+                "name": "하드록"
+            },
+            "zh-Hant": {
+                "name": "堅硬岩石"
+            },
+            "fr": {
+                "name": "Solide Roc"
+            },
+            "de": {
+                "name": "Felskern"
+            },
+            "es": {
+                "name": "Roca Sólida"
+            },
+            "it": {
+                "name": "Solidroccia"
+            },
+            "en": {
+                "name": "Solid Rock"
+            },
+            "ja": {
+                "name": "ハードロック"
+            },
+            "zh-Hans": {
+                "name": "坚硬岩石"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "camerupt",
@@ -5891,6 +9603,38 @@
         "id": 117,
         "name": "snow-warning",
         "effect": "Summons hail that lasts indefinitely upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゆきふらし"
+            },
+            "ko": {
+                "name": "눈퍼뜨리기"
+            },
+            "zh-Hant": {
+                "name": "降雪"
+            },
+            "fr": {
+                "name": "Alerte Neige"
+            },
+            "de": {
+                "name": "Hagelalarm"
+            },
+            "es": {
+                "name": "Nevada"
+            },
+            "it": {
+                "name": "Scendineve"
+            },
+            "en": {
+                "name": "Snow Warning"
+            },
+            "ja": {
+                "name": "ゆきふらし"
+            },
+            "zh-Hans": {
+                "name": "降雪"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "snover",
@@ -5910,6 +9654,38 @@
         "id": 118,
         "name": "honey-gather",
         "effect": "The Pokémon may pick up honey after battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "みつあつめ"
+            },
+            "ko": {
+                "name": "꿀모으기"
+            },
+            "zh-Hant": {
+                "name": "採蜜"
+            },
+            "fr": {
+                "name": "Cherche Miel"
+            },
+            "de": {
+                "name": "Honigmaul"
+            },
+            "es": {
+                "name": "Recogemiel"
+            },
+            "it": {
+                "name": "Mielincetta"
+            },
+            "en": {
+                "name": "Honey Gather"
+            },
+            "ja": {
+                "name": "みつあつめ"
+            },
+            "zh-Hans": {
+                "name": "采蜜"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "teddiursa",
@@ -5925,6 +9701,38 @@
         "id": 119,
         "name": "frisk",
         "effect": "Reveals an opponent's held item upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "おみとおし"
+            },
+            "ko": {
+                "name": "통찰"
+            },
+            "zh-Hant": {
+                "name": "察覺"
+            },
+            "fr": {
+                "name": "Fouille"
+            },
+            "de": {
+                "name": "Schnüffler"
+            },
+            "es": {
+                "name": "Cacheo"
+            },
+            "it": {
+                "name": "Indagine"
+            },
+            "en": {
+                "name": "Frisk"
+            },
+            "ja": {
+                "name": "おみとおし"
+            },
+            "zh-Hans": {
+                "name": "察觉"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "wigglytuff",
@@ -5988,6 +9796,38 @@
         "id": 120,
         "name": "reckless",
         "effect": "Strengthens recoil moves to 1.2× their power.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すてみ"
+            },
+            "ko": {
+                "name": "이판사판"
+            },
+            "zh-Hant": {
+                "name": "捨身"
+            },
+            "fr": {
+                "name": "Téméraire"
+            },
+            "de": {
+                "name": "Achtlos"
+            },
+            "es": {
+                "name": "Audaz"
+            },
+            "it": {
+                "name": "Temerarietà"
+            },
+            "en": {
+                "name": "Reckless"
+            },
+            "ja": {
+                "name": "すてみ"
+            },
+            "zh-Hans": {
+                "name": "舍身"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "hitmonlee",
@@ -6043,6 +9883,38 @@
         "id": 121,
         "name": "multitype",
         "effect": "Changes arceus's type and form to match its held Plate.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マルチタイプ"
+            },
+            "ko": {
+                "name": "멀티타입"
+            },
+            "zh-Hant": {
+                "name": "多屬性"
+            },
+            "fr": {
+                "name": "Multi-Type"
+            },
+            "de": {
+                "name": "Variabilität"
+            },
+            "es": {
+                "name": "Multitipo"
+            },
+            "it": {
+                "name": "Multitipo"
+            },
+            "en": {
+                "name": "Multitype"
+            },
+            "ja": {
+                "name": "マルチタイプ"
+            },
+            "zh-Hans": {
+                "name": "多属性"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "arceus",
@@ -6054,6 +9926,38 @@
         "id": 122,
         "name": "flower-gift",
         "effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "フラワーギフト"
+            },
+            "ko": {
+                "name": "플라워기프트"
+            },
+            "zh-Hant": {
+                "name": "花之禮"
+            },
+            "fr": {
+                "name": "Don Floral"
+            },
+            "de": {
+                "name": "Pflanzengabe"
+            },
+            "es": {
+                "name": "Don Floral"
+            },
+            "it": {
+                "name": "Regalfiore"
+            },
+            "en": {
+                "name": "Flower Gift"
+            },
+            "ja": {
+                "name": "フラワーギフト"
+            },
+            "zh-Hans": {
+                "name": "花之礼"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "cherrim",
@@ -6065,6 +9969,38 @@
         "id": 123,
         "name": "bad-dreams",
         "effect": "Damages sleeping opponents for 1/8 their max HP after each turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ナイトメア"
+            },
+            "ko": {
+                "name": "나이트메어"
+            },
+            "zh-Hant": {
+                "name": "夢魘"
+            },
+            "fr": {
+                "name": "Mauvais Rêve"
+            },
+            "de": {
+                "name": "Alptraum"
+            },
+            "es": {
+                "name": "Mal Sueño"
+            },
+            "it": {
+                "name": "Sogniamari"
+            },
+            "en": {
+                "name": "Bad Dreams"
+            },
+            "ja": {
+                "name": "ナイトメア"
+            },
+            "zh-Hans": {
+                "name": "梦魇"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "darkrai",
@@ -6076,6 +10012,38 @@
         "id": 124,
         "name": "pickpocket",
         "effect": "Steals attacking Pokémon's held items on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "わるいてぐせ"
+            },
+            "ko": {
+                "name": "나쁜손버릇"
+            },
+            "zh-Hant": {
+                "name": "順手牽羊"
+            },
+            "fr": {
+                "name": "Pickpocket"
+            },
+            "de": {
+                "name": "Langfinger"
+            },
+            "es": {
+                "name": "Hurto"
+            },
+            "it": {
+                "name": "Arraffalesto"
+            },
+            "en": {
+                "name": "Pickpocket"
+            },
+            "ja": {
+                "name": "わるいてぐせ"
+            },
+            "zh-Hans": {
+                "name": "顺手牵羊"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "sneasel",
@@ -6103,6 +10071,38 @@
         "id": 125,
         "name": "sheer-force",
         "effect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ちからずく"
+            },
+            "ko": {
+                "name": "우격다짐"
+            },
+            "zh-Hant": {
+                "name": "強行"
+            },
+            "fr": {
+                "name": "Sans Limite"
+            },
+            "de": {
+                "name": "Rohe Gewalt"
+            },
+            "es": {
+                "name": "Potencia Bruta"
+            },
+            "it": {
+                "name": "Forzabruta"
+            },
+            "en": {
+                "name": "Sheer Force"
+            },
+            "ja": {
+                "name": "ちからずく"
+            },
+            "zh-Hans": {
+                "name": "强行"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "nidoqueen",
@@ -6210,6 +10210,38 @@
         "id": 126,
         "name": "contrary",
         "effect": "Inverts stat changes.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あまのじゃく"
+            },
+            "ko": {
+                "name": "심술꾸러기"
+            },
+            "zh-Hant": {
+                "name": "唱反調"
+            },
+            "fr": {
+                "name": "Contestation"
+            },
+            "de": {
+                "name": "Umkehrung"
+            },
+            "es": {
+                "name": "Respondón"
+            },
+            "it": {
+                "name": "Inversione"
+            },
+            "en": {
+                "name": "Contrary"
+            },
+            "ja": {
+                "name": "あまのじゃく"
+            },
+            "zh-Hans": {
+                "name": "唱反调"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shuckle",
@@ -6237,6 +10269,38 @@
         "id": 127,
         "name": "unnerve",
         "effect": "Prevents opposing Pokémon from eating held Berries.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きんちょうかん"
+            },
+            "ko": {
+                "name": "긴장감"
+            },
+            "zh-Hant": {
+                "name": "緊張感"
+            },
+            "fr": {
+                "name": "Tension"
+            },
+            "de": {
+                "name": "Anspannung"
+            },
+            "es": {
+                "name": "Nerviosismo"
+            },
+            "it": {
+                "name": "Agitazione"
+            },
+            "en": {
+                "name": "Unnerve"
+            },
+            "ja": {
+                "name": "きんちょうかん"
+            },
+            "zh-Hans": {
+                "name": "紧张感"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "ekans",
@@ -6312,6 +10376,38 @@
         "id": 128,
         "name": "defiant",
         "effect": "Raises Attack two stages upon having any stat lowered.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "まけんき"
+            },
+            "ko": {
+                "name": "오기"
+            },
+            "zh-Hant": {
+                "name": "不服輸"
+            },
+            "fr": {
+                "name": "Acharné"
+            },
+            "de": {
+                "name": "Siegeswille"
+            },
+            "es": {
+                "name": "Competitivo"
+            },
+            "it": {
+                "name": "Agonismo"
+            },
+            "en": {
+                "name": "Defiant"
+            },
+            "ja": {
+                "name": "まけんき"
+            },
+            "zh-Hans": {
+                "name": "不服输"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "mankey",
@@ -6355,6 +10451,38 @@
         "id": 129,
         "name": "defeatist",
         "effect": "Halves Attack and Special Attack at 50% max HP or less.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "よわき"
+            },
+            "ko": {
+                "name": "무기력"
+            },
+            "zh-Hant": {
+                "name": "軟弱"
+            },
+            "fr": {
+                "name": "Défaitiste"
+            },
+            "de": {
+                "name": "Schwächling"
+            },
+            "es": {
+                "name": "Flaqueza"
+            },
+            "it": {
+                "name": "Sconforto"
+            },
+            "en": {
+                "name": "Defeatist"
+            },
+            "ja": {
+                "name": "よわき"
+            },
+            "zh-Hans": {
+                "name": "软弱"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "archen",
@@ -6370,6 +10498,38 @@
         "id": 130,
         "name": "cursed-body",
         "effect": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "のろわれボディ"
+            },
+            "ko": {
+                "name": "저주받은바디"
+            },
+            "zh-Hant": {
+                "name": "詛咒之軀"
+            },
+            "fr": {
+                "name": "Corps Maudit"
+            },
+            "de": {
+                "name": "Tastfluch"
+            },
+            "es": {
+                "name": "Cuerpo Maldito"
+            },
+            "it": {
+                "name": "Corpofunesto"
+            },
+            "en": {
+                "name": "Cursed Body"
+            },
+            "ja": {
+                "name": "のろわれボディ"
+            },
+            "zh-Hans": {
+                "name": "诅咒之躯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "gengar",
@@ -6401,6 +10561,38 @@
         "id": 131,
         "name": "healer",
         "effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いやしのこころ"
+            },
+            "ko": {
+                "name": "치유의마음"
+            },
+            "zh-Hant": {
+                "name": "治癒之心"
+            },
+            "fr": {
+                "name": "Cœur Soin"
+            },
+            "de": {
+                "name": "Heilherz"
+            },
+            "es": {
+                "name": "Alma Cura"
+            },
+            "it": {
+                "name": "Curacuore"
+            },
+            "en": {
+                "name": "Healer"
+            },
+            "ja": {
+                "name": "いやしのこころ"
+            },
+            "zh-Hans": {
+                "name": "治愈之心"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "chansey",
@@ -6428,6 +10620,38 @@
         "id": 132,
         "name": "friend-guard",
         "effect": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "フレンドガード"
+            },
+            "ko": {
+                "name": "프렌드가드"
+            },
+            "zh-Hant": {
+                "name": "友情防守"
+            },
+            "fr": {
+                "name": "Garde-Ami"
+            },
+            "de": {
+                "name": "Freundeshut"
+            },
+            "es": {
+                "name": "Compiescolta"
+            },
+            "it": {
+                "name": "Amicoscudo"
+            },
+            "en": {
+                "name": "Friend Guard"
+            },
+            "ja": {
+                "name": "フレンドガード"
+            },
+            "zh-Hans": {
+                "name": "友情防守"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "clefairy",
@@ -6455,6 +10679,38 @@
         "id": 133,
         "name": "weak-armor",
         "effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "くだけるよろい"
+            },
+            "ko": {
+                "name": "깨어진갑옷"
+            },
+            "zh-Hant": {
+                "name": "碎裂鎧甲"
+            },
+            "fr": {
+                "name": "Armurouillée"
+            },
+            "de": {
+                "name": "Bruchrüstung"
+            },
+            "es": {
+                "name": "Armadura Frágil"
+            },
+            "it": {
+                "name": "Sottilguscio"
+            },
+            "en": {
+                "name": "Weak Armor"
+            },
+            "ja": {
+                "name": "くだけるよろい"
+            },
+            "zh-Hans": {
+                "name": "碎裂铠甲"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "onix",
@@ -6534,6 +10790,38 @@
         "id": 134,
         "name": "heavy-metal",
         "effect": "Doubles the Pokémon's weight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ヘヴィメタル"
+            },
+            "ko": {
+                "name": "헤비메탈"
+            },
+            "zh-Hant": {
+                "name": "重金屬"
+            },
+            "fr": {
+                "name": "Heavy Metal"
+            },
+            "de": {
+                "name": "Schwermetall"
+            },
+            "es": {
+                "name": "Metal Pesado"
+            },
+            "it": {
+                "name": "Metalpesante"
+            },
+            "en": {
+                "name": "Heavy Metal"
+            },
+            "ja": {
+                "name": "ヘヴィメタル"
+            },
+            "zh-Hans": {
+                "name": "重金属"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "aron",
@@ -6561,6 +10849,38 @@
         "id": 135,
         "name": "light-metal",
         "effect": "Halves the Pokémon's weight.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ライトメタル"
+            },
+            "ko": {
+                "name": "라이트메탈"
+            },
+            "zh-Hant": {
+                "name": "輕金屬"
+            },
+            "fr": {
+                "name": "Light Metal"
+            },
+            "de": {
+                "name": "Leichtmetall"
+            },
+            "es": {
+                "name": "Metal Liviano"
+            },
+            "it": {
+                "name": "Metalleggero"
+            },
+            "en": {
+                "name": "Light Metal"
+            },
+            "ja": {
+                "name": "ライトメタル"
+            },
+            "zh-Hans": {
+                "name": "轻金属"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "scizor",
@@ -6588,6 +10908,38 @@
         "id": 136,
         "name": "multiscale",
         "effect": "Halves damage taken from full HP.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マルチスケイル"
+            },
+            "ko": {
+                "name": "멀티스케일"
+            },
+            "zh-Hant": {
+                "name": "多重鱗片"
+            },
+            "fr": {
+                "name": "Multiécaille"
+            },
+            "de": {
+                "name": "Multischuppe"
+            },
+            "es": {
+                "name": "Multiescamas"
+            },
+            "it": {
+                "name": "Multisquame"
+            },
+            "en": {
+                "name": "Multiscale"
+            },
+            "ja": {
+                "name": "マルチスケイル"
+            },
+            "zh-Hans": {
+                "name": "多重鳞片"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "dragonite",
@@ -6603,6 +10955,38 @@
         "id": 137,
         "name": "toxic-boost",
         "effect": "Increases Attack to 1.5× when poisoned.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "どくぼうそう"
+            },
+            "ko": {
+                "name": "독폭주"
+            },
+            "zh-Hant": {
+                "name": "中毒激升"
+            },
+            "fr": {
+                "name": "Rage Poison"
+            },
+            "de": {
+                "name": "Giftwahn"
+            },
+            "es": {
+                "name": "Ímpetu Tóxico"
+            },
+            "it": {
+                "name": "Velenimpeto"
+            },
+            "en": {
+                "name": "Toxic Boost"
+            },
+            "ja": {
+                "name": "どくぼうそう"
+            },
+            "zh-Hans": {
+                "name": "中毒激升"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "zangoose",
@@ -6614,6 +10998,38 @@
         "id": 138,
         "name": "flare-boost",
         "effect": "Increases Special Attack to 1.5× when burned.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ねつぼうそう"
+            },
+            "ko": {
+                "name": "열폭주"
+            },
+            "zh-Hant": {
+                "name": "受熱激升"
+            },
+            "fr": {
+                "name": "Rage Brûlure"
+            },
+            "de": {
+                "name": "Hitzewahn"
+            },
+            "es": {
+                "name": "Ímpetu Ardiente"
+            },
+            "it": {
+                "name": "Bruciaimpeto"
+            },
+            "en": {
+                "name": "Flare Boost"
+            },
+            "ja": {
+                "name": "ねつぼうそう"
+            },
+            "zh-Hans": {
+                "name": "受热激升"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "drifloon",
@@ -6629,6 +11045,38 @@
         "id": 139,
         "name": "harvest",
         "effect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しゅうかく"
+            },
+            "ko": {
+                "name": "수확"
+            },
+            "zh-Hant": {
+                "name": "收穫"
+            },
+            "fr": {
+                "name": "Récolte"
+            },
+            "de": {
+                "name": "Reiche Ernte"
+            },
+            "es": {
+                "name": "Cosecha"
+            },
+            "it": {
+                "name": "Coglibacche"
+            },
+            "en": {
+                "name": "Harvest"
+            },
+            "ja": {
+                "name": "しゅうかく"
+            },
+            "zh-Hans": {
+                "name": "收获"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "exeggcute",
@@ -6648,6 +11096,38 @@
         "id": 140,
         "name": "telepathy",
         "effect": "Protects against friendly Pokémon's damaging moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "テレパシー"
+            },
+            "ko": {
+                "name": "텔레파시"
+            },
+            "zh-Hant": {
+                "name": "心靈感應"
+            },
+            "fr": {
+                "name": "Télépathe"
+            },
+            "de": {
+                "name": "Telepathie"
+            },
+            "es": {
+                "name": "Telepatía"
+            },
+            "it": {
+                "name": "Telepatia"
+            },
+            "en": {
+                "name": "Telepathy"
+            },
+            "ja": {
+                "name": "テレパシー"
+            },
+            "zh-Hans": {
+                "name": "心灵感应"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "wobbuffet",
@@ -6711,6 +11191,38 @@
         "id": 141,
         "name": "moody",
         "effect": "Raises a random stat two stages and lowers another one stage after each turn.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ムラっけ"
+            },
+            "ko": {
+                "name": "변덕쟁이"
+            },
+            "zh-Hant": {
+                "name": "心情不定"
+            },
+            "fr": {
+                "name": "Lunatique"
+            },
+            "de": {
+                "name": "Gefühlswippe"
+            },
+            "es": {
+                "name": "Veleta"
+            },
+            "it": {
+                "name": "Altalena"
+            },
+            "en": {
+                "name": "Moody"
+            },
+            "ja": {
+                "name": "ムラっけ"
+            },
+            "zh-Hans": {
+                "name": "心情不定"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "remoraid",
@@ -6746,6 +11258,38 @@
         "id": 142,
         "name": "overcoat",
         "effect": "Protects against damage from weather.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ぼうじん"
+            },
+            "ko": {
+                "name": "방진"
+            },
+            "zh-Hant": {
+                "name": "防塵"
+            },
+            "fr": {
+                "name": "Envelocape"
+            },
+            "de": {
+                "name": "Partikelschutz"
+            },
+            "es": {
+                "name": "Funda"
+            },
+            "it": {
+                "name": "Copricapo"
+            },
+            "en": {
+                "name": "Overcoat"
+            },
+            "ja": {
+                "name": "ぼうじん"
+            },
+            "zh-Hans": {
+                "name": "防尘"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shellder",
@@ -6829,6 +11373,38 @@
         "id": 143,
         "name": "poison-touch",
         "effect": "Has a 30% chance of poisoning target Pokémon upon contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "どくしゅ"
+            },
+            "ko": {
+                "name": "독수"
+            },
+            "zh-Hant": {
+                "name": "毒手"
+            },
+            "fr": {
+                "name": "Toxitouche"
+            },
+            "de": {
+                "name": "Giftgriff"
+            },
+            "es": {
+                "name": "Toque Tóxico"
+            },
+            "it": {
+                "name": "Velentocco"
+            },
+            "en": {
+                "name": "Poison Touch"
+            },
+            "ja": {
+                "name": "どくしゅ"
+            },
+            "zh-Hans": {
+                "name": "毒手"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "grimer",
@@ -6856,6 +11432,38 @@
         "id": 144,
         "name": "regenerator",
         "effect": "Heals for 1/3 max HP upon switching out.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "さいせいりょく"
+            },
+            "ko": {
+                "name": "재생력"
+            },
+            "zh-Hant": {
+                "name": "再生力"
+            },
+            "fr": {
+                "name": "Régé-Force"
+            },
+            "de": {
+                "name": "Belebekraft"
+            },
+            "es": {
+                "name": "Regeneración"
+            },
+            "it": {
+                "name": "Rigenergia"
+            },
+            "en": {
+                "name": "Regenerator"
+            },
+            "ja": {
+                "name": "さいせいりょく"
+            },
+            "zh-Hans": {
+                "name": "再生力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "slowpoke",
@@ -6931,6 +11539,38 @@
         "id": 145,
         "name": "big-pecks",
         "effect": "Protects against Defense drops.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はとむね"
+            },
+            "ko": {
+                "name": "부풀린가슴"
+            },
+            "zh-Hant": {
+                "name": "健壯胸肌"
+            },
+            "fr": {
+                "name": "Cœur de Coq"
+            },
+            "de": {
+                "name": "Brustbieter"
+            },
+            "es": {
+                "name": "Sacapecho"
+            },
+            "it": {
+                "name": "Pettinfuori"
+            },
+            "en": {
+                "name": "Big Pecks"
+            },
+            "ja": {
+                "name": "はとむね"
+            },
+            "zh-Hans": {
+                "name": "健壮胸肌"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pidgey",
@@ -6982,6 +11622,38 @@
         "id": 146,
         "name": "sand-rush",
         "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すなかき"
+            },
+            "ko": {
+                "name": "모래헤치기"
+            },
+            "zh-Hant": {
+                "name": "撥沙"
+            },
+            "fr": {
+                "name": "Baigne Sable"
+            },
+            "de": {
+                "name": "Sandscharrer"
+            },
+            "es": {
+                "name": "Ímpetu Arena"
+            },
+            "it": {
+                "name": "Remasabbia"
+            },
+            "en": {
+                "name": "Sand Rush"
+            },
+            "ja": {
+                "name": "すなかき"
+            },
+            "zh-Hans": {
+                "name": "拨沙"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "sandshrew",
@@ -7013,6 +11685,38 @@
         "id": 147,
         "name": "wonder-skin",
         "effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ミラクルスキン"
+            },
+            "ko": {
+                "name": "미라클스킨"
+            },
+            "zh-Hant": {
+                "name": "奇跡皮膚"
+            },
+            "fr": {
+                "name": "Peau Miracle"
+            },
+            "de": {
+                "name": "Wunderhaut"
+            },
+            "es": {
+                "name": "Piel Milagro"
+            },
+            "it": {
+                "name": "Splendicute"
+            },
+            "en": {
+                "name": "Wonder Skin"
+            },
+            "ja": {
+                "name": "ミラクルスキン"
+            },
+            "zh-Hans": {
+                "name": "奇迹皮肤"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "venomoth",
@@ -7036,6 +11740,38 @@
         "id": 148,
         "name": "analytic",
         "effect": "Strengthens moves to 1.3× their power when moving last.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "アナライズ"
+            },
+            "ko": {
+                "name": "애널라이즈"
+            },
+            "zh-Hant": {
+                "name": "分析"
+            },
+            "fr": {
+                "name": "Analyste"
+            },
+            "de": {
+                "name": "Analyse"
+            },
+            "es": {
+                "name": "Cálculo Final"
+            },
+            "it": {
+                "name": "Ponderazione"
+            },
+            "en": {
+                "name": "Analytic"
+            },
+            "ja": {
+                "name": "アナライズ"
+            },
+            "zh-Hans": {
+                "name": "分析"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "magnemite",
@@ -7091,6 +11827,38 @@
         "id": 149,
         "name": "illusion",
         "effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "イリュージョン"
+            },
+            "ko": {
+                "name": "일루전"
+            },
+            "zh-Hant": {
+                "name": "幻覺"
+            },
+            "fr": {
+                "name": "Illusion"
+            },
+            "de": {
+                "name": "Trugbild"
+            },
+            "es": {
+                "name": "Ilusión"
+            },
+            "it": {
+                "name": "Illusione"
+            },
+            "en": {
+                "name": "Illusion"
+            },
+            "ja": {
+                "name": "イリュージョン"
+            },
+            "zh-Hans": {
+                "name": "幻觉"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "zorua",
@@ -7106,6 +11874,38 @@
         "id": 150,
         "name": "imposter",
         "effect": "Transforms upon entering battle.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かわりもの"
+            },
+            "ko": {
+                "name": "괴짜"
+            },
+            "zh-Hant": {
+                "name": "變身者"
+            },
+            "fr": {
+                "name": "Imposteur"
+            },
+            "de": {
+                "name": "Doppelgänger"
+            },
+            "es": {
+                "name": "Impostor"
+            },
+            "it": {
+                "name": "Sosia"
+            },
+            "en": {
+                "name": "Imposter"
+            },
+            "ja": {
+                "name": "かわりもの"
+            },
+            "zh-Hans": {
+                "name": "变身者"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "ditto",
@@ -7117,6 +11917,38 @@
         "id": 151,
         "name": "infiltrator",
         "effect": "Bypasses light screen, reflect, and safeguard.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すりぬけ"
+            },
+            "ko": {
+                "name": "틈새포착"
+            },
+            "zh-Hant": {
+                "name": "穿透"
+            },
+            "fr": {
+                "name": "Infiltration"
+            },
+            "de": {
+                "name": "Schwebedurch"
+            },
+            "es": {
+                "name": "Allanamiento"
+            },
+            "it": {
+                "name": "Intrapasso"
+            },
+            "en": {
+                "name": "Infiltrator"
+            },
+            "ja": {
+                "name": "すりぬけ"
+            },
+            "zh-Hans": {
+                "name": "穿透"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "zubat",
@@ -7180,6 +12012,38 @@
         "id": 152,
         "name": "mummy",
         "effect": "Changes attacking Pokémon's abilities to Mummy on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ミイラ"
+            },
+            "ko": {
+                "name": "미라"
+            },
+            "zh-Hant": {
+                "name": "木乃伊"
+            },
+            "fr": {
+                "name": "Momie"
+            },
+            "de": {
+                "name": "Mumie"
+            },
+            "es": {
+                "name": "Momia"
+            },
+            "it": {
+                "name": "Mummia"
+            },
+            "en": {
+                "name": "Mummy"
+            },
+            "ja": {
+                "name": "ミイラ"
+            },
+            "zh-Hans": {
+                "name": "木乃伊"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "yamask",
@@ -7195,6 +12059,38 @@
         "id": 153,
         "name": "moxie",
         "effect": "Raises Attack one stage upon KOing a Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "じしんかじょう"
+            },
+            "ko": {
+                "name": "자기과신"
+            },
+            "zh-Hant": {
+                "name": "自信過度"
+            },
+            "fr": {
+                "name": "Impudence"
+            },
+            "de": {
+                "name": "Hochmut"
+            },
+            "es": {
+                "name": "Autoestima"
+            },
+            "it": {
+                "name": "Arroganza"
+            },
+            "en": {
+                "name": "Moxie"
+            },
+            "ja": {
+                "name": "じしんかじょう"
+            },
+            "zh-Hans": {
+                "name": "自信过度"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "pinsir",
@@ -7246,6 +12142,38 @@
         "id": 154,
         "name": "justified",
         "effect": "Raises Attack one stage upon taking damage from a dark move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "せいぎのこころ"
+            },
+            "ko": {
+                "name": "정의의마음"
+            },
+            "zh-Hant": {
+                "name": "正義之心"
+            },
+            "fr": {
+                "name": "Cœur Noble"
+            },
+            "de": {
+                "name": "Redlichkeit"
+            },
+            "es": {
+                "name": "Justiciero"
+            },
+            "it": {
+                "name": "Giustizia"
+            },
+            "en": {
+                "name": "Justified"
+            },
+            "ja": {
+                "name": "せいぎのこころ"
+            },
+            "zh-Hans": {
+                "name": "正义之心"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "growlithe",
@@ -7293,6 +12221,38 @@
         "id": 155,
         "name": "rattled",
         "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "びびり"
+            },
+            "ko": {
+                "name": "주눅"
+            },
+            "zh-Hant": {
+                "name": "膽怯"
+            },
+            "fr": {
+                "name": "Phobique"
+            },
+            "de": {
+                "name": "Hasenfuß"
+            },
+            "es": {
+                "name": "Cobardía"
+            },
+            "it": {
+                "name": "Paura"
+            },
+            "en": {
+                "name": "Rattled"
+            },
+            "ja": {
+                "name": "びびり"
+            },
+            "zh-Hans": {
+                "name": "胆怯"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "magikarp",
@@ -7344,6 +12304,38 @@
         "id": 156,
         "name": "magic-bounce",
         "effect": "Reflects most non-damaging moves back at their user.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "マジックミラー"
+            },
+            "ko": {
+                "name": "매직미러"
+            },
+            "zh-Hant": {
+                "name": "魔法鏡"
+            },
+            "fr": {
+                "name": "Miroir Magik"
+            },
+            "de": {
+                "name": "Magiespiegel"
+            },
+            "es": {
+                "name": "Espejo Mágico"
+            },
+            "it": {
+                "name": "Magispecchio"
+            },
+            "en": {
+                "name": "Magic Bounce"
+            },
+            "ja": {
+                "name": "マジックミラー"
+            },
+            "zh-Hans": {
+                "name": "魔法镜"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "natu",
@@ -7363,6 +12355,38 @@
         "id": 157,
         "name": "sap-sipper",
         "effect": "Absorbs grass moves, raising Attack one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "そうしょく"
+            },
+            "ko": {
+                "name": "초식"
+            },
+            "zh-Hant": {
+                "name": "食草"
+            },
+            "fr": {
+                "name": "Herbivore"
+            },
+            "de": {
+                "name": "Vegetarier"
+            },
+            "es": {
+                "name": "Herbívoro"
+            },
+            "it": {
+                "name": "Mangiaerba"
+            },
+            "en": {
+                "name": "Sap Sipper"
+            },
+            "ja": {
+                "name": "そうしょく"
+            },
+            "zh-Hans": {
+                "name": "食草"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "marill",
@@ -7414,6 +12438,38 @@
         "id": 158,
         "name": "prankster",
         "effect": "Raises non-damaging moves' priority by one stage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いたずらごころ"
+            },
+            "ko": {
+                "name": "짓궂은마음"
+            },
+            "zh-Hant": {
+                "name": "惡作劇之心"
+            },
+            "fr": {
+                "name": "Farceur"
+            },
+            "de": {
+                "name": "Strolch"
+            },
+            "es": {
+                "name": "Bromista"
+            },
+            "it": {
+                "name": "Burla"
+            },
+            "en": {
+                "name": "Prankster"
+            },
+            "ja": {
+                "name": "いたずらごころ"
+            },
+            "zh-Hans": {
+                "name": "恶作剧之心"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "murkrow",
@@ -7465,6 +12521,38 @@
         "id": 159,
         "name": "sand-force",
         "effect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すなのちから"
+            },
+            "ko": {
+                "name": "모래의힘"
+            },
+            "zh-Hant": {
+                "name": "沙之力"
+            },
+            "fr": {
+                "name": "Force Sable"
+            },
+            "de": {
+                "name": "Sandgewalt"
+            },
+            "es": {
+                "name": "Poder Arena"
+            },
+            "it": {
+                "name": "Silicoforza"
+            },
+            "en": {
+                "name": "Sand Force"
+            },
+            "ja": {
+                "name": "すなのちから"
+            },
+            "zh-Hans": {
+                "name": "沙之力"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "diglett",
@@ -7528,6 +12616,38 @@
         "id": 160,
         "name": "iron-barbs",
         "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てつのトゲ"
+            },
+            "ko": {
+                "name": "철가시"
+            },
+            "zh-Hant": {
+                "name": "鐵刺"
+            },
+            "fr": {
+                "name": "Épine de Fer"
+            },
+            "de": {
+                "name": "Eisenstachel"
+            },
+            "es": {
+                "name": "Punta Acero"
+            },
+            "it": {
+                "name": "Spineferrate"
+            },
+            "en": {
+                "name": "Iron Barbs"
+            },
+            "ja": {
+                "name": "てつのトゲ"
+            },
+            "zh-Hans": {
+                "name": "铁刺"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "ferroseed",
@@ -7543,6 +12663,38 @@
         "id": 161,
         "name": "zen-mode",
         "effect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ダルマモード"
+            },
+            "ko": {
+                "name": "달마모드"
+            },
+            "zh-Hant": {
+                "name": "達摩模式"
+            },
+            "fr": {
+                "name": "Mode Transe"
+            },
+            "de": {
+                "name": "Trance-Modus"
+            },
+            "es": {
+                "name": "Modo Daruma"
+            },
+            "it": {
+                "name": "Stato Zen"
+            },
+            "en": {
+                "name": "Zen Mode"
+            },
+            "ja": {
+                "name": "ダルマモード"
+            },
+            "zh-Hans": {
+                "name": "达摩模式"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "darmanitan-standard",
@@ -7558,6 +12710,38 @@
         "id": 162,
         "name": "victory-star",
         "effect": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しょうりのほし"
+            },
+            "ko": {
+                "name": "승리의별"
+            },
+            "zh-Hant": {
+                "name": "勝利之星"
+            },
+            "fr": {
+                "name": "Victorieux"
+            },
+            "de": {
+                "name": "Triumphstern"
+            },
+            "es": {
+                "name": "Tinovictoria"
+            },
+            "it": {
+                "name": "Vittorstella"
+            },
+            "en": {
+                "name": "Victory Star"
+            },
+            "ja": {
+                "name": "しょうりのほし"
+            },
+            "zh-Hans": {
+                "name": "胜利之星"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "victini",
@@ -7569,6 +12753,38 @@
         "id": 163,
         "name": "turboblaze",
         "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ターボブレイズ"
+            },
+            "ko": {
+                "name": "터보블레이즈"
+            },
+            "zh-Hant": {
+                "name": "渦輪火焰"
+            },
+            "fr": {
+                "name": "Turbo Brasier"
+            },
+            "de": {
+                "name": "Turbobrand"
+            },
+            "es": {
+                "name": "Turbollama"
+            },
+            "it": {
+                "name": "Piroturbina"
+            },
+            "en": {
+                "name": "Turboblaze"
+            },
+            "ja": {
+                "name": "ターボブレイズ"
+            },
+            "zh-Hans": {
+                "name": "涡轮火焰"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "reshiram",
@@ -7584,6 +12800,38 @@
         "id": 164,
         "name": "teravolt",
         "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "テラボルテージ"
+            },
+            "ko": {
+                "name": "테라볼티지"
+            },
+            "zh-Hant": {
+                "name": "兆級電壓"
+            },
+            "fr": {
+                "name": "Téra-Voltage"
+            },
+            "de": {
+                "name": "Teravolt"
+            },
+            "es": {
+                "name": "Terravoltaje"
+            },
+            "it": {
+                "name": "Teravolt"
+            },
+            "en": {
+                "name": "Teravolt"
+            },
+            "ja": {
+                "name": "テラボルテージ"
+            },
+            "zh-Hans": {
+                "name": "兆级电压"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "zekrom",
@@ -7599,6 +12847,38 @@
         "id": 168,
         "name": "protean",
         "effect": "Changes the bearer's type to match each move it uses.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "へんげんじざい"
+            },
+            "ko": {
+                "name": "변환자재"
+            },
+            "zh-Hant": {
+                "name": "變幻自如"
+            },
+            "fr": {
+                "name": "Protéen"
+            },
+            "de": {
+                "name": "Wandlungskunst"
+            },
+            "es": {
+                "name": "Mutatipo"
+            },
+            "it": {
+                "name": "Mutatipo"
+            },
+            "en": {
+                "name": "Protean"
+            },
+            "ja": {
+                "name": "へんげんじざい"
+            },
+            "zh-Hans": {
+                "name": "变幻自如"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "kecleon",
@@ -7610,6 +12890,38 @@
         "id": 172,
         "name": "competitive",
         "effect": "Raises Special Attack by two stages upon having any stat lowered.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かちき"
+            },
+            "ko": {
+                "name": "승기"
+            },
+            "zh-Hant": {
+                "name": "好勝"
+            },
+            "fr": {
+                "name": "Battant"
+            },
+            "de": {
+                "name": "Unbeugsamkeit"
+            },
+            "es": {
+                "name": "Tenacidad"
+            },
+            "it": {
+                "name": "Tenacia"
+            },
+            "en": {
+                "name": "Competitive"
+            },
+            "ja": {
+                "name": "かちき"
+            },
+            "zh-Hans": {
+                "name": "好胜"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "jigglypuff",
@@ -7657,6 +12969,29 @@
         "id": 274,
         "name": "wind-rider",
         "effect": null,
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かぜのり"
+            },
+            "fr": {
+                "name": "Aéroporté"
+            },
+            "de": {
+                "name": "Windreiter"
+            },
+            "es": {
+                "name": "Surcavientos"
+            },
+            "it": {
+                "name": "Vento Propizio"
+            },
+            "en": {
+                "name": "Wind Rider"
+            },
+            "ja": {
+                "name": "かぜのり"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "shiftry",
@@ -7668,6 +13003,29 @@
         "id": 292,
         "name": "sharpness",
         "effect": null,
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きれあじ"
+            },
+            "fr": {
+                "name": "Incisif"
+            },
+            "de": {
+                "name": "Scharfkantig"
+            },
+            "es": {
+                "name": "Cortante"
+            },
+            "it": {
+                "name": "Affilama"
+            },
+            "en": {
+                "name": "Sharpness"
+            },
+            "ja": {
+                "name": "きれあじ"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "gallade",
@@ -7679,6 +13037,38 @@
         "id": 256,
         "name": "reactive-gas",
         "effect": null,
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かがくへんかガス"
+            },
+            "ko": {
+                "name": "화학변화가스"
+            },
+            "zh-Hant": {
+                "name": "化學變化氣體"
+            },
+            "fr": {
+                "name": "Gaz Inhibiteur"
+            },
+            "de": {
+                "name": "Reaktionsgas"
+            },
+            "es": {
+                "name": "Gas Reactivo"
+            },
+            "it": {
+                "name": "Gas Reagente"
+            },
+            "en": {
+                "name": "Neutralizing Gas"
+            },
+            "ja": {
+                "name": "かがくへんかガス"
+            },
+            "zh-Hans": {
+                "name": "化学变化气体"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "koffing",
@@ -7694,6 +13084,38 @@
         "id": 202,
         "name": "snow-plow",
         "effect": "During Hail, this Pokémon has double Speed.",
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゆきかき"
+            },
+            "ko": {
+                "name": "눈치우기"
+            },
+            "zh-Hant": {
+                "name": "撥雪"
+            },
+            "fr": {
+                "name": "Chasse-Neige"
+            },
+            "de": {
+                "name": "Schneescharrer"
+            },
+            "es": {
+                "name": "Quitanieves"
+            },
+            "it": {
+                "name": "Spalaneve"
+            },
+            "en": {
+                "name": "Slush Rush"
+            },
+            "ja": {
+                "name": "ゆきかき"
+            },
+            "zh-Hans": {
+                "name": "拨雪"
+            }
+        },
         "pokemon_with_ability": [
             {
                 "name": "cubchoo",
