@@ -443,7 +443,39 @@
                 "name": "cotton-guard",
                 "id": 538
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "くさ"
+            },
+            "ko": {
+                "name": "풀"
+            },
+            "zh-Hant": {
+                "name": "草"
+            },
+            "fr": {
+                "name": "Plante"
+            },
+            "de": {
+                "name": "Pflanze"
+            },
+            "es": {
+                "name": "Planta"
+            },
+            "it": {
+                "name": "Erba"
+            },
+            "en": {
+                "name": "Grass"
+            },
+            "ja": {
+                "name": "くさ"
+            },
+            "zh-Hans": {
+                "name": "草"
+            }
+        }
     },
     "poison": {
         "pokemon": [
@@ -761,7 +793,39 @@
                 "name": "clear-smog",
                 "id": 499
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "どく"
+            },
+            "ko": {
+                "name": "독"
+            },
+            "zh-Hant": {
+                "name": "毒"
+            },
+            "fr": {
+                "name": "Poison"
+            },
+            "de": {
+                "name": "Gift"
+            },
+            "es": {
+                "name": "Veneno"
+            },
+            "it": {
+                "name": "Veleno"
+            },
+            "en": {
+                "name": "Poison"
+            },
+            "ja": {
+                "name": "どく"
+            },
+            "zh-Hans": {
+                "name": "毒"
+            }
+        }
     },
     "fire": {
         "pokemon": [
@@ -1087,7 +1151,39 @@
                 "name": "fusion-flare",
                 "id": 558
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ほのお"
+            },
+            "ko": {
+                "name": "불꽃"
+            },
+            "zh-Hant": {
+                "name": "火"
+            },
+            "fr": {
+                "name": "Feu"
+            },
+            "de": {
+                "name": "Feuer"
+            },
+            "es": {
+                "name": "Fuego"
+            },
+            "it": {
+                "name": "Fuoco"
+            },
+            "en": {
+                "name": "Fire"
+            },
+            "ja": {
+                "name": "ほのお"
+            },
+            "zh-Hans": {
+                "name": "火"
+            }
+        }
     },
     "flying": {
         "pokemon": [
@@ -1529,7 +1625,39 @@
                 "name": "hurricane",
                 "id": 542
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひこう"
+            },
+            "ko": {
+                "name": "비행"
+            },
+            "zh-Hant": {
+                "name": "飛行"
+            },
+            "fr": {
+                "name": "Vol"
+            },
+            "de": {
+                "name": "Flug"
+            },
+            "es": {
+                "name": "Volador"
+            },
+            "it": {
+                "name": "Volante"
+            },
+            "en": {
+                "name": "Flying"
+            },
+            "ja": {
+                "name": "ひこう"
+            },
+            "zh-Hans": {
+                "name": "飞行"
+            }
+        }
     },
     "water": {
         "pokemon": [
@@ -2091,7 +2219,39 @@
                 "name": "razor-shell",
                 "id": 534
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "みず"
+            },
+            "ko": {
+                "name": "물"
+            },
+            "zh-Hant": {
+                "name": "水"
+            },
+            "fr": {
+                "name": "Eau"
+            },
+            "de": {
+                "name": "Wasser"
+            },
+            "es": {
+                "name": "Agua"
+            },
+            "it": {
+                "name": "Acqua"
+            },
+            "en": {
+                "name": "Water"
+            },
+            "ja": {
+                "name": "みず"
+            },
+            "zh-Hans": {
+                "name": "水"
+            }
+        }
     },
     "bug": {
         "pokemon": [
@@ -2441,7 +2601,39 @@
                 "name": "steamroller",
                 "id": 537
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "むし"
+            },
+            "ko": {
+                "name": "벌레"
+            },
+            "zh-Hant": {
+                "name": "蟲"
+            },
+            "fr": {
+                "name": "Insecte"
+            },
+            "de": {
+                "name": "Käfer"
+            },
+            "es": {
+                "name": "Bicho"
+            },
+            "it": {
+                "name": "Coleottero"
+            },
+            "en": {
+                "name": "Bug"
+            },
+            "ja": {
+                "name": "むし"
+            },
+            "zh-Hans": {
+                "name": "虫"
+            }
+        }
     },
     "normal": {
         "pokemon": [
@@ -3495,7 +3687,39 @@
                 "name": "relic-song",
                 "id": 547
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ノーマル"
+            },
+            "ko": {
+                "name": "노말"
+            },
+            "zh-Hant": {
+                "name": "一般"
+            },
+            "fr": {
+                "name": "Normal"
+            },
+            "de": {
+                "name": "Normal"
+            },
+            "es": {
+                "name": "Normal"
+            },
+            "it": {
+                "name": "Normale"
+            },
+            "en": {
+                "name": "Normal"
+            },
+            "ja": {
+                "name": "ノーマル"
+            },
+            "zh-Hans": {
+                "name": "一般"
+            }
+        }
     },
     "electric": {
         "pokemon": [
@@ -3761,7 +3985,39 @@
                 "name": "fusion-bolt",
                 "id": 559
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "でんき"
+            },
+            "ko": {
+                "name": "전기"
+            },
+            "zh-Hant": {
+                "name": "電"
+            },
+            "fr": {
+                "name": "Électrik"
+            },
+            "de": {
+                "name": "Elektro"
+            },
+            "es": {
+                "name": "Eléctrico"
+            },
+            "it": {
+                "name": "Elettro"
+            },
+            "en": {
+                "name": "Electric"
+            },
+            "ja": {
+                "name": "でんき"
+            },
+            "zh-Hans": {
+                "name": "电"
+            }
+        }
     },
     "ground": {
         "pokemon": [
@@ -4075,7 +4331,39 @@
                 "name": "drill-run",
                 "id": 529
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "じめん"
+            },
+            "ko": {
+                "name": "땅"
+            },
+            "zh-Hant": {
+                "name": "地面"
+            },
+            "fr": {
+                "name": "Sol"
+            },
+            "de": {
+                "name": "Boden"
+            },
+            "es": {
+                "name": "Tierra"
+            },
+            "it": {
+                "name": "Terra"
+            },
+            "en": {
+                "name": "Ground"
+            },
+            "ja": {
+                "name": "じめん"
+            },
+            "zh-Hans": {
+                "name": "地面"
+            }
+        }
     },
     "fighting": {
         "pokemon": [
@@ -4405,7 +4693,39 @@
                 "name": "secret-sword",
                 "id": 548
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かくとう"
+            },
+            "ko": {
+                "name": "격투"
+            },
+            "zh-Hant": {
+                "name": "格鬥"
+            },
+            "fr": {
+                "name": "Combat"
+            },
+            "de": {
+                "name": "Kampf"
+            },
+            "es": {
+                "name": "Lucha"
+            },
+            "it": {
+                "name": "Lotta"
+            },
+            "en": {
+                "name": "Fighting"
+            },
+            "ja": {
+                "name": "かくとう"
+            },
+            "zh-Hans": {
+                "name": "格斗"
+            }
+        }
     },
     "psychic": {
         "pokemon": [
@@ -4911,7 +5231,39 @@
                 "name": "psystrike",
                 "id": 540
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "エスパー"
+            },
+            "ko": {
+                "name": "에스퍼"
+            },
+            "zh-Hant": {
+                "name": "超能力"
+            },
+            "fr": {
+                "name": "Psy"
+            },
+            "de": {
+                "name": "Psycho"
+            },
+            "es": {
+                "name": "Psíquico"
+            },
+            "it": {
+                "name": "Psico"
+            },
+            "en": {
+                "name": "Psychic"
+            },
+            "ja": {
+                "name": "エスパー"
+            },
+            "zh-Hans": {
+                "name": "超能力"
+            }
+        }
     },
     "rock": {
         "pokemon": [
@@ -5165,7 +5517,39 @@
                 "name": "smack-down",
                 "id": 479
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いわ"
+            },
+            "ko": {
+                "name": "바위"
+            },
+            "zh-Hant": {
+                "name": "岩石"
+            },
+            "fr": {
+                "name": "Roche"
+            },
+            "de": {
+                "name": "Gestein"
+            },
+            "es": {
+                "name": "Roca"
+            },
+            "it": {
+                "name": "Roccia"
+            },
+            "en": {
+                "name": "Rock"
+            },
+            "ja": {
+                "name": "いわ"
+            },
+            "zh-Hans": {
+                "name": "岩石"
+            }
+        }
     },
     "steel": {
         "pokemon": [
@@ -5395,7 +5779,39 @@
                 "name": "gear-grind",
                 "id": 544
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "はがね"
+            },
+            "ko": {
+                "name": "강철"
+            },
+            "zh-Hant": {
+                "name": "鋼"
+            },
+            "fr": {
+                "name": "Acier"
+            },
+            "de": {
+                "name": "Stahl"
+            },
+            "es": {
+                "name": "Acero"
+            },
+            "it": {
+                "name": "Acciaio"
+            },
+            "en": {
+                "name": "Steel"
+            },
+            "ja": {
+                "name": "はがね"
+            },
+            "zh-Hans": {
+                "name": "钢"
+            }
+        }
     },
     "ice": {
         "pokemon": [
@@ -5613,7 +6029,39 @@
                 "name": "icicle-crash",
                 "id": 556
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "こおり"
+            },
+            "ko": {
+                "name": "얼음"
+            },
+            "zh-Hant": {
+                "name": "冰"
+            },
+            "fr": {
+                "name": "Glace"
+            },
+            "de": {
+                "name": "Eis"
+            },
+            "es": {
+                "name": "Hielo"
+            },
+            "it": {
+                "name": "Ghiaccio"
+            },
+            "en": {
+                "name": "Ice"
+            },
+            "ja": {
+                "name": "こおり"
+            },
+            "zh-Hans": {
+                "name": "冰"
+            }
+        }
     },
     "ghost": {
         "pokemon": [
@@ -5795,7 +6243,39 @@
                 "name": "hex",
                 "id": 506
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゴースト"
+            },
+            "ko": {
+                "name": "고스트"
+            },
+            "zh-Hant": {
+                "name": "幽靈"
+            },
+            "fr": {
+                "name": "Spectre"
+            },
+            "de": {
+                "name": "Geist"
+            },
+            "es": {
+                "name": "Fantasma"
+            },
+            "it": {
+                "name": "Spettro"
+            },
+            "en": {
+                "name": "Ghost"
+            },
+            "ja": {
+                "name": "ゴースト"
+            },
+            "zh-Hans": {
+                "name": "幽灵"
+            }
+        }
     },
     "dragon": {
         "pokemon": [
@@ -5981,7 +6461,39 @@
                 "name": "dual-chop",
                 "id": 530
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ドラゴン"
+            },
+            "ko": {
+                "name": "드래곤"
+            },
+            "zh-Hant": {
+                "name": "龍"
+            },
+            "fr": {
+                "name": "Dragon"
+            },
+            "de": {
+                "name": "Drache"
+            },
+            "es": {
+                "name": "Dragón"
+            },
+            "it": {
+                "name": "Drago"
+            },
+            "en": {
+                "name": "Dragon"
+            },
+            "ja": {
+                "name": "ドラゴン"
+            },
+            "zh-Hans": {
+                "name": "龙"
+            }
+        }
     },
     "dark": {
         "pokemon": [
@@ -6259,6 +6771,38 @@
                 "name": "snarl",
                 "id": 555
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "あく"
+            },
+            "ko": {
+                "name": "악"
+            },
+            "zh-Hant": {
+                "name": "惡"
+            },
+            "fr": {
+                "name": "Ténèbres"
+            },
+            "de": {
+                "name": "Unlicht"
+            },
+            "es": {
+                "name": "Siniestro"
+            },
+            "it": {
+                "name": "Buio"
+            },
+            "en": {
+                "name": "Dark"
+            },
+            "ja": {
+                "name": "あく"
+            },
+            "zh-Hans": {
+                "name": "恶"
+            }
+        }
     }
 }
