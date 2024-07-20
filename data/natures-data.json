@@ -22,7 +22,39 @@
                 "low_hp_preference": 32,
                 "high_hp_preference": 32
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "がんばりや"
+            },
+            "ko": {
+                "name": "노력"
+            },
+            "zh-Hant": {
+                "name": "勤奮"
+            },
+            "fr": {
+                "name": "Hardi"
+            },
+            "de": {
+                "name": "Robust"
+            },
+            "es": {
+                "name": "Fuerte"
+            },
+            "it": {
+                "name": "Ardita"
+            },
+            "en": {
+                "name": "Hardy"
+            },
+            "ja": {
+                "name": "がんばりや"
+            },
+            "zh-Hans": {
+                "name": "勤奋"
+            }
+        }
     },
     "bold": {
         "id": 2,
@@ -47,7 +79,39 @@
                 "low_hp_preference": 10,
                 "high_hp_preference": 50
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ずぶとい"
+            },
+            "ko": {
+                "name": "대담"
+            },
+            "zh-Hant": {
+                "name": "大膽"
+            },
+            "fr": {
+                "name": "Assuré"
+            },
+            "de": {
+                "name": "Kühn"
+            },
+            "es": {
+                "name": "Osada"
+            },
+            "it": {
+                "name": "Sicura"
+            },
+            "en": {
+                "name": "Bold"
+            },
+            "ja": {
+                "name": "ずぶとい"
+            },
+            "zh-Hans": {
+                "name": "大胆"
+            }
+        }
     },
     "modest": {
         "id": 3,
@@ -72,7 +136,39 @@
                 "low_hp_preference": 6,
                 "high_hp_preference": 20
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひかえめ"
+            },
+            "ko": {
+                "name": "조심"
+            },
+            "zh-Hant": {
+                "name": "內斂"
+            },
+            "fr": {
+                "name": "Modeste"
+            },
+            "de": {
+                "name": "Mäßig"
+            },
+            "es": {
+                "name": "Modesta"
+            },
+            "it": {
+                "name": "Modesta"
+            },
+            "en": {
+                "name": "Modest"
+            },
+            "ja": {
+                "name": "ひかえめ"
+            },
+            "zh-Hans": {
+                "name": "内敛"
+            }
+        }
     },
     "calm": {
         "id": 4,
@@ -97,7 +193,39 @@
                 "low_hp_preference": 13,
                 "high_hp_preference": 10
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "おだやか"
+            },
+            "ko": {
+                "name": "차분"
+            },
+            "zh-Hant": {
+                "name": "溫和"
+            },
+            "fr": {
+                "name": "Calme"
+            },
+            "de": {
+                "name": "Still"
+            },
+            "es": {
+                "name": "Serena"
+            },
+            "it": {
+                "name": "Calma"
+            },
+            "en": {
+                "name": "Calm"
+            },
+            "ja": {
+                "name": "おだやか"
+            },
+            "zh-Hans": {
+                "name": "温和"
+            }
+        }
     },
     "timid": {
         "id": 5,
@@ -122,7 +250,39 @@
                 "low_hp_preference": 50,
                 "high_hp_preference": 28
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "おくびょう"
+            },
+            "ko": {
+                "name": "겁쟁이"
+            },
+            "zh-Hant": {
+                "name": "膽小"
+            },
+            "fr": {
+                "name": "Timide"
+            },
+            "de": {
+                "name": "Scheu"
+            },
+            "es": {
+                "name": "Miedosa"
+            },
+            "it": {
+                "name": "Timida"
+            },
+            "en": {
+                "name": "Timid"
+            },
+            "ja": {
+                "name": "おくびょう"
+            },
+            "zh-Hans": {
+                "name": "胆小"
+            }
+        }
     },
     "lonely": {
         "id": 6,
@@ -147,7 +307,39 @@
                 "low_hp_preference": 8,
                 "high_hp_preference": 55
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "さみしがり"
+            },
+            "ko": {
+                "name": "외로움"
+            },
+            "zh-Hant": {
+                "name": "怕寂寞"
+            },
+            "fr": {
+                "name": "Solo"
+            },
+            "de": {
+                "name": "Solo"
+            },
+            "es": {
+                "name": "Huraña"
+            },
+            "it": {
+                "name": "Schiva"
+            },
+            "en": {
+                "name": "Lonely"
+            },
+            "ja": {
+                "name": "さみしがり"
+            },
+            "zh-Hans": {
+                "name": "怕寂寞"
+            }
+        }
     },
     "docile": {
         "id": 7,
@@ -172,7 +364,39 @@
                 "low_hp_preference": 22,
                 "high_hp_preference": 22
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すなお"
+            },
+            "ko": {
+                "name": "온순"
+            },
+            "zh-Hant": {
+                "name": "坦率"
+            },
+            "fr": {
+                "name": "Docile"
+            },
+            "de": {
+                "name": "Sanft"
+            },
+            "es": {
+                "name": "Dócil"
+            },
+            "it": {
+                "name": "Docile"
+            },
+            "en": {
+                "name": "Docile"
+            },
+            "ja": {
+                "name": "すなお"
+            },
+            "zh-Hans": {
+                "name": "坦率"
+            }
+        }
     },
     "mild": {
         "id": 8,
@@ -197,7 +421,39 @@
                 "low_hp_preference": 60,
                 "high_hp_preference": 6
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "おっとり"
+            },
+            "ko": {
+                "name": "의젓"
+            },
+            "zh-Hant": {
+                "name": "慢吞吞"
+            },
+            "fr": {
+                "name": "Doux"
+            },
+            "de": {
+                "name": "Mild"
+            },
+            "es": {
+                "name": "Afable"
+            },
+            "it": {
+                "name": "Mite"
+            },
+            "en": {
+                "name": "Mild"
+            },
+            "ja": {
+                "name": "おっとり"
+            },
+            "zh-Hans": {
+                "name": "慢吞吞"
+            }
+        }
     },
     "gentle": {
         "id": 9,
@@ -222,7 +478,39 @@
                 "low_hp_preference": 5,
                 "high_hp_preference": 12
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "おとなしい"
+            },
+            "ko": {
+                "name": "얌전"
+            },
+            "zh-Hant": {
+                "name": "溫順"
+            },
+            "fr": {
+                "name": "Gentil"
+            },
+            "de": {
+                "name": "Zart"
+            },
+            "es": {
+                "name": "Amable"
+            },
+            "it": {
+                "name": "Gentile"
+            },
+            "en": {
+                "name": "Gentle"
+            },
+            "ja": {
+                "name": "おとなしい"
+            },
+            "zh-Hans": {
+                "name": "温顺"
+            }
+        }
     },
     "hasty": {
         "id": 10,
@@ -247,7 +535,39 @@
                 "low_hp_preference": 6,
                 "high_hp_preference": 5
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "せっかち"
+            },
+            "ko": {
+                "name": "성급"
+            },
+            "zh-Hant": {
+                "name": "急躁"
+            },
+            "fr": {
+                "name": "Pressé"
+            },
+            "de": {
+                "name": "Hastig"
+            },
+            "es": {
+                "name": "Activa"
+            },
+            "it": {
+                "name": "Lesta"
+            },
+            "en": {
+                "name": "Hasty"
+            },
+            "ja": {
+                "name": "せっかち"
+            },
+            "zh-Hans": {
+                "name": "急躁"
+            }
+        }
     },
     "adamant": {
         "id": 11,
@@ -272,7 +592,39 @@
                 "low_hp_preference": 15,
                 "high_hp_preference": 31
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "いじっぱり"
+            },
+            "ko": {
+                "name": "고집"
+            },
+            "zh-Hant": {
+                "name": "固執"
+            },
+            "fr": {
+                "name": "Rigide"
+            },
+            "de": {
+                "name": "Hart"
+            },
+            "es": {
+                "name": "Firme"
+            },
+            "it": {
+                "name": "Decisa"
+            },
+            "en": {
+                "name": "Adamant"
+            },
+            "ja": {
+                "name": "いじっぱり"
+            },
+            "zh-Hans": {
+                "name": "固执"
+            }
+        }
     },
     "impish": {
         "id": 12,
@@ -297,7 +649,39 @@
                 "low_hp_preference": 17,
                 "high_hp_preference": 25
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "わんぱく"
+            },
+            "ko": {
+                "name": "장난꾸러기"
+            },
+            "zh-Hant": {
+                "name": "淘氣"
+            },
+            "fr": {
+                "name": "Malin"
+            },
+            "de": {
+                "name": "Pfiffig"
+            },
+            "es": {
+                "name": "Agitada"
+            },
+            "it": {
+                "name": "Scaltra"
+            },
+            "en": {
+                "name": "Impish"
+            },
+            "ja": {
+                "name": "わんぱく"
+            },
+            "zh-Hans": {
+                "name": "淘气"
+            }
+        }
     },
     "bashful": {
         "id": 13,
@@ -322,7 +706,39 @@
                 "low_hp_preference": 12,
                 "high_hp_preference": 12
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "てれや"
+            },
+            "ko": {
+                "name": "수줍음"
+            },
+            "zh-Hant": {
+                "name": "害羞"
+            },
+            "fr": {
+                "name": "Pudique"
+            },
+            "de": {
+                "name": "Zaghaft"
+            },
+            "es": {
+                "name": "Tímida"
+            },
+            "it": {
+                "name": "Ritrosa"
+            },
+            "en": {
+                "name": "Bashful"
+            },
+            "ja": {
+                "name": "てれや"
+            },
+            "zh-Hans": {
+                "name": "害羞"
+            }
+        }
     },
     "careful": {
         "id": 14,
@@ -347,7 +763,39 @@
                 "low_hp_preference": 53,
                 "high_hp_preference": 8
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しんちょう"
+            },
+            "ko": {
+                "name": "신중"
+            },
+            "zh-Hant": {
+                "name": "慎重"
+            },
+            "fr": {
+                "name": "Prudent"
+            },
+            "de": {
+                "name": "Sacht"
+            },
+            "es": {
+                "name": "Cauta"
+            },
+            "it": {
+                "name": "Cauta"
+            },
+            "en": {
+                "name": "Careful"
+            },
+            "ja": {
+                "name": "しんちょう"
+            },
+            "zh-Hans": {
+                "name": "慎重"
+            }
+        }
     },
     "rash": {
         "id": 15,
@@ -372,7 +820,39 @@
                 "low_hp_preference": 67,
                 "high_hp_preference": 57
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "うっかりや"
+            },
+            "ko": {
+                "name": "덜렁"
+            },
+            "zh-Hant": {
+                "name": "馬虎"
+            },
+            "fr": {
+                "name": "Foufou"
+            },
+            "de": {
+                "name": "Hitzig"
+            },
+            "es": {
+                "name": "Alocada"
+            },
+            "it": {
+                "name": "Ardente"
+            },
+            "en": {
+                "name": "Rash"
+            },
+            "ja": {
+                "name": "うっかりや"
+            },
+            "zh-Hans": {
+                "name": "马虎"
+            }
+        }
     },
     "jolly": {
         "id": 16,
@@ -397,7 +877,39 @@
                 "low_hp_preference": 5,
                 "high_hp_preference": 60
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ようき"
+            },
+            "ko": {
+                "name": "명랑"
+            },
+            "zh-Hant": {
+                "name": "爽朗"
+            },
+            "fr": {
+                "name": "Jovial"
+            },
+            "de": {
+                "name": "Froh"
+            },
+            "es": {
+                "name": "Alegre"
+            },
+            "it": {
+                "name": "Allegra"
+            },
+            "en": {
+                "name": "Jolly"
+            },
+            "ja": {
+                "name": "ようき"
+            },
+            "zh-Hans": {
+                "name": "爽朗"
+            }
+        }
     },
     "naughty": {
         "id": 17,
@@ -422,7 +934,39 @@
                 "low_hp_preference": 8,
                 "high_hp_preference": 10
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "やんちゃ"
+            },
+            "ko": {
+                "name": "개구쟁이"
+            },
+            "zh-Hant": {
+                "name": "頑皮"
+            },
+            "fr": {
+                "name": "Mauvais"
+            },
+            "de": {
+                "name": "Frech"
+            },
+            "es": {
+                "name": "Pícara"
+            },
+            "it": {
+                "name": "Birbona"
+            },
+            "en": {
+                "name": "Naughty"
+            },
+            "ja": {
+                "name": "やんちゃ"
+            },
+            "zh-Hans": {
+                "name": "顽皮"
+            }
+        }
     },
     "lax": {
         "id": 18,
@@ -447,7 +991,39 @@
                 "low_hp_preference": 65,
                 "high_hp_preference": 55
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "のうてんき"
+            },
+            "ko": {
+                "name": "촐랑"
+            },
+            "zh-Hant": {
+                "name": "樂天"
+            },
+            "fr": {
+                "name": "Lâche"
+            },
+            "de": {
+                "name": "Lasch"
+            },
+            "es": {
+                "name": "Floja"
+            },
+            "it": {
+                "name": "Fiacca"
+            },
+            "en": {
+                "name": "Lax"
+            },
+            "ja": {
+                "name": "のうてんき"
+            },
+            "zh-Hans": {
+                "name": "乐天"
+            }
+        }
     },
     "quirky": {
         "id": 19,
@@ -472,7 +1048,39 @@
                 "low_hp_preference": 22,
                 "high_hp_preference": 22
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "きまぐれ"
+            },
+            "ko": {
+                "name": "변덕"
+            },
+            "zh-Hant": {
+                "name": "浮躁"
+            },
+            "fr": {
+                "name": "Bizarre"
+            },
+            "de": {
+                "name": "Kauzig"
+            },
+            "es": {
+                "name": "Rara"
+            },
+            "it": {
+                "name": "Furba"
+            },
+            "en": {
+                "name": "Quirky"
+            },
+            "ja": {
+                "name": "きまぐれ"
+            },
+            "zh-Hans": {
+                "name": "浮躁"
+            }
+        }
     },
     "naive": {
         "id": 20,
@@ -497,7 +1105,39 @@
                 "low_hp_preference": 22,
                 "high_hp_preference": 22
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "むじゃき"
+            },
+            "ko": {
+                "name": "천진난만"
+            },
+            "zh-Hant": {
+                "name": "天真"
+            },
+            "fr": {
+                "name": "Naïf"
+            },
+            "de": {
+                "name": "Naiv"
+            },
+            "es": {
+                "name": "Ingenua"
+            },
+            "it": {
+                "name": "Ingenua"
+            },
+            "en": {
+                "name": "Naive"
+            },
+            "ja": {
+                "name": "むじゃき"
+            },
+            "zh-Hans": {
+                "name": "天真"
+            }
+        }
     },
     "brave": {
         "id": 21,
@@ -522,7 +1162,39 @@
                 "low_hp_preference": 8,
                 "high_hp_preference": 15
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ゆうかん"
+            },
+            "ko": {
+                "name": "용감"
+            },
+            "zh-Hant": {
+                "name": "勇敢"
+            },
+            "fr": {
+                "name": "Brave"
+            },
+            "de": {
+                "name": "Mutig"
+            },
+            "es": {
+                "name": "Audaz"
+            },
+            "it": {
+                "name": "Audace"
+            },
+            "en": {
+                "name": "Brave"
+            },
+            "ja": {
+                "name": "ゆうかん"
+            },
+            "zh-Hans": {
+                "name": "勇敢"
+            }
+        }
     },
     "relaxed": {
         "id": 22,
@@ -547,7 +1219,39 @@
                 "low_hp_preference": 10,
                 "high_hp_preference": 60
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "のんき"
+            },
+            "ko": {
+                "name": "무사태평"
+            },
+            "zh-Hant": {
+                "name": "悠閒"
+            },
+            "fr": {
+                "name": "Relax"
+            },
+            "de": {
+                "name": "Locker"
+            },
+            "es": {
+                "name": "Plácida"
+            },
+            "it": {
+                "name": "Placida"
+            },
+            "en": {
+                "name": "Relaxed"
+            },
+            "ja": {
+                "name": "のんき"
+            },
+            "zh-Hans": {
+                "name": "悠闲"
+            }
+        }
     },
     "quiet": {
         "id": 23,
@@ -572,7 +1276,39 @@
                 "low_hp_preference": 22,
                 "high_hp_preference": 22
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "れいせい"
+            },
+            "ko": {
+                "name": "냉정"
+            },
+            "zh-Hant": {
+                "name": "冷靜"
+            },
+            "fr": {
+                "name": "Discret"
+            },
+            "de": {
+                "name": "Ruhig"
+            },
+            "es": {
+                "name": "Mansa"
+            },
+            "it": {
+                "name": "Quieta"
+            },
+            "en": {
+                "name": "Quiet"
+            },
+            "ja": {
+                "name": "れいせい"
+            },
+            "zh-Hans": {
+                "name": "冷静"
+            }
+        }
     },
     "sassy": {
         "id": 24,
@@ -597,7 +1333,39 @@
                 "low_hp_preference": 58,
                 "high_hp_preference": 6
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "なまいき"
+            },
+            "ko": {
+                "name": "건방"
+            },
+            "zh-Hant": {
+                "name": "自大"
+            },
+            "fr": {
+                "name": "Malpoli"
+            },
+            "de": {
+                "name": "Forsch"
+            },
+            "es": {
+                "name": "Grosera"
+            },
+            "it": {
+                "name": "Vivace"
+            },
+            "en": {
+                "name": "Sassy"
+            },
+            "ja": {
+                "name": "なまいき"
+            },
+            "zh-Hans": {
+                "name": "自大"
+            }
+        }
     },
     "serious": {
         "id": 25,
@@ -622,6 +1390,38 @@
                 "low_hp_preference": 60,
                 "high_hp_preference": 55
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "まじめ"
+            },
+            "ko": {
+                "name": "성실"
+            },
+            "zh-Hant": {
+                "name": "認真"
+            },
+            "fr": {
+                "name": "Sérieux"
+            },
+            "de": {
+                "name": "Ernst"
+            },
+            "es": {
+                "name": "Seria"
+            },
+            "it": {
+                "name": "Seria"
+            },
+            "en": {
+                "name": "Serious"
+            },
+            "ja": {
+                "name": "まじめ"
+            },
+            "zh-Hans": {
+                "name": "认真"
+            }
+        }
     }
 }
