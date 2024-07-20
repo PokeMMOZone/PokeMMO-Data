@@ -279,7 +279,36 @@
                 "name": "nidoqueen",
                 "id": 31
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "かいじゅう"
+            },
+            "ko": {
+                "name": "괴수"
+            },
+            "zh-Hant": {
+                "name": "怪獸"
+            },
+            "fr": {
+                "name": "Monstrueux"
+            },
+            "de": {
+                "name": "Monster"
+            },
+            "es": {
+                "name": "Monstruo"
+            },
+            "it": {
+                "name": "Mostro"
+            },
+            "en": {
+                "name": "Monster"
+            },
+            "zh-Hans": {
+                "name": "怪兽"
+            }
+        }
     },
     "egg_group_2": {
         "id": 2,
@@ -597,7 +626,36 @@
                 "name": "stunfisk",
                 "id": 618
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すいちゅう１"
+            },
+            "ko": {
+                "name": "수중 1"
+            },
+            "zh-Hant": {
+                "name": "水中1"
+            },
+            "fr": {
+                "name": "Aquatique 1"
+            },
+            "de": {
+                "name": "Wasser 1"
+            },
+            "es": {
+                "name": "Agua 1"
+            },
+            "it": {
+                "name": "Acqua 1"
+            },
+            "en": {
+                "name": "Water 1"
+            },
+            "zh-Hans": {
+                "name": "水中1"
+            }
+        }
     },
     "egg_group_3": {
         "id": 3,
@@ -863,7 +921,36 @@
                 "name": "volcarona",
                 "id": 637
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "むし"
+            },
+            "ko": {
+                "name": "벌레"
+            },
+            "zh-Hant": {
+                "name": "蟲"
+            },
+            "fr": {
+                "name": "Insectoïde"
+            },
+            "de": {
+                "name": "Käfer"
+            },
+            "es": {
+                "name": "Bicho"
+            },
+            "it": {
+                "name": "Coleottero"
+            },
+            "en": {
+                "name": "Bug"
+            },
+            "zh-Hans": {
+                "name": "虫"
+            }
+        }
     },
     "egg_group_4": {
         "id": 4,
@@ -1049,7 +1136,36 @@
                 "name": "mandibuzz",
                 "id": 630
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひこう"
+            },
+            "ko": {
+                "name": "비행"
+            },
+            "zh-Hant": {
+                "name": "飛行"
+            },
+            "fr": {
+                "name": "Aérien"
+            },
+            "de": {
+                "name": "Flug"
+            },
+            "es": {
+                "name": "Volador"
+            },
+            "it": {
+                "name": "Volante"
+            },
+            "en": {
+                "name": "Flying"
+            },
+            "zh-Hans": {
+                "name": "飞行"
+            }
+        }
     },
     "egg_group_5": {
         "id": 5,
@@ -1787,7 +1903,36 @@
                 "name": "nidoqueen",
                 "id": 31
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "りくじょう"
+            },
+            "ko": {
+                "name": "육상"
+            },
+            "zh-Hant": {
+                "name": "陸上"
+            },
+            "fr": {
+                "name": "Terrestre"
+            },
+            "de": {
+                "name": "Feld"
+            },
+            "es": {
+                "name": "Campo"
+            },
+            "it": {
+                "name": "Campo"
+            },
+            "en": {
+                "name": "Field"
+            },
+            "zh-Hans": {
+                "name": "陆上"
+            }
+        }
     },
     "egg_group_6": {
         "id": 6,
@@ -1945,7 +2090,36 @@
                 "name": "whimsicott",
                 "id": 547
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ようせい"
+            },
+            "ko": {
+                "name": "요정"
+            },
+            "zh-Hant": {
+                "name": "妖精"
+            },
+            "fr": {
+                "name": "Féerique"
+            },
+            "de": {
+                "name": "Fee"
+            },
+            "es": {
+                "name": "Hada"
+            },
+            "it": {
+                "name": "Magico"
+            },
+            "en": {
+                "name": "Fairy"
+            },
+            "zh-Hans": {
+                "name": "妖精"
+            }
+        }
     },
     "egg_group_7": {
         "id": 7,
@@ -2179,7 +2353,36 @@
                 "name": "ferrothorn",
                 "id": 598
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "しょくぶつ"
+            },
+            "ko": {
+                "name": "식물"
+            },
+            "zh-Hant": {
+                "name": "植物"
+            },
+            "fr": {
+                "name": "Végétal"
+            },
+            "de": {
+                "name": "Pflanze"
+            },
+            "es": {
+                "name": "Planta"
+            },
+            "it": {
+                "name": "Erba"
+            },
+            "en": {
+                "name": "Grass"
+            },
+            "zh-Hans": {
+                "name": "植物"
+            }
+        }
     },
     "egg_group_8": {
         "id": 8,
@@ -2397,7 +2600,36 @@
                 "name": "bisharp",
                 "id": 625
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ひとがた"
+            },
+            "ko": {
+                "name": "인간형"
+            },
+            "zh-Hant": {
+                "name": "人型"
+            },
+            "fr": {
+                "name": "Humanoïde"
+            },
+            "de": {
+                "name": "Humanotyp"
+            },
+            "es": {
+                "name": "Humanoide"
+            },
+            "it": {
+                "name": "Umanoide"
+            },
+            "en": {
+                "name": "Human-Like"
+            },
+            "zh-Hans": {
+                "name": "人型"
+            }
+        }
     },
     "egg_group_9": {
         "id": 9,
@@ -2503,7 +2735,36 @@
                 "name": "archeops",
                 "id": 567
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すいちゅう３"
+            },
+            "ko": {
+                "name": "수중 3"
+            },
+            "zh-Hant": {
+                "name": "水中3"
+            },
+            "fr": {
+                "name": "Aquatique 3"
+            },
+            "de": {
+                "name": "Wasser 3"
+            },
+            "es": {
+                "name": "Agua 3"
+            },
+            "it": {
+                "name": "Acqua 3"
+            },
+            "en": {
+                "name": "Water 3"
+            },
+            "zh-Hans": {
+                "name": "水中３"
+            }
+        }
     },
     "egg_group_10": {
         "id": 10,
@@ -2701,7 +2962,36 @@
                 "name": "golurk",
                 "id": 623
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "こうぶつ"
+            },
+            "ko": {
+                "name": "광물"
+            },
+            "zh-Hant": {
+                "name": "礦物"
+            },
+            "fr": {
+                "name": "Minéral"
+            },
+            "de": {
+                "name": "Mineral"
+            },
+            "es": {
+                "name": "Mineral"
+            },
+            "it": {
+                "name": "Minerale"
+            },
+            "en": {
+                "name": "Mineral"
+            },
+            "zh-Hans": {
+                "name": "矿物"
+            }
+        }
     },
     "egg_group_11": {
         "id": 11,
@@ -2887,7 +3177,36 @@
                 "name": "stunfisk",
                 "id": 618
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ふていけい"
+            },
+            "ko": {
+                "name": "부정형"
+            },
+            "zh-Hant": {
+                "name": "不定形"
+            },
+            "fr": {
+                "name": "Amorphe"
+            },
+            "de": {
+                "name": "Amorph"
+            },
+            "es": {
+                "name": "Amorfo"
+            },
+            "it": {
+                "name": "Amorfo"
+            },
+            "en": {
+                "name": "Amorphous"
+            },
+            "zh-Hans": {
+                "name": "不定形"
+            }
+        }
     },
     "egg_group_12": {
         "id": 12,
@@ -2977,7 +3296,36 @@
                 "name": "alomomola",
                 "id": 594
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "すいちゅう２"
+            },
+            "ko": {
+                "name": "수중 2"
+            },
+            "zh-Hant": {
+                "name": "水中2"
+            },
+            "fr": {
+                "name": "Aquatique 2"
+            },
+            "de": {
+                "name": "Wasser 2"
+            },
+            "es": {
+                "name": "Agua 2"
+            },
+            "it": {
+                "name": "Acqua 2"
+            },
+            "en": {
+                "name": "Water 2"
+            },
+            "zh-Hans": {
+                "name": "水中2"
+            }
+        }
     },
     "egg_group_13": {
         "id": 13,
@@ -2987,7 +3335,36 @@
                 "name": "ditto",
                 "id": 132
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "メタモン"
+            },
+            "ko": {
+                "name": "메타몽"
+            },
+            "zh-Hant": {
+                "name": "百變怪"
+            },
+            "fr": {
+                "name": "Métamorph"
+            },
+            "de": {
+                "name": "Ditto"
+            },
+            "es": {
+                "name": "Ditto"
+            },
+            "it": {
+                "name": "Ditto"
+            },
+            "en": {
+                "name": "Ditto"
+            },
+            "zh-Hans": {
+                "name": "百变怪"
+            }
+        }
     },
     "egg_group_14": {
         "id": 14,
@@ -3149,7 +3526,36 @@
                 "name": "hydreigon",
                 "id": 635
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "ドラゴン"
+            },
+            "ko": {
+                "name": "드래곤"
+            },
+            "zh-Hant": {
+                "name": "龍"
+            },
+            "fr": {
+                "name": "Draconique"
+            },
+            "de": {
+                "name": "Drache"
+            },
+            "es": {
+                "name": "Dragón"
+            },
+            "it": {
+                "name": "Drago"
+            },
+            "en": {
+                "name": "Dragon"
+            },
+            "zh-Hans": {
+                "name": "龙"
+            }
+        }
     },
     "egg_group_15": {
         "id": 15,
@@ -3419,6 +3825,35 @@
                 "name": "shedinja",
                 "id": 292
             }
-        ]
+        ],
+        "name_translations": {
+            "ja-Hrkt": {
+                "name": "タマゴみはっけん"
+            },
+            "ko": {
+                "name": "알미발견"
+            },
+            "zh-Hant": {
+                "name": "未發現"
+            },
+            "fr": {
+                "name": "Inconnu"
+            },
+            "de": {
+                "name": "Unbekannt"
+            },
+            "es": {
+                "name": "Desconocido"
+            },
+            "it": {
+                "name": "Non ancora scoperto"
+            },
+            "en": {
+                "name": "Undiscovered"
+            },
+            "zh-Hans": {
+                "name": "未发现"
+            }
+        }
     }
 }
