@@ -5,10 +5,10 @@
         "effect": "Has a 10% chance of making target Pokémon flinch with each hit.",
         "effect_translations": {
             "de": {
-                "short_effect": "Mit jedem Treffer besteht eine 10% Chance das Ziel zurückschrecken zu lassen."
+                "effect": "Mit jedem Treffer besteht eine 10% Chance das Ziel zurückschrecken zu lassen."
             },
             "en": {
-                "short_effect": "Has a 10% chance of making target Pokémon flinch with each hit."
+                "effect": "Has a 10% chance of making target Pokémon flinch with each hit."
             },
             "fr": {
                 "effect": "La puanteur peut\neffrayer l’adversaire."
@@ -112,10 +112,10 @@
         "effect": "Summons rain that lasts indefinitely upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert beim Betreten des Kampfes das weather in rain."
+                "effect": "Ändert beim Betreten des Kampfes das weather in rain."
             },
             "en": {
-                "short_effect": "Summons rain that lasts indefinitely upon entering battle."
+                "effect": "Summons rain that lasts indefinitely upon entering battle."
             },
             "fr": {
                 "effect": "Le Pokémon invoque la pluie\nquand il entre au combat."
@@ -195,10 +195,10 @@
         "effect": "Raises Speed one stage after each turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "Steigert die speed um 1 Stufe nach jeder Runde."
+                "effect": "Steigert die speed um 1 Stufe nach jeder Runde."
             },
             "en": {
-                "short_effect": "Raises Speed one stage after each turn."
+                "effect": "Raises Speed one stage after each turn."
             },
             "fr": {
                 "effect": "La Vitesse du Pokémon\naugmente progressivement."
@@ -306,10 +306,10 @@
         "effect": "Protects against critical hits.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor kritischen Treffern."
+                "effect": "Schützt vor kritischen Treffern."
             },
             "en": {
-                "short_effect": "Protects against critical hits."
+                "effect": "Protects against critical hits."
             },
             "fr": {
                 "effect": "Le Pokémon est protégé\ndes coups critiques."
@@ -409,10 +409,10 @@
         "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert K.O.-Treffer bei vollen hp, das Pokémon behält 1 hp. Schützt gegen K.O.-Attacken."
+                "effect": "Verhindert K.O.-Treffer bei vollen hp, das Pokémon behält 1 hp. Schützt gegen K.O.-Attacken."
             },
             "en": {
-                "short_effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+                "effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
             },
             "fr": {
                 "effect": "Protège des capacités\nmettant K.O. en un coup."
@@ -608,10 +608,10 @@
         "effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert self destruct, explosion und aftermath."
+                "effect": "Verhindert self destruct, explosion und aftermath."
             },
             "en": {
-                "short_effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
+                "effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
             },
             "fr": {
                 "effect": "Empêche les combattants\nde s’autodétruire."
@@ -751,10 +751,10 @@
         "effect": "Prevents paralysis.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert paralysis."
+                "effect": "Verhindert paralysis."
             },
             "en": {
-                "short_effect": "Prevents paralysis."
+                "effect": "Prevents paralysis."
             },
             "fr": {
                 "effect": "Protège le Pokémon de\nla paralysie."
@@ -858,10 +858,10 @@
         "effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den evasion um 25% während eines Sandsturms. Kein Schaden durch Sandstürme."
+                "effect": "Erhöht den evasion um 25% während eines Sandsturms. Kein Schaden durch Sandstürme."
             },
             "en": {
-                "short_effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+                "effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
             },
             "ko": {
                 "effect": "모래바람일 때\n회피율이 올라간다."
@@ -1001,10 +1001,10 @@
         "effect": "Has a 30% chance of paralyzing attacking Pokémon on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "30% Chance das angreifende Pokémon bei Kontakt zu paralysieren."
+                "effect": "30% Chance das angreifende Pokémon bei Kontakt zu paralysieren."
             },
             "en": {
-                "short_effect": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+                "effect": "Has a 30% chance of paralyzing attacking Pokémon on contact."
             },
             "fr": {
                 "effect": "Un contact avec le\nPokémon peut paralyser."
@@ -1128,10 +1128,10 @@
         "effect": "Absorbs electric moves, healing for 1/4 max HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Absorbiert electric Attacken und heilt 1/4 der max hp."
+                "effect": "Absorbiert electric Attacken und heilt 1/4 der max hp."
             },
             "en": {
-                "short_effect": "Absorbs electric moves, healing for 1/4 max HP."
+                "effect": "Absorbs electric moves, healing for 1/4 max HP."
             },
             "fr": {
                 "effect": "Récupère des PV si touché\npar une capacité Électrik."
@@ -1223,10 +1223,10 @@
         "effect": "Absorbs water moves, healing for 1/4 max HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Absorbiert water Attacken und heilt 1/4 der maximalen hp."
+                "effect": "Absorbiert water Attacken und heilt 1/4 der maximalen hp."
             },
             "en": {
-                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+                "effect": "Absorbs water moves, healing for 1/4 max HP."
             },
             "fr": {
                 "effect": "Récupère des PV si touché\npar une capacité Eau."
@@ -1374,10 +1374,10 @@
         "effect": "Prevents infatuation and protects against captivate.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert infatuation und schützt gegen captivate."
+                "effect": "Verhindert infatuation und schützt gegen captivate."
             },
             "en": {
-                "short_effect": "Prevents infatuation and protects against captivate."
+                "effect": "Prevents infatuation and protects against captivate."
             },
             "fr": {
                 "effect": "Empêche le Pokémon de\ntomber amoureux."
@@ -1525,10 +1525,10 @@
         "effect": "Negates all effects of weather, but does not prevent the weather itself.",
         "effect_translations": {
             "de": {
-                "short_effect": "Entfernt alle Wettereffekte aber ändert nicht das weather selbst."
+                "effect": "Entfernt alle Wettereffekte aber ändert nicht das weather selbst."
             },
             "en": {
-                "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+                "effect": "Negates all effects of weather, but does not prevent the weather itself."
             },
             "fr": {
                 "effect": "Annule les effets du\nclimat."
@@ -1620,10 +1620,10 @@
         "effect": "Increases moves' accuracy to 1.3×.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die accuracy von Attacken um 30%."
+                "effect": "Erhöht die accuracy von Attacken um 30%."
             },
             "en": {
-                "short_effect": "Increases moves' accuracy to 1.3×."
+                "effect": "Increases moves' accuracy to 1.3×."
             },
             "fr": {
                 "effect": "Augmente la Précision du\nPokémon."
@@ -1719,10 +1719,10 @@
         "effect": "Prevents sleep.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert sleep."
+                "effect": "Verhindert sleep."
             },
             "en": {
-                "short_effect": "Prevents sleep."
+                "effect": "Prevents sleep."
             },
             "fr": {
                 "effect": "Empêche le Pokémon de\ns’endormir."
@@ -1834,10 +1834,10 @@
         "effect": "Changes type to match when hit by a damaging move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert den Typ des Pokémons in den der Attacke von der es getroffen wird."
+                "effect": "Ändert den Typ des Pokémons in den der Attacke von der es getroffen wird."
             },
             "en": {
-                "short_effect": "Changes type to match when hit by a damaging move."
+                "effect": "Changes type to match when hit by a damaging move."
             },
             "fr": {
                 "effect": "Le Pokémon adopte le type\nde la capacité ennemie."
@@ -1909,10 +1909,10 @@
         "effect": "Prevents poison.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert poison."
+                "effect": "Verhindert poison."
             },
             "en": {
-                "short_effect": "Prevents poison."
+                "effect": "Prevents poison."
             },
             "fr": {
                 "effect": "Empêche le Pokémon d’être\nempoisonné."
@@ -1992,10 +1992,10 @@
         "effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor fire Attacken. Sobald eine fire Attacke blockiert wurde, erhöht sich der Schaden der eigenen fire Attacken um 50%."
+                "effect": "Schützt vor fire Attacken. Sobald eine fire Attacke blockiert wurde, erhöht sich der Schaden der eigenen fire Attacken um 50%."
             },
             "en": {
-                "short_effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+                "effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
             },
             "fr": {
                 "effect": "Booste capacités Feu si\ntouché par attaques Feu."
@@ -2131,10 +2131,10 @@
         "effect": "Protects against incoming moves' extra effects.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor Zusatzeffekten von Attacken."
+                "effect": "Schützt vor Zusatzeffekten von Attacken."
             },
             "en": {
-                "short_effect": "Protects against incoming moves' extra effects."
+                "effect": "Protects against incoming moves' extra effects."
             },
             "fr": {
                 "effect": "Annule les effets cumulés\nd’une attaque ennemie."
@@ -2222,10 +2222,10 @@
         "effect": "Prevents confusion.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert confusion."
+                "effect": "Verhindert confusion."
             },
             "en": {
-                "short_effect": "Prevents confusion."
+                "effect": "Prevents confusion."
             },
             "fr": {
                 "effect": "Empêche la confusion."
@@ -2361,10 +2361,10 @@
         "effect": "Prevents being forced out of battle by other Pokémon's moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert den Austausch von Pokémon durch Attacken."
+                "effect": "Verhindert den Austausch von Pokémon durch Attacken."
             },
             "en": {
-                "short_effect": "Prevents being forced out of battle by other Pokémon's moves."
+                "effect": "Prevents being forced out of battle by other Pokémon's moves."
             },
             "fr": {
                 "effect": "Annule les cap. et obj. qui\nfont changer de Pokémon."
@@ -2444,10 +2444,10 @@
         "effect": "Lowers opponents' Attack one stage upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Senkt den attack des Gegners um 1 Stufe beim Betreten des Kampfes."
+                "effect": "Senkt den attack des Gegners um 1 Stufe beim Betreten des Kampfes."
             },
             "en": {
-                "short_effect": "Lowers opponents' Attack one stage upon entering battle."
+                "effect": "Lowers opponents' Attack one stage upon entering battle."
             },
             "fr": {
                 "effect": "Baisse l’Attaque ennemie."
@@ -2627,10 +2627,10 @@
         "effect": "Prevents opponents from fleeing or switching out.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert, dass der Gegner flieht oder ausgetauscht wird."
+                "effect": "Verhindert, dass der Gegner flieht oder ausgetauscht wird."
             },
             "en": {
-                "short_effect": "Prevents opponents from fleeing or switching out."
+                "effect": "Prevents opponents from fleeing or switching out."
             },
             "fr": {
                 "effect": "Empêche le Pokémon ennemi\nde quitter le combat."
@@ -2718,10 +2718,10 @@
         "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Angreifende Pokémon erhalten 1/8 ihrer maximalen hp Schaden bei Kontakt."
+                "effect": "Angreifende Pokémon erhalten 1/8 ihrer maximalen hp Schaden bei Kontakt."
             },
             "en": {
-                "short_effect": "Damages attacking Pokémon for 1/8 their max HP on contact."
+                "effect": "Damages attacking Pokémon for 1/8 their max HP on contact."
             },
             "fr": {
                 "effect": "Le Pokémon blesse\nl’ennemi qui le touche."
@@ -2813,10 +2813,10 @@
         "effect": "Protects against damaging moves that are not super effective.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt gegen Schaden verursachende Attacken die nicht sehr effektiv sind."
+                "effect": "Schützt gegen Schaden verursachende Attacken die nicht sehr effektiv sind."
             },
             "en": {
-                "short_effect": "Protects against damaging moves that are not super effective."
+                "effect": "Protects against damaging moves that are not super effective."
             },
             "fr": {
                 "effect": "Seules capacités “super\nefficaces” l’atteignent."
@@ -2888,10 +2888,10 @@
         "effect": "Evades ground moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert ground Attacken"
+                "effect": "Verhindert ground Attacken"
             },
             "en": {
-                "short_effect": "Evades ground moves."
+                "effect": "Evades ground moves."
             },
             "fr": {
                 "effect": "Immunise contre toutes\nles capacités de type Sol."
@@ -3107,10 +3107,10 @@
         "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Hat eine 30% Chance bei Kontakt entweder paralysis, poison oder sleep auszulösen."
+                "effect": "Hat eine 30% Chance bei Kontakt entweder paralysis, poison oder sleep auszulösen."
             },
             "en": {
-                "short_effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+                "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
             },
             "fr": {
                 "effect": "Peut paralyser, empoison-\nner, endormir au contact."
@@ -3206,10 +3206,10 @@
         "effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
         "effect_translations": {
             "de": {
-                "short_effect": "Kopiert burn, paralysis und poison auf den Verursacher."
+                "effect": "Kopiert burn, paralysis und poison auf den Verursacher."
             },
             "en": {
-                "short_effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+                "effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
             },
             "fr": {
                 "effect": "Transmet brûlure, poison\nou paralysie à l’ennemi."
@@ -3337,10 +3337,10 @@
         "effect": "Prevents stats from being lowered by other Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert negative stat modifier von anderen Pokémon."
+                "effect": "Verhindert negative stat modifier von anderen Pokémon."
             },
             "en": {
-                "short_effect": "Prevents stats from being lowered by other Pokémon."
+                "effect": "Prevents stats from being lowered by other Pokémon."
             },
             "fr": {
                 "effect": "Empêche les stats\ndu Pokémon de baisser."
@@ -3452,10 +3452,10 @@
         "effect": "Cures any major status ailment upon switching out.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt jede major status ailment beim Auswechseln"
+                "effect": "Heilt jede major status ailment beim Auswechseln"
             },
             "en": {
-                "short_effect": "Cures any major status ailment upon switching out."
+                "effect": "Cures any major status ailment upon switching out."
             },
             "fr": {
                 "effect": "Quitter le combat soigne\nles problèmes de statut."
@@ -3575,10 +3575,10 @@
         "effect": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Leitet electric Attacken mit nur einem Ziel auf dieses Pokémon um. Absorbiert electric Attacken und erhöht dabei den special attack um 1 Stufe."
+                "effect": "Leitet electric Attacken mit nur einem Ziel auf dieses Pokémon um. Absorbiert electric Attacken und erhöht dabei den special attack um 1 Stufe."
             },
             "en": {
-                "short_effect": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+                "effect": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
             },
             "fr": {
                 "effect": "Attire l’électricité et\naugmente l’Atq. Spé."
@@ -3706,10 +3706,10 @@
         "effect": "Doubles the chance of moves' extra effects occurring.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die Chance das ein Zusatzeffekt beim Einsatz einer Attacke auftritt"
+                "effect": "Verdoppelt die Chance das ein Zusatzeffekt beim Einsatz einer Attacke auftritt"
             },
             "en": {
-                "short_effect": "Doubles the chance of moves' extra effects occurring."
+                "effect": "Doubles the chance of moves' extra effects occurring."
             },
             "fr": {
                 "effect": "Augmente la fréquence\ndu cumul d’effets."
@@ -3829,10 +3829,10 @@
         "effect": "Doubles Speed during rain.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die speed während es regnet."
+                "effect": "Verdoppelt die speed während es regnet."
             },
             "en": {
-                "short_effect": "Doubles Speed during rain."
+                "effect": "Doubles Speed during rain."
             },
             "fr": {
                 "effect": "Augmente la Vitesse du\nPokémon s’il pleut."
@@ -4052,10 +4052,10 @@
         "effect": "Doubles Speed during strong sunlight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die speed während starkem Sonnenlicht."
+                "effect": "Verdoppelt die speed während starkem Sonnenlicht."
             },
             "en": {
-                "short_effect": "Doubles Speed during strong sunlight."
+                "effect": "Doubles Speed during strong sunlight."
             },
             "fr": {
                 "effect": "Augmente la Vitesse du\nPokémon s’il y a du soleil."
@@ -4263,10 +4263,10 @@
         "effect": "Doubles the wild encounter rate.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die Wahrscheinlichkeit, einem wilden Pokémon zu begegnen."
+                "effect": "Verdoppelt die Wahrscheinlichkeit, einem wilden Pokémon zu begegnen."
             },
             "en": {
-                "short_effect": "Doubles the wild encounter rate."
+                "effect": "Doubles the wild encounter rate."
             },
             "fr": {
                 "effect": "Augmente les rencontres\navec Pokémon sauvages."
@@ -4358,10 +4358,10 @@
         "effect": "Copies an opponent's ability upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Kopiert die Fähigkeit des Gegners beim Betreten des Kampfes."
+                "effect": "Kopiert die Fähigkeit des Gegners beim Betreten des Kampfes."
             },
             "en": {
-                "short_effect": "Copies an opponent's ability upon entering battle."
+                "effect": "Copies an opponent's ability upon entering battle."
             },
             "fr": {
                 "effect": "Imite la capacité spéciale\nde l’ennemi."
@@ -4449,10 +4449,10 @@
         "effect": "Doubles Attack in battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt den attack im Kampf."
+                "effect": "Verdoppelt den attack im Kampf."
             },
             "en": {
-                "short_effect": "Doubles Attack in battle."
+                "effect": "Doubles Attack in battle."
             },
             "fr": {
                 "effect": "Augmente l’Attaque du\nPokémon."
@@ -4532,10 +4532,10 @@
         "effect": "Has a 30% chance of poisoning attacking Pokémon on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Hat eine 30% Chance den Gegner bei Kontakt zu vergiften."
+                "effect": "Hat eine 30% Chance den Gegner bei Kontakt zu vergiften."
             },
             "en": {
-                "short_effect": "Has a 30% chance of poisoning attacking Pokémon on contact."
+                "effect": "Has a 30% chance of poisoning attacking Pokémon on contact."
             },
             "fr": {
                 "effect": "Peut empoisonner l’ennemi\ns’il y a contact."
@@ -4659,10 +4659,10 @@
         "effect": "Prevents flinching.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert zurückschrecken."
+                "effect": "Verhindert zurückschrecken."
             },
             "en": {
-                "short_effect": "Prevents flinching."
+                "effect": "Prevents flinching."
             },
             "fr": {
                 "effect": "Empêche le Pokémon\nd’avoir peur."
@@ -4846,10 +4846,10 @@
         "effect": "Prevents freezing.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert einfrieren."
+                "effect": "Verhindert einfrieren."
             },
             "en": {
-                "short_effect": "Prevents freezing."
+                "effect": "Prevents freezing."
             },
             "fr": {
                 "effect": "Protège le Pokémon\ncontre le gel."
@@ -4929,10 +4929,10 @@
         "effect": "Prevents burns.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert burn."
+                "effect": "Verhindert burn."
             },
             "en": {
-                "short_effect": "Prevents burns."
+                "effect": "Prevents burns."
             },
             "fr": {
                 "effect": "Protège le Pokémon\ndes brûlures."
@@ -5044,10 +5044,10 @@
         "effect": "Prevents steel opponents from fleeing or switching out.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert, dass steel Pokémon fliehen oder ausgetauscht werden können."
+                "effect": "Verhindert, dass steel Pokémon fliehen oder ausgetauscht werden können."
             },
             "en": {
-                "short_effect": "Prevents steel opponents from fleeing or switching out."
+                "effect": "Prevents steel opponents from fleeing or switching out."
             },
             "fr": {
                 "effect": "Empêche les Pokémon Acier\nde fuir."
@@ -5135,10 +5135,10 @@
         "effect": "Protects against sound-based moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schütz vor Schall Attacken."
+                "effect": "Schütz vor Schall Attacken."
             },
             "en": {
-                "short_effect": "Protects against sound-based moves."
+                "effect": "Protects against sound-based moves."
             },
             "fr": {
                 "effect": "Protège de toutes les\ncapacités sonores."
@@ -5254,10 +5254,10 @@
         "effect": "Heals for 1/16 max HP after each turn during rain.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt jede Runde 1/16 der maximalen hp wenn es regnet."
+                "effect": "Heilt jede Runde 1/16 der maximalen hp wenn es regnet."
             },
             "en": {
-                "short_effect": "Heals for 1/16 max HP after each turn during rain."
+                "effect": "Heals for 1/16 max HP after each turn during rain."
             },
             "fr": {
                 "effect": "Récupère progressivement\ndes PV par temps de pluie."
@@ -5369,10 +5369,10 @@
         "effect": "Summons a sandstorm that lasts indefinitely upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Beschwört beim Betreten des Kampfes einen sandstorm herauf der nicht endet."
+                "effect": "Beschwört beim Betreten des Kampfes einen sandstorm herauf der nicht endet."
             },
             "en": {
-                "short_effect": "Summons a sandstorm that lasts indefinitely upon entering battle."
+                "effect": "Summons a sandstorm that lasts indefinitely upon entering battle."
             },
             "fr": {
                 "effect": "Le Pokémon invoque une\ntempête de sable."
@@ -5456,10 +5456,10 @@
         "effect": "Increases the PP cost of moves targetting the Pokémon by one.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die pp Kosten des Gegners um 1."
+                "effect": "Erhöht die pp Kosten des Gegners um 1."
             },
             "en": {
-                "short_effect": "Increases the PP cost of moves targetting the Pokémon by one."
+                "effect": "Increases the PP cost of moves targetting the Pokémon by one."
             },
             "fr": {
                 "effect": "Force l’ennemi à\ndépenser plus de PP."
@@ -5639,10 +5639,10 @@
         "effect": "Halves damage from fire and ice moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert den Schaden von fire und ice Attacken."
+                "effect": "Halbiert den Schaden von fire und ice Attacken."
             },
             "en": {
-                "short_effect": "Halves damage from fire and ice moves."
+                "effect": "Halves damage from fire and ice moves."
             },
             "fr": {
                 "effect": "Augmente la résistance\naux cap. Feu et Glace."
@@ -5794,10 +5794,10 @@
         "effect": "Makes sleep pass twice as quickly.",
         "effect_translations": {
             "de": {
-                "short_effect": "Pokémon wachen doppelt so schnell wieder auf."
+                "effect": "Pokémon wachen doppelt so schnell wieder auf."
             },
             "en": {
-                "short_effect": "Makes sleep pass twice as quickly."
+                "effect": "Makes sleep pass twice as quickly."
             },
             "fr": {
                 "effect": "Le Pokémon se réveille\nplus rapidement."
@@ -5921,10 +5921,10 @@
         "effect": "Has a 30% chance of burning attacking Pokémon on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Hat eine 30% Chance, bei Kontakt burn auszulösen."
+                "effect": "Hat eine 30% Chance, bei Kontakt burn auszulösen."
             },
             "en": {
-                "short_effect": "Has a 30% chance of burning attacking Pokémon on contact."
+                "effect": "Has a 30% chance of burning attacking Pokémon on contact."
             },
             "fr": {
                 "effect": "Peut brûler l’ennemi s’il y\na contact."
@@ -6044,10 +6044,10 @@
         "effect": "Ensures success fleeing from wild battles.",
         "effect_translations": {
             "de": {
-                "short_effect": "Stellt sicher, dass die Flucht vor wilden Pokémon gelingt."
+                "effect": "Stellt sicher, dass die Flucht vor wilden Pokémon gelingt."
             },
             "en": {
-                "short_effect": "Ensures success fleeing from wild battles."
+                "effect": "Ensures success fleeing from wild battles."
             },
             "fr": {
                 "effect": "Permet de fuir n’importe\nquel Pokémon sauvage."
@@ -6211,10 +6211,10 @@
         "effect": "Prevents accuracy from being lowered.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert das Absenken der accuracy."
+                "effect": "Verhindert das Absenken der accuracy."
             },
             "en": {
-                "short_effect": "Prevents accuracy from being lowered."
+                "effect": "Prevents accuracy from being lowered."
             },
             "ja-Hrkt": {
                 "effect": "めいちゅうりつを\nさげられない。"
@@ -6398,10 +6398,10 @@
         "effect": "Prevents Attack from being lowered by other Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert das Absenken des Angriffs."
+                "effect": "Verhindert das Absenken des Angriffs."
             },
             "en": {
-                "short_effect": "Prevents Attack from being lowered by other Pokémon."
+                "effect": "Prevents Attack from being lowered by other Pokémon."
             },
             "fr": {
                 "effect": "Empêche la réduction de\nl’Attaque."
@@ -6505,10 +6505,10 @@
         "effect": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Hebt benutzte oder weggeschleuderte getragene Items von anderen Pokémon auf. Kann nach dem Kampf ein Item aufheben."
+                "effect": "Hebt benutzte oder weggeschleuderte getragene Items von anderen Pokémon auf. Kann nach dem Kampf ein Item aufheben."
             },
             "en": {
-                "short_effect": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+                "effect": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
             },
             "fr": {
                 "effect": "Permet parfois au Pokémon\nde ramasser des objets."
@@ -6616,10 +6616,10 @@
         "effect": "Skips every second turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "Überspringt jede zweite Runde."
+                "effect": "Überspringt jede zweite Runde."
             },
             "en": {
-                "short_effect": "Skips every second turn."
+                "effect": "Skips every second turn."
             },
             "es": {
                 "effect": "El Pokémon no atacará en turnos\nconsecutivos."
@@ -6699,10 +6699,10 @@
         "effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den Schaden von physischen Attacken um 50%, aber senkt ihre accuracy auf 80% ihres sonstigen Werts."
+                "effect": "Erhöht den Schaden von physischen Attacken um 50%, aber senkt ihre accuracy auf 80% ihres sonstigen Werts."
             },
             "en": {
-                "short_effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+                "effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
             },
             "fr": {
                 "effect": "Améliore l’Attaque mais\ndiminue la Précision."
@@ -6842,10 +6842,10 @@
         "effect": "Has a 30% chance of infatuating attacking Pokémon on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Bei Kontakt besteht eine 30% Chance beim Gegner Anziehung auszulösen."
+                "effect": "Bei Kontakt besteht eine 30% Chance beim Gegner Anziehung auszulösen."
             },
             "en": {
-                "short_effect": "Has a 30% chance of infatuating attacking Pokémon on contact."
+                "effect": "Has a 30% chance of infatuating attacking Pokémon on contact."
             },
             "fr": {
                 "effect": "Séduit parfois l’ennemi\nau contact."
@@ -6961,10 +6961,10 @@
         "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat."
+                "effect": "Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat."
             },
             "en": {
-                "short_effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+                "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
             },
             "fr": {
                 "effect": "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus."
@@ -7060,10 +7060,10 @@
         "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat."
+                "effect": "Erhöht den special attack um 50% wenn ein Team-Pokémon plus oder minus hat."
             },
             "en": {
-                "short_effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
+                "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
             },
             "fr": {
                 "effect": "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus."
@@ -7155,10 +7155,10 @@
         "effect": "Changes castform's type and form to match the weather.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert den Typ von castform zu dem des Wetters."
+                "effect": "Ändert den Typ von castform zu dem des Wetters."
             },
             "en": {
-                "short_effect": "Changes castform's type and form to match the weather."
+                "effect": "Changes castform's type and form to match the weather."
             },
             "fr": {
                 "effect": "Morphéo change de forme\nselon le climat."
@@ -7242,10 +7242,10 @@
         "effect": "Prevents a held item from being removed by other Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert, dass ein getragenes Item von einem anderen Pokémon gestohlen werden kann."
+                "effect": "Verhindert, dass ein getragenes Item von einem anderen Pokémon gestohlen werden kann."
             },
             "en": {
-                "short_effect": "Prevents a held item from being removed by other Pokémon."
+                "effect": "Prevents a held item from being removed by other Pokémon."
             },
             "fr": {
                 "effect": "Fait s’agripper à l’objet\npour en empêcher le vol."
@@ -7345,10 +7345,10 @@
         "effect": "Has a 33% chance of curing any major status ailment after each turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "Nach jeder Runde besteht eine 33% Chance von einer bestehenden Statusänderung geheilt zu werden."
+                "effect": "Nach jeder Runde besteht eine 33% Chance von einer bestehenden Statusänderung geheilt zu werden."
             },
             "en": {
-                "short_effect": "Has a 33% chance of curing any major status ailment after each turn."
+                "effect": "Has a 33% chance of curing any major status ailment after each turn."
             },
             "fr": {
                 "effect": "Le Pokémon soigne parfois\nses problèmes de statut."
@@ -7476,10 +7476,10 @@
         "effect": "Increases Attack to 1.5× with a major status ailment.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack um 50% wenn das Pokémon unter einer major status ailment leidet."
+                "effect": "Erhöht den attack um 50% wenn das Pokémon unter einer major status ailment leidet."
             },
             "en": {
-                "short_effect": "Increases Attack to 1.5× with a major status ailment."
+                "effect": "Increases Attack to 1.5× with a major status ailment."
             },
             "fr": {
                 "effect": "Augmente l’Attaque s’il y\na un problème de statut."
@@ -7631,10 +7631,10 @@
         "effect": "Increases Defense to 1.5× with a major status ailment.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die defense um 50% wenn das Pokémon unter einer major status ailment leidet."
+                "effect": "Erhöht die defense um 50% wenn das Pokémon unter einer major status ailment leidet."
             },
             "en": {
-                "short_effect": "Increases Defense to 1.5× with a major status ailment."
+                "effect": "Increases Defense to 1.5× with a major status ailment."
             },
             "fr": {
                 "effect": "Augmente la Défense s’il y\na un problème de statut."
@@ -7714,10 +7714,10 @@
         "effect": "Damages opponents using leeching moves for as much as they would heal.",
         "effect_translations": {
             "en": {
-                "short_effect": "Damages opponents using leeching moves for as much as they would heal."
+                "effect": "Damages opponents using leeching moves for as much as they would heal."
             },
             "de": {
-                "short_effect": "Gegnern die absorbierende Attacken einsetzen, wird Schaden in der Höhe zugefügt, die die Attacke geheilt hätte."
+                "effect": "Gegnern die absorbierende Attacken einsetzen, wird Schaden in der Höhe zugefügt, die die Attacke geheilt hätte."
             },
             "fr": {
                 "effect": "Blesse l’ennemi qui draine\nl’énergie du Pokémon."
@@ -7801,10 +7801,10 @@
         "effect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
         "effect_translations": {
             "en": {
-                "short_effect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
+                "effect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "de": {
-                "short_effect": "Erhöht den Schaden von grass Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
+                "effect": "Erhöht den Schaden von grass Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
             },
             "fr": {
                 "effect": "Booste les capacités\nPlante en cas de besoin."
@@ -7940,10 +7940,10 @@
         "effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den Schaden von fire Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
+                "effect": "Erhöht den Schaden von fire Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
             },
             "en": {
-                "short_effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
+                "effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "ja": {
                 "effect": "ＨＰが　減ったとき\nほのおタイプの　技の\n威力が　上がる。"
@@ -8079,10 +8079,10 @@
         "effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den Schaden von water Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
+                "effect": "Erhöht den Schaden von water Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
             },
             "en": {
-                "short_effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
+                "effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "fr": {
                 "effect": "Booste les capacités\nEau en cas de besoin."
@@ -8218,10 +8218,10 @@
         "effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den Schaden von bug Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
+                "effect": "Erhöht den Schaden von bug Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
             },
             "en": {
-                "short_effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
+                "effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "fr": {
                 "effect": "Booste les capacités\nInsecte en cas de besoin."
@@ -8385,10 +8385,10 @@
         "effect": "Protects against recoil damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor Rückstoßschaden."
+                "effect": "Schützt vor Rückstoßschaden."
             },
             "en": {
-                "short_effect": "Protects against recoil damage."
+                "effect": "Protects against recoil damage."
             },
             "fr": {
                 "effect": "Protège le Pokémon des\ndégâts de contrecoups."
@@ -8532,10 +8532,10 @@
         "effect": "Summons strong sunlight that lasts indefinitely upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert beim Betreten des Kampfes das weather in starkes Sonnenlicht."
+                "effect": "Ändert beim Betreten des Kampfes das weather in starkes Sonnenlicht."
             },
             "en": {
-                "short_effect": "Summons strong sunlight that lasts indefinitely upon entering battle."
+                "effect": "Summons strong sunlight that lasts indefinitely upon entering battle."
             },
             "fr": {
                 "effect": "Intensifie les rayons du\nsoleil pendant le combat."
@@ -8619,10 +8619,10 @@
         "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert, dass der Gegner flieht oder ausgetauscht wird wenn er nicht vom Typ flying ist oder schwebt."
+                "effect": "Verhindert, dass der Gegner flieht oder ausgetauscht wird wenn er nicht vom Typ flying ist oder schwebt."
             },
             "en": {
-                "short_effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
+                "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
             },
             "fr": {
                 "effect": "Empêche l’ennemi de s’enfuir."
@@ -8702,10 +8702,10 @@
         "effect": "Prevents sleep.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert sleep."
+                "effect": "Verhindert sleep."
             },
             "en": {
-                "short_effect": "Prevents sleep."
+                "effect": "Prevents sleep."
             },
             "fr": {
                 "effect": "Empêche le Pokémon de\ns’endormir."
@@ -8821,10 +8821,10 @@
         "effect": "Prevents stats from being lowered by other Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verhindert negative stat modifier von anderen Pokémon."
+                "effect": "Verhindert negative stat modifier von anderen Pokémon."
             },
             "en": {
-                "short_effect": "Prevents stats from being lowered by other Pokémon."
+                "effect": "Prevents stats from being lowered by other Pokémon."
             },
             "fr": {
                 "effect": "Empêche les stats\ndu Pokémon de baisser."
@@ -8900,10 +8900,10 @@
         "effect": "Doubles Attack in battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt den attack im Kampf."
+                "effect": "Verdoppelt den attack im Kampf."
             },
             "en": {
-                "short_effect": "Doubles Attack in battle."
+                "effect": "Doubles Attack in battle."
             },
             "fr": {
                 "effect": "Augmente l’Attaque du\nPokémon."
@@ -8979,10 +8979,10 @@
         "effect": "Protects against critical hits.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor kritischen Treffern."
+                "effect": "Schützt vor kritischen Treffern."
             },
             "en": {
-                "short_effect": "Protects against critical hits."
+                "effect": "Protects against critical hits."
             },
             "fr": {
                 "effect": "Le Pokémon est protégé\ndes coups critiques."
@@ -9134,10 +9134,10 @@
         "effect": "Negates all effects of weather, but does not prevent the weather itself.",
         "effect_translations": {
             "de": {
-                "short_effect": "Entfernt alle Wettereffekte aber ändert nicht das weather selbst."
+                "effect": "Entfernt alle Wettereffekte aber ändert nicht das weather selbst."
             },
             "en": {
-                "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+                "effect": "Negates all effects of weather, but does not prevent the weather itself."
             },
             "ko": {
                 "effect": "날씨의 영향이\n없어진다."
@@ -9209,10 +9209,10 @@
         "effect": "Doubles evasion when confused.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt den evasion bei confusion."
+                "effect": "Verdoppelt den evasion bei confusion."
             },
             "en": {
-                "short_effect": "Doubles evasion when confused."
+                "effect": "Doubles evasion when confused."
             },
             "fr": {
                 "effect": "Augmente l’Esquive si le\nPokémon est confus."
@@ -9308,10 +9308,10 @@
         "effect": "Absorbs electric moves, raising Speed one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Absorbiert electric Attacken und erhöht dabei die speed um 1 Stufe."
+                "effect": "Absorbiert electric Attacken und erhöht dabei die speed um 1 Stufe."
             },
             "en": {
-                "short_effect": "Absorbs electric moves, raising Speed one stage."
+                "effect": "Absorbs electric moves, raising Speed one stage."
             },
             "fr": {
                 "effect": "Augmente la Vit. si touché\npar une cap. Électrik."
@@ -9395,10 +9395,10 @@
         "effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den verursachten Schaden gegen Pokémon vom gleichen Geschlecht um 25% aber senkt ihn auf 0.75% gegen das andere Geschlecht."
+                "effect": "Erhöht den verursachten Schaden gegen Pokémon vom gleichen Geschlecht um 25% aber senkt ihn auf 0.75% gegen das andere Geschlecht."
             },
             "en": {
-                "short_effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+                "effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
             },
             "fr": {
                 "effect": "Devient plus fort si\nl’ennemi est du même sexe."
@@ -9530,10 +9530,10 @@
         "effect": "Raises Speed one stage upon flinching.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die speed um 1 Stufe wenn das Pokémon zurückschreckt."
+                "effect": "Erhöht die speed um 1 Stufe wenn das Pokémon zurückschreckt."
             },
             "en": {
-                "short_effect": "Raises Speed one stage upon flinching."
+                "effect": "Raises Speed one stage upon flinching."
             },
             "zh-Hans": {
                 "effect": "每次畏缩时，\n不屈之心就会燃起，\n速度也会提高。"
@@ -9637,10 +9637,10 @@
         "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den evasion um 25% während es hagelt. Kein Schaden durch hail."
+                "effect": "Erhöht den evasion um 25% während es hagelt. Kein Schaden durch hail."
             },
             "en": {
-                "short_effect": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+                "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage."
             },
             "fr": {
                 "effect": "Augmente l’Esquive durant\nles tempêtes de grêle."
@@ -9744,10 +9744,10 @@
         "effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Lässt das Pokémon eine getragene Beere essen, wenn es weniger als die Hälfte seiner maximalen hp hat."
+                "effect": "Lässt das Pokémon eine getragene Beere essen, wenn es weniger als die Hälfte seiner maximalen hp hat."
             },
             "en": {
-                "short_effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+                "effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
             },
             "fr": {
                 "effect": "Encourage l’utilisation\nd’une Baie tenue."
@@ -9891,10 +9891,10 @@
         "effect": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack auf die höchste Stufe (6) wenn es einen kritischen Treffer erleidet."
+                "effect": "Erhöht den attack auf die höchste Stufe (6) wenn es einen kritischen Treffer erleidet."
             },
             "en": {
-                "short_effect": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+                "effect": "Raises Attack to the maximum of six stages upon receiving a critical hit."
             },
             "fr": {
                 "effect": "Monte l’Attaque au max\naprès un coup critique."
@@ -9990,10 +9990,10 @@
         "effect": "Doubles Speed upon using or losing a held item.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die speed wenn das Pokémon ein getragenes Item benutzt oder verliert."
+                "effect": "Verdoppelt die speed wenn das Pokémon ein getragenes Item benutzt oder verliert."
             },
             "en": {
-                "short_effect": "Doubles Speed upon using or losing a held item."
+                "effect": "Doubles Speed upon using or losing a held item."
             },
             "fr": {
                 "effect": "Augmente la Vit. si l’objet\ntenu est utilisé ou perdu."
@@ -10097,10 +10097,10 @@
         "effect": "Halves damage from fire moves and burns.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert den Schaden von fire Attacken und burn."
+                "effect": "Halbiert den Schaden von fire Attacken und burn."
             },
             "en": {
-                "short_effect": "Halves damage from fire moves and burns."
+                "effect": "Halves damage from fire moves and burns."
             },
             "zh-Hans": {
                 "effect": "耐热的体质会\n让火属性的招式威力减半。"
@@ -10176,10 +10176,10 @@
         "effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die Statuswerte-Änderungen. Die Änderungen gehen nicht über -6 oder 6 Stufen hinaus."
+                "effect": "Verdoppelt die Statuswerte-Änderungen. Die Änderungen gehen nicht über -6 oder 6 Stufen hinaus."
             },
             "en": {
-                "short_effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+                "effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
             },
             "fr": {
                 "effect": "Le Pokémon est sujet à\ndes variations de stats."
@@ -10267,10 +10267,10 @@
         "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erleidet 1/8 der max hp Schaden während starkem Sonnenlicht, aber heilt 1/8 der max hp während rain. Erhöht den erhaltenen Schaden durch fire Attacken um 25%, aber absorbiert water Attacken, und heilt dabei 1/4 der max hp."
+                "effect": "Erleidet 1/8 der max hp Schaden während starkem Sonnenlicht, aber heilt 1/8 der max hp während rain. Erhöht den erhaltenen Schaden durch fire Attacken um 25%, aber absorbiert water Attacken, und heilt dabei 1/4 der max hp."
             },
             "en": {
-                "short_effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
+                "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
             },
             "es": {
                 "effect": "Pierde PS si hace calor. Los\nrecupera con agua."
@@ -10358,10 +10358,10 @@
         "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den Angriffswert entsprechend des schwächeren Verteidigungswerts um 1 Stufe beim Betreten des Kampfs."
+                "effect": "Erhöht den Angriffswert entsprechend des schwächeren Verteidigungswerts um 1 Stufe beim Betreten des Kampfs."
             },
             "en": {
-                "short_effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
+                "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
             },
             "fr": {
                 "effect": "Ajuste la puissance selon\nl’ennemi."
@@ -10445,10 +10445,10 @@
         "effect": "Strengthens punch-based moves to 1.2× their power.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt schlagbasierte Attacken um 20%."
+                "effect": "Verstärkt schlagbasierte Attacken um 20%."
             },
             "en": {
-                "short_effect": "Strengthens punch-based moves to 1.2× their power."
+                "effect": "Strengthens punch-based moves to 1.2× their power."
             },
             "fr": {
                 "effect": "Augmente la puissance des\ncapacités coups de poing."
@@ -10556,10 +10556,10 @@
         "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt jede Runde 1/8 der max hp wenn vergiftet."
+                "effect": "Heilt jede Runde 1/8 der max hp wenn vergiftet."
             },
             "en": {
-                "short_effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+                "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
             },
             "fr": {
                 "effect": "Restaure des PV si le\nPokémon est empoisonné."
@@ -10639,10 +10639,10 @@
         "effect": "Increases the same-type attack bonus from 1.5× to 2×.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den STAB von 1,5× auf 2×."
+                "effect": "Erhöht den STAB von 1,5× auf 2×."
             },
             "en": {
-                "short_effect": "Increases the same-type attack bonus from 1.5× to 2×."
+                "effect": "Increases the same-type attack bonus from 1.5× to 2×."
             },
             "fr": {
                 "effect": "Augmente la puissance des\ncapacités de même type."
@@ -10738,10 +10738,10 @@
         "effect": "Extends two-to-five-hit moves and triple kick to their full length every time.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erweitert mehrfach treffende Attacken wie triple kick zu ihrer vollen Länge."
+                "effect": "Erweitert mehrfach treffende Attacken wie triple kick zu ihrer vollen Länge."
             },
             "en": {
-                "short_effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
+                "effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
             },
             "fr": {
                 "effect": "Augmente la fréquence des\nattaques multiples."
@@ -10833,10 +10833,10 @@
         "effect": "Cures any major status ailment after each turn during rain.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt jede Runde eine major status ailment wenn es regnet."
+                "effect": "Heilt jede Runde eine major status ailment wenn es regnet."
             },
             "en": {
-                "short_effect": "Cures any major status ailment after each turn during rain."
+                "effect": "Cures any major status ailment after each turn during rain."
             },
             "fr": {
                 "effect": "Soigne les problèmes de\nstatut s’il pleut."
@@ -10980,10 +10980,10 @@
         "effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den special attack um 50% aber zieht jede Runde 1/8 der max hp ab während starkem Sonnenlicht."
+                "effect": "Erhöht den special attack um 50% aber zieht jede Runde 1/8 der max hp ab während starkem Sonnenlicht."
             },
             "en": {
-                "short_effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+                "effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
             },
             "fr": {
                 "effect": "Augmente l’Atq. Spé. mais\nbaisse les PV au soleil."
@@ -11075,10 +11075,10 @@
         "effect": "Increases Speed to 1.5× with a major status ailment.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die speed um 50% wenn das Pokémon an einer major status ailment leidet."
+                "effect": "Erhöht die speed um 50% wenn das Pokémon an einer major status ailment leidet."
             },
             "en": {
-                "short_effect": "Increases Speed to 1.5× with a major status ailment."
+                "effect": "Increases Speed to 1.5× with a major status ailment."
             },
             "fr": {
                 "effect": "Augmente la Vitesse en cas\nde problème de statut."
@@ -11182,10 +11182,10 @@
         "effect": "Makes the Pokémon's moves all act normal-type.",
         "effect_translations": {
             "de": {
-                "short_effect": "Attacken des Pokémon werden alle zu normal Attacken."
+                "effect": "Attacken des Pokémon werden alle zu normal Attacken."
             },
             "en": {
-                "short_effect": "Makes the Pokémon's moves all act normal-type."
+                "effect": "Makes the Pokémon's moves all act normal-type."
             },
             "fr": {
                 "effect": "Toutes les capacités sont\nde type Normal."
@@ -11261,10 +11261,10 @@
         "effect": "Strengthens critical hits to inflict 3× damage rather than 2×.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt kritische Treffer, so dass sie 3× so viel Schaden verursachen anstatt 2×."
+                "effect": "Verstärkt kritische Treffer, so dass sie 3× so viel Schaden verursachen anstatt 2×."
             },
             "en": {
-                "short_effect": "Strengthens critical hits to inflict 3× damage rather than 2×."
+                "effect": "Strengthens critical hits to inflict 3× damage rather than 2×."
             },
             "fr": {
                 "effect": "Augmente la puissance\ndes coups critiques."
@@ -11380,10 +11380,10 @@
         "effect": "Protects against damage not directly caused by a move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor jeglichem Schaden der nicht direkt von Attacken verursacht wird."
+                "effect": "Schützt vor jeglichem Schaden der nicht direkt von Attacken verursacht wird."
             },
             "en": {
-                "short_effect": "Protects against damage not directly caused by a move."
+                "effect": "Protects against damage not directly caused by a move."
             },
             "fr": {
                 "effect": "Seule une attaque directe\npeut blesser le Pokémon."
@@ -11491,10 +11491,10 @@
         "effect": "Ensures all moves used by and against the Pokémon hit.",
         "effect_translations": {
             "de": {
-                "short_effect": "Stellt sicher das Attacken die von dem oder gegen das Pokémon eingesetzt werden treffen."
+                "effect": "Stellt sicher das Attacken die von dem oder gegen das Pokémon eingesetzt werden treffen."
             },
             "en": {
-                "short_effect": "Ensures all moves used by and against the Pokémon hit."
+                "effect": "Ensures all moves used by and against the Pokémon hit."
             },
             "fr": {
                 "effect": "Capacités du Pokémon et\nde l’ennemi réussissent."
@@ -11586,10 +11586,10 @@
         "effect": "Makes the Pokémon move last within its move's priority bracket.",
         "effect_translations": {
             "de": {
-                "short_effect": "Lässt das Pokémon als letztes angreifen innerhalb des Prioritätsspielraums der Attacken"
+                "effect": "Lässt das Pokémon als letztes angreifen innerhalb des Prioritätsspielraums der Attacken"
             },
             "en": {
-                "short_effect": "Makes the Pokémon move last within its move's priority bracket."
+                "effect": "Makes the Pokémon move last within its move's priority bracket."
             },
             "fr": {
                 "effect": "Attaque toujours après \nl’ennemi, même plus lent."
@@ -11661,10 +11661,10 @@
         "effect": "Strengthens moves of 60 base power or less to 1.5× their power.",
         "effect_translations": {
             "de": {
-                "short_effect": "Versärkt Attacken mit einer Basisstärke von 60 oder weniger um 50%."
+                "effect": "Versärkt Attacken mit einer Basisstärke von 60 oder weniger um 50%."
             },
             "en": {
-                "short_effect": "Strengthens moves of 60 base power or less to 1.5× their power."
+                "effect": "Strengthens moves of 60 base power or less to 1.5× their power."
             },
             "fr": {
                 "effect": "Augmente la puissance des\ncapacités les plus faibles."
@@ -11788,10 +11788,10 @@
         "effect": "Protects against major status ailments during strong sunlight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor major status ailments während starkem Sonnenlicht."
+                "effect": "Schützt vor major status ailments während starkem Sonnenlicht."
             },
             "en": {
-                "short_effect": "Protects against major status ailments during strong sunlight."
+                "effect": "Protects against major status ailments during strong sunlight."
             },
             "fr": {
                 "effect": "Empêche les problèmes\nde statut au soleil."
@@ -11915,10 +11915,10 @@
         "effect": "Prevents the Pokémon from using its held item in battle.",
         "effect_translations": {
             "en": {
-                "short_effect": "Prevents the Pokémon from using its held item in battle."
+                "effect": "Prevents the Pokémon from using its held item in battle."
             },
             "de": {
-                "short_effect": "Verhindert, dass das Pokémon ein getragenes Item im Kampf einsetzt."
+                "effect": "Verhindert, dass das Pokémon ein getragenes Item im Kampf einsetzt."
             },
             "fr": {
                 "effect": "Le Pokémon ne peut\nutiliser aucun objet tenu."
@@ -12014,10 +12014,10 @@
         "effect": "Bypasses targets' abilities if they could hinder or prevent a move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
+                "effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
             },
             "en": {
-                "short_effect": "Bypasses targets' abilities if they could hinder or prevent a move."
+                "effect": "Bypasses targets' abilities if they could hinder or prevent a move."
             },
             "fr": {
                 "effect": "Les cap. spé. adverses ne\nbloquent pas ses cap."
@@ -12137,10 +12137,10 @@
         "effect": "Raises moves' critical hit rates one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die kritische Trefferrate um 1 Stufe."
+                "effect": "Erhöht die kritische Trefferrate um 1 Stufe."
             },
             "en": {
-                "short_effect": "Raises moves' critical hit rates one stage."
+                "effect": "Raises moves' critical hit rates one stage."
             },
             "fr": {
                 "effect": "Augmente la fréquence\ndes coups critiques."
@@ -12244,10 +12244,10 @@
         "effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schadet dem Angreifer mit 1/4 seiner max hp, wenn das Pokémon von einer Attacke mit Kontakt besiegt wird."
+                "effect": "Schadet dem Angreifer mit 1/4 seiner max hp, wenn das Pokémon von einer Attacke mit Kontakt besiegt wird."
             },
             "en": {
-                "short_effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+                "effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
             },
             "fr": {
                 "effect": "Blesse l’ennemi qui \nporte le coup de grâce."
@@ -12347,10 +12347,10 @@
         "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Benachrichtigt alle Trainer im Kampf, wenn ein Gegner eine sehr effektive Attacke, self destruct, explosion oder eine K.O.Attacke hat."
+                "effect": "Benachrichtigt alle Trainer im Kampf, wenn ein Gegner eine sehr effektive Attacke, self destruct, explosion oder eine K.O.Attacke hat."
             },
             "en": {
-                "short_effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+                "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
             },
             "fr": {
                 "effect": "Prévoit les capacités\nennemies dangereuses."
@@ -12454,10 +12454,10 @@
         "effect": "Reveals the opponents' strongest move upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Enthüllt die Stärkste Attacke des Gegners beim Betreten des Kampfes."
+                "effect": "Enthüllt die Stärkste Attacke des Gegners beim Betreten des Kampfes."
             },
             "en": {
-                "short_effect": "Reveals the opponents' strongest move upon entering battle."
+                "effect": "Reveals the opponents' strongest move upon entering battle."
             },
             "fr": {
                 "effect": "Découvre la capacité\nennemie la plus puissante."
@@ -12549,10 +12549,10 @@
         "effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ignoriert die stat modifier der Pokémon bei der Schadens- und Genauigkeitsberechnung."
+                "effect": "Ignoriert die stat modifier der Pokémon bei der Schadens- und Genauigkeitsberechnung."
             },
             "en": {
-                "short_effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+                "effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
             },
             "fr": {
                 "effect": "Ignore les changements de\nstats de l’ennemi."
@@ -12648,10 +12648,10 @@
         "effect": "Doubles damage inflicted with not-very-effective moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt den durch nicht sehr effektiven Attacken verursachten Schaden."
+                "effect": "Verdoppelt den durch nicht sehr effektiven Attacken verursachten Schaden."
             },
             "en": {
-                "short_effect": "Doubles damage inflicted with not-very-effective moves."
+                "effect": "Doubles damage inflicted with not-very-effective moves."
             },
             "fr": {
                 "effect": "Améliore les capacités\n“pas très efficaces”."
@@ -12755,10 +12755,10 @@
         "effect": "Decreases damage taken from super-effective moves by 1/4.",
         "effect_translations": {
             "de": {
-                "short_effect": "Reduziert den durch sehr effektive Attacken verursachten Schaden um 1/4."
+                "effect": "Reduziert den durch sehr effektive Attacken verursachten Schaden um 1/4."
             },
             "en": {
-                "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+                "effect": "Decreases damage taken from super-effective moves by 1/4."
             },
             "fr": {
                 "effect": "Affaiblit les capacités\n“super efficaces”."
@@ -12834,10 +12834,10 @@
         "effect": "Halves Attack and Speed for five turns upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert den attack und die speed 5 Runden lang nach Betreten des Kampfes."
+                "effect": "Halbiert den attack und die speed 5 Runden lang nach Betreten des Kampfes."
             },
             "en": {
-                "short_effect": "Halves Attack and Speed for five turns upon entering battle."
+                "effect": "Halves Attack and Speed for five turns upon entering battle."
             },
             "fr": {
                 "effect": "Divise temporairement\nVitesse et Attaque par 2."
@@ -12909,10 +12909,10 @@
         "effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Lässt die normal und fighting Attacken des Pokémons ghost Pokémon treffen."
+                "effect": "Lässt die normal und fighting Attacken des Pokémons ghost Pokémon treffen."
             },
             "en": {
-                "short_effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
+                "effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
             },
             "fr": {
                 "effect": "Les cap. Normal touchent\nles Pokémon Spectre."
@@ -13012,10 +13012,10 @@
         "effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Leitet water Attacken auf dieses Pokémon um. Absorbiert water Attacken und erhöht den special attack um 1 Stufe."
+                "effect": "Leitet water Attacken auf dieses Pokémon um. Absorbiert water Attacken und erhöht den special attack um 1 Stufe."
             },
             "en": {
-                "short_effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+                "effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
             },
             "fr": {
                 "effect": "Attire l’eau et augmente\nl’Atq. Spé."
@@ -13111,10 +13111,10 @@
         "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt jede Runde 1/16 der max hp wenn es hagelt. Schützt vor Schäden durch hail."
+                "effect": "Heilt jede Runde 1/16 der max hp wenn es hagelt. Schützt vor Schäden durch hail."
             },
             "en": {
-                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+                "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
             },
             "ja": {
                 "effect": "あられのとき　ＨＰを\n少しずつ　回復。"
@@ -13230,10 +13230,10 @@
         "effect": "Decreases damage taken from super-effective moves by 1/4.",
         "effect_translations": {
             "de": {
-                "short_effect": "Reduziert den durch sehr effektive Attacken verursachten Schaden um 1/4."
+                "effect": "Reduziert den durch sehr effektive Attacken verursachten Schaden um 1/4."
             },
             "en": {
-                "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+                "effect": "Decreases damage taken from super-effective moves by 1/4."
             },
             "fr": {
                 "effect": "Affaiblit les capacités\n“super efficaces”."
@@ -13317,10 +13317,10 @@
         "effect": "Summons hail that lasts indefinitely upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert beim Betreten des Kampfes das weather in hail."
+                "effect": "Ändert beim Betreten des Kampfes das weather in hail."
             },
             "en": {
-                "short_effect": "Summons hail that lasts indefinitely upon entering battle."
+                "effect": "Summons hail that lasts indefinitely upon entering battle."
             },
             "fr": {
                 "effect": "Déclenche une tempête de\ngrêle pendant le combat."
@@ -13400,10 +13400,10 @@
         "effect": "The Pokémon may pick up honey after battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Das Pokémon hebt nach dem Kampf gelegentlich honey auf."
+                "effect": "Das Pokémon hebt nach dem Kampf gelegentlich honey auf."
             },
             "en": {
-                "short_effect": "The Pokémon may pick up honey after battle."
+                "effect": "The Pokémon may pick up honey after battle."
             },
             "fr": {
                 "effect": "Le Pokémon peut parfois\ntrouver du Miel."
@@ -13479,10 +13479,10 @@
         "effect": "Reveals an opponent's held item upon entering battle.",
         "effect_translations": {
             "en": {
-                "short_effect": "Reveals an opponent's held item upon entering battle."
+                "effect": "Reveals an opponent's held item upon entering battle."
             },
             "de": {
-                "short_effect": "Enthüllt bei Kampfantritt das getragene Item des Gegners."
+                "effect": "Enthüllt bei Kampfantritt das getragene Item des Gegners."
             },
             "fr": {
                 "effect": "Permet de connaître\nl’objet tenu par l’ennemi."
@@ -13606,10 +13606,10 @@
         "effect": "Strengthens recoil moves to 1.2× their power.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt Rückstoßattacken um 20%."
+                "effect": "Verstärkt Rückstoßattacken um 20%."
             },
             "en": {
-                "short_effect": "Strengthens recoil moves to 1.2× their power."
+                "effect": "Strengthens recoil moves to 1.2× their power."
             },
             "fr": {
                 "effect": "Booste les cap. ayant des\ndégâts de contrecoups."
@@ -13725,10 +13725,10 @@
         "effect": "Changes arceus's type and form to match its held Plate.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert arceus Typ und Form entsprechend der Tafel die es hält."
+                "effect": "Ändert arceus Typ und Form entsprechend der Tafel die es hält."
             },
             "en": {
-                "short_effect": "Changes arceus's type and form to match its held Plate."
+                "effect": "Changes arceus's type and form to match its held Plate."
             },
             "fr": {
                 "effect": "Modifie le type en fonction\nde la Plaque tenue."
@@ -13800,10 +13800,10 @@
         "effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht attack und special defense von Partnern um 50% während starkem Sonnenlicht."
+                "effect": "Erhöht attack und special defense von Partnern um 50% während starkem Sonnenlicht."
             },
             "en": {
-                "short_effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
+                "effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
             },
             "fr": {
                 "effect": "Pokémon de l’équipe plus\npuissants au soleil."
@@ -13875,10 +13875,10 @@
         "effect": "Damages sleeping opponents for 1/8 their max HP after each turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "Fügt schlafenden Gegnern jede Runde 1/8 ihrer max hp Schaden zu."
+                "effect": "Fügt schlafenden Gegnern jede Runde 1/8 ihrer max hp Schaden zu."
             },
             "en": {
-                "short_effect": "Damages sleeping opponents for 1/8 their max HP after each turn."
+                "effect": "Damages sleeping opponents for 1/8 their max HP after each turn."
             },
             "zh-Hant": {
                 "effect": "給予陷入睡眠狀態的對手傷害。"
@@ -13950,10 +13950,10 @@
         "effect": "Steals attacking Pokémon's held items on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Stiehlt angreifenden Pokémon bei Kontakt das Item."
+                "effect": "Stiehlt angreifenden Pokémon bei Kontakt das Item."
             },
             "en": {
-                "short_effect": "Steals attacking Pokémon's held items on contact."
+                "effect": "Steals attacking Pokémon's held items on contact."
             },
             "fr": {
                 "effect": "Vole l’objet de l’ennemi\nsi son attaque touche."
@@ -14041,10 +14041,10 @@
         "effect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt Attacken mit Zusatzeffekt um 30%, verhindert aber den Zusatzeffekt."
+                "effect": "Verstärkt Attacken mit Zusatzeffekt um 30%, verhindert aber den Zusatzeffekt."
             },
             "en": {
-                "short_effect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+                "effect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
             },
             "fr": {
                 "effect": "Frappe plus fort mais\nannule les effets cumulés."
@@ -14212,10 +14212,10 @@
         "effect": "Inverts stat changes.",
         "effect_translations": {
             "de": {
-                "short_effect": "Invertiert Statuswertänderungen."
+                "effect": "Invertiert Statuswertänderungen."
             },
             "en": {
-                "short_effect": "Inverts stat changes."
+                "effect": "Inverts stat changes."
             },
             "fr": {
                 "effect": "Inverse les variations\nde stats."
@@ -14303,10 +14303,10 @@
         "effect": "Prevents opposing Pokémon from eating held Berries.",
         "effect_translations": {
             "de": {
-                "short_effect": "Hindert Gegner daran Beeren zu essen."
+                "effect": "Hindert Gegner daran Beeren zu essen."
             },
             "en": {
-                "short_effect": "Prevents opposing Pokémon from eating held Berries."
+                "effect": "Prevents opposing Pokémon from eating held Berries."
             },
             "fr": {
                 "effect": "L’ennemi stresse et ne\npeut plus manger de Baies."
@@ -14442,10 +14442,10 @@
         "effect": "Raises Attack two stages upon having any stat lowered.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack um 2 Stufen wenn ein Statuswert gesenkt wird."
+                "effect": "Erhöht den attack um 2 Stufen wenn ein Statuswert gesenkt wird."
             },
             "en": {
-                "short_effect": "Raises Attack two stages upon having any stat lowered."
+                "effect": "Raises Attack two stages upon having any stat lowered."
             },
             "fr": {
                 "effect": "Monte l’Attaque quand\nles stats baissent."
@@ -14549,10 +14549,10 @@
         "effect": "Halves Attack and Special Attack at 50% max HP or less.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert attack und special attack wenn nur 50% oder weniger der max hp übrig sind."
+                "effect": "Halbiert attack und special attack wenn nur 50% oder weniger der max hp übrig sind."
             },
             "en": {
-                "short_effect": "Halves Attack and Special Attack at 50% max HP or less."
+                "effect": "Halves Attack and Special Attack at 50% max HP or less."
             },
             "fr": {
                 "effect": "Baisse les stats quand les\nPV tombent à la moitié."
@@ -14628,10 +14628,10 @@
         "effect": "Has a 30% chance of Disabling any move that hits the Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "30% Chance Attacken zu blockieren von denen das Pokémon getroffen wurde."
+                "effect": "30% Chance Attacken zu blockieren von denen das Pokémon getroffen wurde."
             },
             "en": {
-                "short_effect": "Has a 30% chance of Disabling any move that hits the Pokémon."
+                "effect": "Has a 30% chance of Disabling any move that hits the Pokémon."
             },
             "zh-Hans": {
                 "effect": "受到攻击时，\n有时会把对手的招式\n变为定身法状态。"
@@ -14723,10 +14723,10 @@
         "effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "30% Chance angrenzende Teampartner jede Runde von einer major status ailment zu heilen."
+                "effect": "30% Chance angrenzende Teampartner jede Runde von einer major status ailment zu heilen."
             },
             "en": {
-                "short_effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+                "effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
             },
             "fr": {
                 "effect": "Guérit parfois le statut\ndes alliés alentour."
@@ -14814,10 +14814,10 @@
         "effect": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verringert allen von Teampartnern erlitten Schaden um 75%."
+                "effect": "Verringert allen von Teampartnern erlitten Schaden um 75%."
             },
             "en": {
-                "short_effect": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+                "effect": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
             },
             "fr": {
                 "effect": "Diminue les dégâts subis\npar les alliés."
@@ -14905,10 +14905,10 @@
         "effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die speed und senkt die defense um eine Stufe, wenn es von einer physischen Attacke getroffen wird."
+                "effect": "Erhöht die speed und senkt die defense um eine Stufe, wenn es von einer physischen Attacke getroffen wird."
             },
             "en": {
-                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+                "effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
             },
             "fr": {
                 "effect": "Un coup physique baisse la\nDéfense, monte la Vitesse."
@@ -15048,10 +15048,10 @@
         "effect": "Doubles the Pokémon's weight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt das Gewicht des Pokémon."
+                "effect": "Verdoppelt das Gewicht des Pokémon."
             },
             "en": {
-                "short_effect": "Doubles the Pokémon's weight."
+                "effect": "Doubles the Pokémon's weight."
             },
             "fr": {
                 "effect": "Double le poids\ndu Pokémon."
@@ -15139,10 +15139,10 @@
         "effect": "Halves the Pokémon's weight.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert das Gewicht des Pokémon."
+                "effect": "Halbiert das Gewicht des Pokémon."
             },
             "en": {
-                "short_effect": "Halves the Pokémon's weight."
+                "effect": "Halves the Pokémon's weight."
             },
             "fr": {
                 "effect": "Divise par deux le\npoids du Pokémon."
@@ -15230,10 +15230,10 @@
         "effect": "Halves damage taken from full HP.",
         "effect_translations": {
             "de": {
-                "short_effect": "Halbiert den erlittenen Schaden bei vollen hp."
+                "effect": "Halbiert den erlittenen Schaden bei vollen hp."
             },
             "en": {
-                "short_effect": "Halves damage taken from full HP."
+                "effect": "Halves damage taken from full HP."
             },
             "fr": {
                 "effect": "Reçoit moins de dégâts si\nles PV sont au maximum."
@@ -15309,10 +15309,10 @@
         "effect": "Increases Attack to 1.5× when poisoned.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack um 50%, wenn das Pokémon vergiftet ist."
+                "effect": "Erhöht den attack um 50%, wenn das Pokémon vergiftet ist."
             },
             "en": {
-                "short_effect": "Increases Attack to 1.5× when poisoned."
+                "effect": "Increases Attack to 1.5× when poisoned."
             },
             "fr": {
                 "effect": "Booste les att. physiques\nsi le statut est poison."
@@ -15384,10 +15384,10 @@
         "effect": "Increases Special Attack to 1.5× when burned.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den special attack um 50%, wenn das Pokémon brennt."
+                "effect": "Erhöht den special attack um 50%, wenn das Pokémon brennt."
             },
             "en": {
-                "short_effect": "Increases Special Attack to 1.5× when burned."
+                "effect": "Increases Special Attack to 1.5× when burned."
             },
             "fr": {
                 "effect": "Booste les att. spéciales\nsi le statut est brûlure."
@@ -15463,10 +15463,10 @@
         "effect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
         "effect_translations": {
             "de": {
-                "short_effect": "50% Chance nach jeder Runde eine verbrauchte Beere wiederherzustellen, wenn in der Zwischenzeit kein anderes Item erlangt wurde."
+                "effect": "50% Chance nach jeder Runde eine verbrauchte Beere wiederherzustellen, wenn in der Zwischenzeit kein anderes Item erlangt wurde."
             },
             "en": {
-                "short_effect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+                "effect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
             },
             "fr": {
                 "effect": "Les Baies utilisées\npeuvent repousser."
@@ -15546,10 +15546,10 @@
         "effect": "Protects against friendly Pokémon's damaging moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor Attacken von Partner die Schaden anrichten."
+                "effect": "Schützt vor Attacken von Partner die Schaden anrichten."
             },
             "en": {
-                "short_effect": "Protects against friendly Pokémon's damaging moves."
+                "effect": "Protects against friendly Pokémon's damaging moves."
             },
             "fr": {
                 "effect": "Anticipe et évite les\nattaques de ses alliés."
@@ -15673,10 +15673,10 @@
         "effect": "Raises a random stat two stages and lowers another one stage after each turn.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht einen zufälligen Statuswert um 2 Stufen und senkt einen anderen um 1 Stufe nach jeder Runde."
+                "effect": "Erhöht einen zufälligen Statuswert um 2 Stufen und senkt einen anderen um 1 Stufe nach jeder Runde."
             },
             "en": {
-                "short_effect": "Raises a random stat two stages and lowers another one stage after each turn."
+                "effect": "Raises a random stat two stages and lowers another one stage after each turn."
             },
             "fr": {
                 "effect": "Monte une stat tout en\nen baissant une autre."
@@ -15772,10 +15772,10 @@
         "effect": "Protects against damage from weather.",
         "effect_translations": {
             "de": {
-                "short_effect": "Schützt vor Schäden durch weather."
+                "effect": "Schützt vor Schäden durch weather."
             },
             "en": {
-                "short_effect": "Protects against damage from weather."
+                "effect": "Protects against damage from weather."
             },
             "fr": {
                 "effect": "Neutralise les dégâts dus\nà la météo."
@@ -15919,10 +15919,10 @@
         "effect": "Has a 30% chance of poisoning target Pokémon upon contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "30% Chance, den Gegner bei Kontakt zu vergiften."
+                "effect": "30% Chance, den Gegner bei Kontakt zu vergiften."
             },
             "en": {
-                "short_effect": "Has a 30% chance of poisoning target Pokémon upon contact."
+                "effect": "Has a 30% chance of poisoning target Pokémon upon contact."
             },
             "fr": {
                 "effect": "Peut empoisonner l’ennemi\npar simple contact."
@@ -16010,10 +16010,10 @@
         "effect": "Heals for 1/3 max HP upon switching out.",
         "effect_translations": {
             "de": {
-                "short_effect": "Heilt beim Auswechseln 1/3 der max hp."
+                "effect": "Heilt beim Auswechseln 1/3 der max hp."
             },
             "en": {
-                "short_effect": "Heals for 1/3 max HP upon switching out."
+                "effect": "Heals for 1/3 max HP upon switching out."
             },
             "fr": {
                 "effect": "Restaure un peu de PV\nsi le Pokémon est retiré."
@@ -16149,10 +16149,10 @@
         "effect": "Protects against Defense drops.",
         "effect_translations": {
             "en": {
-                "short_effect": "Protects against Defense drops."
+                "effect": "Protects against Defense drops."
             },
             "de": {
-                "short_effect": "Schützt vor dem Absenken der defense."
+                "effect": "Schützt vor dem Absenken der defense."
             },
             "fr": {
                 "effect": "Empêche la Déf. de baisser\nà cause d’attaques."
@@ -16264,10 +16264,10 @@
         "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verdoppelt die speed während eines Sandsturms. Schützt vor Schäden durch Sandstürme."
+                "effect": "Verdoppelt die speed während eines Sandsturms. Schützt vor Schäden durch Sandstürme."
             },
             "en": {
-                "short_effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+                "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
             },
             "fr": {
                 "effect": "Augmente la Vitesse lors\ndes tempêtes de sable."
@@ -16359,10 +16359,10 @@
         "effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verringert die accuracy von ankommenden Attacken ohne Schaden auf 50%."
+                "effect": "Verringert die accuracy von ankommenden Attacken ohne Schaden auf 50%."
             },
             "en": {
-                "short_effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+                "effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
             },
             "fr": {
                 "effect": "Son corps résiste mieux\naux attaques de statut."
@@ -16446,10 +16446,10 @@
         "effect": "Strengthens moves to 1.3× their power when moving last.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt Attacken um 30%, wenn das Pokémon als Letztes agiert."
+                "effect": "Verstärkt Attacken um 30%, wenn das Pokémon als Letztes agiert."
             },
             "en": {
-                "short_effect": "Strengthens moves to 1.3× their power when moving last."
+                "effect": "Strengthens moves to 1.3× their power when moving last."
             },
             "fr": {
                 "effect": "Booste les capacités s’il\nattaque en dernier."
@@ -16565,10 +16565,10 @@
         "effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Nimmt beim Betreten des Kampfes die Form des letzten Teampokémon das nicht besiegt ist an und behält diese bis es zum ersten Mal getroffen wird."
+                "effect": "Nimmt beim Betreten des Kampfes die Form des letzten Teampokémon das nicht besiegt ist an und behält diese bis es zum ersten Mal getroffen wird."
             },
             "en": {
-                "short_effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+                "effect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
             },
             "fr": {
                 "effect": "Prend l’apparence du der-\nnier Pokémon de l’équipe."
@@ -16644,10 +16644,10 @@
         "effect": "Transforms upon entering battle.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verwandelt sich beim Betreten des Kampfes in den Gegner."
+                "effect": "Verwandelt sich beim Betreten des Kampfes in den Gegner."
             },
             "en": {
-                "short_effect": "Transforms upon entering battle."
+                "effect": "Transforms upon entering battle."
             },
             "fr": {
                 "effect": "Adopte l’apparence du\nPokémon adverse."
@@ -16719,10 +16719,10 @@
         "effect": "Bypasses light screen, reflect, and safeguard.",
         "effect_translations": {
             "de": {
-                "short_effect": "Umgeht light screen, reflect und safeguard."
+                "effect": "Umgeht light screen, reflect und safeguard."
             },
             "en": {
-                "short_effect": "Bypasses light screen, reflect, and safeguard."
+                "effect": "Bypasses light screen, reflect, and safeguard."
             },
             "fr": {
                 "effect": "Traverse les barrières de\nl’ennemi pour attaquer."
@@ -16846,10 +16846,10 @@
         "effect": "Changes attacking Pokémon's abilities to Mummy on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert bei Kontakt die Fähigkeit von Angreifern in Mumie."
+                "effect": "Ändert bei Kontakt die Fähigkeit von Angreifern in Mumie."
             },
             "en": {
-                "short_effect": "Changes attacking Pokémon's abilities to Mummy on contact."
+                "effect": "Changes attacking Pokémon's abilities to Mummy on contact."
             },
             "fr": {
                 "effect": "Momifie la cap. spé. de\nl’ennemi qui le touche."
@@ -16925,10 +16925,10 @@
         "effect": "Raises Attack one stage upon KOing a Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack um 1 Stufe, wenn es einen Gegner besiegt."
+                "effect": "Erhöht den attack um 1 Stufe, wenn es einen Gegner besiegt."
             },
             "en": {
-                "short_effect": "Raises Attack one stage upon KOing a Pokémon."
+                "effect": "Raises Attack one stage upon KOing a Pokémon."
             },
             "fr": {
                 "effect": "Monte l’Attaque quand\nil met un ennemi K.O."
@@ -17040,10 +17040,10 @@
         "effect": "Raises Attack one stage upon taking damage from a dark move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den attack um 1 Stufe, wenn es von dark Attacken getroffen wird."
+                "effect": "Erhöht den attack um 1 Stufe, wenn es von dark Attacken getroffen wird."
             },
             "en": {
-                "short_effect": "Raises Attack one stage upon taking damage from a dark move."
+                "effect": "Raises Attack one stage upon taking damage from a dark move."
             },
             "fr": {
                 "effect": "Monte l’Attaque si une\natt. Ténèbres le touche."
@@ -17151,10 +17151,10 @@
         "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die speed um 1 Stufe, wenn es von dark, ghost oder bug Attacken getroffen wird."
+                "effect": "Erhöht die speed um 1 Stufe, wenn es von dark, ghost oder bug Attacken getroffen wird."
             },
             "en": {
-                "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+                "effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
             },
             "fr": {
                 "effect": "Sa peur de certains types\naugmente sa Vitesse."
@@ -17266,10 +17266,10 @@
         "effect": "Reflects most non-damaging moves back at their user.",
         "effect_translations": {
             "de": {
-                "short_effect": "Reflektiert die meisten Attacken ohne Schaden zum Angreifer zurück."
+                "effect": "Reflektiert die meisten Attacken ohne Schaden zum Angreifer zurück."
             },
             "en": {
-                "short_effect": "Reflects most non-damaging moves back at their user."
+                "effect": "Reflects most non-damaging moves back at their user."
             },
             "fr": {
                 "effect": "Renvoie les attaques\nde statut."
@@ -17349,10 +17349,10 @@
         "effect": "Absorbs grass moves, raising Attack one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Absorbiert grass Attacken und erhöhrt dabei den attack um 1 Stufe."
+                "effect": "Absorbiert grass Attacken und erhöhrt dabei den attack um 1 Stufe."
             },
             "en": {
-                "short_effect": "Absorbs grass moves, raising Attack one stage."
+                "effect": "Absorbs grass moves, raising Attack one stage."
             },
             "fr": {
                 "effect": "Augmente l’Attaque après\nune attaque Plante."
@@ -17464,10 +17464,10 @@
         "effect": "Raises non-damaging moves' priority by one stage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die priority von Attacken ohne Schaden um 1 Stufe."
+                "effect": "Erhöht die priority von Attacken ohne Schaden um 1 Stufe."
             },
             "en": {
-                "short_effect": "Raises non-damaging moves' priority by one stage."
+                "effect": "Raises non-damaging moves' priority by one stage."
             },
             "fr": {
                 "effect": "Utilise les attaques de\nstatut en premier."
@@ -17579,10 +17579,10 @@
         "effect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.",
         "effect_translations": {
             "de": {
-                "short_effect": "Verstärkt rock, ground und steel Attacken um 30% während eines Sandsturms. Schützt vor Schäden durch Sandstürme."
+                "effect": "Verstärkt rock, ground und steel Attacken um 30% während eines Sandsturms. Schützt vor Schäden durch Sandstürme."
             },
             "en": {
-                "short_effect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+                "effect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
             },
             "fr": {
                 "effect": "Renforce des capacités en\ncas de tempête de sable."
@@ -17706,10 +17706,10 @@
         "effect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
         "effect_translations": {
             "de": {
-                "short_effect": "Angreifer erleiden bei Kontakt 1/8 ihrer max hp Schaden."
+                "effect": "Angreifer erleiden bei Kontakt 1/8 ihrer max hp Schaden."
             },
             "en": {
-                "short_effect": "Damages attacking Pokémon for 1/8 their max HP on contact."
+                "effect": "Damages attacking Pokémon for 1/8 their max HP on contact."
             },
             "fr": {
                 "effect": "Blesse l’ennemi au moindre\ncontact."
@@ -17785,10 +17785,10 @@
         "effect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert jede Runde die Form von darmanitan abhängig von seinen hp: Zen Modus bei weniger als 50% der max hp, ansonsten Standard Modus."
+                "effect": "Ändert jede Runde die Form von darmanitan abhängig von seinen hp: Zen Modus bei weniger als 50% der max hp, ansonsten Standard Modus."
             },
             "en": {
-                "short_effect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise."
+                "effect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise."
             },
             "fr": {
                 "effect": "Transforme le Pokémon\ndans les moments délicats."
@@ -17864,10 +17864,10 @@
         "effect": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht die accuracy von Partnern um 10%."
+                "effect": "Erhöht die accuracy von Partnern um 10%."
             },
             "en": {
-                "short_effect": "Increases moves' accuracy to 1.1× for friendly Pokémon."
+                "effect": "Increases moves' accuracy to 1.1× for friendly Pokémon."
             },
             "ja": {
                 "effect": "自分や　味方の\n命中率が　上がる。"
@@ -17939,10 +17939,10 @@
         "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
+                "effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
             },
             "en": {
-                "short_effect": "Bypasses targets' abilities if they could hinder or prevent moves."
+                "effect": "Bypasses targets' abilities if they could hinder or prevent moves."
             },
             "fr": {
                 "effect": "Les cap. spé. adverses ne\nbloquent pas ses cap."
@@ -18018,10 +18018,10 @@
         "effect": "Bypasses targets' abilities if they could hinder or prevent moves.",
         "effect_translations": {
             "de": {
-                "short_effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
+                "effect": "Umgeht die gegnerische Fähigkeit, wenn sie eine Attacke verhindern kann."
             },
             "en": {
-                "short_effect": "Bypasses targets' abilities if they could hinder or prevent moves."
+                "effect": "Bypasses targets' abilities if they could hinder or prevent moves."
             },
             "fr": {
                 "effect": "Les cap. spé. adverses ne\nbloquent pas ses cap."
@@ -18097,10 +18097,10 @@
         "effect": "Changes the bearer's type to match each move it uses.",
         "effect_translations": {
             "de": {
-                "short_effect": "Ändert den Typ des Anwenders in den der Attacke die er einsetzt."
+                "effect": "Ändert den Typ des Anwenders in den der Attacke die er einsetzt."
             },
             "en": {
-                "short_effect": "Changes the bearer's type to match each move it uses."
+                "effect": "Changes the bearer's type to match each move it uses."
             },
             "ja-Hrkt": {
                 "effect": "だした　わざと　おなじ\nタイプに　へんかする。"
@@ -18172,10 +18172,10 @@
         "effect": "Raises Special Attack by two stages upon having any stat lowered.",
         "effect_translations": {
             "de": {
-                "short_effect": "Erhöht den special attack um 2 Stufen wenn ein Statuswert gesenkt wird."
+                "effect": "Erhöht den special attack um 2 Stufen wenn ein Statuswert gesenkt wird."
             },
             "en": {
-                "short_effect": "Raises Special Attack by two stages upon having any stat lowered."
+                "effect": "Raises Special Attack by two stages upon having any stat lowered."
             },
             "ja-Hrkt": {
                 "effect": "のうりょくが　さがると\nとくこうが　あがる。"
@@ -18440,7 +18440,7 @@
         "effect": "During Hail, this Pokémon has double Speed.",
         "effect_translations": {
             "en": {
-                "short_effect": "During Hail, this Pokémon has double Speed."
+                "effect": "During Hail, this Pokémon has double Speed."
             },
             "ja-Hrkt": {
                 "effect": "てんきが　あられ　のとき\nすばやさが　あがる。"
