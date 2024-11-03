@@ -11,7 +11,7 @@
                 "effect": "Has a 10% chance of making target Pokémon flinch with each hit."
             },
             "fr": {
-                "effect": "La puanteur peut\neffrayer l’adversaire."
+                "effect": "Repousse POKéMON sauvage."
             },
             "ja-Hrkt": {
                 "effect": "くさくて　あいてが\nひるむ　ことがある。"
@@ -201,7 +201,7 @@
                 "effect": "Raises Speed one stage after each turn."
             },
             "fr": {
-                "effect": "La Vitesse du Pokémon\naugmente progressivement."
+                "effect": "Améliore la VITESSE."
             },
             "ja-Hrkt": {
                 "effect": "ちょっとずつ\nすばやく　なっていく。"
@@ -312,7 +312,7 @@
                 "effect": "Protects against critical hits."
             },
             "fr": {
-                "effect": "Le Pokémon est protégé\ndes coups critiques."
+                "effect": "Bloque les coups critiques."
             },
             "ja-Hrkt": {
                 "effect": "あいての　こうげきが\nきゅうしょに　あたらない。"
@@ -614,7 +614,7 @@
                 "effect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle."
             },
             "fr": {
-                "effect": "Empêche les combattants\nde s’autodétruire."
+                "effect": "Empêche auto-destruction."
             },
             "ja-Hrkt": {
                 "effect": "だれも　ばくはつが\nできなくなる。"
@@ -757,7 +757,7 @@
                 "effect": "Prevents paralysis."
             },
             "fr": {
-                "effect": "Protège le Pokémon de\nla paralysie."
+                "effect": "Empêche la paralysie."
             },
             "ja-Hrkt": {
                 "effect": "まひ　じょうたいに\nならない。"
@@ -863,14 +863,14 @@
             "en": {
                 "effect": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
             },
-            "ko": {
-                "effect": "모래바람일 때\n회피율이 올라간다."
-            },
             "fr": {
-                "effect": "Augmente l’Esquive lors\ndes tempêtes de sable."
+                "effect": "Evasion si tempête sable."
             },
             "ja-Hrkt": {
                 "effect": "すなあらしで\nかいひりつが　あがる。"
+            },
+            "ko": {
+                "effect": "모래바람으로\n회피율이 올라간다."
             },
             "es": {
                 "effect": "Aumenta la Evasión en las\ntormentas de arena."
@@ -1007,7 +1007,7 @@
                 "effect": "Has a 30% chance of paralyzing attacking Pokémon on contact."
             },
             "fr": {
-                "effect": "Un contact avec le\nPokémon peut paralyser."
+                "effect": "Paralyse au toucher."
             },
             "ja-Hrkt": {
                 "effect": "さわった　あいてを\nまひさせる　ことがある。"
@@ -1134,7 +1134,7 @@
                 "effect": "Absorbs electric moves, healing for 1/4 max HP."
             },
             "fr": {
-                "effect": "Récupère des PV si touché\npar une capacité Électrik."
+                "effect": "Change l'électricité en PV."
             },
             "ja-Hrkt": {
                 "effect": "でんきを　うけると\nかいふくする。"
@@ -1229,7 +1229,7 @@
                 "effect": "Absorbs water moves, healing for 1/4 max HP."
             },
             "fr": {
-                "effect": "Récupère des PV si touché\npar une capacité Eau."
+                "effect": "Change l'eau en PV."
             },
             "ja-Hrkt": {
                 "effect": "みずを　うけると\nかいふくする。"
@@ -1380,7 +1380,7 @@
                 "effect": "Prevents infatuation and protects against captivate."
             },
             "fr": {
-                "effect": "Empêche le Pokémon de\ntomber amoureux."
+                "effect": "Empêche l'attirance."
             },
             "ja-Hrkt": {
                 "effect": "メロメロや　ちょうはつ\nじょうたいに　ならない。"
@@ -1531,7 +1531,7 @@
                 "effect": "Negates all effects of weather, but does not prevent the weather itself."
             },
             "fr": {
-                "effect": "Annule les effets du\nclimat."
+                "effect": "Ignore les effets du climat."
             },
             "ja-Hrkt": {
                 "effect": "てんきの　えいきょうが\nなくなる。"
@@ -1626,7 +1626,7 @@
                 "effect": "Increases moves' accuracy to 1.3×."
             },
             "fr": {
-                "effect": "Augmente la Précision du\nPokémon."
+                "effect": "Augmente la précision."
             },
             "ja-Hrkt": {
                 "effect": "わざの　めいちゅうりつが\nあがる。"
@@ -1725,7 +1725,7 @@
                 "effect": "Prevents sleep."
             },
             "fr": {
-                "effect": "Empêche le Pokémon de\ns’endormir."
+                "effect": "Empêche de s'endormir."
             },
             "ja-Hrkt": {
                 "effect": "ねむり　じょうたいに\nならない。"
@@ -1915,7 +1915,7 @@
                 "effect": "Prevents poison."
             },
             "fr": {
-                "effect": "Empêche le Pokémon d’être\nempoisonné."
+                "effect": "Empêche l'empoisonnement."
             },
             "ja-Hrkt": {
                 "effect": "どく　じょうたいに\nならない。"
@@ -1997,8 +1997,11 @@
             "en": {
                 "effect": "Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
             },
+            "it": {
+                "effect": "Potenzia le proprie mosse Fuoco\nse se ne subisce una."
+            },
             "fr": {
-                "effect": "Booste capacités Feu si\ntouché par attaques Feu."
+                "effect": "Puissance monte si brûlé."
             },
             "ja-Hrkt": {
                 "effect": "ほのおを　うけると\nほのおわざが　つよくなる。"
@@ -2008,9 +2011,6 @@
             },
             "es": {
                 "effect": "Potencia movimientos de tipo\nFuego si ha sufrido antes alguno."
-            },
-            "it": {
-                "effect": "Potenzia le proprie mosse Fuoco\nse se ne subisce una."
             },
             "ja": {
                 "effect": "ほのおを　受けると\nほのお技が　強くなる。"
@@ -2137,7 +2137,7 @@
                 "effect": "Protects against incoming moves' extra effects."
             },
             "fr": {
-                "effect": "Annule les effets cumulés\nd’une attaque ennemie."
+                "effect": "Annule les effets cumulés d'une attaque ennemie."
             },
             "ja-Hrkt": {
                 "effect": "わざの　ついかこうかを\nうけない。"
@@ -2367,7 +2367,7 @@
                 "effect": "Prevents being forced out of battle by other Pokémon's moves."
             },
             "fr": {
-                "effect": "Annule les cap. et obj. qui\nfont changer de Pokémon."
+                "effect": "Fixe solidement le corps."
             },
             "ja-Hrkt": {
                 "effect": "いれかえさせる　わざや\nどうぐが　きかない。"
@@ -2450,7 +2450,7 @@
                 "effect": "Lowers opponents' Attack one stage upon entering battle."
             },
             "fr": {
-                "effect": "Baisse l’Attaque ennemie."
+                "effect": "Baisse l'ATTAQUE ennemie."
             },
             "ja-Hrkt": {
                 "effect": "あいての　こうげきを\nさげる。"
@@ -2633,7 +2633,7 @@
                 "effect": "Prevents opponents from fleeing or switching out."
             },
             "fr": {
-                "effect": "Empêche le Pokémon ennemi\nde quitter le combat."
+                "effect": "Empêche la fuite ennemie."
             },
             "ja-Hrkt": {
                 "effect": "あいての　かげをふみ\nにげられなくする。"
@@ -2724,7 +2724,7 @@
                 "effect": "Damages attacking Pokémon for 1/8 their max HP on contact."
             },
             "fr": {
-                "effect": "Le Pokémon blesse\nl’ennemi qui le touche."
+                "effect": "Blesse quand touché."
             },
             "ja-Hrkt": {
                 "effect": "ふれた　あいてを\nキズつける。"
@@ -2818,8 +2818,11 @@
             "en": {
                 "effect": "Protects against damaging moves that are not super effective."
             },
+            "ja": {
+                "effect": "効果バツグン　しか\n当たらない。"
+            },
             "fr": {
-                "effect": "Seules capacités “super\nefficaces” l’atteignent."
+                "effect": "Reçoit seul. \"sup. eff.\"."
             },
             "ja-Hrkt": {
                 "effect": "こうかばつぐん　しか\nあたらない。"
@@ -2832,9 +2835,6 @@
             },
             "it": {
                 "effect": "Rende vulnerabili solo alle\nmosse superefficaci."
-            },
-            "ja": {
-                "effect": "効果バツグン　しか\n当たらない。"
             },
             "zh-Hant": {
                 "effect": "不可思議的力量，\n只有效果絕佳的招式才會擊中自己。"
@@ -2894,7 +2894,7 @@
                 "effect": "Evades ground moves."
             },
             "fr": {
-                "effect": "Immunise contre toutes\nles capacités de type Sol."
+                "effect": "Ignore les attaques SOL."
             },
             "ja-Hrkt": {
                 "effect": "じめんタイプの　わざを\nうけない。"
@@ -3113,7 +3113,7 @@
                 "effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
             },
             "fr": {
-                "effect": "Peut paralyser, empoison-\nner, endormir au contact."
+                "effect": "Laisse spores si touché."
             },
             "ja-Hrkt": {
                 "effect": "ふれると　どく　まひ\nねむりに　することがある。"
@@ -3212,7 +3212,7 @@
                 "effect": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
             },
             "fr": {
-                "effect": "Transmet brûlure, poison\nou paralysie à l’ennemi."
+                "effect": "Transfère statuts."
             },
             "ja-Hrkt": {
                 "effect": "どく　まひ　やけどを\nあいてに　うつす。"
@@ -3343,7 +3343,7 @@
                 "effect": "Prevents stats from being lowered by other Pokémon."
             },
             "fr": {
-                "effect": "Empêche les stats\ndu Pokémon de baisser."
+                "effect": "Empêche réduction de cap."
             },
             "ja-Hrkt": {
                 "effect": "あいてに　のうりょくを\nさげられない。"
@@ -3458,7 +3458,7 @@
                 "effect": "Cures any major status ailment upon switching out."
             },
             "fr": {
-                "effect": "Quitter le combat soigne\nles problèmes de statut."
+                "effect": "Soigne POKéMON changeant."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうが\nひっこむと　なおる。"
@@ -3711,14 +3711,14 @@
             "en": {
                 "effect": "Doubles the chance of moves' extra effects occurring."
             },
+            "ko": {
+                "effect": "기술의 추가 효과가\n나오기 쉽다."
+            },
             "fr": {
-                "effect": "Augmente la fréquence\ndu cumul d’effets."
+                "effect": "Favorise le cumul d'effet."
             },
             "ja-Hrkt": {
                 "effect": "わざの　ついかこうかが\nでやすい。"
-            },
-            "ko": {
-                "effect": "기술의 추가 효과가\n나오기 쉽다."
             },
             "es": {
                 "effect": "Aumenta la probabilidad de que\nhaya efectos secundarios."
@@ -3835,7 +3835,7 @@
                 "effect": "Doubles Speed during rain."
             },
             "fr": {
-                "effect": "Augmente la Vitesse du\nPokémon s’il pleut."
+                "effect": "Monte VITESSE s'il pleut."
             },
             "ja-Hrkt": {
                 "effect": "あめのとき　すばやさが\nあがる。"
@@ -4058,7 +4058,7 @@
                 "effect": "Doubles Speed during strong sunlight."
             },
             "fr": {
-                "effect": "Augmente la Vitesse du\nPokémon s’il y a du soleil."
+                "effect": "Augmente vitesse au soleil."
             },
             "ja-Hrkt": {
                 "effect": "はれのとき　すばやさが\nあがる。"
@@ -4269,7 +4269,7 @@
                 "effect": "Doubles the wild encounter rate."
             },
             "fr": {
-                "effect": "Augmente les rencontres\navec Pokémon sauvages."
+                "effect": "Augmente les rencontres."
             },
             "ja-Hrkt": {
                 "effect": "やせいの　ポケモンに\nそうぐう　しやすくなる。"
@@ -4364,7 +4364,7 @@
                 "effect": "Copies an opponent's ability upon entering battle."
             },
             "fr": {
-                "effect": "Imite la capacité spéciale\nde l’ennemi."
+                "effect": "Imite la capacité spéciale."
             },
             "ja-Hrkt": {
                 "effect": "あいてと　おなじ\nとくせいに　なる。"
@@ -4455,7 +4455,7 @@
                 "effect": "Doubles Attack in battle."
             },
             "fr": {
-                "effect": "Augmente l’Attaque du\nPokémon."
+                "effect": "Augmente ATTAQUE."
             },
             "ja-Hrkt": {
                 "effect": "ぶつり　こうげきの\nいりょくが　あがる。"
@@ -4538,7 +4538,7 @@
                 "effect": "Has a 30% chance of poisoning attacking Pokémon on contact."
             },
             "fr": {
-                "effect": "Peut empoisonner l’ennemi\ns’il y a contact."
+                "effect": "Empoisonne quand touché."
             },
             "ja-Hrkt": {
                 "effect": "ふれた　あいてに　どくを\nおわせる　ことがある。"
@@ -4665,7 +4665,7 @@
                 "effect": "Prevents flinching."
             },
             "fr": {
-                "effect": "Empêche le Pokémon\nd’avoir peur."
+                "effect": "Empêche la peur."
             },
             "ja-Hrkt": {
                 "effect": "ひるまない。\n"
@@ -4852,7 +4852,7 @@
                 "effect": "Prevents freezing."
             },
             "fr": {
-                "effect": "Protège le Pokémon\ncontre le gel."
+                "effect": "Empêche le gel."
             },
             "ja-Hrkt": {
                 "effect": "こおり　じょうたいに\nならない。"
@@ -4935,7 +4935,7 @@
                 "effect": "Prevents burns."
             },
             "fr": {
-                "effect": "Protège le Pokémon\ndes brûlures."
+                "effect": "Empêche les brûlures."
             },
             "ja-Hrkt": {
                 "effect": "やけど　じょうたいに\nならない。"
@@ -5050,7 +5050,7 @@
                 "effect": "Prevents steel opponents from fleeing or switching out."
             },
             "fr": {
-                "effect": "Empêche les Pokémon Acier\nde fuir."
+                "effect": "Piège les POKéMON ACIER."
             },
             "ja-Hrkt": {
                 "effect": "はがねの　ポケモンを\nにげられなくする。"
@@ -5141,7 +5141,7 @@
                 "effect": "Protects against sound-based moves."
             },
             "fr": {
-                "effect": "Protège de toutes les\ncapacités sonores."
+                "effect": "Évite les attaques sonores."
             },
             "ja-Hrkt": {
                 "effect": "おとの　わざを\nうけない。"
@@ -5260,7 +5260,7 @@
                 "effect": "Heals for 1/16 max HP after each turn during rain."
             },
             "fr": {
-                "effect": "Récupère progressivement\ndes PV par temps de pluie."
+                "effect": "Gagne quelques PV si pluie."
             },
             "ja-Hrkt": {
                 "effect": "あめのとき　すこしずつ\nＨＰを　かいふくする。"
@@ -5375,7 +5375,7 @@
                 "effect": "Summons a sandstorm that lasts indefinitely upon entering battle."
             },
             "fr": {
-                "effect": "Le Pokémon invoque une\ntempête de sable."
+                "effect": "Lance une tempête de sable."
             },
             "ja-Hrkt": {
                 "effect": "せんとうで　すなあらしを\nおこす。"
@@ -5645,7 +5645,7 @@
                 "effect": "Halves damage from fire and ice moves."
             },
             "fr": {
-                "effect": "Augmente la résistance\naux cap. Feu et Glace."
+                "effect": "Contre chaleur et froid."
             },
             "ja-Hrkt": {
                 "effect": "ほのおと　こおりタイプの\nわざに　つよい。"
@@ -5800,7 +5800,7 @@
                 "effect": "Makes sleep pass twice as quickly."
             },
             "fr": {
-                "effect": "Le Pokémon se réveille\nplus rapidement."
+                "effect": "Se réveille rapidement."
             },
             "ja-Hrkt": {
                 "effect": "おきるのが　はやくなる。\n"
@@ -5927,7 +5927,7 @@
                 "effect": "Has a 30% chance of burning attacking Pokémon on contact."
             },
             "fr": {
-                "effect": "Peut brûler l’ennemi s’il y\na contact."
+                "effect": "Brûle l'ennemi quand touché."
             },
             "ja-Hrkt": {
                 "effect": "ふれた　あいてを　やけど\nさせることがある。"
@@ -6050,7 +6050,7 @@
                 "effect": "Ensures success fleeing from wild battles."
             },
             "fr": {
-                "effect": "Permet de fuir n’importe\nquel Pokémon sauvage."
+                "effect": "Améliore chances de fuite."
             },
             "ja-Hrkt": {
                 "effect": "やせいの　ポケモンから\nかならず　にげられる。"
@@ -6216,11 +6216,11 @@
             "en": {
                 "effect": "Prevents accuracy from being lowered."
             },
+            "fr": {
+                "effect": "Empêche perte de précision."
+            },
             "ja-Hrkt": {
                 "effect": "めいちゅうりつを\nさげられない。"
-            },
-            "fr": {
-                "effect": "Empêche le Pokémon de\nperdre en Précision."
             },
             "ko": {
                 "effect": "명중률이\n떨어지지 않는다."
@@ -6404,7 +6404,7 @@
                 "effect": "Prevents Attack from being lowered by other Pokémon."
             },
             "fr": {
-                "effect": "Empêche la réduction de\nl’Attaque."
+                "effect": "Empêche réduction ATTAQUE."
             },
             "ja-Hrkt": {
                 "effect": "あいてに　こうげきを\nさげられない。"
@@ -6621,17 +6621,17 @@
             "en": {
                 "effect": "Skips every second turn."
             },
-            "es": {
-                "effect": "El Pokémon no atacará en turnos\nconsecutivos."
-            },
             "fr": {
-                "effect": "Le Pokémon ne frappe\nqu’un tour sur deux."
+                "effect": "Lorsque le Pokémon utilise une capacité, il passe\nle tour suivant à paresser."
             },
             "ja-Hrkt": {
                 "effect": "こうげきが　れんぞくで\nだせない。"
             },
             "ko": {
                 "effect": "연속으로\n공격할 수 없다."
+            },
+            "es": {
+                "effect": "El Pokémon no atacará en turnos\nconsecutivos."
             },
             "it": {
                 "effect": "Il Pokémon attacca un turno sì\ne uno no."
@@ -6705,7 +6705,7 @@
                 "effect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
             },
             "fr": {
-                "effect": "Améliore l’Attaque mais\ndiminue la Précision."
+                "effect": "Substitue préc. par puiss."
             },
             "ja-Hrkt": {
                 "effect": "こうげきは　たかいが\nはずれやすい。"
@@ -6848,7 +6848,7 @@
                 "effect": "Has a 30% chance of infatuating attacking Pokémon on contact."
             },
             "fr": {
-                "effect": "Séduit parfois l’ennemi\nau contact."
+                "effect": "Séduit quand touché."
             },
             "ja-Hrkt": {
                 "effect": "ふれると　メロメロに\nすることがある。"
@@ -6967,7 +6967,7 @@
                 "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
             },
             "fr": {
-                "effect": "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus."
+                "effect": "Puissance + avec MINUS."
             },
             "ja-Hrkt": {
                 "effect": "プラスかマイナスがいると\nとくこうが　あがる。"
@@ -7065,17 +7065,17 @@
             "en": {
                 "effect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus."
             },
+            "es": {
+                "effect": "Potencia el At. Esp. si algún otro\nPokémon tiene Más o Menos."
+            },
             "fr": {
-                "effect": "Augmente l’Atq. Spé. si un\nPokémon a Minus ou Plus."
+                "effect": "Puissance + avec PLUS."
             },
             "ja-Hrkt": {
                 "effect": "プラスかマイナスがいると\nとくこうが　あがる。"
             },
             "ko": {
                 "effect": "플러스나 마이너스가 있으면\n특수공격이 올라간다."
-            },
-            "es": {
-                "effect": "Potencia el At. Esp. si algún otro\nPokémon tiene Más o Menos."
             },
             "it": {
                 "effect": "Aumenta l’Attacco Speciale se ci\nsono Pokémon con Meno o Più."
@@ -7161,7 +7161,7 @@
                 "effect": "Changes castform's type and form to match the weather."
             },
             "fr": {
-                "effect": "Morphéo change de forme\nselon le climat."
+                "effect": "Change selon le climat."
             },
             "ja-Hrkt": {
                 "effect": "てんきで　ポワルンが\nへんかする。"
@@ -7248,7 +7248,7 @@
                 "effect": "Prevents a held item from being removed by other Pokémon."
             },
             "fr": {
-                "effect": "Fait s’agripper à l’objet\npour en empêcher le vol."
+                "effect": "Empêche le vol d'objets."
             },
             "ja-Hrkt": {
                 "effect": "ねんちゃくして\nどうぐを　まもる。"
@@ -7351,7 +7351,7 @@
                 "effect": "Has a 33% chance of curing any major status ailment after each turn."
             },
             "fr": {
-                "effect": "Le Pokémon soigne parfois\nses problèmes de statut."
+                "effect": "Mue pour se soigner."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうを\nなおす　ことがある。"
@@ -7482,7 +7482,7 @@
                 "effect": "Increases Attack to 1.5× with a major status ailment."
             },
             "fr": {
-                "effect": "Augmente l’Attaque s’il y\na un problème de statut."
+                "effect": "Augmente ATT. quand blessé."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうで\nこうげきが　あがる。"
@@ -7637,7 +7637,7 @@
                 "effect": "Increases Defense to 1.5× with a major status ailment."
             },
             "fr": {
-                "effect": "Augmente la Défense s’il y\na un problème de statut."
+                "effect": "Augmente DEF. quand blessé."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうで\nぼうぎょが　あがる。"
@@ -7720,7 +7720,7 @@
                 "effect": "Gegnern die absorbierende Attacken einsetzen, wird Schaden in der Höhe zugefügt, die die Attacke geheilt hätte."
             },
             "fr": {
-                "effect": "Blesse l’ennemi qui draine\nl’énergie du Pokémon."
+                "effect": "Blesse quand drainé."
             },
             "ja-Hrkt": {
                 "effect": "すいとった　あいての\nＨＰを　へらす。"
@@ -7807,7 +7807,7 @@
                 "effect": "Erhöht den Schaden von grass Attacken um 50% wenn nur noch 1/3 der maximalen hp oder weniger übrig sind."
             },
             "fr": {
-                "effect": "Booste les capacités\nPlante en cas de besoin."
+                "effect": "Augmente attaques PLANTE."
             },
             "ja-Hrkt": {
                 "effect": "ピンチのとき　くさの\nいりょくが　あがる。"
@@ -7945,11 +7945,8 @@
             "en": {
                 "effect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less."
             },
-            "ja": {
-                "effect": "ＨＰが　減ったとき\nほのおタイプの　技の\n威力が　上がる。"
-            },
             "fr": {
-                "effect": "Booste les capacités\nFeu en cas de besoin."
+                "effect": "Augmente attaques feu."
             },
             "ja-Hrkt": {
                 "effect": "ピンチのとき　ほのおの\nいりょくが　あがる。"
@@ -7962,6 +7959,9 @@
             },
             "it": {
                 "effect": "Quando si è in difficoltà, potenzia\nle mosse di tipo Fuoco."
+            },
+            "ja": {
+                "effect": "ピンチのとき　ほのおの\n威力が　あがる。"
             },
             "zh-Hant": {
                 "effect": "ＨＰ減少的時候，\n火屬性的招式威力會提高。"
@@ -8085,7 +8085,7 @@
                 "effect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "fr": {
-                "effect": "Booste les capacités\nEau en cas de besoin."
+                "effect": "Augmente attaques EAU."
             },
             "ja-Hrkt": {
                 "effect": "ピンチのとき　みずの\nいりょくが　あがる。"
@@ -8224,7 +8224,7 @@
                 "effect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less."
             },
             "fr": {
-                "effect": "Booste les capacités\nInsecte en cas de besoin."
+                "effect": "Augmente attaques INSECT."
             },
             "ja-Hrkt": {
                 "effect": "ピンチのとき　むしの\nいりょくが　あがる。"
@@ -8390,8 +8390,11 @@
             "en": {
                 "effect": "Protects against recoil damage."
             },
+            "it": {
+                "effect": "Protegge il Pokémon dai contraccolpi."
+            },
             "fr": {
-                "effect": "Protège le Pokémon des\ndégâts de contrecoups."
+                "effect": "Empêche dégâts du recul."
             },
             "ja-Hrkt": {
                 "effect": "ぶつかっても\nはんどうを　うけない。"
@@ -8401,9 +8404,6 @@
             },
             "es": {
                 "effect": "Impide que el Pokémon se dañe\ncon sus movimientos."
-            },
-            "it": {
-                "effect": "Protegge il Pokémon dai\ncontraccolpi."
             },
             "ja": {
                 "effect": "ぶつかっても\n反動を　受けない。"
@@ -8538,7 +8538,7 @@
                 "effect": "Summons strong sunlight that lasts indefinitely upon entering battle."
             },
             "fr": {
-                "effect": "Intensifie les rayons du\nsoleil pendant le combat."
+                "effect": "Invoque le soleil."
             },
             "ja-Hrkt": {
                 "effect": "せんとうに　でると\nひざしが　つよくなる。"
@@ -8625,7 +8625,7 @@
                 "effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air."
             },
             "fr": {
-                "effect": "Empêche l’ennemi de s’enfuir."
+                "effect": "Empêche la fuite."
             },
             "ja-Hrkt": {
                 "effect": "せんとうで　あいてを\nにげられなくする。"
@@ -8708,7 +8708,7 @@
                 "effect": "Prevents sleep."
             },
             "fr": {
-                "effect": "Empêche le Pokémon de\ns’endormir."
+                "effect": "Empêche le sommeil."
             },
             "ja-Hrkt": {
                 "effect": "ねむり　じょうたいに\nならない。"
@@ -8827,7 +8827,7 @@
                 "effect": "Prevents stats from being lowered by other Pokémon."
             },
             "fr": {
-                "effect": "Empêche les stats\ndu Pokémon de baisser."
+                "effect": "Empêche réduction des cap."
             },
             "ja-Hrkt": {
                 "effect": "あいてに　のうりょくを\nさげられない。"
@@ -8906,7 +8906,7 @@
                 "effect": "Doubles Attack in battle."
             },
             "fr": {
-                "effect": "Augmente l’Attaque du\nPokémon."
+                "effect": "Augmente l'ATTAQUE."
             },
             "ja-Hrkt": {
                 "effect": "ぶつり　こうげきの\nいりょくが　あがる。"
@@ -8985,7 +8985,7 @@
                 "effect": "Protects against critical hits."
             },
             "fr": {
-                "effect": "Le Pokémon est protégé\ndes coups critiques."
+                "effect": "Bloque les coups critiques."
             },
             "ja-Hrkt": {
                 "effect": "あいての　こうげきが\nきゅうしょに　あたらない。"
@@ -9139,14 +9139,17 @@
             "en": {
                 "effect": "Negates all effects of weather, but does not prevent the weather itself."
             },
-            "ko": {
-                "effect": "날씨의 영향이\n없어진다."
+            "zh-Hans": {
+                "effect": "所有天气的影响都会消失。"
             },
             "fr": {
-                "effect": "Annule les effets du climat."
+                "effect": "Ignore les effets du climat."
             },
             "ja-Hrkt": {
                 "effect": "てんきの　えいきょうが\nなくなる。"
+            },
+            "ko": {
+                "effect": "날씨의 영향이\n없어진다."
             },
             "es": {
                 "effect": "Anula los efectos del tiempo\natmosférico."
@@ -9159,9 +9162,6 @@
             },
             "zh-Hant": {
                 "effect": "所有天氣的影響都會消失。"
-            },
-            "zh-Hans": {
-                "effect": "所有天气的影响都会消失。"
             }
         },
         "name_translations": {
@@ -9215,7 +9215,7 @@
                 "effect": "Doubles evasion when confused."
             },
             "fr": {
-                "effect": "Augmente l’Esquive si le\nPokémon est confus."
+                "effect": "Augmente l'esquive si le Pokémon est confus."
             },
             "ja-Hrkt": {
                 "effect": "こんらん　していると\nかいひ　しやすくなる。"
@@ -9314,7 +9314,7 @@
                 "effect": "Absorbs electric moves, raising Speed one stage."
             },
             "fr": {
-                "effect": "Augmente la Vit. si touché\npar une cap. Électrik."
+                "effect": "Augmente la Vit. si touché par une cap. Électrik."
             },
             "ja-Hrkt": {
                 "effect": "でんきを　うけると\nすばやさが　あがる。"
@@ -9401,7 +9401,7 @@
                 "effect": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
             },
             "fr": {
-                "effect": "Devient plus fort si\nl’ennemi est du même sexe."
+                "effect": "Augmente l'Attaque si l'ennemi est du même sexe."
             },
             "ja-Hrkt": {
                 "effect": "あいてと　せいべつが\nおなじだと　つよくなる。"
@@ -9535,11 +9535,8 @@
             "en": {
                 "effect": "Raises Speed one stage upon flinching."
             },
-            "zh-Hans": {
-                "effect": "每次畏缩时，\n不屈之心就会燃起，\n速度也会提高。"
-            },
             "fr": {
-                "effect": "Augmente la Vitesse quand\nle Pokémon a peur."
+                "effect": "Augmente la Vitesse quand le Pokémon a peur."
             },
             "ja-Hrkt": {
                 "effect": "ひるむ　たびに\nすばやさが　あがる。"
@@ -9558,6 +9555,9 @@
             },
             "zh-Hant": {
                 "effect": "每次畏縮時，\n不屈之心就會燃起，\n速度也會提高。"
+            },
+            "zh-Hans": {
+                "effect": "每次畏缩时，\n不屈之心就会燃起，\n速度也会提高。"
             }
         },
         "name_translations": {
@@ -9643,7 +9643,7 @@
                 "effect": "Increases evasion to 1.25× during hail.  Protects against hail damage."
             },
             "fr": {
-                "effect": "Augmente l’Esquive durant\nles tempêtes de grêle."
+                "effect": "Augmente l'Esquive durant les tempêtes de grêle."
             },
             "ja-Hrkt": {
                 "effect": "てんきが　あられのとき\nかいひりつが　あがる。"
@@ -9749,14 +9749,14 @@
             "en": {
                 "effect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
             },
+            "ko": {
+                "effect": "나무열매를 여느 때보다\n빨리 사용한다."
+            },
             "fr": {
-                "effect": "Encourage l’utilisation\nd’une Baie tenue."
+                "effect": "Permet d'utiliser plus rapidement une Baie tenue."
             },
             "ja-Hrkt": {
                 "effect": "きのみを　いつもより\nはやく　つかう。"
-            },
-            "ko": {
-                "effect": "나무열매를 여느 때보다\n빨리 사용한다."
             },
             "es": {
                 "effect": "Fomenta el uso rápido de la baya\nque porte."
@@ -9996,7 +9996,7 @@
                 "effect": "Doubles Speed upon using or losing a held item."
             },
             "fr": {
-                "effect": "Augmente la Vit. si l’objet\ntenu est utilisé ou perdu."
+                "effect": "Augmente la Vit. si l'objet tenu est utilisé ou perdu."
             },
             "ja-Hrkt": {
                 "effect": "どうぐが　なくなると\nすばやさが　あがる。"
@@ -10102,11 +10102,8 @@
             "en": {
                 "effect": "Halves damage from fire moves and burns."
             },
-            "zh-Hans": {
-                "effect": "耐热的体质会\n让火属性的招式威力减半。"
-            },
             "fr": {
-                "effect": "Réduit la puissance des\ncapacités de type Feu."
+                "effect": "Réduit la puissance des capacités de type Feu."
             },
             "ja-Hrkt": {
                 "effect": "ほのお　わざの\nいりょくを　よわめる。"
@@ -10125,6 +10122,9 @@
             },
             "zh-Hant": {
                 "effect": "靠著耐熱的體質，\n讓火屬性的招式威力減半。"
+            },
+            "zh-Hans": {
+                "effect": "耐热的体质会\n让火属性的招式威力减半。"
             }
         },
         "name_translations": {
@@ -10182,7 +10182,7 @@
                 "effect": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
             },
             "fr": {
-                "effect": "Le Pokémon est sujet à\ndes variations de stats."
+                "effect": "Le Pokémon est sujet à des variations de stats."
             },
             "ja-Hrkt": {
                 "effect": "のうりょく　へんかが\nいつもより　はげしい。"
@@ -10272,17 +10272,17 @@
             "en": {
                 "effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP."
             },
-            "es": {
-                "effect": "Pierde PS si hace calor. Los\nrecupera con agua."
-            },
             "fr": {
-                "effect": "Perd des PV à la chaleur.\nL’eau les restaure."
+                "effect": "Perd des PV à la chaleur. L'eau les restaure."
             },
             "ja-Hrkt": {
                 "effect": "あついと　ＨＰが　へる。\nみずで　ＨＰを　かいふく。"
             },
             "ko": {
                 "effect": "더우면 HP가 줄어든다.\n물로 HP를 회복한다."
+            },
+            "es": {
+                "effect": "Pierde PS si hace calor. Los\nrecupera con agua."
             },
             "it": {
                 "effect": "Riduce i PS se fa caldo.\nIn presenza di acqua, ridà PS."
@@ -10364,7 +10364,7 @@
                 "effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
             },
             "fr": {
-                "effect": "Ajuste la puissance selon\nl’ennemi."
+                "effect": "Ajuste la puissance selon l'ennemi."
             },
             "ja-Hrkt": {
                 "effect": "あいての　のうりょくを\nみて　つよさを　かえる。"
@@ -10451,7 +10451,7 @@
                 "effect": "Strengthens punch-based moves to 1.2× their power."
             },
             "fr": {
-                "effect": "Augmente la puissance des\ncapacités coups de poing."
+                "effect": "Augmente la puissance des capacités coups de poing."
             },
             "ja-Hrkt": {
                 "effect": "パンチを　つかう　わざの\nいりょくが　あがる。"
@@ -10562,7 +10562,7 @@
                 "effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
             },
             "fr": {
-                "effect": "Restaure des PV si le\nPokémon est empoisonné."
+                "effect": "Restaure des PV si le Pokémon est empoisonné."
             },
             "ja-Hrkt": {
                 "effect": "どくじょうたいに　なると\nＨＰを　かいふくする。"
@@ -10645,7 +10645,7 @@
                 "effect": "Increases the same-type attack bonus from 1.5× to 2×."
             },
             "fr": {
-                "effect": "Augmente la puissance des\ncapacités de même type."
+                "effect": "Augmente la puissance des capacités de même type."
             },
             "ja-Hrkt": {
                 "effect": "タイプが　おなじ　わざの\nいりょくが　あがる。"
@@ -10744,7 +10744,7 @@
                 "effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
             },
             "fr": {
-                "effect": "Augmente la fréquence des\nattaques multiples."
+                "effect": "Augmente la fréquence des attaques multiples."
             },
             "ja-Hrkt": {
                 "effect": "れんぞく　わざを\nたくさん　だせる。"
@@ -10839,7 +10839,7 @@
                 "effect": "Cures any major status ailment after each turn during rain."
             },
             "fr": {
-                "effect": "Soigne les problèmes de\nstatut s’il pleut."
+                "effect": "Soigne les problèmes de statut s'il pleut."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうが\nあめの　とき　なおる。"
@@ -10986,7 +10986,7 @@
                 "effect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
             },
             "fr": {
-                "effect": "Augmente l’Atq. Spé. mais\nbaisse les PV au soleil."
+                "effect": "Augmente l'Atq. Spé. mais baisse les PV au soleil."
             },
             "ja-Hrkt": {
                 "effect": "はれると　ＨＰが　へるが\nとくこうが　あがる。"
@@ -11081,7 +11081,7 @@
                 "effect": "Increases Speed to 1.5× with a major status ailment."
             },
             "fr": {
-                "effect": "Augmente la Vitesse en cas\nde problème de statut."
+                "effect": "Augmente la Vitesse en cas de problème de statut."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうで\nすばやさが　あがる。"
@@ -11188,7 +11188,7 @@
                 "effect": "Makes the Pokémon's moves all act normal-type."
             },
             "fr": {
-                "effect": "Toutes les capacités sont\nde type Normal."
+                "effect": "Toutes les capacités sont de type Normal."
             },
             "ja-Hrkt": {
                 "effect": "だしたわざが　すべて\nノーマルタイプに　なる。"
@@ -11267,7 +11267,7 @@
                 "effect": "Strengthens critical hits to inflict 3× damage rather than 2×."
             },
             "fr": {
-                "effect": "Augmente la puissance\ndes coups critiques."
+                "effect": "Booste les capacités qui sont des coups critiques."
             },
             "ja-Hrkt": {
                 "effect": "きゅうしょに　あてたとき\nいりょくが　あがる。"
@@ -11386,7 +11386,7 @@
                 "effect": "Protects against damage not directly caused by a move."
             },
             "fr": {
-                "effect": "Seule une attaque directe\npeut blesser le Pokémon."
+                "effect": "Seule une attaque directe peut blesser le Pokémon."
             },
             "ja-Hrkt": {
                 "effect": "こうげき　いがいでは\nダメージを　うけない。"
@@ -11497,7 +11497,7 @@
                 "effect": "Ensures all moves used by and against the Pokémon hit."
             },
             "fr": {
-                "effect": "Capacités du Pokémon et\nde l’ennemi réussissent."
+                "effect": "Attaques du Pokémon et de l'ennemi réussissent."
             },
             "ja-Hrkt": {
                 "effect": "おたがいの　わざが\nかならず　あたる。"
@@ -11592,7 +11592,7 @@
                 "effect": "Makes the Pokémon move last within its move's priority bracket."
             },
             "fr": {
-                "effect": "Attaque toujours après \nl’ennemi, même plus lent."
+                "effect": "Attaque toujours après l'ennemi, même plus lent."
             },
             "ja-Hrkt": {
                 "effect": "あいてより　すばやくても\nこうどうが　おそくなる。"
@@ -11667,7 +11667,7 @@
                 "effect": "Strengthens moves of 60 base power or less to 1.5× their power."
             },
             "fr": {
-                "effect": "Augmente la puissance des\ncapacités les plus faibles."
+                "effect": "Augmente la puissance des capacités les plus faibles."
             },
             "ja-Hrkt": {
                 "effect": "よわい　わざの\nいりょくが　あがる。"
@@ -11794,7 +11794,7 @@
                 "effect": "Protects against major status ailments during strong sunlight."
             },
             "fr": {
-                "effect": "Empêche les problèmes\nde statut au soleil."
+                "effect": "Empêche les problèmes de statut au soleil."
             },
             "ja-Hrkt": {
                 "effect": "じょうたい　いじょうに\nはれのとき　ならない。"
@@ -12020,7 +12020,7 @@
                 "effect": "Bypasses targets' abilities if they could hinder or prevent a move."
             },
             "fr": {
-                "effect": "Les cap. spé. adverses ne\nbloquent pas ses cap."
+                "effect": "Cap. utilisables quelles que soient les cap. spé."
             },
             "ja-Hrkt": {
                 "effect": "とくせいに　かんけいなく\nあいてに　わざを　だせる。"
@@ -12143,7 +12143,7 @@
                 "effect": "Raises moves' critical hit rates one stage."
             },
             "fr": {
-                "effect": "Augmente la fréquence\ndes coups critiques."
+                "effect": "Augmente la fréquence des coups critiques."
             },
             "ja-Hrkt": {
                 "effect": "あいての　きゅうしょに\nこうげきが　あたりやすい。"
@@ -12250,7 +12250,7 @@
                 "effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
             },
             "fr": {
-                "effect": "Blesse l’ennemi qui \nporte le coup de grâce."
+                "effect": "Blesse l'ennemi qui porte le coup de grâce."
             },
             "ja-Hrkt": {
                 "effect": "ひんしの　ときに　ふれた\nあいてに　ダメージ。"
@@ -12353,7 +12353,7 @@
                 "effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
             },
             "fr": {
-                "effect": "Prévoit les capacités\nennemies dangereuses."
+                "effect": "Prévoit les capacités ennemies dangereuses."
             },
             "ja-Hrkt": {
                 "effect": "あいての　もつ　きけんな\nわざを　さっちする。"
@@ -12460,7 +12460,7 @@
                 "effect": "Reveals the opponents' strongest move upon entering battle."
             },
             "fr": {
-                "effect": "Découvre la capacité\nennemie la plus puissante."
+                "effect": "Découvre la capacité ennemie la plus puissante."
             },
             "ja-Hrkt": {
                 "effect": "あいての　もつ　わざを\nよみとることが　できる。"
@@ -12555,7 +12555,7 @@
                 "effect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
             },
             "fr": {
-                "effect": "Ignore les changements de\nstats de l’ennemi."
+                "effect": "Ignore les changements de stats de l'ennemi."
             },
             "ja-Hrkt": {
                 "effect": "あいての　のうりょくの\nへんかを　むしする。"
@@ -12654,7 +12654,7 @@
                 "effect": "Doubles damage inflicted with not-very-effective moves."
             },
             "fr": {
-                "effect": "Améliore les capacités\n“pas très efficaces”."
+                "effect": "Améliore les capacités “pas très efficaces”."
             },
             "ja-Hrkt": {
                 "effect": "こうかいまひとつ　のとき\nわざを　つよめる。"
@@ -12761,7 +12761,7 @@
                 "effect": "Decreases damage taken from super-effective moves by 1/4."
             },
             "fr": {
-                "effect": "Affaiblit les capacités\n“super efficaces”."
+                "effect": "Affaiblit les capacités “super efficaces”."
             },
             "ja-Hrkt": {
                 "effect": "こうかばつぐん　のとき\nいりょくを　よわめる。"
@@ -12915,7 +12915,7 @@
                 "effect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon."
             },
             "fr": {
-                "effect": "Les cap. Normal touchent\nles Pokémon Spectre."
+                "effect": "Les capacités touchent les Pokémon Spectre."
             },
             "ja-Hrkt": {
                 "effect": "ゴーストタイプに\nノーマルわざが　あたる。"
@@ -13018,7 +13018,7 @@
                 "effect": "Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
             },
             "fr": {
-                "effect": "Attire l’eau et augmente\nl’Atq. Spé."
+                "effect": "Attire les attaques Eau visant un Pokémon."
             },
             "ja-Hrkt": {
                 "effect": "みずを　よびこんで\nとくこうを　あげる。"
@@ -13116,11 +13116,8 @@
             "en": {
                 "effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
             },
-            "ja": {
-                "effect": "あられのとき　ＨＰを\n少しずつ　回復。"
-            },
             "fr": {
-                "effect": "Régénère ses PV lors des\ntempêtes de grêle."
+                "effect": "Récupère des PV lors des tempêtes de grêle."
             },
             "ja-Hrkt": {
                 "effect": "あられのとき　HPを\nすこしずつ　かいふく。"
@@ -13133,6 +13130,9 @@
             },
             "it": {
                 "effect": "Il Pokémon recupera PS quando\ngrandina."
+            },
+            "ja": {
+                "effect": "あられのとき　ＨＰを\n少しずつ　回復。"
             },
             "zh-Hant": {
                 "effect": "天氣為冰雹時，\n會漸漸回復ＨＰ。"
@@ -13236,7 +13236,7 @@
                 "effect": "Decreases damage taken from super-effective moves by 1/4."
             },
             "fr": {
-                "effect": "Affaiblit les capacités\n“super efficaces”."
+                "effect": "Affaiblit les capacités “super efficaces”."
             },
             "ja-Hrkt": {
                 "effect": "こうかばつぐん　のとき\nいりょくを　よわめる。"
@@ -13323,7 +13323,7 @@
                 "effect": "Summons hail that lasts indefinitely upon entering battle."
             },
             "fr": {
-                "effect": "Déclenche une tempête de\ngrêle pendant le combat."
+                "effect": "Déclenche une tempête de grêle pendant un combat."
             },
             "ja-Hrkt": {
                 "effect": "せんとうに　でると\nあられを　ふらす。"
@@ -13406,7 +13406,7 @@
                 "effect": "The Pokémon may pick up honey after battle."
             },
             "fr": {
-                "effect": "Le Pokémon peut parfois\ntrouver du Miel."
+                "effect": "Le Pokémon peut parfois trouver du Miel."
             },
             "ja-Hrkt": {
                 "effect": "あまいミツを　あつめて\nくることが　ある。"
@@ -13485,7 +13485,7 @@
                 "effect": "Enthüllt bei Kampfantritt das getragene Item des Gegners."
             },
             "fr": {
-                "effect": "Permet de connaître\nl’objet tenu par l’ennemi."
+                "effect": "Permet de connaître l'objet tenu par l'ennemi."
             },
             "ja-Hrkt": {
                 "effect": "あいての　もちものを\nしることが　できる。"
@@ -13612,7 +13612,7 @@
                 "effect": "Strengthens recoil moves to 1.2× their power."
             },
             "fr": {
-                "effect": "Booste les cap. ayant des\ndégâts de contrecoups."
+                "effect": "Booste les cap. ayant des dégâts de contrecoups."
             },
             "ja-Hrkt": {
                 "effect": "はんどうで　ダメージを\nうけるわざが　つよくなる。"
@@ -13806,7 +13806,7 @@
                 "effect": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight."
             },
             "fr": {
-                "effect": "Pokémon de l’équipe plus\npuissants au soleil."
+                "effect": "Pokémon de l'équipe plus puissants au soleil."
             },
             "ja-Hrkt": {
                 "effect": "はれのとき　じぶんと\nみかたが　つよくなる。"
@@ -13880,11 +13880,8 @@
             "en": {
                 "effect": "Damages sleeping opponents for 1/8 their max HP after each turn."
             },
-            "zh-Hant": {
-                "effect": "給予陷入睡眠狀態的對手傷害。"
-            },
             "fr": {
-                "effect": "Réduit les PV d’un ennemi\nendormi."
+                "effect": "Réduit les PV d'un ennemi endormi."
             },
             "ja-Hrkt": {
                 "effect": "ねむっている　あいての\nＨＰを　へらす。"
@@ -13900,6 +13897,9 @@
             },
             "ja": {
                 "effect": "ねむっている　相手の\nＨＰを　減らす。"
+            },
+            "zh-Hant": {
+                "effect": "給予陷入睡眠狀態的對手傷害。"
             },
             "zh-Hans": {
                 "effect": "给予睡眠状态的对手伤害。"
@@ -14448,7 +14448,7 @@
                 "effect": "Raises Attack two stages upon having any stat lowered."
             },
             "fr": {
-                "effect": "Monte l’Attaque quand\nles stats baissent."
+                "effect": "Monte l'Attaque quand les stats baissent."
             },
             "ja-Hrkt": {
                 "effect": "のうりょくが　さがると\nこうげきが　あがる。"
@@ -14633,9 +14633,6 @@
             "en": {
                 "effect": "Has a 30% chance of Disabling any move that hits the Pokémon."
             },
-            "zh-Hans": {
-                "effect": "受到攻击时，\n有时会把对手的招式\n变为定身法状态。"
-            },
             "fr": {
                 "effect": "Peut empêcher l’ennemi de\nréutiliser une attaque."
             },
@@ -14656,6 +14653,9 @@
             },
             "zh-Hant": {
                 "effect": "受到攻擊時，\n有時會把對手的招式\n變為定身法狀態。"
+            },
+            "zh-Hans": {
+                "effect": "受到攻击时，\n有时会把对手的招式\n变为定身法状态。"
             }
         },
         "name_translations": {
@@ -16269,6 +16269,9 @@
             "en": {
                 "effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
             },
+            "it": {
+                "effect": "Se c’è una tempeste di sabbia, la Velocità aumenta."
+            },
             "fr": {
                 "effect": "Augmente la Vitesse lors\ndes tempêtes de sable."
             },
@@ -16280,9 +16283,6 @@
             },
             "es": {
                 "effect": "Aumenta la Velocidad durante las\ntormentas de arena."
-            },
-            "it": {
-                "effect": "La Velocità aumenta nelle\ntempeste di sabbia."
             },
             "ja": {
                 "effect": "砂あらしで\n素早さが　あがる。"
@@ -16649,6 +16649,9 @@
             "en": {
                 "effect": "Transforms upon entering battle."
             },
+            "ja": {
+                "effect": "目の前の　ポケモンに\n変身　してしまう。"
+            },
             "fr": {
                 "effect": "Adopte l’apparence du\nPokémon adverse."
             },
@@ -16663,9 +16666,6 @@
             },
             "it": {
                 "effect": "Si trasforma nel Pokémon che ha\ndavanti."
-            },
-            "ja": {
-                "effect": "目の前の　ポケモンに\n変身してしまう。"
             },
             "zh-Hant": {
                 "effect": "變身為當前面對的寶可夢。"
@@ -17869,12 +17869,6 @@
             "en": {
                 "effect": "Increases moves' accuracy to 1.1× for friendly Pokémon."
             },
-            "ja": {
-                "effect": "自分や　味方の\n命中率が　上がる。"
-            },
-            "zh-Hans": {
-                "effect": "自己和同伴的命中率会提高。"
-            },
             "fr": {
                 "effect": "Monte la Précision des\nPokémon de l’équipe."
             },
@@ -17890,8 +17884,14 @@
             "it": {
                 "effect": "Aumenta la precisione di chi la\npossiede e quella degli alleati."
             },
+            "ja": {
+                "effect": "自分や　味方の\n命中が　あがる。"
+            },
             "zh-Hant": {
                 "effect": "自己和同伴的命中率會提高。"
+            },
+            "zh-Hans": {
+                "effect": "自己和同伴的命中率会提高。"
             }
         },
         "name_translations": {
@@ -18282,6 +18282,9 @@
         "name": "wind-rider",
         "effect": null,
         "effect_translations": {
+            "fr": {
+                "effect": "L’Attaque du Pokémon augmente si un vent arrière souffle\\nou s’il est touché par une capacité faisant appel au vent.\\nDans ce dernier cas, il ne subit aucun dégât."
+            },
             "en": {
                 "effect": "Boosts the Pokémon's Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves."
             }
@@ -18321,6 +18324,9 @@
         "name": "sharpness",
         "effect": null,
         "effect_translations": {
+            "fr": {
+                "effect": "Augmente la puissance des capacités tranchantes."
+            },
             "en": {
                 "effect": "Powers up slicing moves."
             }
@@ -18442,6 +18448,12 @@
             "en": {
                 "effect": "During Hail, this Pokémon has double Speed."
             },
+            "de": {
+                "effect": "Erhöht bei Hagel die Initiative."
+            },
+            "es": {
+                "effect": "Aumenta su Velocidad si está granizando."
+            },
             "ja-Hrkt": {
                 "effect": "てんきが　あられ　のとき\nすばやさが　あがる。"
             },
@@ -18453,12 +18465,6 @@
             },
             "fr": {
                 "effect": "Augmente la Vitesse du Pokémon quand il grêle."
-            },
-            "de": {
-                "effect": "Erhöht bei Hagel die Initiative."
-            },
-            "es": {
-                "effect": "Aumenta su Velocidad si está granizando."
             },
             "it": {
                 "effect": "Se grandina, la Velocità aumenta."
