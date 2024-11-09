@@ -1909,6 +1909,10 @@
             "id": 10012
         },
         {
+            "name": "darkrai",
+            "id": 491
+        },
+        {
             "name": "shaymin-land",
             "id": 492
         },
@@ -2609,10 +2613,6 @@
         {
             "name": "manaphy",
             "id": 490
-        },
-        {
-            "name": "darkrai",
-            "id": 491
         },
         {
             "name": "shaymin-sky",
