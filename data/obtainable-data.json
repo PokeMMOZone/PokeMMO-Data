@@ -1909,6 +1909,10 @@
             "id": 10012
         },
         {
+            "name": "heatran",
+            "id": 485
+        },
+        {
             "name": "darkrai",
             "id": 491
         },
@@ -2585,10 +2589,6 @@
         {
             "name": "palkia",
             "id": 484
-        },
-        {
-            "name": "heatran",
-            "id": 485
         },
         {
             "name": "regigigas",
