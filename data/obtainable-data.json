@@ -1509,6 +1509,10 @@
             "id": 384
         },
         {
+            "name": "jirachi",
+            "id": 385
+        },
+        {
             "name": "turtwig",
             "id": 387
         },
@@ -2549,10 +2553,6 @@
         {
             "name": "groudon",
             "id": 383
-        },
-        {
-            "name": "jirachi",
-            "id": 385
         },
         {
             "name": "deoxys-normal",
