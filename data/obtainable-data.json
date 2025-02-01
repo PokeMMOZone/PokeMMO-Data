@@ -1925,6 +1925,10 @@
             "id": 492
         },
         {
+            "name": "shaymin-sky",
+            "id": 10006
+        },
+        {
             "name": "arceus",
             "id": 493
         },
@@ -2329,6 +2333,10 @@
             "id": 592
         },
         {
+            "name": "frillish-female",
+            "id": 10278
+        },
+        {
             "name": "jellicent",
             "id": 593
         },
@@ -2617,10 +2625,6 @@
         {
             "name": "manaphy",
             "id": 490
-        },
-        {
-            "name": "shaymin-sky",
-            "id": 10006
         },
         {
             "name": "victini",

@@ -51698,6 +51698,17 @@
             "rarity": "Horde"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 18",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Horde"
+        },
+        {
             "pokemon": "psyduck",
             "pokemon_id": 54,
             "type": "Water",
@@ -52481,6 +52492,17 @@
         {
             "pokemon": "frillish",
             "pokemon_id": 592,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 4",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Horde"
+        },
+        {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
@@ -57143,6 +57165,17 @@
             "rarity": "Horde"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Driftveil City",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Horde"
+        },
+        {
             "pokemon": "herdier",
             "pokemon_id": 507,
             "type": "Grass",
@@ -57165,8 +57198,30 @@
             "rarity": "Horde"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "P2 Laboratory",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Horde"
+        },
+        {
             "pokemon": "frillish",
             "pokemon_id": 592,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 17",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Horde"
+        },
+        {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
@@ -63382,6 +63437,17 @@
             "rarity": "Very Common"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 18",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Very Common"
+        },
+        {
             "pokemon": "psyduck",
             "pokemon_id": 54,
             "type": "Water",
@@ -64847,6 +64913,17 @@
         {
             "pokemon": "frillish",
             "pokemon_id": 592,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 4",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Very Common"
+        },
+        {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
@@ -76736,6 +76813,17 @@
             "rarity": "Very Common"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Driftveil City",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Very Common"
+        },
+        {
             "pokemon": "horsea",
             "pokemon_id": 116,
             "type": "Old Rod",
@@ -76791,6 +76879,17 @@
             "rarity": "Very Common"
         },
         {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "P2 Laboratory",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Very Common"
+        },
+        {
             "pokemon": "horsea",
             "pokemon_id": 116,
             "type": "Old Rod",
@@ -76815,6 +76914,17 @@
         {
             "pokemon": "frillish",
             "pokemon_id": 592,
+            "type": "Water",
+            "region_id": 2,
+            "region_name": "Unova",
+            "location": "Route 17",
+            "min_level": 25,
+            "max_level": 35,
+            "rarity": "Very Common"
+        },
+        {
+            "pokemon": "frillish-female",
+            "pokemon_id": 10278,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
