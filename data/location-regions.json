@@ -40782,28 +40782,6 @@
             "rarity": "Special"
         },
         {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 18",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Lure"
-        },
-        {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 18",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Special"
-        },
-        {
             "pokemon": "alomomola",
             "pokemon_id": 594,
             "type": "Water",
@@ -42984,17 +42962,6 @@
         {
             "pokemon": "jellicent",
             "pokemon_id": 593,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 4",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Special"
-        },
-        {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
@@ -45987,17 +45954,6 @@
         {
             "pokemon": "jellicent",
             "pokemon_id": 593,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 13",
-            "min_level": 60,
-            "max_level": 65,
-            "rarity": "Special"
-        },
-        {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
@@ -49615,17 +49571,6 @@
             "rarity": "Special"
         },
         {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Driftveil City",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Special"
-        },
-        {
             "pokemon": "alomomola",
             "pokemon_id": 594,
             "type": "Water",
@@ -49824,17 +49769,6 @@
             "rarity": "Special"
         },
         {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "P2 Laboratory",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Special"
-        },
-        {
             "pokemon": "alomomola",
             "pokemon_id": 594,
             "type": "Water",
@@ -49958,28 +49892,6 @@
         {
             "pokemon": "jellicent",
             "pokemon_id": 593,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 17",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Special"
-        },
-        {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
-            "type": "Water",
-            "region_id": 2,
-            "region_name": "Unova",
-            "location": "Route 17",
-            "min_level": 40,
-            "max_level": 40,
-            "rarity": "Lure"
-        },
-        {
-            "pokemon": "jellicent-female",
-            "pokemon_id": 10279,
             "type": "Water",
             "region_id": 2,
             "region_name": "Unova",
