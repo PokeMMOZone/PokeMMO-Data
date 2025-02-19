@@ -597,10 +597,6 @@
             "id": 149
         },
         {
-            "name": "mewtwo",
-            "id": 150
-        },
-        {
             "name": "chikorita",
             "id": 152
         },
@@ -987,10 +983,6 @@
         {
             "name": "tyranitar",
             "id": 248
-        },
-        {
-            "name": "lugia",
-            "id": 249
         },
         {
             "name": "treecko",
@@ -1505,10 +1497,6 @@
             "id": 376
         },
         {
-            "name": "rayquaza",
-            "id": 384
-        },
-        {
             "name": "jirachi",
             "id": 385
         },
@@ -1917,20 +1905,12 @@
             "id": 485
         },
         {
-            "name": "darkrai",
-            "id": 491
-        },
-        {
             "name": "shaymin-land",
             "id": 492
         },
         {
             "name": "shaymin-sky",
             "id": 10006
-        },
-        {
-            "name": "arceus",
-            "id": 493
         },
         {
             "name": "snivy",
@@ -2511,16 +2491,20 @@
         {
             "name": "volcarona",
             "id": 637
-        },
-        {
-            "name": "zekrom",
-            "id": 644
         }
     ],
     "false": [
         {
+            "name": "mewtwo",
+            "id": 150
+        },
+        {
             "name": "mew",
             "id": 151
+        },
+        {
+            "name": "lugia",
+            "id": 249
         },
         {
             "name": "ho-oh",
@@ -2557,6 +2541,10 @@
         {
             "name": "groudon",
             "id": 383
+        },
+        {
+            "name": "rayquaza",
+            "id": 384
         },
         {
             "name": "deoxys-normal",
@@ -2619,6 +2607,14 @@
             "id": 490
         },
         {
+            "name": "darkrai",
+            "id": 491
+        },
+        {
+            "name": "arceus",
+            "id": 493
+        },
+        {
             "name": "victini",
             "id": 494
         },
@@ -2653,6 +2649,10 @@
         {
             "name": "reshiram",
             "id": 643
+        },
+        {
+            "name": "zekrom",
+            "id": 644
         },
         {
             "name": "landorus-incarnate",
