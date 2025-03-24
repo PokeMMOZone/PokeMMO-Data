@@ -2049,70 +2049,6 @@
             "id": 10006
         },
         {
-            "name": "arceus-bug",
-            "id": 10041
-        },
-        {
-            "name": "arceus-dark",
-            "id": 10042
-        },
-        {
-            "name": "arceus-dragon",
-            "id": 10043
-        },
-        {
-            "name": "arceus-electric",
-            "id": 10044
-        },
-        {
-            "name": "arceus-fighting",
-            "id": 10045
-        },
-        {
-            "name": "arceus-fire",
-            "id": 10046
-        },
-        {
-            "name": "arceus-flying",
-            "id": 10047
-        },
-        {
-            "name": "arceus-ghost",
-            "id": 10048
-        },
-        {
-            "name": "arceus-grass",
-            "id": 10049
-        },
-        {
-            "name": "arceus-ground",
-            "id": 10050
-        },
-        {
-            "name": "arceus-ice",
-            "id": 10051
-        },
-        {
-            "name": "arceus-poison",
-            "id": 10052
-        },
-        {
-            "name": "arceus-psychic",
-            "id": 10053
-        },
-        {
-            "name": "arceus-rock",
-            "id": 10054
-        },
-        {
-            "name": "arceus-steel",
-            "id": 10055
-        },
-        {
-            "name": "arceus-water",
-            "id": 10056
-        },
-        {
             "name": "snivy",
             "id": 495
         },
@@ -2837,6 +2773,70 @@
         {
             "name": "arceus",
             "id": 493
+        },
+        {
+            "name": "arceus-bug",
+            "id": 10041
+        },
+        {
+            "name": "arceus-dark",
+            "id": 10042
+        },
+        {
+            "name": "arceus-dragon",
+            "id": 10043
+        },
+        {
+            "name": "arceus-electric",
+            "id": 10044
+        },
+        {
+            "name": "arceus-fighting",
+            "id": 10045
+        },
+        {
+            "name": "arceus-fire",
+            "id": 10046
+        },
+        {
+            "name": "arceus-flying",
+            "id": 10047
+        },
+        {
+            "name": "arceus-ghost",
+            "id": 10048
+        },
+        {
+            "name": "arceus-grass",
+            "id": 10049
+        },
+        {
+            "name": "arceus-ground",
+            "id": 10050
+        },
+        {
+            "name": "arceus-ice",
+            "id": 10051
+        },
+        {
+            "name": "arceus-poison",
+            "id": 10052
+        },
+        {
+            "name": "arceus-psychic",
+            "id": 10053
+        },
+        {
+            "name": "arceus-rock",
+            "id": 10054
+        },
+        {
+            "name": "arceus-steel",
+            "id": 10055
+        },
+        {
+            "name": "arceus-water",
+            "id": 10056
         },
         {
             "name": "victini",
