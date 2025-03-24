@@ -198,6 +198,10 @@
                 "id": 421
             },
             {
+                "name": "cherrim-sunshine",
+                "id": 10038
+            },
+            {
                 "name": "carnivine",
                 "id": 455
             },
@@ -228,6 +232,10 @@
             {
                 "name": "shaymin-sky",
                 "id": 10006
+            },
+            {
+                "name": "arceus-grass",
+                "id": 10049
             },
             {
                 "name": "snivy",
@@ -286,8 +294,32 @@
                 "id": 585
             },
             {
+                "name": "deerling-summer",
+                "id": 10068
+            },
+            {
+                "name": "deerling-autumn",
+                "id": 10069
+            },
+            {
+                "name": "deerling-winter",
+                "id": 10070
+            },
+            {
                 "name": "sawsbuck",
                 "id": 586
+            },
+            {
+                "name": "sawsbuck-summer",
+                "id": 10071
+            },
+            {
+                "name": "sawsbuck-autumn",
+                "id": 10072
+            },
+            {
+                "name": "sawsbuck-winter",
+                "id": 10073
             },
             {
                 "name": "foongus",
@@ -680,6 +712,10 @@
                 "id": 454
             },
             {
+                "name": "arceus-poison",
+                "id": 10052
+            },
+            {
                 "name": "venipede",
                 "id": 543
             },
@@ -968,6 +1004,10 @@
             {
                 "name": "heatran",
                 "id": 485
+            },
+            {
+                "name": "arceus-fire",
+                "id": 10046
             },
             {
                 "name": "victini",
@@ -1404,6 +1444,14 @@
                 "id": 414
             },
             {
+                "name": "mothim-sandy",
+                "id": 10269
+            },
+            {
+                "name": "mothim-trash",
+                "id": 10270
+            },
+            {
                 "name": "combee",
                 "id": 415
             },
@@ -1450,6 +1498,10 @@
             {
                 "name": "shaymin-sky",
                 "id": 10006
+            },
+            {
+                "name": "arceus-flying",
+                "id": 10047
             },
             {
                 "name": "pidove",
@@ -2006,8 +2058,16 @@
                 "id": 422
             },
             {
+                "name": "shellos-east",
+                "id": 10039
+            },
+            {
                 "name": "gastrodon",
                 "id": 423
+            },
+            {
+                "name": "gastrodon-east",
+                "id": 10040
             },
             {
                 "name": "finneon",
@@ -2036,6 +2096,10 @@
             {
                 "name": "manaphy",
                 "id": 490
+            },
+            {
+                "name": "arceus-water",
+                "id": 10056
             },
             {
                 "name": "oshawott",
@@ -2412,6 +2476,14 @@
                 "id": 412
             },
             {
+                "name": "burmy-sandy",
+                "id": 10034
+            },
+            {
+                "name": "burmy-trash",
+                "id": 10035
+            },
+            {
                 "name": "wormadam-plant",
                 "id": 413
             },
@@ -2428,6 +2500,14 @@
                 "id": 414
             },
             {
+                "name": "mothim-sandy",
+                "id": 10269
+            },
+            {
+                "name": "mothim-trash",
+                "id": 10270
+            },
+            {
                 "name": "combee",
                 "id": 415
             },
@@ -2442,6 +2522,10 @@
             {
                 "name": "yanmega",
                 "id": 469
+            },
+            {
+                "name": "arceus-bug",
+                "id": 10041
             },
             {
                 "name": "sewaddle",
@@ -2514,6 +2598,22 @@
             {
                 "name": "genesect",
                 "id": 649
+            },
+            {
+                "name": "genesect-douse",
+                "id": 10075
+            },
+            {
+                "name": "genesect-shock",
+                "id": 10076
+            },
+            {
+                "name": "genesect-burn",
+                "id": 10077
+            },
+            {
+                "name": "genesect-chill",
+                "id": 10078
             }
         ],
         "moves": [
@@ -3006,8 +3106,32 @@
                 "id": 585
             },
             {
+                "name": "deerling-summer",
+                "id": 10068
+            },
+            {
+                "name": "deerling-autumn",
+                "id": 10069
+            },
+            {
+                "name": "deerling-winter",
+                "id": 10070
+            },
+            {
                 "name": "sawsbuck",
                 "id": 586
+            },
+            {
+                "name": "sawsbuck-summer",
+                "id": 10071
+            },
+            {
+                "name": "sawsbuck-autumn",
+                "id": 10072
+            },
+            {
+                "name": "sawsbuck-winter",
+                "id": 10073
             },
             {
                 "name": "bouffalant",
@@ -3856,6 +3980,10 @@
                 "id": 10012
             },
             {
+                "name": "arceus-electric",
+                "id": 10044
+            },
+            {
                 "name": "blitzle",
                 "id": 522
             },
@@ -4182,6 +4310,10 @@
                 "id": 423
             },
             {
+                "name": "gastrodon-east",
+                "id": 10040
+            },
+            {
                 "name": "gible",
                 "id": 443
             },
@@ -4212,6 +4344,10 @@
             {
                 "name": "mamoswine",
                 "id": 473
+            },
+            {
+                "name": "arceus-ground",
+                "id": 10050
             },
             {
                 "name": "drilbur",
@@ -4466,6 +4602,10 @@
             {
                 "name": "gallade",
                 "id": 475
+            },
+            {
+                "name": "arceus-fighting",
+                "id": 10045
             },
             {
                 "name": "pignite",
@@ -4806,6 +4946,114 @@
                 "id": 201
             },
             {
+                "name": "unown-b",
+                "id": 10001
+            },
+            {
+                "name": "unown-c",
+                "id": 10002
+            },
+            {
+                "name": "unown-d",
+                "id": 10003
+            },
+            {
+                "name": "unown-e",
+                "id": 10004
+            },
+            {
+                "name": "unown-f",
+                "id": 10005
+            },
+            {
+                "name": "unown-g",
+                "id": 10006
+            },
+            {
+                "name": "unown-h",
+                "id": 10007
+            },
+            {
+                "name": "unown-i",
+                "id": 10008
+            },
+            {
+                "name": "unown-j",
+                "id": 10009
+            },
+            {
+                "name": "unown-k",
+                "id": 10010
+            },
+            {
+                "name": "unown-l",
+                "id": 10011
+            },
+            {
+                "name": "unown-m",
+                "id": 10012
+            },
+            {
+                "name": "unown-n",
+                "id": 10013
+            },
+            {
+                "name": "unown-o",
+                "id": 10014
+            },
+            {
+                "name": "unown-p",
+                "id": 10015
+            },
+            {
+                "name": "unown-q",
+                "id": 10016
+            },
+            {
+                "name": "unown-r",
+                "id": 10017
+            },
+            {
+                "name": "unown-s",
+                "id": 10018
+            },
+            {
+                "name": "unown-t",
+                "id": 10019
+            },
+            {
+                "name": "unown-u",
+                "id": 10020
+            },
+            {
+                "name": "unown-v",
+                "id": 10021
+            },
+            {
+                "name": "unown-w",
+                "id": 10022
+            },
+            {
+                "name": "unown-x",
+                "id": 10023
+            },
+            {
+                "name": "unown-y",
+                "id": 10024
+            },
+            {
+                "name": "unown-z",
+                "id": 10025
+            },
+            {
+                "name": "unown-exclamation",
+                "id": 10026
+            },
+            {
+                "name": "unown-question",
+                "id": 10027
+            },
+            {
                 "name": "wobbuffet",
                 "id": 202
             },
@@ -4952,6 +5200,10 @@
             {
                 "name": "cresselia",
                 "id": 488
+            },
+            {
+                "name": "arceus-psychic",
+                "id": 10053
             },
             {
                 "name": "victini",
@@ -5416,6 +5668,10 @@
                 "id": 476
             },
             {
+                "name": "arceus-rock",
+                "id": 10054
+            },
+            {
                 "name": "roggenrola",
                 "id": 524
             },
@@ -5658,6 +5914,10 @@
                 "id": 485
             },
             {
+                "name": "arceus-steel",
+                "id": 10055
+            },
+            {
                 "name": "excadrill",
                 "id": 530
             },
@@ -5704,6 +5964,22 @@
             {
                 "name": "genesect",
                 "id": 649
+            },
+            {
+                "name": "genesect-douse",
+                "id": 10075
+            },
+            {
+                "name": "genesect-shock",
+                "id": 10076
+            },
+            {
+                "name": "genesect-burn",
+                "id": 10077
+            },
+            {
+                "name": "genesect-chill",
+                "id": 10078
             }
         ],
         "moves": [
@@ -5910,6 +6186,10 @@
             {
                 "name": "rotom-frost",
                 "id": 10010
+            },
+            {
+                "name": "arceus-ice",
+                "id": 10051
             },
             {
                 "name": "vanillite",
@@ -6142,6 +6422,10 @@
                 "id": 10007
             },
             {
+                "name": "arceus-ghost",
+                "id": 10048
+            },
+            {
                 "name": "yamask",
                 "id": 562
             },
@@ -6358,6 +6642,10 @@
             {
                 "name": "giratina-origin",
                 "id": 10007
+            },
+            {
+                "name": "arceus-dragon",
+                "id": 10043
             },
             {
                 "name": "axew",
@@ -6588,6 +6876,10 @@
             {
                 "name": "darkrai",
                 "id": 491
+            },
+            {
+                "name": "arceus-dark",
+                "id": 10042
             },
             {
                 "name": "purrloin",

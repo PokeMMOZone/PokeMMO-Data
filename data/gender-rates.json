@@ -61,6 +61,114 @@
                 "id": 201
             },
             {
+                "name": "unown-b",
+                "id": 10001
+            },
+            {
+                "name": "unown-c",
+                "id": 10002
+            },
+            {
+                "name": "unown-d",
+                "id": 10003
+            },
+            {
+                "name": "unown-e",
+                "id": 10004
+            },
+            {
+                "name": "unown-f",
+                "id": 10005
+            },
+            {
+                "name": "unown-g",
+                "id": 10006
+            },
+            {
+                "name": "unown-h",
+                "id": 10007
+            },
+            {
+                "name": "unown-i",
+                "id": 10008
+            },
+            {
+                "name": "unown-j",
+                "id": 10009
+            },
+            {
+                "name": "unown-k",
+                "id": 10010
+            },
+            {
+                "name": "unown-l",
+                "id": 10011
+            },
+            {
+                "name": "unown-m",
+                "id": 10012
+            },
+            {
+                "name": "unown-n",
+                "id": 10013
+            },
+            {
+                "name": "unown-o",
+                "id": 10014
+            },
+            {
+                "name": "unown-p",
+                "id": 10015
+            },
+            {
+                "name": "unown-q",
+                "id": 10016
+            },
+            {
+                "name": "unown-r",
+                "id": 10017
+            },
+            {
+                "name": "unown-s",
+                "id": 10018
+            },
+            {
+                "name": "unown-t",
+                "id": 10019
+            },
+            {
+                "name": "unown-u",
+                "id": 10020
+            },
+            {
+                "name": "unown-v",
+                "id": 10021
+            },
+            {
+                "name": "unown-w",
+                "id": 10022
+            },
+            {
+                "name": "unown-x",
+                "id": 10023
+            },
+            {
+                "name": "unown-y",
+                "id": 10024
+            },
+            {
+                "name": "unown-z",
+                "id": 10025
+            },
+            {
+                "name": "unown-exclamation",
+                "id": 10026
+            },
+            {
+                "name": "unown-question",
+                "id": 10027
+            },
+            {
                 "name": "porygon2",
                 "id": 233
             },
@@ -261,6 +369,70 @@
                 "id": 493
             },
             {
+                "name": "arceus-bug",
+                "id": 10041
+            },
+            {
+                "name": "arceus-dark",
+                "id": 10042
+            },
+            {
+                "name": "arceus-dragon",
+                "id": 10043
+            },
+            {
+                "name": "arceus-electric",
+                "id": 10044
+            },
+            {
+                "name": "arceus-fighting",
+                "id": 10045
+            },
+            {
+                "name": "arceus-fire",
+                "id": 10046
+            },
+            {
+                "name": "arceus-flying",
+                "id": 10047
+            },
+            {
+                "name": "arceus-ghost",
+                "id": 10048
+            },
+            {
+                "name": "arceus-grass",
+                "id": 10049
+            },
+            {
+                "name": "arceus-ground",
+                "id": 10050
+            },
+            {
+                "name": "arceus-ice",
+                "id": 10051
+            },
+            {
+                "name": "arceus-poison",
+                "id": 10052
+            },
+            {
+                "name": "arceus-psychic",
+                "id": 10053
+            },
+            {
+                "name": "arceus-rock",
+                "id": 10054
+            },
+            {
+                "name": "arceus-steel",
+                "id": 10055
+            },
+            {
+                "name": "arceus-water",
+                "id": 10056
+            },
+            {
                 "name": "victini",
                 "id": 494
             },
@@ -339,6 +511,22 @@
             {
                 "name": "genesect",
                 "id": 649
+            },
+            {
+                "name": "genesect-douse",
+                "id": 10075
+            },
+            {
+                "name": "genesect-shock",
+                "id": 10076
+            },
+            {
+                "name": "genesect-burn",
+                "id": 10077
+            },
+            {
+                "name": "genesect-chill",
+                "id": 10078
             }
         ],
         "name_translations": {
@@ -422,6 +610,14 @@
             {
                 "name": "mothim",
                 "id": 414
+            },
+            {
+                "name": "mothim-sandy",
+                "id": 10269
+            },
+            {
+                "name": "mothim-trash",
+                "id": 10270
             },
             {
                 "name": "gallade",
@@ -2085,6 +2281,14 @@
                 "id": 412
             },
             {
+                "name": "burmy-sandy",
+                "id": 10034
+            },
+            {
+                "name": "burmy-trash",
+                "id": 10035
+            },
+            {
                 "name": "pachirisu",
                 "id": 417
             },
@@ -2105,12 +2309,24 @@
                 "id": 421
             },
             {
+                "name": "cherrim-sunshine",
+                "id": 10038
+            },
+            {
                 "name": "shellos",
                 "id": 422
             },
             {
+                "name": "shellos-east",
+                "id": 10039
+            },
+            {
                 "name": "gastrodon",
                 "id": 423
+            },
+            {
+                "name": "gastrodon-east",
+                "id": 10040
             },
             {
                 "name": "ambipom",
@@ -2509,8 +2725,32 @@
                 "id": 585
             },
             {
+                "name": "deerling-summer",
+                "id": 10068
+            },
+            {
+                "name": "deerling-autumn",
+                "id": 10069
+            },
+            {
+                "name": "deerling-winter",
+                "id": 10070
+            },
+            {
                 "name": "sawsbuck",
                 "id": 586
+            },
+            {
+                "name": "sawsbuck-summer",
+                "id": 10071
+            },
+            {
+                "name": "sawsbuck-autumn",
+                "id": 10072
+            },
+            {
+                "name": "sawsbuck-winter",
+                "id": 10073
             },
             {
                 "name": "emolga",
