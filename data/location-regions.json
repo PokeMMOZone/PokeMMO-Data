@@ -65710,28 +65710,6 @@
             "rarity": "Lure"
         },
         {
-            "pokemon": "mothim-sandy",
-            "pokemon_id": 10269,
-            "type": "Grass",
-            "region_id": 3,
-            "region_name": "Sinnoh",
-            "location": "Route 214",
-            "min_level": 28,
-            "max_level": 28,
-            "rarity": "Lure"
-        },
-        {
-            "pokemon": "mothim-trash",
-            "pokemon_id": 10270,
-            "type": "Grass",
-            "region_id": 3,
-            "region_name": "Sinnoh",
-            "location": "Route 214",
-            "min_level": 28,
-            "max_level": 28,
-            "rarity": "Lure"
-        },
-        {
             "pokemon": "stunky",
             "pokemon_id": 434,
             "type": "Grass",
